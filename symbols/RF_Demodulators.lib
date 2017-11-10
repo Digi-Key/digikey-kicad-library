@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ADL5380ACPZ-R7 U 0 40 Y Y 1 F N
 F0 "U?" -700 350 60 H V C C N N
 F1 "ADL5380ACPZ-R7" 0 -100 60 H V C C N N
-F2 "testfplib:24-WQFN_(4x4)" 200 200 60 H I L C N N
+F2 "digikey-footprints:24-WQFN_(4x4)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5380.pdf" 200 300 60 H I L C N N
 F4 "ADL5380ACPZ-R7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADL5380ACPZ-R7" 200 500 60 H I L CNN "MPN"

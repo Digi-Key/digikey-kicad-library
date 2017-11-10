@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF L6203 U 0 40 Y Y 1 F N
 F0 "U?" -200 50 60 H V C C N N
 F1 "L6203" 0 400 60 H V C C N N
-F2 "testfplib:11-Multiwatt" 200 200 60 H I L C N N
+F2 "digikey-footprints:11-Multiwatt" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/03/af/9d/d5/a2/56/46/f6/CD00000089.pdf/files/CD00000089.pdf/jcr:content/translations/en.CD00000089.pdf" 200 300 60 H I L C N N
 F4 "497-1421-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L6203" 200 500 60 H I L CNN "MPN"
@@ -37,7 +37,7 @@ ENDDEF
 DEF L298N U 0 40 Y Y 1 F N
 F0 "U?" -200 350 60 H V C C N N
 F1 "L298N" 500 -700 60 H V C C N N
-F2 "testfplib:15-Multiwatt" 200 200 60 H I L C N N
+F2 "digikey-footprints:15-Multiwatt" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/82/cc/3f/39/0a/29/4d/f0/CD00000240.pdf/files/CD00000240.pdf/jcr:content/translations/en.CD00000240.pdf" 200 300 60 H I L C N N
 F4 "497-1395-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L298N" 200 500 60 H I L CNN "MPN"
@@ -72,7 +72,7 @@ ENDDEF
 DEF SN754410NE U 0 0 Y Y 1 F N
 F0 "U?" -250 250 60 H V C C N N
 F1 "SN754410NE" 600 -700 60 H V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn754410.pdf" 200 300 60 H I L C N N
 F4 "296-9911-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN754410NE" 200 500 60 H I L CNN "MPN"
@@ -130,7 +130,7 @@ ENDDEF
 DEF DRV8833PWPR U 0 40 Y Y 1 F N
 F0 "U?" -300 150 60 H V C C N N
 F1 "DRV8833PWPR" 500 -900 60 H V C C N N
-F2 "testfplib:16-HTSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-HTSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/drv8833.pdf" 200 300 60 H I L C N N
 F4 "296-29434-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV8833PWPR" 200 500 60 H I L CNN "MPN"
@@ -167,7 +167,7 @@ ENDDEF
 DEF DRV8871DDA U 0 40 Y Y 1 F N
 F0 "U?" -200 -50 60 H V C C N N
 F1 "DRV8871DDA" 600 -700 60 H V C C N N
-F2 "testfplib:8-PowerSOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-PowerSOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/drv8871.pdf" 200 300 60 H I L C N N
 F4 "296-44509-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV8871DDA" 200 500 60 H I L CNN "MPN"
@@ -196,7 +196,7 @@ ENDDEF
 DEF DRV8837DSGR U 0 40 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "DRV8837DSGR" 600 -300 60 H V C C N N
-F2 "testfplib:8-WSON_(2x2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-WSON_(2x2)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/drv8837.pdf" 200 300 60 H I L C N N
 F4 "296-34806-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV8837DSGR" 200 500 60 H I L CNN "MPN"

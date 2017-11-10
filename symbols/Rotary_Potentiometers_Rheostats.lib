@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF P120PK-Y25BR10K U 0 0 Y Y 1 F N
 F0 "POT?" -400 400 60 H V C C N N
 F1 "P120PK-Y25BR10K" 0 -500 60 H V C C N N
-F2 "testfplib:987-1710-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:987-1710-ND" 200 200 60 H I L C N N
 F3 "http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_RotaryPanelPot_P120series.pdf" 200 300 60 H I L C N N
 F4 "987-1710-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "P120PK-Y25BR10K" 200 500 60 H I L CNN "MPN"

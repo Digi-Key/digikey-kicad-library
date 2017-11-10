@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 54602-908LF U 0 40 Y Y 1 F N
 F0 "J?" -50 -50 60 H V C C N N
 F1 "54602-908LF" 50 -550 60 V V C C N N
-F2 "testfplib:54602-908LF" 200 200 60 H I L C N N
+F2 "digikey-footprints:54602-908LF" 200 200 60 H I L C N N
 F3 "http://portal.fciconnect.com/Comergent//fci/drawing/c-bmj-0102.pdf" 200 300 60 H I L C N N
 F4 "609-1046-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "54602-908LF" 200 500 60 H I L CNN "MPN"
@@ -34,7 +34,7 @@ ENDDEF
 DEF 87180-062LF U 0 40 Y Y 1 F N
 F0 "J?" -50 -50 60 H V C C N N
 F1 "87180-062LF" 50 -450 60 V V C C N N
-F2 "testfplib:87180-062LF" 200 200 60 H I L C N N
+F2 "digikey-footprints:87180-062LF" 200 200 60 H I L C N N
 F3 "http://portal.fciconnect.com/Comergent//fci/drawing/87180.pdf" 200 300 60 H I L C N N
 F4 "609-1055-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "87180-062LF" 200 500 60 H I L CNN "MPN"
@@ -60,7 +60,7 @@ ENDDEF
 DEF RJLSE4208101T U 0 40 Y Y 1 F N
 F0 "J?" 150 450 60 H V C C N N
 F1 "RJLSE4208101T" 300 -100 60 V V C C N N
-F2 "testfplib:RJLSE4208101TTR-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:RJLSE4208101TTR-ND" 200 200 60 H I L C N N
 F3 "https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJLSE4X0XX01X.pdf" 200 300 60 H I L C N N
 F4 "RJLSE4208101TTR-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RJLSE4208101T" 200 500 60 H I L CNN "MPN"

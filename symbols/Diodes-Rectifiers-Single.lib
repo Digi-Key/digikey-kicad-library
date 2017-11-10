@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF B540C-13-F U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "B540C-13-F" 0 300 60 H V C C N N
-F2 "testfplib:DO-214AB" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-214AB" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds13012.pdf" 200 300 60 H I L C N N
 F4 "B540C-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "B540C-13-F" 200 500 60 H I L CNN "MPN"
@@ -31,7 +31,7 @@ ENDDEF
 DEF B560C-13-F U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "B560C-13-F" 0 300 60 H V C C N N
-F2 "testfplib:DO-214AB" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-214AB" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds13012.pdf" 200 300 60 H I L C N N
 F4 "B560C-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "B560C-13-F" 200 500 60 H I L CNN "MPN"
@@ -56,7 +56,7 @@ ENDDEF
 DEF S1G U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "S1G" 0 200 60 H V C C N N
-F2 "testfplib:DO-214AC" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-214AC" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/S1/S1A.pdf" 200 300 60 H I L C N N
 F4 "S1GFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "S1G" 200 500 60 H I L CNN "MPN"
@@ -79,7 +79,7 @@ ENDDEF
 DEF B240A-13-F U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "B240A-13-F" 0 300 60 H V C C N N
-F2 "testfplib:DO-214AC" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-214AC" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds13004.pdf" 200 300 60 H I L C N N
 F4 "B240A-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "B240A-13-F" 200 500 60 H I L CNN "MPN"
@@ -104,7 +104,7 @@ ENDDEF
 DEF B340A-13-F U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "B340A-13-F" 0 300 60 H V C C N N
-F2 "testfplib:DO-214AC" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-214AC" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds30891.pdf" 200 300 60 H I L C N N
 F4 "B340A-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "B340A-13-F" 200 500 60 H I L CNN "MPN"
@@ -129,7 +129,7 @@ ENDDEF
 DEF 1N4148TA U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4148TA" 0 -100 60 H V C C N N
-F2 "testfplib:DO-35" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-35" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/1N/1N914.pdf" 200 300 60 H I L C N N
 F4 "1N4148TACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148TA" 200 500 60 H I L CNN "MPN"
@@ -152,7 +152,7 @@ ENDDEF
 DEF 1N914BTR U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N914BTR" 0 200 60 H V C C N N
-F2 "testfplib:DO-35" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-35" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/1N/1N914.pdf" 200 300 60 H I L C N N
 F4 "1N914BCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N914BTR" 200 500 60 H I L CNN "MPN"
@@ -175,7 +175,7 @@ ENDDEF
 DEF 1N4007-T U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4007-T" 0 -100 60 H V C C N N
-F2 "testfplib:DO-41" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds28002.pdf" 200 300 60 H I L C N N
 F4 "1N4007DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4007-T" 200 500 60 H I L CNN "MPN"
@@ -198,7 +198,7 @@ ENDDEF
 DEF 1N4004-T U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4004-T" 0 -100 60 H V C C N N
-F2 "testfplib:DO-41" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds28002.pdf" 200 300 60 H I L C N N
 F4 "1N4004DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4004-T" 200 500 60 H I L CNN "MPN"
@@ -221,7 +221,7 @@ ENDDEF
 DEF 1N4001-TP U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4001-TP" 0 -200 60 H V C C N N
-F2 "testfplib:DO-41" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/1N4001-1N4007(DO-41).pdf" 200 300 60 H I L C N N
 F4 "1N4001-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4001-TP" 200 500 60 H I L CNN "MPN"
@@ -244,7 +244,7 @@ ENDDEF
 DEF 1N4001-G U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4001-G" 0 200 60 H V C C N N
-F2 "testfplib:DO-41" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
 F3 "http://www.comchiptech.com/cms/UserFiles/QW-BG013 1N4001 Thru456224. 1N4007 REV.A.pdf" 200 300 60 H I L C N N
 F4 "641-1310-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4001-G" 200 500 60 H I L CNN "MPN"
@@ -267,7 +267,7 @@ ENDDEF
 DEF 1N5817 U 0 0 Y Y 1 F N
 F0 "D?" -50 150 60 H V C C N N
 F1 "1N5817" 0 300 60 H V C C N N
-F2 "testfplib:DO-41" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/1N/1N5817.pdf" 200 300 60 H I L C N N
 F4 "1N5817FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N5817" 200 500 60 H I L CNN "MPN"
@@ -292,7 +292,7 @@ ENDDEF
 DEF 1N5819 U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "1N5819" 0 300 60 H V C C N N
-F2 "testfplib:DO-41" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/1N/1N5817.pdf" 200 300 60 H I L C N N
 F4 "1N5819FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N5819" 200 500 60 H I L CNN "MPN"
@@ -317,7 +317,7 @@ ENDDEF
 DEF 1N4148W-TP U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4148W-TP" 0 200 60 H V C C N N
-F2 "testfplib:SOD-123" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-123" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf" 200 300 60 H I L C N N
 F4 "1N4148WTPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148W-TP" 200 500 60 H I L CNN "MPN"
@@ -340,7 +340,7 @@ ENDDEF
 DEF 1N4148W-7-F U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4148W-7-F" 0 200 60 H V C C N N
-F2 "testfplib:SOD-123" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-123" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds30086.pdf" 200 300 60 H I L C N N
 F4 "1N4148W-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148W-7-F" 200 500 60 H I L CNN "MPN"
@@ -363,7 +363,7 @@ ENDDEF
 DEF MBR0520LT1G U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "MBR0520LT1G" 0 300 60 H V C C N N
-F2 "testfplib:SOD-123" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-123" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF" 200 300 60 H I L C N N
 F4 "MBR0520LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MBR0520LT1G" 200 500 60 H I L CNN "MPN"
@@ -388,7 +388,7 @@ ENDDEF
 DEF MBR0540T1G U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "MBR0540T1G" 0 300 60 H V C C N N
-F2 "testfplib:SOD-123" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-123" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MBR0540T1-D.PDF" 200 300 60 H I L C N N
 F4 "MBR0540T1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MBR0540T1G" 200 500 60 H I L CNN "MPN"
@@ -413,7 +413,7 @@ ENDDEF
 DEF 1N4148WS-7-F U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4148WS-7-F" 0 200 60 H V C C N N
-F2 "testfplib:SOD-323" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-323" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds30097.pdf" 200 300 60 H I L C N N
 F4 "1N4148WS-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148WS-7-F" 200 500 60 H I L CNN "MPN"
@@ -436,7 +436,7 @@ ENDDEF
 DEF 1N4148WX-TP U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4148WX-TP" 0 200 60 H V C C N N
-F2 "testfplib:SOD-323" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-323" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/1N4148WX(SOD323).pdf" 200 300 60 H I L C N N
 F4 "1N4148WXTPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148WX-TP" 200 500 60 H I L CNN "MPN"
@@ -459,7 +459,7 @@ ENDDEF
 DEF 1N4148WS U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4148WS" 0 200 60 H V C C N N
-F2 "testfplib:SOD-323F" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-323F" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf" 200 300 60 H I L C N N
 F4 "1N4148WSFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148WS" 200 500 60 H I L CNN "MPN"
@@ -482,7 +482,7 @@ ENDDEF
 DEF 1N4148X-TP U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "1N4148X-TP" 0 200 60 H V C C N N
-F2 "testfplib:SOD-523" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-523" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/1N4148X(SOD-523).PDF" 200 300 60 H I L C N N
 F4 "1N4148XTPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148X-TP" 200 500 60 H I L CNN "MPN"
@@ -505,7 +505,7 @@ ENDDEF
 DEF LL4148 U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "LL4148" 0 200 60 H V C C N N
-F2 "testfplib:SOD-80" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-80" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/LL/LL4148.pdf" 200 300 60 H I L C N N
 F4 "LL4148FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LL4148" 200 500 60 H I L CNN "MPN"
@@ -528,7 +528,7 @@ ENDDEF
 DEF BAT54 U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "BAT54" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 300 60 H I L C N N
 F4 "BAT54FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BAT54" 200 500 60 H I L CNN "MPN"

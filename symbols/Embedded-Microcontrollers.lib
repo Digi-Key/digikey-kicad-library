@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF STM32F407VGT6 U 0 40 Y Y 1 F N
 F0 "U?" -650 2350 60 H V C C N N
 F1 "STM32F407VGT6" 0 -100 60 V V C C N N
-F2 "testfplib:100-LQFP_(14x14)" 200 200 60 H I L C N N
+F2 "digikey-footprints:100-LQFP_(14x14)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 200 300 60 H I L C N N
 F4 "497-11605-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "STM32F407VGT6" 200 500 60 H I L CNN "MPN"
@@ -126,7 +126,7 @@ ENDDEF
 DEF PIC32MX795F512L-80I_PT U 0 40 Y Y 2 L N
 F0 "U?" 0 1100 60 H V C C N N
 F1 "PIC32MX795F512L-80I_PT" 0 1200 60 H V C C N N
-F2 "testfplib:100-TQFP_(12X12)" 200 200 60 H I L C N N
+F2 "digikey-footprints:100-TQFP_(12X12)" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en545749" 200 300 60 H I L C N N
 F4 "PIC32MX795F512L-80I/PT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PIC32MX795F512L-80I/PT" 200 500 60 H I L CNN "MPN"
@@ -247,7 +247,7 @@ ENDDEF
 DEF ATMEGA2560-16AU U 0 40 Y Y 2 L N
 F0 "U?" 0 400 60 H V C C N N
 F1 "ATMEGA2560-16AU" 0 500 60 H V C C N N
-F2 "testfplib:100-TQFP_(14X14)" 200 200 60 H I L C N N
+F2 "digikey-footprints:100-TQFP_(14X14)" 200 200 60 H I L C N N
 F3 "http://www.atmel.com/Images/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_Summary.pdf" 200 300 60 H I L C N N
 F4 "ATMEGA2560-16AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA2560-16AU" 200 500 60 H I L CNN "MPN"
@@ -368,7 +368,7 @@ ENDDEF
 DEF ATTINY84A-PU U 0 40 Y Y 1 F N
 F0 "U?" -250 550 60 H V C C N N
 F1 "ATTINY84A-PU" 100 -100 60 V V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.atmel.com/Images/8183s.pdf" 200 300 60 H I L C N N
 F4 "ATTINY84A-PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATTINY84A-PU" 200 500 60 H I L CNN "MPN"
@@ -402,7 +402,7 @@ ENDDEF
 DEF PIC16F628A-I_P U 0 40 Y Y 1 F N
 F0 "U?" -600 150 60 H V C C N N
 F1 "PIC16F628A-I_P" 350 -700 60 V V C C N N
-F2 "testfplib:18-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:18-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011915" 200 300 60 H I L C N N
 F4 "PIC16F628A-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PIC16F628A-I/P" 200 500 60 H I L CNN "MPN"
@@ -440,7 +440,7 @@ ENDDEF
 DEF MSP430G2553IN20 U 0 40 Y Y 1 F N
 F0 "U?" -200 350 60 H V C C N N
 F1 "MSP430G2553IN20" 0 -300 60 V V C C N N
-F2 "testfplib:20-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/msp430g2553.pdf" 200 300 60 H I L C N N
 F4 "296-28429-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MSP430G2553IN20" 200 500 60 H I L CNN "MPN"
@@ -480,7 +480,7 @@ ENDDEF
 DEF PIC16F690-I_P U 0 40 Y Y 1 F N
 F0 "U?" -500 1150 60 H V C C N N
 F1 "PIC16F690-I_P" 300 0 60 V V C C N N
-F2 "testfplib:20-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en023134" 200 300 60 H I L C N N
 F4 "PIC16F690-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PIC16F690-I/P" 200 500 60 H I L CNN "MPN"
@@ -520,7 +520,7 @@ ENDDEF
 DEF STM32F030F4P6 U 0 40 Y Y 1 F N
 F0 "U?" -200 450 60 H V C C N N
 F1 "STM32F030F4P6" 100 -500 60 V V C C N N
-F2 "testfplib:20-TSSOP_(4.4mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-TSSOP_(4.4mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 200 300 60 H I L C N N
 F4 "497-14044-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "STM32F030F4P6" 200 500 60 H I L CNN "MPN"
@@ -560,7 +560,7 @@ ENDDEF
 DEF ATMEGA328P-PU U 0 40 Y Y 1 F N
 F0 "U?" -300 1150 60 H V C C N N
 F1 "ATMEGA328P-PU" 0 -200 60 V V C C N N
-F2 "testfplib:28-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-DIP" 200 200 60 H I L C N N
 F3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet_summary.pdf" 200 300 60 H I L C N N
 F4 "ATMEGA328P-PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328P-PU" 200 500 60 H I L CNN "MPN"
@@ -608,7 +608,7 @@ ENDDEF
 DEF ATMEGA328-PU U 0 40 Y Y 1 F N
 F0 "U?" -300 1150 60 H V C C N N
 F1 "ATMEGA328-PU" 0 -200 60 V V C C N N
-F2 "testfplib:28-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-DIP" 200 200 60 H I L C N N
 F3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet_summary.pdf" 200 300 60 H I L C N N
 F4 "ATMEGA328-PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328-PU" 200 500 60 H I L CNN "MPN"
@@ -656,7 +656,7 @@ ENDDEF
 DEF STM32F030K6T6 U 0 40 Y Y 1 F N
 F0 "U?" -300 750 60 H V C C N N
 F1 "STM32F030K6T6" -100 -300 60 V V C C N N
-F2 "testfplib:32-LQFP_(7x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:32-LQFP_(7x7)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a4/5d/0b/0e/87/c4/4d/71/DM00088500.pdf/files/DM00088500.pdf/jcr:content/translations/en.DM00088500.pdf" 200 300 60 H I L C N N
 F4 "497-14046-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "STM32F030K6T6" 200 500 60 H I L CNN "MPN"
@@ -708,7 +708,7 @@ ENDDEF
 DEF ATMEGA328-AU U 0 40 Y Y 1 F N
 F0 "U?" -300 550 60 H V C C N N
 F1 "ATMEGA328-AU" 0 -1000 60 V V C C N N
-F2 "testfplib:32-TQFP(7x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:32-TQFP(7x7)" 200 200 60 H I L C N N
 F3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet_summary.pdf" 200 300 60 H I L C N N
 F4 "ATMEGA328-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328-AU" 200 500 60 H I L CNN "MPN"
@@ -760,7 +760,7 @@ ENDDEF
 DEF ATMEGA328P-AU U 0 40 Y Y 1 F N
 F0 "U?" -300 550 60 H V C C N N
 F1 "ATMEGA328P-AU" 0 -1000 60 V V C C N N
-F2 "testfplib:32-TQFP(7x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:32-TQFP(7x7)" 200 200 60 H I L C N N
 F3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet_summary.pdf" 200 300 60 H I L C N N
 F4 "ATMEGA328P-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328P-AU" 200 500 60 H I L CNN "MPN"
@@ -812,7 +812,7 @@ ENDDEF
 DEF ATMEGA328PB-AU U 0 40 Y Y 1 F N
 F0 "U?" -300 550 60 H V C C N N
 F1 "ATMEGA328PB-AU" 0 -1000 60 V V C C N N
-F2 "testfplib:32-TQFP(7x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:32-TQFP(7x7)" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589666" 200 300 60 H I L C N N
 F4 "ATMEGA328PB-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328PB-AU" 200 500 60 H I L CNN "MPN"
@@ -864,7 +864,7 @@ ENDDEF
 DEF ATMEGA32U4-AU U 0 40 Y Y 1 F N
 F0 "U?" -500 1250 60 H V C C N N
 F1 "ATMEGA32U4-AU" -200 -400 60 V V C C N N
-F2 "testfplib:44-TQFP_(10x10)" 200 200 60 H I L C N N
+F2 "digikey-footprints:44-TQFP_(10x10)" 200 200 60 H I L C N N
 F3 "http://www.atmel.com/Images/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf" 200 300 60 H I L C N N
 F4 "ATMEGA32U4-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA32U4-AU" 200 500 60 H I L CNN "MPN"
@@ -928,7 +928,7 @@ ENDDEF
 DEF PIC18F4550-I_PT U 0 40 Y Y 1 F N
 F0 "U?" -800 1450 60 H V C C N N
 F1 "PIC18F4550-I_PT" 400 -1900 60 V V C C N N
-F2 "testfplib:44-TQFP_(10x10)" 200 200 60 H I L C N N
+F2 "digikey-footprints:44-TQFP_(10x10)" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en020587" 200 300 60 H I L C N N
 F4 "PIC18F4550-I/PT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PIC18F4550-I/PT" 200 500 60 H I L CNN "MPN"
@@ -992,7 +992,7 @@ ENDDEF
 DEF ATSAMD21G18A-AUT U 0 40 Y Y 1 F N
 F0 "U?" -350 1550 60 H V C C N N
 F1 "ATSAMD21G18A-AUT" 100 -400 60 V V C C N N
-F2 "testfplib:48-TQFP_(7x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-TQFP_(7x7)" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590209" 200 300 60 H I L C N N
 F4 "ATSAMD21G18A-AUTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATSAMD21G18A-AUT" 200 500 60 H I L CNN "MPN"
@@ -1060,7 +1060,7 @@ ENDDEF
 DEF W7500 U 0 40 Y Y 1 F N
 F0 "U?" -300 1500 60 H V C C N N
 F1 "W7500" 0 -100 60 V V C C N N
-F2 "testfplib:64-LQFP_(10x10)" 200 200 60 H I L C N N
+F2 "digikey-footprints:64-LQFP_(10x10)" 200 200 60 H I L C N N
 F3 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w7500:w7500_ds_v102_151028.pdf" 200 300 60 H I L C N N
 F4 "1278-1026-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "W7500" 200 500 60 H I L CNN "MPN"
@@ -1144,7 +1144,7 @@ ENDDEF
 DEF STM32F405RGT6 U 0 40 Y Y 1 F N
 F0 "U?" -400 1250 60 H V C C N N
 F1 "STM32F405RGT6" -100 -400 60 V V C C N N
-F2 "testfplib:64-LQFP_(10x10)" 200 200 60 H I L C N N
+F2 "digikey-footprints:64-LQFP_(10x10)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf" 200 300 60 H I L C N N
 F4 "497-11767-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "STM32F405RGT6" 200 500 60 H I L CNN "MPN"
@@ -1228,7 +1228,7 @@ ENDDEF
 DEF PIC12F675-I_P U 0 40 Y Y 1 F N
 F0 "U?" -300 450 60 H V C C N N
 F1 "PIC12F675-I_P" 100 150 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011653" 200 300 60 H I L C N N
 F4 "PIC12F675-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PIC12F675-I/P" 200 500 60 H I L CNN "MPN"
@@ -1256,7 +1256,7 @@ ENDDEF
 DEF PIC12F683-I_P U 0 40 Y Y 1 F N
 F0 "U?" -500 350 60 H V C C N N
 F1 "PIC12F683-I_P" 50 50 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011813" 200 300 60 H I L C N N
 F4 "PIC12F683-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PIC12F683-I/P" 200 500 60 H I L CNN "MPN"
@@ -1284,7 +1284,7 @@ ENDDEF
 DEF ATTINY45-20PU U 0 40 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "ATTINY45-20PU" 0 600 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 200 300 60 H I L C N N
 F4 "ATTINY45-20PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATTINY45-20PU" 200 500 60 H I L CNN "MPN"
@@ -1312,7 +1312,7 @@ ENDDEF
 DEF ATTINY85-20PU U 0 1 Y Y 1 F N
 F0 "U?" -50 350 60 H V C C N N
 F1 "ATTINY85-20PU" 0 700 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 200 300 60 H I L C N N
 F4 "ATTINY85-20PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATTINY85-20PU" 200 500 60 H I L CNN "MPN"
@@ -1340,7 +1340,7 @@ ENDDEF
 DEF ATTINY85-20SU U 0 40 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "ATTINY85-20SU" 0 500 60 H V C C N N
-F2 "testfplib:8-SOIC" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589894" 200 300 60 H I L C N N
 F4 "ATTINY85-20SU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATTINY85-20SU" 200 500 60 H I L CNN "MPN"
@@ -1368,7 +1368,7 @@ ENDDEF
 DEF PIC16F877A-I_P U 0 40 Y Y 1 F N
 F0 "U?" -600 1350 60 H V C C N N
 F1 "PIC16F877A-I_P" 0 -900 60 V V C C N N
-F2 "testfplib:40-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:40-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011789" 200 300 60 H I L C N N
 F4 "PIC16F877A-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PIC16F877A-I/P" 200 500 60 H I L CNN "MPN"

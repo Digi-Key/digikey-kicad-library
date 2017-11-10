@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LM2917N_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -200 450 60 H V C C N N
 F1 "LM2917N_NOPB" 100 -100 60 V V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm2907-n.pdf" 200 300 60 H I L C N N
 F4 "LM2917N/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM2917N/NOPB" 200 500 60 H I L CNN "MPN"
@@ -40,7 +40,7 @@ ENDDEF
 DEF LM331N_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -200 50 60 H V C C N N
 F1 "LM331N_NOPB" 0 400 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm231.pdf" 200 300 60 H I L C N N
 F4 "LM331N/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM331N/NOPB" 200 500 60 H I L CNN "MPN"
@@ -68,7 +68,7 @@ ENDDEF
 DEF LM2907N-8_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -300 50 60 H V C C N N
 F1 "LM2907N-8_NOPB" 0 300 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm2907-n.pdf" 200 300 60 H I L C N N
 F4 "LM2907N-8/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM2907N-8/NOPB" 200 500 60 H I L CNN "MPN"

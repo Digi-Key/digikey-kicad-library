@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ~DFP10112 F 0 0 Y Y 1 F N
 F0 "F?" -100 200 60 H V C C N N
 F1 "DFP10112" 0 -50 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.us.tdk-lambda.com/ftp/specs/dfp10112.pdf" 200 300 60 H I L C N N
 F4 "285-1901-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DFP10112" 200 500 60 H I L CNN "MPN"

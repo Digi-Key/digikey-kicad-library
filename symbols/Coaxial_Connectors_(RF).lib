@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 5-1814832-1 U 0 40 Y Y 1 F N
 F0 "J?" 0 100 60 H V C C N N
 F1 "5-1814832-1" 0 200 60 H V C C N N
-F2 "testfplib:A97594-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:A97594-ND" 200 200 60 H I L C N N
 F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
 F4 "A97594-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "5-1814832-1" 200 500 60 H I L CNN "MPN"
@@ -28,7 +28,7 @@ ENDDEF
 DEF CONSMA001-SMD-G U 0 40 Y Y 1 F N
 F0 "J?" 0 100 60 H V C C N N
 F1 "CONSMA001-SMD-G" 0 200 60 H V C C N N
-F2 "testfplib:CONSMA001-SMD-G-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:CONSMA001-SMD-G-ND" 200 200 60 H I L C N N
 F3 "https://www.linxtechnologies.com/resources/diagrams/consma001-smd-g.pdf" 200 300 60 H I L C N N
 F4 "CONSMA001-SMD-G-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CONSMA001-SMD-G" 200 500 60 H I L CNN "MPN"
@@ -50,7 +50,7 @@ ENDDEF
 DEF 0734120114 U 0 40 Y Y 1 F N
 F0 "J?" 0 100 60 H V C C N N
 F1 "0734120114" 0 200 60 H V C C N N
-F2 "testfplib:WM3894CT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:WM3894CT-ND" 200 200 60 H I L C N N
 F3 "http://www.molex.com/pdm_docs/sd/734120110_sd.pdf" 200 300 60 H I L C N N
 F4 "WM3894CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "0734120114" 200 500 60 H I L CNN "MPN"

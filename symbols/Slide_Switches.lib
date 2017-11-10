@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF JS202011SCQN U 0 0 Y Y 1 F N
 F0 "S?" -450 250 60 H V C C N N
 F1 "JS202011SCQN" 800 -250 60 H V C C N N
-F2 "testfplib:401-2002-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:401-2002-1-ND" 200 200 60 H I L C N N
 F3 "http://www.ckswitches.com/media/1422/js.pdf" 200 300 60 H I L C N N
 F4 "401-2002-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "JS202011SCQN" 200 500 60 H I L CNN "MPN"
@@ -44,7 +44,7 @@ ENDDEF
 DEF EG1218 U 0 0 Y Y 1 F N
 F0 "S?" -200 300 60 H V C C N N
 F1 "EG1218" 500 -200 60 H V C C N N
-F2 "testfplib:EG1218" 200 200 60 H I L C N N
+F2 "digikey-footprints:EG1218" 200 200 60 H I L C N N
 F3 "http://spec_sheets.e-switch.com/specs/P040040.pdf" 200 300 60 H I L C N N
 F4 "EG1903-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "EG1218" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF WIZ820IO U 0 40 Y Y 1 F N
 F0 "U?" -300 300 60 H V C C N N
 F1 "WIZ820IO" 600 -500 60 H V C C N N
-F2 "testfplib:1278-1015-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1278-1015-ND" 200 200 60 H I L C N N
 F3 "http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ820io/Document/WIZ820io_User_Manual_V1.0.pdf" 200 300 60 H I L C N N
 F4 "1278-1015-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WIZ820IO" 200 500 60 H I L CNN "MPN"
@@ -38,7 +38,7 @@ ENDDEF
 DEF FT234XD-R U 0 40 Y Y 1 F N
 F0 "U?" -200 350 60 H V C C N N
 F1 "FT234XD-R" 0 700 60 H V C C N N
-F2 "testfplib:12-DFN_EP_(3X3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:12-DFN_EP_(3X3)" 200 200 60 H I L C N N
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT234XD.pdf" 200 300 60 H I L C N N
 F4 "768-1178-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT234XD-R" 200 500 60 H I L CNN "MPN"
@@ -71,7 +71,7 @@ ENDDEF
 DEF FT230XS-U U 0 40 Y Y 1 F N
 F0 "U?" -250 350 60 H V C C N N
 F1 "FT230XS-U" 100 -200 60 V V C C N N
-F2 "testfplib:16SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf" 200 300 60 H I L C N N
 F4 "768-1154-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT230XS-U" 200 500 60 H I L CNN "MPN"
@@ -107,7 +107,7 @@ ENDDEF
 DEF FT230XQ-R U 0 40 Y Y 1 F N
 F0 "U?" -300 450 60 H V C C N N
 F1 "FT230XQ-R" 0 800 60 H V C C N N
-F2 "testfplib:16-WQFN_(4x4)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-WQFN_(4x4)" 200 200 60 H I L C N N
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf" 200 300 60 H I L C N N
 F4 "768-1130-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT230XQ-R" 200 500 60 H I L CNN "MPN"
@@ -144,7 +144,7 @@ ENDDEF
 DEF FT231XS-U U 0 40 Y Y 1 F N
 F0 "U?" -200 350 60 H V C C N N
 F1 "FT231XS-U" 100 -400 60 V V C C N N
-F2 "testfplib:20-SSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-SSOP" 200 200 60 H I L C N N
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf" 200 300 60 H I L C N N
 F4 "768-1156-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT231XS-U" 200 500 60 H I L CNN "MPN"
@@ -184,7 +184,7 @@ ENDDEF
 DEF CP2104-F03-GM U 0 40 Y Y 1 F N
 F0 "U?" -350 650 60 H V C C N N
 F1 "CP2104-F03-GM" -50 -200 60 V V C C N N
-F2 "testfplib:24-WQFN_(4x4)" 200 200 60 H I L C N N
+F2 "digikey-footprints:24-WQFN_(4x4)" 200 200 60 H I L C N N
 F3 "https://www.silabs.com/Support%20Documents/TechnicalDocs/cp2104.pdf" 200 300 60 H I L C N N
 F4 "336-2008-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CP2104-F03-GM" 200 500 60 H I L CNN "MPN"
@@ -229,7 +229,7 @@ ENDDEF
 DEF FT232RL-REEL U 0 40 Y Y 1 F N
 F0 "U?" -500 450 60 H V C C N N
 F1 "FT232RL-REEL" -100 -400 60 V V C C N N
-F2 "testfplib:28-SSOP_(5.30mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-SSOP_(5.30mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 300 60 H I L C N N
 F4 "768-1007-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT232RL-REEL" 200 500 60 H I L CNN "MPN"
@@ -277,7 +277,7 @@ ENDDEF
 DEF CY7C65213-28PVXIT U 0 40 Y Y 1 F N
 F0 "U?" -300 850 60 H V C C N N
 F1 "CY7C65213-28PVXIT" 0 -100 60 V V C C N N
-F2 "testfplib:28-TSSOP_(5.60mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-TSSOP_(5.60mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.cypress.com/?docID=49680" 200 300 60 H I L C N N
 F4 "428-3631-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CY7C65213-28PVXIT" 200 500 60 H I L CNN "MPN"
@@ -325,7 +325,7 @@ ENDDEF
 DEF CP2102-GMR U 0 40 Y Y 1 F N
 F0 "U?" -100 750 60 H V C C N N
 F1 "CP2102-GMR" 100 -200 60 V V C C N N
-F2 "testfplib:28-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf" 200 300 60 H I L C N N
 F4 "336-1160-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CP2102-GMR" 200 500 60 H I L CNN "MPN"
@@ -375,7 +375,7 @@ ENDDEF
 DEF FT232RQ-REEL U 0 40 Y Y 1 F N
 F0 "U?" -500 50 60 H V C C N N
 F1 "FT232RQ-REEL" -100 -900 60 V V C C N N
-F2 "testfplib:32-VQFN_(5x5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:32-VQFN_(5x5)" 200 200 60 H I L C N N
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 300 60 H I L C N N
 F4 "768-1008-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT232RQ-REEL" 200 500 60 H I L CNN "MPN"
@@ -428,7 +428,7 @@ ENDDEF
 DEF W5500 U 0 40 Y Y 1 F N
 F0 "U?" -600 200 60 H V C C N N
 F1 "W5500" -200 -1000 60 V V C C N N
-F2 "testfplib:48-LQFP_(7x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-LQFP_(7x7)" 200 200 60 H I L C N N
 F3 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v106e_141230.pdf" 200 300 60 H I L C N N
 F4 "1278-1021-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "W5500" 200 500 60 H I L CNN "MPN"
@@ -496,7 +496,7 @@ ENDDEF
 DEF FT2232D-REEL U 0 40 Y Y 1 F N
 F0 "U?" -600 650 60 H V C C N N
 F1 "FT2232D-REEL" 0 -1200 60 V V C C N N
-F2 "testfplib:48-LQFP_(7x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-LQFP_(7x7)" 200 200 60 H I L C N N
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232D.pdf" 200 300 60 H I L C N N
 F4 "768-1010-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT2232D-REEL" 200 500 60 H I L CNN "MPN"
@@ -564,7 +564,7 @@ ENDDEF
 DEF FT2232HL-REEL U 0 40 Y Y 1 F N
 F0 "U?" -600 2350 60 H V C C N N
 F1 "FT2232HL-REEL" 100 300 60 V V C C N N
-F2 "testfplib:64-LQFP_(10x10)" 200 200 60 H I L C N N
+F2 "digikey-footprints:64-LQFP_(10x10)" 200 200 60 H I L C N N
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf" 200 300 60 H I L C N N
 F4 "768-1024-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT2232HL-REEL" 200 500 60 H I L CNN "MPN"
@@ -648,7 +648,7 @@ ENDDEF
 DEF FT4232HL-REEL U 0 40 Y Y 1 F N
 F0 "U?" -600 2350 60 H V C C N N
 F1 "FT4232HL-REEL" 100 300 60 V V C C N N
-F2 "testfplib:64-LQFP_(10x10)" 200 200 60 H I L C N N
+F2 "digikey-footprints:64-LQFP_(10x10)" 200 200 60 H I L C N N
 F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf" 200 300 60 H I L C N N
 F4 "768-1026-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT4232HL-REEL" 200 500 60 H I L CNN "MPN"

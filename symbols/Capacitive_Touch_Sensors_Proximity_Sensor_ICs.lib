@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF CAP1188-1-CP-TR U 0 40 Y Y 1 F N
 F0 "U?" -500 850 60 H V C C N N
 F1 "CAP1188-1-CP-TR" 0 1150 60 H V C C N N
-F2 "testfplib:24-TFQFN_Exposed_Pad(4x4)" 200 200 60 H I L C N N
+F2 "digikey-footprints:24-TFQFN_Exposed_Pad(4x4)" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en561990" 200 300 60 H I L C N N
 F4 "CAP1188-1-CP-TRCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CAP1188-1-CP-TR" 200 500 60 H I L CNN "MPN"

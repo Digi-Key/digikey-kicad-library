@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF SKY65017-70LF U 0 0 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "SKY65017-70LF" 0 300 60 H V C C N N
-F2 "testfplib:TO-243AA" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-243AA" 200 200 60 H I L C N N
 F3 "http://www.skyworksinc.com/uploads/documents/SKY65017_70LF_200528G.pdf" 200 300 60 H I L C N N
 F4 "863-1063-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SKY65017-70LF" 200 500 60 H I L CNN "MPN"

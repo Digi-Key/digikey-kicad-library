@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF SN74AHCT125N U 0 0 Y Y 1 F N
 F0 "U?" -150 350 60 H V C C N N
 F1 "SN74AHCT125N" 500 -700 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74ahct125.pdf" 200 300 60 H I L C N N
 F4 "296-4655-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74AHCT125N" 200 500 60 H I L CNN "MPN"
@@ -76,7 +76,7 @@ ENDDEF
 DEF CD4050BE U 0 40 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "CD4050BE" -100 -250 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd4049ub.pdf" 200 300 60 H I L C N N
 F4 "296-2056-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4050BE" 200 500 60 H I L CNN "MPN"
@@ -112,7 +112,7 @@ ENDDEF
 DEF SN74LVC245AN U 0 40 Y Y 1 F N
 F0 "U?" -250 250 60 H V C C N N
 F1 "SN74LVC245AN" -100 -400 60 V V C C N N
-F2 "testfplib:20-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc245a.pdf" 200 300 60 H I L C N N
 F4 "296-8503-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC245AN" 200 500 60 H I L CNN "MPN"
@@ -152,7 +152,7 @@ ENDDEF
 DEF NC7SZ125P5X U 0 0 Y Y 1 F N
 F0 "U?" -50 50 60 H V C C N N
 F1 "NC7SZ125P5X" 0 400 60 H V C C N N
-F2 "testfplib:5-TSSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:5-TSSOP" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/NC/NC7SZ125.pdf" 200 300 60 H I L C N N
 F4 "NC7SZ125P5XCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NC7SZ125P5X" 200 500 60 H I L CNN "MPN"
@@ -182,7 +182,7 @@ ENDDEF
 DEF SN74LVC1G07DCKR U 0 40 Y Y 1 F N
 F0 "U?" -150 50 60 H V C C N N
 F1 "SN74LVC1G07DCKR" 500 -500 60 H V C C N N
-F2 "testfplib:SC-70-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SC-70-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf" 200 300 60 H I L C N N
 F4 "296-8486-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G07DCKR" 200 500 60 H I L CNN "MPN"
@@ -207,7 +207,7 @@ ENDDEF
 DEF SN74LVC1G17DCKR U 0 40 Y Y 1 F N
 F0 "U?" -150 150 60 H V C C N N
 F1 "SN74LVC1G17DCKR" 500 -500 60 H V C C N N
-F2 "testfplib:SC-70-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SC-70-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf" 200 300 60 H I L C N N
 F4 "296-11934-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G17DCKR" 200 500 60 H I L CNN "MPN"
@@ -237,7 +237,7 @@ ENDDEF
 DEF SN74LVC1G125DCKR U 0 40 Y Y 1 F N
 F0 "U?" -150 50 60 H V C C N N
 F1 "SN74LVC1G125DCKR" 500 -500 60 H V C C N N
-F2 "testfplib:SC-70-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SC-70-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf" 200 300 60 H I L C N N
 F4 "296-11604-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G125DCKR" 200 500 60 H I L CNN "MPN"
@@ -262,7 +262,7 @@ ENDDEF
 DEF NC7SZ125M5X U 0 0 Y Y 1 F N
 F0 "U?" -50 50 60 H V C C N N
 F1 "NC7SZ125M5X" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/NC/NC7SZ125.pdf" 200 300 60 H I L C N N
 F4 "NC7SZ125M5XCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NC7SZ125M5X" 200 500 60 H I L CNN "MPN"
@@ -292,7 +292,7 @@ ENDDEF
 DEF SN74LVC1G07DBVR U 0 40 Y Y 1 F N
 F0 "U?" -150 50 60 H V C C N N
 F1 "SN74LVC1G07DBVR" 500 -500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf" 200 300 60 H I L C N N
 F4 "296-8485-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G07DBVR" 200 500 60 H I L CNN "MPN"
@@ -317,7 +317,7 @@ ENDDEF
 DEF SN74LVC1G17DBVR U 0 40 Y Y 1 F N
 F0 "U?" -150 350 60 H V C C N N
 F1 "SN74LVC1G17DBVR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf" 200 300 60 H I L C N N
 F4 "296-11933-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G17DBVR" 200 500 60 H I L CNN "MPN"
@@ -347,7 +347,7 @@ ENDDEF
 DEF SN74LVC1G125DBVR U 0 40 Y Y 1 F N
 F0 "U?" -150 50 60 H V C C N N
 F1 "SN74LVC1G125DBVR" 500 -500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf" 200 300 60 H I L C N N
 F4 "296-11603-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G125DBVR" 200 500 60 H I L CNN "MPN"
@@ -372,7 +372,7 @@ ENDDEF
 DEF SN74LVC2G17DBVR U 0 40 Y Y 1 F N
 F0 "U?" -150 350 60 H V C C N N
 F1 "SN74LVC2G17DBVR" 500 -500 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc2g17.pdf" 200 300 60 H I L C N N
 F4 "296-13012-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC2G17DBVR" 200 500 60 H I L CNN "MPN"
@@ -408,7 +408,7 @@ ENDDEF
 DEF NC7WZ17P6X U 0 0 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "NC7WZ17P6X" 0 400 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/NC/NC7WZ17.pdf" 200 300 60 H I L C N N
 F4 "NC7WZ17P6XCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NC7WZ17P6X" 200 500 60 H I L CNN "MPN"
@@ -444,7 +444,7 @@ ENDDEF
 DEF NC7WZ07P6X U 0 0 Y Y 1 F N
 F0 "U?" -150 150 60 H V C C N N
 F1 "NC7WZ07P6X" 0 400 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/NC/NC7WZ07.pdf" 200 300 60 H I L C N N
 F4 "NC7WZ07P6XCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NC7WZ07P6X" 200 500 60 H I L CNN "MPN"

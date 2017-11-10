@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 67996-412HLF U 0 40 Y Y 1 F N
 F0 "J?" 50 250 60 H V C C N N
 F1 "67996-412HLF" 100 -400 60 V V C C N N
-F2 "testfplib:Header_2.54_(6x2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:Header_2.54_(6x2)" 200 200 60 H I L C N N
 F3 "http://portal.fciconnect.com/Comergent//fci/drawing/67996.pdf" 200 300 60 H I L C N N
 F4 "609-3219-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "67996-412HLF" 200 500 60 H I L CNN "MPN"
@@ -38,7 +38,7 @@ ENDDEF
 DEF 68021-412HLF U 0 40 Y Y 1 F N
 F0 "J?" 100 250 60 H V C C N N
 F1 "68021-412HLF" 100 -400 60 V V C C N N
-F2 "testfplib:Header_2.54_RA_(6x2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:Header_2.54_RA_(6x2)" 200 200 60 H I L C N N
 F3 "http://portal.fciconnect.com/Comergent//fci/drawing/68020.pdf" 200 300 60 H I L C N N
 F4 "609-3355-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "68021-412HLF" 200 500 60 H I L CNN "MPN"
@@ -70,7 +70,7 @@ ENDDEF
 DEF 0015912120 U 0 40 Y Y 1 F N
 F0 "J?" 150 150 60 H V C C N N
 F1 "0015912120" 100 -500 60 V V C C N N
-F2 "testfplib:WM17452-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:WM17452-ND" 200 200 60 H I L C N N
 F3 "http://www.molex.com/pdm_docs/sd/015912120_sd.pdf" 200 300 60 H I L C N N
 F4 "WM17452-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "0015912120" 200 500 60 H I L CNN "MPN"

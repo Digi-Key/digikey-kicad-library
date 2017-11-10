@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF BLM18HE152SN1D U 0 40 Y Y 1 F N
 F0 "FB?" 0 200 60 H V C C N N
 F1 "BLM18HE152SN1D" 0 300 60 H V C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://www.murata.com/en-us/products/productdata/8796741599262/ENFA0004.pdf" 200 300 60 H I L C N N
 F4 "490-5216-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLM18HE152SN1D" 200 500 60 H I L CNN "MPN"
@@ -30,7 +30,7 @@ ENDDEF
 DEF BLM18PG121SN1D U 0 40 Y Y 1 F N
 F0 "FB?" 0 200 60 H V C C N N
 F1 "BLM18PG121SN1D" 0 300 60 H V C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://www.murata.com/en-us/products/productdata/8796738650142/ENFA0003.pdf" 200 300 60 H I L C N N
 F4 "490-1037-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLM18PG121SN1D" 200 500 60 H I L CNN "MPN"
@@ -54,7 +54,7 @@ ENDDEF
 DEF MPZ1608S221ATA00 U 0 40 Y Y 1 F N
 F0 "FB?" 0 200 60 H V C C N N
 F1 "MPZ1608S221ATA00" 0 300 60 H V C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz1608_en.pdf" 200 300 60 H I L C N N
 F4 "445-1565-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPZ1608S221ATA00" 200 500 60 H I L CNN "MPN"
@@ -78,7 +78,7 @@ ENDDEF
 DEF BLM18PG471SN1D U 0 40 Y Y 1 F N
 F0 "FB?" 0 200 60 H V C C N N
 F1 "BLM18PG471SN1D" 0 300 60 H V C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://www.murata.com/en-us/products/productdata/8796738650142/ENFA0003.pdf" 200 300 60 H I L C N N
 F4 "490-5223-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLM18PG471SN1D" 200 500 60 H I L CNN "MPN"
@@ -102,7 +102,7 @@ ENDDEF
 DEF BLM18AG601SN1D U 0 40 Y Y 1 F N
 F0 "FB?" 0 200 60 H V C C N N
 F1 "BLM18AG601SN1D" 0 300 60 H V C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://www.murata.com/en-us/products/productdata/8796738650142/ENFA0003.pdf" 200 300 60 H I L C N N
 F4 "490-1014-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLM18AG601SN1D" 200 500 60 H I L CNN "MPN"
@@ -126,7 +126,7 @@ ENDDEF
 DEF BLM21PG221SN1D U 0 40 Y Y 1 F N
 F0 "FB?" 0 200 60 H V C C N N
 F1 "BLM21PG221SN1D" 0 300 60 H V C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "http://www.murata.com/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 300 60 H I L C N N
 F4 "490-1054-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLM21PG221SN1D" 200 500 60 H I L CNN "MPN"
@@ -150,7 +150,7 @@ ENDDEF
 DEF BLM21PG331SN1D U 0 40 Y Y 1 F N
 F0 "FB?" 0 200 60 H V C C N N
 F1 "BLM21PG331SN1D" 0 300 60 H V C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "http://www.murata.com/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 300 60 H I L C N N
 F4 "490-5988-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLM21PG331SN1D" 200 500 60 H I L CNN "MPN"
@@ -174,7 +174,7 @@ ENDDEF
 DEF MPZ2012S601AT000 U 0 40 Y Y 1 F N
 F0 "FB?" 0 200 60 H V C C N N
 F1 "MPZ2012S601AT000" 0 300 60 H V C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "https://product.tdk.com/info/en/catalog/datasheets/beads_commercial_power_mpz2012_en.pdf" 200 300 60 H I L C N N
 F4 "445-2206-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPZ2012S601AT000" 200 500 60 H I L CNN "MPN"

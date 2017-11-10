@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF CC1101RGPR U 0 40 Y Y 1 F N
 F0 "U?" -500 450 60 H V C C N N
 F1 "CC1101RGPR" 600 -900 60 H V C C N N
-F2 "testfplib:20-QFN_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-QFN_(3x3)" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/CC1101.pdf" 200 300 60 H I L C N N
 F4 "296-35718-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC1101RGPR" 200 500 60 H I L CNN "MPN"
@@ -47,7 +47,7 @@ ENDDEF
 DEF NRF24L01P-T U 0 40 Y Y 1 F N
 F0 "U?" -150 450 60 H V C C N N
 F1 "NRF24L01P-T" 600 -700 60 H V C C N N
-F2 "testfplib:20-QFN_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-QFN_(3x3)" 200 200 60 H I L C N N
 F3 "http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf" 200 300 60 H I L C N N
 F4 "1490-1019-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF24L01P-T" 200 500 60 H I L CNN "MPN"
@@ -88,7 +88,7 @@ ENDDEF
 DEF NRF24L01P-R7 U 0 40 Y Y 1 F N
 F0 "U?" -350 450 60 H V C C N N
 F1 "NRF24L01P-R7" 500 -700 60 H V C C N N
-F2 "testfplib:20-QFN_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-QFN_(3x3)" 200 200 60 H I L C N N
 F3 "http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf" 200 300 60 H I L C N N
 F4 "1490-1033-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF24L01P-R7" 200 500 60 H I L CNN "MPN"
@@ -129,7 +129,7 @@ ENDDEF
 DEF SX1272IMLTRT U 0 40 Y Y 1 F N
 F0 "U?" -400 550 60 H V C C N N
 F1 "SX1272IMLTRT" 50 -400 60 V V C C N N
-F2 "testfplib:28-VQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-VQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.semtech.com/images/datasheet/sx1272.pdf" 200 300 60 H I L C N N
 F4 "SX1272IMLTRTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SX1272IMLTRT" 200 500 60 H I L CNN "MPN"
@@ -178,7 +178,7 @@ ENDDEF
 DEF SX1276IMLTRT U 0 40 Y Y 1 F N
 F0 "U?" -300 450 60 H V C C N N
 F1 "SX1276IMLTRT" 150 -500 60 V V C C N N
-F2 "testfplib:28-VQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-VQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.semtech.com/images/datasheet/sx1276_77_78_79.pdf" 200 300 60 H I L C N N
 F4 "SX1276IMLTRTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SX1276IMLTRT" 200 500 60 H I L CNN "MPN"
@@ -227,7 +227,7 @@ ENDDEF
 DEF CSR1010A05-IQQM-R U 0 40 Y Y 1 F N
 F0 "U?" -700 150 60 H V C C N N
 F1 "CSR1010A05-IQQM-R" -100 -1200 60 V V C C N N
-F2 "testfplib:32-UFQFN" 200 200 60 H I L C N N
+F2 "digikey-footprints:32-UFQFN" 200 200 60 H I L C N N
 F3 "https://www.qualcomm.com/documents/csr1010-data-sheet" 200 300 60 H I L C N N
 F4 "CSR1010A05-IQQM-RCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CSR1010A05-IQQM-R" 200 500 60 H I L CNN "MPN"
@@ -280,7 +280,7 @@ ENDDEF
 DEF NRF8001-R2Q32-T U 0 40 Y Y 1 F N
 F0 "U?" -400 650 60 H V C C N N
 F1 "NRF8001-R2Q32-T" -100 -100 60 V V C C N N
-F2 "testfplib:32-VQFN_(5x5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:32-VQFN_(5x5)" 200 200 60 H I L C N N
 F3 "http://www.nordicsemi.com/eng/content/download/2981/38488/file/nRF8001_PS_v1.2.pdf" 200 300 60 H I L C N N
 F4 "1490-1026-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF8001-R2Q32-T" 200 500 60 H I L CNN "MPN"
@@ -333,7 +333,7 @@ ENDDEF
 DEF CC1200RHBT U 0 40 Y Y 1 F N
 F0 "U?" -750 650 60 H V C C N N
 F1 "CC1200RHBT" 0 -600 60 V V C C N N
-F2 "testfplib:32-VQFN_(5x5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:32-VQFN_(5x5)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cc1200.pdf" 200 300 60 H I L C N N
 F4 "296-36396-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC1200RHBT" 200 500 60 H I L CNN "MPN"
@@ -386,7 +386,7 @@ ENDDEF
 DEF CC2541F256RHAR U 0 40 Y Y 1 F N
 F0 "U?" -400 1050 60 H V C C N N
 F1 "CC2541F256RHAR" 200 -200 60 V V C C N N
-F2 "testfplib:40-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:40-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cc2541.pdf" 200 300 60 H I L C N N
 F4 "296-37144-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC2541F256RHAR" 200 500 60 H I L CNN "MPN"
@@ -447,7 +447,7 @@ ENDDEF
 DEF DW1000-I-TR13 U 0 40 Y Y 1 F N
 F0 "U?" -850 850 60 H V C C N N
 F1 "DW1000-I-TR13" 400 -600 60 V V C C N N
-F2 "testfplib:48-QFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-QFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf" 200 300 60 H I L C N N
 F4 "1479-1001-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DW1000-I-TR13" 200 500 60 H I L CNN "MPN"
@@ -516,7 +516,7 @@ ENDDEF
 DEF CC2650F128RGZT U 0 40 Y Y 1 F N
 F0 "U?" -400 1550 60 H V C C N N
 F1 "CC2650F128RGZT" 0 200 60 V V C C N N
-F2 "testfplib:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cc2650.pdf" 200 300 60 H I L C N N
 F4 "296-39656-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC2650F128RGZT" 200 500 60 H I L CNN "MPN"
@@ -585,7 +585,7 @@ ENDDEF
 DEF NRF52832-QFAA-R U 0 40 Y Y 1 F N
 F0 "U?" -350 1350 60 H V C C N N
 F1 "NRF52832-QFAA-R" 400 500 60 V V C C N N
-F2 "testfplib:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://infocenter.nordicsemi.com/pdf/nRF52832_PB_v1.4.pdf" 200 300 60 H I L C N N
 F4 "1490-1052-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF52832-QFAA-R" 200 500 60 H I L CNN "MPN"
@@ -654,7 +654,7 @@ ENDDEF
 DEF NRF51822-QFAA-T U 0 40 Y Y 1 F N
 F0 "U?" -650 1800 60 H V C C N N
 F1 "NRF51822-QFAA-T" 0 -300 60 V V C C N N
-F2 "testfplib:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf" 200 300 60 H I L C N N
 F4 "1490-1024-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF51822-QFAA-T" 200 500 60 H I L CNN "MPN"
@@ -723,7 +723,7 @@ ENDDEF
 DEF NRF51822-QFAA-R7 U 0 40 Y Y 1 F N
 F0 "U?" -700 1800 60 H V C C N N
 F1 "NRF51822-QFAA-R7" 0 -300 60 V V C C N N
-F2 "testfplib:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf" 200 300 60 H I L C N N
 F4 "1490-1031-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF51822-QFAA-R7" 200 500 60 H I L CNN "MPN"
@@ -792,7 +792,7 @@ ENDDEF
 DEF NRF51822-QFAB-R7 U 0 40 Y Y 1 F N
 F0 "U?" -650 1800 60 H V C C N N
 F1 "NRF51822-QFAB-R7" 0 -300 60 V V C C N N
-F2 "testfplib:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf" 200 300 60 H I L C N N
 F4 "1490-1032-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF51822-QFAB-R7" 200 500 60 H I L CNN "MPN"
@@ -861,7 +861,7 @@ ENDDEF
 DEF NRF51422-QFAC-R U 0 40 Y Y 1 F N
 F0 "U?" -700 1800 60 H V C C N N
 F1 "NRF51422-QFAC-R" 0 -300 60 V V C C N N
-F2 "testfplib:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.nordicsemi.com/eng/content/download/13359/215006/file/nRF51422_PS%20v3.1.pdf" 200 300 60 H I L C N N
 F4 "1490-1040-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF51422-QFAC-R" 200 500 60 H I L CNN "MPN"
@@ -930,7 +930,7 @@ ENDDEF
 DEF NRF51822-QFAC-R U 0 40 Y Y 1 F N
 F0 "U?" -700 1800 60 H V C C N N
 F1 "NRF51822-QFAC-R" 0 -300 60 V V C C N N
-F2 "testfplib:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf" 200 300 60 H I L C N N
 F4 "1490-1042-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF51822-QFAC-R" 200 500 60 H I L CNN "MPN"
@@ -999,7 +999,7 @@ ENDDEF
 DEF NRF51822-QFAC-R7 U 0 40 Y Y 1 F N
 F0 "U?" -700 1750 60 H V C C N N
 F1 "NRF51822-QFAC-R7" 0 -300 60 V V C C N N
-F2 "testfplib:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:48-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf" 200 300 60 H I L C N N
 F4 "1490-1049-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF51822-QFAC-R7" 200 500 60 H I L CNN "MPN"
@@ -1068,7 +1068,7 @@ ENDDEF
 DEF CC3200R1M2RGCR U 0 40 Y Y 1 F N
 F0 "U?" -500 1650 60 H V C C N N
 F1 "CC3200R1M2RGCR" 400 -900 60 V V C C N N
-F2 "testfplib:64-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:64-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cc3200.pdf" 200 300 60 H I L C N N
 F4 "296-38902-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC3200R1M2RGCR" 200 500 60 H I L CNN "MPN"
@@ -1153,7 +1153,7 @@ ENDDEF
 DEF NRF51822-CFAC-R U 0 40 Y Y 1 F N
 F0 "U?" -300 750 60 H V C C N N
 F1 "NRF51822-CFAC-R" 200 -1200 60 V V C C N N
-F2 "testfplib:62-UFBGA_WLCSP" 200 200 60 H I L C N N
+F2 "digikey-footprints:62-UFBGA_WLCSP" 200 200 60 H I L C N N
 F3 "http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf" 200 300 60 H I L C N N
 F4 "1490-1041-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF51822-CFAC-R" 200 500 60 H I L CNN "MPN"

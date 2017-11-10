@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF SI1145-A10-GMR U 0 40 Y Y 1 F N
 F0 "U?" -250 450 60 H V C C N N
 F1 "SI1145-A10-GMR" 250 -350 60 H V C C N N
-F2 "testfplib:10-WFQFN" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-WFQFN" 200 200 60 H I L C N N
 F3 "https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf" 200 300 60 H I L C N N
 F4 "336-2622-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SI1145-A10-GMR" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF VL6180XV0NR_1 U 0 40 Y Y 1 F N
 F0 "U?" -350 450 60 H V C C N N
 F1 "VL6180XV0NR_1" 1000 -700 60 H V C C N N
-F2 "testfplib:12SMD_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:12SMD_Module" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/11/28/86/e6/26/44/b3/DM00112632.pdf/files/DM00112632.pdf/jcr:content/translations/en.DM00112632.pdf" 200 300 60 H I L C N N
 F4 "497-14702-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "VL6180XV0NR/1" 200 500 60 H I L CNN "MPN"
@@ -68,7 +68,7 @@ ENDDEF
 DEF MAX44009EDT_T U 0 40 Y Y 1 F N
 F0 "U?" -200 400 60 H V C C N N
 F1 "MAX44009EDT_T" 700 -300 60 H V C C N N
-F2 "testfplib:6-OTDFN_(2x2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:6-OTDFN_(2x2)" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 300 60 H I L C N N
 F4 "MAX44009EDT+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX44009EDT+T" 200 500 60 H I L CNN "MPN"
@@ -95,7 +95,7 @@ ENDDEF
 DEF VEML6070 U 0 40 Y Y 1 F N
 F0 "U?" -100 50 60 H V C C N N
 F1 "VEML6070" 0 400 60 H V C C N N
-F2 "testfplib:6SMD_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:6SMD_Module" 200 200 60 H I L C N N
 F3 "http://www.vishay.com/docs/84277/veml6070.pdf" 200 300 60 H I L C N N
 F4 "VEML6070CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "VEML6070" 200 500 60 H I L CNN "MPN"
@@ -121,7 +121,7 @@ ENDDEF
 DEF OPT3001DNPT U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "OPT3001DNPT" 500 -500 60 H V C C N N
-F2 "testfplib:6-USON_(2x2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:6-USON_(2x2)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/opt3001.pdf" 200 300 60 H I L C N N
 F4 "296-38667-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "OPT3001DNPT" 200 500 60 H I L CNN "MPN"
@@ -148,7 +148,7 @@ ENDDEF
 DEF OPT101P U 0 40 Y Y 1 F N
 F0 "U?" -250 -50 60 H V C C N N
 F1 "OPT101P" 500 -600 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/opt101.pdf" 200 300 60 H I L C N N
 F4 "296-23090-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "OPT101P" 200 500 60 H I L CNN "MPN"
@@ -176,7 +176,7 @@ ENDDEF
 DEF APDS-9960 U 0 40 Y Y 1 F N
 F0 "U?" 100 400 60 H V C C N N
 F1 "APDS-9960" 400 -400 60 H V C C N N
-F2 "testfplib:APDS-9960" 200 200 60 H I L C N N
+F2 "digikey-footprints:APDS-9960" 200 200 60 H I L C N N
 F3 "https://docs.broadcom.com/docs/AV02-4191EN" 200 300 60 H I L C N N
 F4 "516-3480-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "APDS-9960" 200 500 60 H I L CNN "MPN"
@@ -204,7 +204,7 @@ ENDDEF
 DEF TSL235R-LF U 0 1 Y Y 1 F N
 F0 "U?" -200 200 60 H V C C N N
 F1 "TSL235R-LF" 0 500 60 H V C C N N
-F2 "testfplib:TSL235-R-LF-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:TSL235-R-LF-ND" 200 200 60 H I L C N N
 F3 "http://ams.com/eng/content/download/250249/975925/142301" 200 300 60 H I L C N N
 F4 "TSL235-R-LF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TSL235R-LF" 200 500 60 H I L CNN "MPN"

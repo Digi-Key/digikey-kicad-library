@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LM339N U 0 0 Y Y 1 F N
 F0 "U?" -200 50 60 H V C C N N
 F1 "LM339N" 0 300 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/LM/LM239A.pdf" 200 300 60 H I L C N N
 F4 "LM339NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM339N" 200 500 60 H I L CNN "MPN"
@@ -68,7 +68,7 @@ ENDDEF
 DEF LM339N296 U 0 0 Y Y 1 F N
 F0 "U?" 0 700 60 H V C C N N
 F1 "LM339N296" 500 -500 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm139a.pdf" 200 300 60 H I L C N N
 F4 "296-1393-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM339N" 200 500 60 H I L CNN "MPN"
@@ -126,7 +126,7 @@ ENDDEF
 DEF LM339AN U 0 0 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "LM339AN" 500 -600 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm139a.pdf" 200 300 60 H I L C N N
 F4 "296-6605-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM339AN" 200 500 60 H I L CNN "MPN"
@@ -184,7 +184,7 @@ ENDDEF
 DEF LM339DT U 0 0 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "LM339DT" 0 500 60 H V C C N N
-F2 "testfplib:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bf/7e/d7/a4/67/86/4e/89/CD00000460.pdf/files/CD00000460.pdf/jcr:content/translations/en.CD00000460.pdf" 200 300 60 H I L C N N
 F4 "497-1588-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM339DT" 200 500 60 H I L CNN "MPN"
@@ -246,7 +246,7 @@ ENDDEF
 DEF LM339ADR U 0 0 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "LM339ADR" 500 -600 60 H V C C N N
-F2 "testfplib:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm139a.pdf" 200 300 60 H I L C N N
 F4 "296-6604-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM339ADR" 200 500 60 H I L CNN "MPN"
@@ -304,7 +304,7 @@ ENDDEF
 DEF LM393N U 0 0 Y Y 1 F N
 F0 "U?" -200 200 60 H V C C N N
 F1 "LM393N" 0 500 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/LM/LM2903.pdf" 200 300 60 H I L C N N
 F4 "LM393NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM393N" 200 500 60 H I L CNN "MPN"
@@ -346,7 +346,7 @@ ENDDEF
 DEF LM311P U 0 0 Y Y 1 F N
 F0 "U?" -200 450 60 H V C C N N
 F1 "LM311P" 400 -500 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm211.pdf" 200 300 60 H I L C N N
 F4 "296-1389-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM311P" 200 500 60 H I L CNN "MPN"
@@ -390,7 +390,7 @@ ENDDEF
 DEF LM311N_NOPB U 0 0 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "LM311N_NOPB" 0 600 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm311-n.pdf" 200 300 60 H I L C N N
 F4 "LM311NNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM311N/NOPB" 200 500 60 H I L CNN "MPN"
@@ -422,7 +422,7 @@ ENDDEF
 DEF LM393DT U 0 0 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "LM393DT" 0 500 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/b4/cc/cf/13/18/28/44/f5/CD00000465/files/CD00000465.pdf/jcr:content/translations/en.CD00000465.pdf" 200 300 60 H I L C N N
 F4 "497-1593-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM393DT" 200 500 60 H I L CNN "MPN"
@@ -464,7 +464,7 @@ ENDDEF
 DEF LM2903DR U 0 0 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "LM2903DR" 500 -700 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm193.pdf" 200 300 60 H I L C N N
 F4 "296-1012-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM2903DR" 200 500 60 H I L CNN "MPN"
@@ -502,7 +502,7 @@ ENDDEF
 DEF LM393DR U 0 0 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "LM393DR" 500 -700 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm193.pdf" 200 300 60 H I L C N N
 F4 "296-1015-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM393DR" 200 500 60 H I L CNN "MPN"
@@ -540,7 +540,7 @@ ENDDEF
 DEF TL331IDBVR U 0 0 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "TL331IDBVR" 500 -200 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tl331.pdf" 200 300 60 H I L C N N
 F4 "296-10168-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL331IDBVR" 200 500 60 H I L CNN "MPN"
@@ -565,7 +565,7 @@ ENDDEF
 DEF LT1716CS5_TRMPBF U 0 0 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "LT1716CS5_TRMPBF" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/3319" 200 300 60 H I L C N N
 F4 "LT1716CS5#TRMPBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LT1716CS5#TRMPBF" 200 500 60 H I L CNN "MPN"
@@ -590,7 +590,7 @@ ENDDEF
 DEF TPS3700DDCR U 0 40 Y Y 1 F N
 F0 "U?" -250 150 60 H V C C N N
 F1 "TPS3700DDCR" 400 -500 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps3700.pdf" 200 300 60 H I L C N N
 F4 "296-30395-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS3700DDCR" 200 500 60 H I L CNN "MPN"

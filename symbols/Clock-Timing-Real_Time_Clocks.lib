@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF DS3234SN_ U 0 40 Y Y 1 F N
 F0 "U?" -100 750 60 H V C C N N
 F1 "DS3234SN_" 200 -200 60 V V C C N N
-F2 "testfplib:20-SOIC_(7.50mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-SOIC_(7.50mm_Width)" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/DS3234.pdf" 200 300 60 H I L C N N
 F4 "DS3234SN#-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS3234SN#" 200 500 60 H I L CNN "MPN"
@@ -46,7 +46,7 @@ ENDDEF
 DEF DS1307_ U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "DS1307_" 0 500 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/DS1307.pdf" 200 300 60 H I L C N N
 F4 "DS1307+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS1307+" 200 500 60 H I L CNN "MPN"
@@ -74,7 +74,7 @@ ENDDEF
 DEF DS3231MZ_V_ U 0 40 Y Y 1 F N
 F0 "U?" -200 50 60 H V C C N N
 F1 "DS3231MZ_V_" 0 400 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf" 200 300 60 H I L C N N
 F4 "DS3231MZ/V+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS3231MZ/V+" 200 500 60 H I L CNN "MPN"
@@ -102,7 +102,7 @@ ENDDEF
 DEF PCF8523T_1_118 U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "PCF8523T_1_118" 0 500 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.nxp.com/documents/data_sheet/PCF8523.pdf" 200 300 60 H I L C N N
 F4 "568-5306-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PCF8523T/1,118" 200 500 60 H I L CNN "MPN"

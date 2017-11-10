@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TCA9548APWR U 0 40 Y Y 1 F N
 F0 "U?" -150 1050 60 H V C C N N
 F1 "TCA9548APWR" 100 -50 60 V V C C N N
-F2 "testfplib:24-TSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:24-TSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tca9548a.pdf" 200 300 60 H I L C N N
 F4 "296-34905-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TCA9548APWR" 200 500 60 H I L CNN "MPN"

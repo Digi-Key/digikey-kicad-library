@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF CD14538BE U 0 40 Y Y 1 F N
 F0 "U?" -100 450 60 H V C C N N
 F1 "CD14538BE" 150 -250 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd14538b.pdf" 200 300 60 H I L C N N
 F4 "296-14074-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD14538BE" 200 500 60 H I L CNN "MPN"
@@ -42,7 +42,7 @@ ENDDEF
 DEF SN74LVC1G123DCTR U 0 40 Y Y 1 F N
 F0 "U?" -200 200 60 H V C C N N
 F1 "SN74LVC1G123DCTR" 800 -600 60 H V C C N N
-F2 "testfplib:SM8_2.80MM_Width" 200 200 60 H I L C N N
+F2 "digikey-footprints:SM8_2.80MM_Width" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g123.pdf" 200 300 60 H I L C N N
 F4 "296-18758-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G123DCTR" 200 500 60 H I L CNN "MPN"

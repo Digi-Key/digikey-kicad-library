@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF CMA-4544PF-W U 0 40 Y Y 1 F N
 F0 "MIC?" -200 300 60 H V C C N N
 F1 "CMA-4544PF-W" 0 -400 60 H V C C N N
-F2 "testfplib:102-1721-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:102-1721-ND" 200 200 60 H I L C N N
 F3 "http://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf" 200 300 60 H I L C N N
 F4 "102-1721-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CMA-4544PF-W" 200 500 60 H I L CNN "MPN"
@@ -29,7 +29,7 @@ ENDDEF
 DEF SPH0645LM4H-B U 0 40 Y Y 1 F N
 F0 "MIC?" -350 450 60 H V C C N N
 F1 "SPH0645LM4H-B" 350 -250 60 H V C C N N
-F2 "testfplib:SPH_3.50x2.65x0.98mm" 200 200 60 H I L C N N
+F2 "digikey-footprints:SPH_3.50x2.65x0.98mm" 200 200 60 H I L C N N
 F3 "http://www.knowles.com/eng/content/download/5988/105771/version/4/file/SPH0645LM4H-BRevB.PDF" 200 300 60 H I L C N N
 F4 "423-1405-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SPH0645LM4H-B" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF OH090U U 0 40 Y Y 1 F N
 F0 "Q?" -150 350 60 H V C C N N
 F1 "OH090U" 400 -300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_OH090-OHS3100.pdf" 200 300 60 H I L C N N
 F4 "365-1001-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "OH090U" 200 500 60 H I L CNN "MPN"
@@ -29,7 +29,7 @@ ENDDEF
 DEF US5881LUA-AAA-000-BU U 0 40 Y Y 1 F N
 F0 "Q?" 0 300 60 H V C C N N
 F1 "US5881LUA-AAA-000-BU" 600 -300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.melexis.com/-/media/files/documents/datasheets/us5881-datasheet-melexis.pdf" 200 300 60 H I L C N N
 F4 "US5881LUA-AAA-000-BU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "US5881LUA-AAA-000-BU" 200 500 60 H I L CNN "MPN"

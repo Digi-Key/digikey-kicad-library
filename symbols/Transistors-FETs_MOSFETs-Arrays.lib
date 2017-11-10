@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF DMHC3025LSD-13 U 0 1 Y Y 1 F N
 F0 "Q?" 0 300 60 H V C C N N
 F1 "DMHC3025LSD-13" 0 -400 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/DMHC3025LSD.pdf" 200 300 60 H I L C N N
 F4 "DMHC3025LSD-13DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DMHC3025LSD-13" 200 500 60 H I L CNN "MPN"
@@ -34,7 +34,7 @@ ENDDEF
 DEF 2N7002DW U 0 0 Y Y 1 F N
 F0 "Q?" -450 350 60 H V C C N N
 F1 "2N7002DW" 800 -350 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N7002DW.pdf" 200 300 60 H I L C N N
 F4 "2N7002DWCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7002DW" 200 500 60 H I L CNN "MPN"
@@ -88,7 +88,7 @@ ENDDEF
 DEF 2N7002DW-7-F U 0 0 Y Y 1 F N
 F0 "Q?" -450 350 60 H V C C N N
 F1 "2N7002DW-7-F" 900 -400 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds30120.pdf" 200 300 60 H I L C N N
 F4 "2N7002DW-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7002DW-7-F" 200 500 60 H I L CNN "MPN"
@@ -142,7 +142,7 @@ ENDDEF
 DEF FDG6303N U 0 0 Y Y 1 F N
 F0 "Q?" -450 350 60 H V C C N N
 F1 "FDG6303N" 800 -350 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/FD/FDG6303N.pdf" 200 300 60 H I L C N N
 F4 "FDG6303NCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FDG6303N" 200 500 60 H I L CNN "MPN"
@@ -196,7 +196,7 @@ ENDDEF
 DEF BSS138DW-7-F U 0 0 Y Y 1 F N
 F0 "Q?" -500 400 60 H V C C N N
 F1 "BSS138DW-7-F" 900 -400 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds30203.pdf" 200 300 60 H I L C N N
 F4 "BSS138DW-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BSS138DW-7-F" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MAX98306ETD_T U 0 0 Y Y 1 F N
 F0 "U?" -150 150 60 H V C C N N
 F1 "MAX98306ETD_T" 0 500 60 H V C C N N
-F2 "testfplib:14-WFDFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-WFDFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 300 60 H I L C N N
 F4 "MAX98306ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX98306ETD+T" 200 500 60 H I L CNN "MPN"
@@ -65,7 +65,7 @@ ENDDEF
 DEF MAX9814ETD_T U 0 40 Y Y 1 F N
 F0 "U?" -300 150 60 H V C C N N
 F1 "MAX9814ETD_T" 0 400 60 H V C C N N
-F2 "testfplib:14-WFDFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-WFDFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 300 60 H I L C N N
 F4 "MAX9814ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX9814ETD+T" 200 500 60 H I L CNN "MPN"
@@ -100,7 +100,7 @@ ENDDEF
 DEF TDA7293V U 0 40 Y Y 1 F N
 F0 "U?" -500 550 60 H V C C N N
 F1 "TDA7293V" 100 0 60 V V C C N N
-F2 "testfplib:15-Multiwatt" 200 200 60 H I L C N N
+F2 "digikey-footprints:15-Multiwatt" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/4f/18/a6/c8/21/33/41/8d/CD00001887.pdf/files/CD00001887.pdf/jcr:content/translations/en.CD00001887.pdf" 200 300 60 H I L C N N
 F4 "497-2170-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TDA7293V" 200 500 60 H I L CNN "MPN"
@@ -135,7 +135,7 @@ ENDDEF
 DEF TDA7294V U 0 40 Y Y 1 F N
 F0 "U?" -200 700 60 H V C C N N
 F1 "TDA7294V" 600 -600 60 V V C C N N
-F2 "testfplib:15-Multiwatt" 200 200 60 H I L C N N
+F2 "digikey-footprints:15-Multiwatt" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf" 200 300 60 H I L C N N
 F4 "497-2171-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TDA7294V" 200 500 60 H I L CNN "MPN"
@@ -170,7 +170,7 @@ ENDDEF
 DEF TPA2016D2RTJR U 0 40 Y Y 1 F N
 F0 "U?" -250 150 60 H V C C N N
 F1 "TPA2016D2RTJR" 600 -1100 60 H V C C N N
-F2 "testfplib:20-WQFN_(4x4)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-WQFN_(4x4)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf" 200 300 60 H I L C N N
 F4 "296-25430-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPA2016D2RTJR" 200 500 60 H I L CNN "MPN"
@@ -211,7 +211,7 @@ ENDDEF
 DEF MAX9744ETH_T U 0 40 Y Y 1 F N
 F0 "U?" -600 950 60 H V C C N N
 F1 "MAX9744ETH_T" -100 -100 60 V V C C N N
-F2 "testfplib:44-TQFN-EP_(7x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:44-TQFN-EP_(7x7)" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 200 300 60 H I L C N N
 F4 "MAX9744ETH+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX9744ETH+T" 200 500 60 H I L CNN "MPN"
@@ -276,7 +276,7 @@ ENDDEF
 DEF MAX4466EXK_T U 0 40 Y Y 1 F N
 F0 "U?" -150 150 60 H V C C N N
 F1 "MAX4466EXK_T" 0 500 60 H V C C N N
-F2 "testfplib:5-TSSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:5-TSSOP" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 300 60 H I L C N N
 F4 "MAX4466EXK+CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX4466EXK+T" 200 500 60 H I L CNN "MPN"
@@ -301,7 +301,7 @@ ENDDEF
 DEF LM386N-1_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -400 250 60 H V C C N N
 F1 "LM386N-1_NOPB" 300 -400 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
 F4 "296-44414-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM386N-1/NOPB" 200 500 60 H I L CNN "MPN"
@@ -329,7 +329,7 @@ ENDDEF
 DEF LM386N-3_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -400 250 60 H V C C N N
 F1 "LM386N-3_NOPB" 300 -400 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
 F4 "296-43959-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM386N-3/NOPB" 200 500 60 H I L CNN "MPN"
@@ -357,7 +357,7 @@ ENDDEF
 DEF LM386N-4_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -400 250 60 H V C C N N
 F1 "LM386N-4_NOPB" 300 -400 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
 F4 "296-43960-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM386N-4/NOPB" 200 500 60 H I L CNN "MPN"
@@ -385,7 +385,7 @@ ENDDEF
 DEF TPA2005D1DGNRQ1 U 0 40 Y Y 1 F N
 F0 "U?" -400 250 60 H V C C N N
 F1 "TPA2005D1DGNRQ1" 300 -500 60 H V C C N N
-F2 "testfplib:8-MSOP_(Exposed_Pad)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-MSOP_(Exposed_Pad)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf" 200 300 60 H I L C N N
 F4 "296-24831-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPA2005D1DGNRQ1" 200 500 60 H I L CNN "MPN"
@@ -414,7 +414,7 @@ ENDDEF
 DEF LM386MX-1_NOPB U 0 0 Y Y 1 F N
 F0 "U?" -200 200 60 H V C C N N
 F1 "LM386MX-1_NOPB" 0 500 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
 F4 "LM386MX-1/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM386MX-1/NOPB" 200 500 60 H I L CNN "MPN"
@@ -446,7 +446,7 @@ ENDDEF
 DEF LM3886T_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -200 200 60 H V C C N N
 F1 "LM3886T_NOPB" 0 500 60 H V C C N N
-F2 "testfplib:TO-220-11" 200 200 60 V I L C N N
+F2 "digikey-footprints:TO-220-11" 200 200 60 V I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm3886.pdf" 200 300 60 V I L C N N
 F4 "LM3886T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM3886T/NOPB" 200 500 60 H I L CNN "MPN"
@@ -477,7 +477,7 @@ ENDDEF
 DEF LM1875T_NOPB U 0 0 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "LM1875T_NOPB" 0 500 60 H V C C N N
-F2 "testfplib:TO-220-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm1875.pdf" 200 300 60 H I L C N N
 F4 "LM1875T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM1875T/NOPB" 200 500 60 H I L CNN "MPN"

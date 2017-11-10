@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MMA8652FCR1 U 0 40 Y Y 1 F N
 F0 "U?" -200 -50 60 H V C C N N
 F1 "MMA8652FCR1" 0 300 60 H V C C N N
-F2 "testfplib:10-DFN_(2X2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-DFN_(2X2)" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MMA8652FC.pdf" 200 300 60 H I L C N N
 F4 "MMA8652FCR1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMA8652FCR1" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF MMA8653FCR1 U 0 40 Y Y 1 F N
 F0 "U?" -200 -50 60 H V C C N N
 F1 "MMA8653FCR1" 0 300 60 H V C C N N
-F2 "testfplib:10-DFN_(2X2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-DFN_(2X2)" 200 200 60 H I L C N N
 F3 "http://cache.freescale.com/files/sensors/doc/data_sheet/MMA8653FC.pdf" 200 300 60 H I L C N N
 F4 "MMA8653FCR1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMA8653FCR1" 200 500 60 H I L CNN "MPN"
@@ -66,7 +66,7 @@ ENDDEF
 DEF MMA7660FCR1 U 0 40 Y Y 1 F N
 F0 "U?" -300 50 60 H V C C N N
 F1 "MMA7660FCR1" 0 400 60 H V C C N N
-F2 "testfplib:10-DFN_(3X3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-DFN_(3X3)" 200 200 60 H I L C N N
 F3 "http://cache.freescale.com/files/sensors/doc/data_sheet/MMA7660FC.pdf" 200 300 60 H I L C N N
 F4 "MMA7660FCR1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMA7660FCR1" 200 500 60 H I L CNN "MPN"
@@ -96,7 +96,7 @@ ENDDEF
 DEF LIS2DH12TR U 0 40 Y Y 1 F N
 F0 "U?" 0 50 60 H V C C N N
 F1 "LIS2DH12TR" 0 300 60 H V C C N N
-F2 "testfplib:12-LGA_(2X2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:12-LGA_(2X2)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/12/c0/5c/36/b9/58/46/f2/DM00091513.pdf/files/DM00091513.pdf/jcr:content/translations/en.DM00091513.pdf" 200 300 60 H I L C N N
 F4 "497-14851-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LIS2DH12TR" 200 500 60 H I L CNN "MPN"
@@ -128,7 +128,7 @@ ENDDEF
 DEF LIS2HH12TR U 0 1 Y Y 1 F N
 F0 "U?" -300 150 60 H V C C N N
 F1 "LIS2HH12TR" 0 500 60 H V C C N N
-F2 "testfplib:12-LGA_(2X2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:12-LGA_(2X2)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/f2/79/ca/31/47/89/DM00096789.pdf/files/DM00096789.pdf/jcr:content/translations/en.DM00096789.pdf" 200 300 60 H I L C N N
 F4 "497-15069-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LIS2HH12TR" 200 500 60 H I L CNN "MPN"
@@ -160,7 +160,7 @@ ENDDEF
 DEF LIS2DHTR U 0 40 Y Y 1 F N
 F0 "U?" -300 550 60 H V C C N N
 F1 "LIS2DHTR" 0 900 60 H V C C N N
-F2 "testfplib:14-LGA_(2X2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-LGA_(2X2)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c1/e1/62/31/d2/b1/4d/bb/DM00042751.pdf/files/DM00042751.pdf/jcr:content/translations/en.DM00042751.pdf" 200 300 60 H I L C N N
 F4 "497-13795-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LIS2DHTR" 200 500 60 H I L CNN "MPN"
@@ -194,7 +194,7 @@ ENDDEF
 DEF ADXL343BCCZ U 0 40 Y Y 1 F N
 F0 "U?" -300 250 60 H V C C N N
 F1 "ADXL343BCCZ" 0 500 60 H V C C N N
-F2 "testfplib:14-LGA_(3X5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-LGA_(3X5)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf" 200 300 60 H I L C N N
 F4 "ADXL343BCCZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL343BCCZ" 200 500 60 H I L CNN "MPN"
@@ -228,7 +228,7 @@ ENDDEF
 DEF ADXL345BCCZ U 0 40 Y Y 1 F N
 F0 "U?" -300 250 60 H V C C N N
 F1 "ADXL345BCCZ" 0 500 60 H V C C N N
-F2 "testfplib:14-LGA_(3X5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-LGA_(3X5)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 300 60 H I L C N N
 F4 "ADXL345BCCZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL345BCCZ" 200 500 60 H I L CNN "MPN"
@@ -262,7 +262,7 @@ ENDDEF
 DEF ADXL345BCCZ-RL7 U 0 40 Y Y 1 F N
 F0 "U?" -300 250 60 H V C C N N
 F1 "ADXL345BCCZ-RL7" 0 500 60 H V C C N N
-F2 "testfplib:14-LGA_(3X5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-LGA_(3X5)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 300 60 H I L C N N
 F4 "ADXL345BCCZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL345BCCZ-RL7" 200 500 60 H I L CNN "MPN"
@@ -296,7 +296,7 @@ ENDDEF
 DEF ADXL345BCCZ-RL U 0 40 Y Y 1 F N
 F0 "U?" -300 250 60 H V C C N N
 F1 "ADXL345BCCZ-RL" 0 500 60 H V C C N N
-F2 "testfplib:14-LGA_(3X5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-LGA_(3X5)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 300 60 H I L C N N
 F4 "ADXL345BCCZ-RLCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL345BCCZ-RL" 200 500 60 H I L CNN "MPN"
@@ -330,7 +330,7 @@ ENDDEF
 DEF ADXL377BCPZ-RL7 U 0 40 Y Y 1 F N
 F0 "U?" -150 150 60 H V C C N N
 F1 "ADXL377BCPZ-RL7" 0 500 60 H V C C N N
-F2 "testfplib:16-LFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-LFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf" 200 300 60 H I L C N N
 F4 "ADXL377BCPZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL377BCPZ-RL7" 200 500 60 H I L CNN "MPN"
@@ -367,7 +367,7 @@ ENDDEF
 DEF ADXL337BCPZ-RL7 U 0 40 Y Y 1 F N
 F0 "U?" -300 150 60 H V C C N N
 F1 "ADXL337BCPZ-RL7" 0 500 60 H V C C N N
-F2 "testfplib:16-LFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-LFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL337.pdf" 200 300 60 H I L C N N
 F4 "ADXL337BCPZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL337BCPZ-RL7" 200 500 60 H I L CNN "MPN"
@@ -404,7 +404,7 @@ ENDDEF
 DEF ADXL326BCPZ-RL7 U 0 40 Y Y 1 F N
 F0 "U?" -350 650 60 H V C C N N
 F1 "ADXL326BCPZ-RL7" -50 -150 60 V V C C N N
-F2 "testfplib:16-LFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-LFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf" 200 300 60 H I L C N N
 F4 "ADXL326BCPZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL326BCPZ-RL7" 200 500 60 H I L CNN "MPN"
@@ -441,7 +441,7 @@ ENDDEF
 DEF ADXL335BCPZ-RL7 U 0 40 Y Y 1 F N
 F0 "U?" -350 250 60 H V C C N N
 F1 "ADXL335BCPZ-RL7" 0 600 60 H V C C N N
-F2 "testfplib:16-LFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-LFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf" 200 300 60 H I L C N N
 F4 "ADXL335BCPZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL335BCPZ-RL7" 200 500 60 H I L CNN "MPN"
@@ -478,7 +478,7 @@ ENDDEF
 DEF H3LIS331DLTR U 0 40 Y Y 1 F N
 F0 "U?" -400 50 60 H V C C N N
 F1 "H3LIS331DLTR" 0 400 60 H V C C N N
-F2 "testfplib:16-TFLGA_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-TFLGA_(3x3)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/3e/48/02/c7/a4/e6/41/bb/DM00053090.pdf/files/DM00053090.pdf/jcr:content/translations/en.DM00053090.pdf" 200 300 60 H I L C N N
 F4 "497-13903-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "H3LIS331DLTR" 200 500 60 H I L CNN "MPN"
@@ -514,7 +514,7 @@ ENDDEF
 DEF ADXL362BCCZ-RL7 U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "ADXL362BCCZ-RL7" 0 500 60 H V C C N N
-F2 "testfplib:16-TFLGA_(3x3.25)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-TFLGA_(3x3.25)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf" 200 300 60 H I L C N N
 F4 "ADXL362BCCZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL362BCCZ-RL7" 200 500 60 H I L CNN "MPN"
@@ -550,7 +550,7 @@ ENDDEF
 DEF LIS3DHTR U 0 40 Y Y 1 F N
 F0 "U?" -350 550 60 H V C C N N
 F1 "LIS3DHTR" 500 -500 60 H V C C N N
-F2 "testfplib:16-VFLGA_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-VFLGA_(3x3)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/3c/ae/50/85/d6/b1/46/fe/CD00274221.pdf/files/CD00274221.pdf/jcr:content/translations/en.CD00274221.pdf" 200 300 60 H I L C N N
 F4 "497-10613-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LIS3DHTR" 200 500 60 H I L CNN "MPN"
@@ -586,7 +586,7 @@ ENDDEF
 DEF LIS3DSHTR U 0 40 Y Y 1 F N
 F0 "U?" -300 550 60 H V C C N N
 F1 "LIS3DSHTR" 0 900 60 H V C C N N
-F2 "testfplib:16-VFLGA_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-VFLGA_(3x3)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/23/c3/ea/bf/8f/d9/41/df/DM00040962.pdf/files/DM00040962.pdf/jcr:content/translations/en.DM00040962.pdf" 200 300 60 H I L C N N
 F4 "497-13244-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LIS3DSHTR" 200 500 60 H I L CNN "MPN"
@@ -622,7 +622,7 @@ ENDDEF
 DEF LIS331DLHTR U 0 40 Y Y 1 F N
 F0 "U?" -300 550 60 H V C C N N
 F1 "LIS331DLHTR" 700 -500 60 H V C C N N
-F2 "testfplib:16-VFLGA_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-VFLGA_(3x3)" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/LIS331DLH(TR).pdf" 200 300 60 H I L C N N
 F4 "497-10397-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LIS331DLHTR" 200 500 60 H I L CNN "MPN"
@@ -658,7 +658,7 @@ ENDDEF
 DEF MMA8451QR1 U 0 40 Y Y 1 F N
 F0 "U?" -300 -250 60 H V C C N N
 F1 "MMA8451QR1" 0 200 60 H V C C N N
-F2 "testfplib:16-VQFN_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-VQFN_(3x3)" 200 200 60 H I L C N N
 F3 "http://cache.freescale.com/files/sensors/doc/data_sheet/MMA8451Q.pdf" 200 300 60 H I L C N N
 F4 "MMA8451QR1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMA8451QR1" 200 500 60 H I L CNN "MPN"
@@ -694,7 +694,7 @@ ENDDEF
 DEF MMA8451QT U 0 40 Y Y 1 F N
 F0 "U?" -300 -250 60 H V C C N N
 F1 "MMA8451QT" 0 200 60 H V C C N N
-F2 "testfplib:16-VQFN_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-VQFN_(3x3)" 200 200 60 H I L C N N
 F3 "http://cache.freescale.com/files/sensors/doc/data_sheet/MMA8451Q.pdf" 200 300 60 H I L C N N
 F4 "MMA8451QT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMA8451QT" 200 500 60 H I L CNN "MPN"
@@ -730,7 +730,7 @@ ENDDEF
 DEF MMA8452QR1 U 0 40 Y Y 1 F N
 F0 "U?" -300 -250 60 H V C C N N
 F1 "MMA8452QR1" 0 200 60 H V C C N N
-F2 "testfplib:16-VQFN_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-VQFN_(3x3)" 200 200 60 H I L C N N
 F3 "http://cache.freescale.com/files/sensors/doc/data_sheet/MMA8452Q.pdf" 200 300 60 H I L C N N
 F4 "MMA8452QR1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMA8452QR1" 200 500 60 H I L CNN "MPN"
@@ -766,7 +766,7 @@ ENDDEF
 DEF MMA8452QT U 0 40 Y Y 1 F N
 F0 "U?" -300 -250 60 H V C C N N
 F1 "MMA8452QT" 0 200 60 H V C C N N
-F2 "testfplib:16-VQFN_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-VQFN_(3x3)" 200 200 60 H I L C N N
 F3 "http://cache.freescale.com/files/sensors/doc/data_sheet/MMA8452Q.pdf" 200 300 60 H I L C N N
 F4 "MMA8452QT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMA8452QT" 200 500 60 H I L CNN "MPN"

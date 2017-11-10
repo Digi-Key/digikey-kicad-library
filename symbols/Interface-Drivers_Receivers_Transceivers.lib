@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TFP401APZP U 0 40 Y Y 2 L N
 F0 "U?" -400 1900 60 H V C C N N
 F1 "TFP401APZP" 0 0 60 V V C C N N
-F2 "testfplib:100-HTQFP-14x14" 200 200 60 H I L C N N
+F2 "digikey-footprints:100-HTQFP-14x14" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tfp401a.pdf" 200 300 60 H I L C N N
 F4 "296-9991-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TFP401APZP" 200 500 60 H I L CNN "MPN"
@@ -128,7 +128,7 @@ ENDDEF
 DEF MAX232N U 0 40 Y Y 1 F N
 F0 "U?" -350 350 60 H V C C N N
 F1 "MAX232N" 0 -200 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/max232.pdf" 200 300 60 H I L C N N
 F4 "296-1402-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX232N" 200 500 60 H I L CNN "MPN"
@@ -164,7 +164,7 @@ ENDDEF
 DEF MAX3232CPE_ U 0 40 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "MAX3232CPE_" 0 -300 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" 200 300 60 H I L C N N
 F4 "MAX3232CPE+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX3232CPE+" 200 500 60 H I L CNN "MPN"
@@ -200,7 +200,7 @@ ENDDEF
 DEF MCP2551-I_SN U 0 40 Y Y 1 F N
 F0 "U?" -200 350 60 H V C C N N
 F1 "MCP2551-I_SN" 0 700 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011797" 200 300 60 H I L C N N
 F4 "MCP2551-I/SN-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP2551-I/SN" 200 500 60 H I L CNN "MPN"
@@ -228,7 +228,7 @@ ENDDEF
 DEF SN65HVD230DR U 0 40 Y Y 1 F N
 F0 "U?" -100 50 60 H V C C N N
 F1 "SN65HVD230DR" 600 -700 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf" 200 300 60 H I L C N N
 F4 "296-11654-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN65HVD230DR" 200 500 60 H I L CNN "MPN"
@@ -256,7 +256,7 @@ ENDDEF
 DEF SN75176BDR U 0 0 Y Y 1 F N
 F0 "U?" -150 -50 60 H V C C N N
 F1 "SN75176BDR" 500 -700 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn65176b.pdf" 200 300 60 H I L C N N
 F4 "296-1275-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN75176BDR" 200 500 60 H I L CNN "MPN"
@@ -312,7 +312,7 @@ ENDDEF
 DEF SP3485EN-L_TR U 0 0 Y Y 1 F N
 F0 "U?" -250 50 60 H V C C N N
 F1 "SP3485EN-L_TR" 500 -600 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "https://www.exar.com/content/document.ashx?id=639" 200 300 60 H I L C N N
 F4 "1016-1817-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SP3485EN-L/TR" 200 500 60 H I L CNN "MPN"

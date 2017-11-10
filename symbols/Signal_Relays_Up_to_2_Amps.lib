@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 9007-05-00 U 0 40 Y Y 1 F N
 F0 "RLY?" -200 300 60 H V C C N N
 F1 "9007-05-00" -200 -200 60 H V C C N N
-F2 "testfplib:306-1062-ND" 200 200 60 V I L C N N
+F2 "digikey-footprints:306-1062-ND" 200 200 60 V I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Coto%20Technology%20PDFS/9000_Spartan_Series.pdf" 200 300 60 V I L C N N
 F4 "306-1062-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "9007-05-00" 200 500 60 H I L CNN "MPN"
@@ -40,7 +40,7 @@ ENDDEF
 DEF EC2-12NU U 0 40 Y Y 1 F N
 F0 "RLY?" -350 550 60 H V C C N N
 F1 "EC2-12NU" -100 -100 60 H V C C N N
-F2 "testfplib:399-11029-5-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:399-11029-5-ND" 200 200 60 H I L C N N
 F3 "https://search.kemet.com/component-edge/download/datasheet/EC2-12NU.pdf" 200 300 60 H I L C N N
 F4 "399-11029-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "EC2-12NU" 200 500 60 H I L CNN "MPN"
@@ -68,7 +68,7 @@ ENDDEF
 DEF EC2-5NU U 0 40 Y Y 1 F N
 F0 "RLY?" -350 550 60 H V C C N N
 F1 "EC2-5NU" -100 -100 60 H V C C N N
-F2 "testfplib:399-11052-5-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:399-11052-5-ND" 200 200 60 H I L C N N
 F3 "https://search.kemet.com/component-edge/download/datasheet/EC2-5NU.pdf" 200 300 60 H I L C N N
 F4 "399-11052-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "EC2-5NU" 200 500 60 H I L CNN "MPN"
@@ -96,7 +96,7 @@ ENDDEF
 DEF G5V-2-DC12 U 0 40 Y Y 1 F N
 F0 "RLY?" 0 300 60 H V C C N N
 F1 "G5V-2-DC12" 0 -400 60 H V C C N N
-F2 "testfplib:Z768-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:Z768-ND" 200 200 60 H I L C N N
 F3 "http://www.omron.com/ecb/products/pdf/en-g5v_2.pdf" 200 300 60 H I L C N N
 F4 "Z768-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "G5V-2-DC12" 200 500 60 H I L CNN "MPN"
@@ -124,7 +124,7 @@ ENDDEF
 DEF G5V-1-DC5 U 0 40 Y Y 1 F N
 F0 "RLY?" 0 400 60 H V C C N N
 F1 "G5V-1-DC5" 0 -300 60 H V C C N N
-F2 "testfplib:Z773-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:Z773-ND" 200 200 60 H I L C N N
 F3 "http://www.omron.com/ecb/products/pdf/en-g5v_1.pdf" 200 300 60 H I L C N N
 F4 "Z773-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "G5V-1-DC5" 200 500 60 H I L CNN "MPN"
@@ -150,7 +150,7 @@ ENDDEF
 DEF G5V-1-DC12 U 0 40 Y Y 1 F N
 F0 "RLY?" 0 400 60 H V C C N N
 F1 "G5V-1-DC12" 0 -300 60 H V C C N N
-F2 "testfplib:Z774-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:Z774-ND" 200 200 60 H I L C N N
 F3 "http://www.omron.com/ecb/products/pdf/en-g5v_1.pdf" 200 300 60 H I L C N N
 F4 "Z774-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "G5V-1-DC12" 200 500 60 H I L CNN "MPN"

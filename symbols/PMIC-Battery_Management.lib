@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LTC4150IMS_PBF U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "LTC4150IMS_PBF" 600 -700 60 H V C C N N
-F2 "testfplib:10-MSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-MSOP" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/1556" 200 300 60 H I L C N N
 F4 "LTC4150IMS#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTC4150IMS#PBF" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF BQ29700DSET U 0 40 Y Y 1 F N
 F0 "U?" -150 150 60 H V C C N N
 F1 "BQ29700DSET" 500 -400 60 H V C C N N
-F2 "testfplib:6-WSON_(1.5x1.5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:6-WSON_(1.5x1.5)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/bq2971.pdf" 200 300 60 H I L C N N
 F4 "296-37746-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BQ29700DSET" 200 500 60 H I L CNN "MPN"
@@ -62,7 +62,7 @@ ENDDEF
 DEF LTC2943IDD_PBF U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "LTC2943IDD_PBF" 0 300 60 H V C C N N
-F2 "testfplib:8-DFN_(3x3)_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DFN_(3x3)_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/44018" 200 300 60 H I L C N N
 F4 "LTC2943IDD#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTC2943IDD#PBF" 200 500 60 H I L CNN "MPN"

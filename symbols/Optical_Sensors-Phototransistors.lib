@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TEMT6000X01 U 0 0 Y Y 1 F N
 F0 "Q?" 0 300 60 H V C C N N
 F1 "TEMT6000X01" 0 400 60 H V C C N N
-F2 "testfplib:TEMT6000X01" 200 200 60 H I L C N N
+F2 "digikey-footprints:TEMT6000X01" 200 200 60 H I L C N N
 F3 "http://www.vishay.com/docs/81579/temt6000.pdf" 200 300 60 H I L C N N
 F4 "751-1055-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TEMT6000X01" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF ~ALS-PT19-315C_L177_TR8 U 0 40 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "ALS-PT19-315C_L177_TR8" 0 -250 60 H I C C N N
-F2 "testfplib:2SMD_(1.7x0.8mm)" 200 200 60 H I L C N N
+F2 "digikey-footprints:2SMD_(1.7x0.8mm)" 200 200 60 H I L C N N
 F3 "http://www.everlight.com/file/ProductFile/201407061531031645.pdf" 200 300 60 H I L C N N
 F4 "1080-1244-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ALS-PT19-315C/L177/TR8" 200 500 60 H I L CNN "MPN"
@@ -66,7 +66,7 @@ ENDDEF
 DEF LTR-301 U 0 40 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "LTR-301" 0 -250 60 H V C C N N
-F2 "testfplib:LED_3mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-50-93-0013/LTR-301.pdf" 200 300 60 H I L C N N
 F4 "160-1065-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTR-301" 200 500 60 H I L CNN "MPN"
@@ -96,7 +96,7 @@ ENDDEF
 DEF LTR-4206E U 0 40 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "LTR-4206E" 0 -250 60 H V C C N N
-F2 "testfplib:LED_3mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-50-92-0073/R4206E.pdf" 200 300 60 H I L C N N
 F4 "160-1030-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTR-4206E" 200 500 60 H I L CNN "MPN"

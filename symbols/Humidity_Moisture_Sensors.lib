@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF HIH-4030-001 U 0 40 Y Y 1 F N
 F0 "U?" -150 350 60 H V C C N N
 F1 "HIH-4030-001" 600 -200 60 H V C C N N
-F2 "testfplib:480-3166-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:480-3166-1-ND" 200 200 60 H I L C N N
 F3 "http://sensing.honeywell.com/index.php/ci_id/51625/la_id/1/document/1/re_id/0" 200 300 60 H I L C N N
 F4 "480-3166-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "HIH-4030-001" 200 500 60 H I L CNN "MPN"
@@ -30,7 +30,7 @@ ENDDEF
 DEF HIH6130-021-001 U 0 40 Y Y 1 F N
 F0 "U?" -250 350 60 H V C C N N
 F1 "HIH6130-021-001" 500 -200 60 H V C C N N
-F2 "testfplib:480-3651-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:480-3651-1-ND" 200 200 60 H I L C N N
 F3 "https://sensing.honeywell.com/honeywell-sensing-humidicon-hih6100-series-product-sheet-009059-6-en.pdf" 200 300 60 H I L C N N
 F4 "480-3651-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "HIH6130-021-001" 200 500 60 H I L CNN "MPN"
@@ -58,7 +58,7 @@ ENDDEF
 DEF BME280 U 0 40 Y Y 1 F N
 F0 "U?" -300 400 60 H V C C N N
 F1 "BME280" 300 -400 60 H V C C N N
-F2 "testfplib:BME280" 200 200 60 H I L C N N
+F2 "digikey-footprints:BME280" 200 200 60 H I L C N N
 F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-11.pdf" 200 300 60 H I L C N N
 F4 "828-1063-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BME280" 200 500 60 H I L CNN "MPN"
@@ -86,7 +86,7 @@ ENDDEF
 DEF SHT15 U 0 40 Y Y 1 F N
 F0 "U?" -150 350 60 H V C C N N
 F1 "SHT15" 450 -450 60 H V C C N N
-F2 "testfplib:SHT15" 200 200 60 H I L C N N
+F2 "digikey-footprints:SHT15" 200 200 60 H I L C N N
 F3 "https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Sensirion_Humidity_Sensors_SHT1x_Datasheet_V5.pdf" 200 300 60 H I L C N N
 F4 "1649-1003-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SHT15" 200 500 60 H I L CNN "MPN"

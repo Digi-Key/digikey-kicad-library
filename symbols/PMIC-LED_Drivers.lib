@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TLC5916IN U 0 40 Y Y 1 F N
 F0 "U?" -250 250 60 H V C C N N
 F1 "TLC5916IN" 400 -900 60 H V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tlc5916.pdf" 200 300 60 H I L C N N
 F4 "296-24383-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC5916IN" 200 500 60 H I L CNN "MPN"
@@ -42,7 +42,7 @@ ENDDEF
 DEF TLC59711PWPR U 0 40 Y Y 1 F N
 F0 "U?" -200 450 60 H V C C N N
 F1 "TLC59711PWPR" 0 -300 60 V V C C N N
-F2 "testfplib:20-HTSSOP_(4.4mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-HTSSOP_(4.4mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tlc59711.pdf" 200 300 60 H I L C N N
 F4 "296-36745-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC59711PWPR" 200 500 60 H I L CNN "MPN"
@@ -83,7 +83,7 @@ ENDDEF
 DEF LP55231SQE_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -300 150 60 H V C C N N
 F1 "LP55231SQE_NOPB" -100 -400 60 V V C C N N
-F2 "testfplib:24-WQFN_(4x4)" 200 200 60 H I L C N N
+F2 "digikey-footprints:24-WQFN_(4x4)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lp55231.pdf" 200 300 60 H I L C N N
 F4 "296-39059-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LP55231SQE/NOPB" 200 500 60 H I L CNN "MPN"
@@ -128,7 +128,7 @@ ENDDEF
 DEF TLC5940PWPR U 0 40 Y Y 1 F N
 F0 "U?" -100 550 60 H V C C N N
 F1 "TLC5940PWPR" 0 -500 60 V V C C N N
-F2 "testfplib:28-HTSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-HTSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tlc5940.pdf" 200 300 60 H I L C N N
 F4 "296-35975-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC5940PWPR" 200 500 60 H I L CNN "MPN"
@@ -178,7 +178,7 @@ ENDDEF
 DEF IS31FL3731-SALS2 U 0 40 Y Y 1 F N
 F0 "U?" -200 850 60 H V C C N N
 F1 "IS31FL3731-SALS2" 100 -500 60 V V C C N N
-F2 "testfplib:28-SSOP_(5.30mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-SSOP_(5.30mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.issi.com/WW/pdf/31FL3731.pdf" 200 300 60 H I L C N N
 F4 "706-1412-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IS31FL3731-SALS2" 200 500 60 H I L CNN "MPN"
@@ -226,7 +226,7 @@ ENDDEF
 DEF TLC59116IPWR U 0 40 Y Y 1 F N
 F0 "U?" -450 450 60 H V C C N N
 F1 "TLC59116IPWR" -250 -400 60 V V C C N N
-F2 "testfplib:28-TSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-TSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tlc59116.pdf" 200 300 60 H I L C N N
 F4 "296-23354-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC59116IPWR" 200 500 60 H I L CNN "MPN"
@@ -274,7 +274,7 @@ ENDDEF
 DEF PCA9685PW_Q900_118 U 0 40 Y Y 1 F N
 F0 "U?" -250 850 60 H V C C N N
 F1 "PCA9685PW_Q900_118" 0 0 60 V V C C N N
-F2 "testfplib:28-TSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-TSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.nxp.com/documents/data_sheet/PCA9685.pdf" 200 300 60 H I L C N N
 F4 "568-5931-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PCA9685PW/Q900,118" 200 500 60 H I L CNN "MPN"
@@ -322,7 +322,7 @@ ENDDEF
 DEF PCA9685PW_112 U 0 40 Y Y 1 F N
 F0 "U?" -200 850 60 H V C C N N
 F1 "PCA9685PW_112" 0 0 60 V V C C N N
-F2 "testfplib:28-TSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-TSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.nxp.com/documents/data_sheet/PCA9685.pdf" 200 300 60 H I L C N N
 F4 "568-8366-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PCA9685PW,112" 200 500 60 H I L CNN "MPN"
@@ -370,7 +370,7 @@ ENDDEF
 DEF A6211GLJTR-T U 0 40 Y Y 1 F N
 F0 "U?" -250 150 60 H V C C N N
 F1 "A6211GLJTR-T" 700 -400 60 H V C C N N
-F2 "testfplib:8-PowerSOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-PowerSOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.allegromicro.com/~/media/Files/Datasheets/A6211-Datasheet.pdf" 200 300 60 H I L C N N
 F4 "620-1477-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "A6211GLJTR-T" 200 500 60 H I L CNN "MPN"
@@ -399,7 +399,7 @@ ENDDEF
 DEF TPS61040DBVR U 0 40 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "TPS61040DBVR" 200 0 60 V V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps61041.pdf" 200 300 60 H I L C N N
 F4 "296-12685-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS61040DBVR" 200 500 60 H I L CNN "MPN"
@@ -424,7 +424,7 @@ ENDDEF
 DEF TPS61041DBVR U 0 40 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "TPS61041DBVR" 200 0 60 V V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps61040.pdf" 200 300 60 H I L C N N
 F4 "296-12686-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS61041DBVR" 200 500 60 H I L CNN "MPN"
@@ -449,7 +449,7 @@ ENDDEF
 DEF TPS61165DBVR U 0 40 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "TPS61165DBVR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps61165.pdf" 200 300 60 H I L C N N
 F4 "296-27597-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS61165DBVR" 200 500 60 H I L CNN "MPN"

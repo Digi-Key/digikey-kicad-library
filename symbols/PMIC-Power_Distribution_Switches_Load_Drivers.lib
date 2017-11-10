@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ULN2003AN U 0 0 Y Y 1 F N
 F0 "U?" 0 600 60 H V C C N N
 F1 "ULN2003AN" 0 700 60 H V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/uln2003a.pdf" 200 300 60 H I L C N N
 F4 "296-1979-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULN2003AN" 200 500 60 H I L CNN "MPN"
@@ -70,7 +70,7 @@ ENDDEF
 DEF ULN2003A U 0 0 Y Y 1 F N
 F0 "U?" 0 600 60 H V C C N N
 F1 "ULN2003A" 0 700 60 H V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/f3/6e/c8/64/4d/b3/4e/38/CD00001244.pdf/files/CD00001244.pdf/jcr:content/translations/en.CD00001244.pdf" 200 300 60 H I L C N N
 F4 "497-2344-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULN2003A" 200 500 60 H I L CNN "MPN"
@@ -175,7 +175,7 @@ ENDDEF
 DEF ULN2003D1013TR U 0 0 Y Y 1 F N
 F0 "U?" 0 600 60 H V C C N N
 F1 "ULN2003D1013TR" 0 700 60 H V C C N N
-F2 "testfplib:16SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/f3/6e/c8/64/4d/b3/4e/38/CD00001244.pdf/files/CD00001244.pdf/jcr:content/translations/en.CD00001244.pdf" 200 300 60 H I L C N N
 F4 "497-2345-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULN2003D1013TR" 200 500 60 H I L CNN "MPN"
@@ -280,7 +280,7 @@ ENDDEF
 DEF ULN2003ADR U 0 0 Y Y 1 F N
 F0 "U?" 0 600 60 H V C C N N
 F1 "ULN2003ADR" 0 700 60 H V C C N N
-F2 "testfplib:16SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/uln2003a.pdf" 200 300 60 H I L C N N
 F4 "296-1368-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULN2003ADR" 200 500 60 H I L CNN "MPN"
@@ -385,7 +385,7 @@ ENDDEF
 DEF MIC2026-1YM-TR U 0 40 Y Y 1 F N
 F0 "U?" -250 50 60 H V C C N N
 F1 "MIC2026-1YM-TR" 0 300 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579448" 200 300 60 H I L C N N
 F4 "576-1059-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MIC2026-1YM-TR" 200 500 60 H I L CNN "MPN"
@@ -413,7 +413,7 @@ ENDDEF
 DEF STMPS2141STR U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "STMPS2141STR" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/e8/d7/48/25/eb/87/45/b3/CD00167470.pdf/files/CD00167470.pdf/jcr:content/translations/en.CD00167470.pdf" 200 300 60 H I L C N N
 F4 "497-6933-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "STMPS2141STR" 200 500 60 H I L CNN "MPN"
@@ -438,7 +438,7 @@ ENDDEF
 DEF TPS2051BDBVR U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "TPS2051BDBVR" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps2051b.pdf" 200 300 60 H I L C N N
 F4 "296-21265-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS2051BDBVR" 200 500 60 H I L CNN "MPN"
@@ -463,7 +463,7 @@ ENDDEF
 DEF TPS27081ADDCR U 0 40 Y Y 1 F N
 F0 "U?" -100 250 60 H V C C N N
 F1 "TPS27081ADDCR" 600 -500 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps27081a.pdf" 200 300 60 H I L C N N
 F4 "296-34970-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS27081ADDCR" 200 500 60 H I L CNN "MPN"

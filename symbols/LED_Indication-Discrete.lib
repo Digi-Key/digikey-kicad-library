@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ~LTST-C150TBKT U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTST-C150TBKT" -50 -150 60 H I C C N N
-F2 "testfplib:1206" 200 200 60 H I L C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-026/LTST-C150TBKT(0630).pdf" 200 300 60 H I L C N N
 F4 "160-1643-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C150TBKT" 200 500 60 H I L CNN "MPN"
@@ -37,7 +37,7 @@ ENDDEF
 DEF ~LTST-C150KGKT U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LTST-C150KGKT" 0 -200 60 H I C C N N
-F2 "testfplib:1206" 200 200 60 H I L C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-072/LTST-C150KGKT.pdf" 200 300 60 H I L C N N
 F4 "160-1404-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C150KGKT" 200 500 60 H I L CNN "MPN"
@@ -68,7 +68,7 @@ ENDDEF
 DEF ~LTST-C230KFKT U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTST-C230KFKT" -50 -150 60 H I C C N N
-F2 "testfplib:1206" 200 200 60 H I L C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf" 200 300 60 H I L C N N
 F4 "160-2025-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C230KFKT" 200 500 60 H I L CNN "MPN"
@@ -99,7 +99,7 @@ ENDDEF
 DEF ~LTST-C150KRKT U 0 0 Y Y 1 F N
 F0 "D?" -150 200 60 H V C C N N
 F1 "LTST-C150KRKT" -50 -150 60 H I C C N N
-F2 "testfplib:1206" 200 200 60 H I L C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0149/LTST-C150KRKT.pdf" 200 300 60 H I L C N N
 F4 "160-1405-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C150KRKT" 200 500 60 H I L CNN "MPN"
@@ -130,7 +130,7 @@ ENDDEF
 DEF ~LTST-C150KSKT U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LTST-C150KSKT" -50 -150 60 H I C C N N
-F2 "testfplib:1206" 200 200 60 H I L C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0187/LTST-C150KSKT.pdf" 200 300 60 H I L C N N
 F4 "160-1406-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C150KSKT" 200 500 60 H I L CNN "MPN"
@@ -161,7 +161,7 @@ ENDDEF
 DEF ~LTST-C191TBKT U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTST-C191TBKT" 0 -150 60 H I C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-230/LTST-C191TBKT.pdf" 200 300 60 H I L C N N
 F4 "160-1647-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C191TBKT" 200 500 60 H I L CNN "MPN"
@@ -192,7 +192,7 @@ ENDDEF
 DEF ~LTST-C193TBKT-5A U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTST-C193TBKT-5A" 0 -150 60 H I C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C193TBKT-5A.pdf" 200 300 60 H I L C N N
 F4 "160-1827-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C193TBKT-5A" 200 500 60 H I L CNN "MPN"
@@ -223,7 +223,7 @@ ENDDEF
 DEF ~LTST-C190KGKT U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTST-C190KGKT" -50 -150 60 H I C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-074/LTST-C190KGKT.PDF" 200 300 60 H I L C N N
 F4 "160-1435-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C190KGKT" 200 500 60 H I L CNN "MPN"
@@ -254,7 +254,7 @@ ENDDEF
 DEF ~LG_L29K-G2J1-24-Z U 0 0 Y Y 1 F N
 F0 "D?" -200 150 60 H V C C N N
 F1 "LG_L29K-G2J1-24-Z" 0 -150 60 H I C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://www.osram-os.com/Graphics/XPic0/00167682_0.pdf" 200 300 60 H I L C N N
 F4 "475-2709-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LG L29K-G2J1-24-Z" 200 500 60 H I L CNN "MPN"
@@ -285,7 +285,7 @@ ENDDEF
 DEF ~LTST-C191KFKT U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LTST-C191KFKT" 0 -150 60 H I C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-222/LTST-C191KFKT.pdf" 200 300 60 H I L C N N
 F4 "160-1445-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C191KFKT" 200 500 60 H I L CNN "MPN"
@@ -316,7 +316,7 @@ ENDDEF
 DEF ~LTST-C190KRKT U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTST-C190KRKT" 0 -150 60 H I C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0151/LTST-C190KRKT.pdf" 200 300 60 H I L C N N
 F4 "160-1436-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C190KRKT" 200 500 60 H I L CNN "MPN"
@@ -347,7 +347,7 @@ ENDDEF
 DEF ~LTST-C190KSKT U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTST-C190KSKT" 0 -150 60 H I C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0189/LTST-C190KSKT.pdf" 200 300 60 H I L C N N
 F4 "160-1437-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C190KSKT" 200 500 60 H I L CNN "MPN"
@@ -378,7 +378,7 @@ ENDDEF
 DEF ~LTST-C170TBKT U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTST-C170TBKT" 0 -150 60 H I C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0226/LTST-C170TBKT.pdf" 200 300 60 H I L C N N
 F4 "160-1579-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C170TBKT" 200 500 60 H I L CNN "MPN"
@@ -409,7 +409,7 @@ ENDDEF
 DEF ~LTST-C171KGKT U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LTST-C171KGKT" -50 -150 60 H I C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf" 200 300 60 H I L C N N
 F4 "160-1426-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C171KGKT" 200 500 60 H I L CNN "MPN"
@@ -440,7 +440,7 @@ ENDDEF
 DEF ~LG_R971-KN-1 U 0 0 Y Y 1 F N
 F0 "D?" -200 150 60 H V C C N N
 F1 "LG_R971-KN-1" -50 -150 60 H I C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "http://www.osram-os.com/Graphics/XPic9/00078860_0.pdf" 200 300 60 H I L C N N
 F4 "475-1410-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LG R971-KN-1" 200 500 60 H I L CNN "MPN"
@@ -471,7 +471,7 @@ ENDDEF
 DEF ~LTST-C170KFKT U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LTST-C170KFKT" -50 -150 60 H I C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0185/LTST-C170KFKT.pdf" 200 300 60 H I L C N N
 F4 "160-1413-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C170KFKT" 200 500 60 H I L CNN "MPN"
@@ -502,7 +502,7 @@ ENDDEF
 DEF ~LTST-C171KRKT U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTST-C171KRKT" -50 -150 60 H I C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-109/LTST-C171KRKT.pdf" 200 300 60 H I L C N N
 F4 "160-1427-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C171KRKT" 200 500 60 H I L CNN "MPN"
@@ -533,7 +533,7 @@ ENDDEF
 DEF ~LH_R974-LP-1 U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LH_R974-LP-1" -50 -150 60 H I C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "http://www.osram-os.com/Graphics/XPic8/00078869_0.pdf" 200 300 60 H I L C N N
 F4 "475-1415-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LH R974-LP-1" 200 500 60 H I L CNN "MPN"
@@ -564,7 +564,7 @@ ENDDEF
 DEF ~LTST-C171KSKT U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LTST-C171KSKT" -50 -150 60 H I C C N N
-F2 "testfplib:0805" 200 200 60 H I L C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-110/LTST-C171KSKT.pdf" 200 300 60 H I L C N N
 F4 "160-1428-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTST-C171KSKT" 200 500 60 H I L CNN "MPN"
@@ -595,7 +595,7 @@ ENDDEF
 DEF WP154A4SUREQBFZGC U 0 0 Y Y 1 F N
 F0 "D?" 0 300 60 H V C C N N
 F1 "WP154A4SUREQBFZGC" 0 -300 60 H V C C N N
-F2 "testfplib:754-1615-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:754-1615-ND" 200 200 60 H I L C N N
 F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP154A4SUREQBFZGC.pdf" 200 300 60 H I L C N N
 F4 "754-1615-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WP154A4SUREQBFZGC" 200 500 60 H I L CNN "MPN"
@@ -631,7 +631,7 @@ ENDDEF
 DEF ~LTL1CHKYKNN U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTL1CHKYKNN" -50 -150 60 H I C C N N
-F2 "testfplib:LED_3mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf" 200 300 60 H I L C N N
 F4 "160-1664-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTL1CHKYKNN" 200 500 60 H I L CNN "MPN"
@@ -662,7 +662,7 @@ ENDDEF
 DEF ~LTL1CHKFKNN U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTL1CHKFKNN" -50 -150 60 H I C C N N
-F2 "testfplib:LED_3mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf" 200 300 60 H I L C N N
 F4 "160-1944-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTL1CHKFKNN" 200 500 60 H I L CNN "MPN"
@@ -693,7 +693,7 @@ ENDDEF
 DEF ~WP710A10QBC_D U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "WP710A10QBC_D" -50 -150 60 H I C C N N
-F2 "testfplib:LED_3mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10QBC-D.pdf" 200 300 60 H I L C N N
 F4 "754-1596-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WP710A10QBC/D" 200 500 60 H I L CNN "MPN"
@@ -724,7 +724,7 @@ ENDDEF
 DEF ~WP710A10CGCK U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "WP710A10CGCK" 0 -150 60 H I C C N N
-F2 "testfplib:LED_3mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10CGCK.pdf" 200 300 60 H I L C N N
 F4 "754-1595-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WP710A10CGCK" 200 500 60 H I L CNN "MPN"
@@ -755,7 +755,7 @@ ENDDEF
 DEF ~WP710A10SRC_E U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "WP710A10SRC_E" 0 -150 60 H I C C N N
-F2 "testfplib:LED_3mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10SRC-E.pdf" 200 300 60 H I L C N N
 F4 "754-1604-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WP710A10SRC/E" 200 500 60 H I L CNN "MPN"
@@ -786,7 +786,7 @@ ENDDEF
 DEF ~151033RS03000 U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "151033RS03000" 0 -150 60 H I C C N N
-F2 "testfplib:LED_3mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
 F3 "http://katalog.we-online.de/led/datasheet/151033RS03000.pdf" 200 300 60 H I L C N N
 F4 "732-5013-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "151033RS03000" 200 500 60 H I L CNN "MPN"
@@ -817,7 +817,7 @@ ENDDEF
 DEF ~WP710A10SYCK U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "WP710A10SYCK" 0 -150 60 H I C C N N
-F2 "testfplib:LED_3mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10SYCK.pdf" 200 300 60 H I L C N N
 F4 "754-1611-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WP710A10SYCK" 200 500 60 H I L CNN "MPN"
@@ -848,7 +848,7 @@ ENDDEF
 DEF ~LTL2R3KYK U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTL2R3KYK" -50 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-20-98-0074/2R3KYK.pdf" 200 300 60 H I L C N N
 F4 "160-1687-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTL2R3KYK" 200 500 60 H I L CNN "MPN"
@@ -879,7 +879,7 @@ ENDDEF
 DEF ~LTL2R3KGKNN U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTL2R3KGKNN" -50 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS20-2000-191/LTL2R3KGKNN.pdf" 200 300 60 H I L C N N
 F4 "160-1947-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTL2R3KGKNN" 200 500 60 H I L CNN "MPN"
@@ -910,7 +910,7 @@ ENDDEF
 DEF ~LTL2R3KFK U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTL2R3KFK" -50 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-20-98-0287/LTL2R3KFK.pdf" 200 300 60 H I L C N N
 F4 "160-1683-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTL2R3KFK" 200 500 60 H I L CNN "MPN"
@@ -941,7 +941,7 @@ ENDDEF
 DEF ~SSL-LX5093PC U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "SSL-LX5093PC" -50 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.lumex.com/content/files/ProductAttachment/SSL-LX5093PC.pdf" 200 300 60 H I L C N N
 F4 "67-2062-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SSL-LX5093PC" 200 500 60 H I L CNN "MPN"
@@ -972,7 +972,7 @@ ENDDEF
 DEF ~SSL-LX5093VC U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "SSL-LX5093VC" 0 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.lumex.com/content/files/ProductAttachment/SSL-LX5093VC.pdf" 200 300 60 H I L C N N
 F4 "67-2064-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SSL-LX5093VC" 200 500 60 H I L CNN "MPN"
@@ -1003,7 +1003,7 @@ ENDDEF
 DEF ~LTL2R3KEK U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTL2R3KEK" -50 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-20-98-0286/LTL2R3KEK.pdf" 200 300 60 H I L C N N
 F4 "160-1682-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTL2R3KEK" 200 500 60 H I L CNN "MPN"
@@ -1034,7 +1034,7 @@ ENDDEF
 DEF ~SSL-LX5093TC U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "SSL-LX5093TC" -50 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.lumex.com/content/files/ProductAttachment/SSL-LX5093TC.pdf" 200 300 60 H I L C N N
 F4 "67-2063-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SSL-LX5093TC" 200 500 60 H I L CNN "MPN"
@@ -1065,7 +1065,7 @@ ENDDEF
 DEF ~LTW-2R3D7 U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTW-2R3D7" -50 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS20-2005-253/LTW-2R3D7.pdf" 200 300 60 H I L C N N
 F4 "160-1772-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTW-2R3D7" 200 500 60 H I L CNN "MPN"
@@ -1096,7 +1096,7 @@ ENDDEF
 DEF ~LTL2R3KSK U 0 0 Y Y 1 F N
 F0 "D?" -150 100 60 H V C C N N
 F1 "LTL2R3KSK" -50 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-20-99-0058/LTL2R3KSK.pdf" 200 300 60 H I L C N N
 F4 "160-1686-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTL2R3KSK" 200 500 60 H I L CNN "MPN"
@@ -1127,7 +1127,7 @@ ENDDEF
 DEF ~WP7113QBC_D U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "WP7113QBC_D" 0 -150 60 H I C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP7113QBC-D.pdf" 200 300 60 H I L C N N
 F4 "754-1489-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WP7113QBC/D" 200 500 60 H I L CNN "MPN"

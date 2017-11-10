@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 570CAC000141DG U 0 1 Y Y 1 F N
 F0 "Y?" -250 250 60 H V C C N N
 F1 "570CAC000141DG" 400 -400 60 H V C C N N
-F2 "testfplib:8-SMD_7MMX5MM" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SMD_7MMX5MM" 200 200 60 H I L C N N
 F3 "http://www.silabs.com/documents/public/data-sheets/si570.pdf" 200 300 60 H I L C N N
 F4 "336-2518-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "570CAC000141DG" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF JSM1-12V-5 U 0 40 Y Y 1 F N
 F0 "RLY?" -250 350 60 H V C C N N
 F1 "JSM1-12V-5" -100 -200 60 H V C C N N
-F2 "testfplib:255-1240-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:255-1240-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/JS-M_Series_Rev_Dec_2011.pdf" 200 300 60 H I L C N N
 F4 "255-1240-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "JSM1-12V-5" 200 500 60 H I L CNN "MPN"
@@ -31,7 +31,7 @@ ENDDEF
 DEF G5LE-14_DC5 U 0 40 Y Y 1 F N
 F0 "RLY?" -100 300 60 H V C C N N
 F1 "G5LE-14_DC5" -100 -300 60 H V C C N N
-F2 "testfplib:Z1011-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:Z1011-ND" 200 200 60 H I L C N N
 F3 "http://www.omron.com/ecb/products/pdf/en-g5le.pdf" 200 300 60 H I L C N N
 F4 "Z1011-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "G5LE-14 DC5" 200 500 60 H I L CNN "MPN"
@@ -56,7 +56,7 @@ ENDDEF
 DEF G5LE-14_DC12 U 0 40 Y Y 1 F N
 F0 "RLY?" 0 300 60 H V C C N N
 F1 "G5LE-14_DC12" 0 -300 60 H V C C N N
-F2 "testfplib:Z1012-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:Z1012-ND" 200 200 60 H I L C N N
 F3 "http://www.omron.com/ecb/products/pdf/en-g5le.pdf" 200 300 60 H I L C N N
 F4 "Z1012-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "G5LE-14 DC12" 200 500 60 H I L CNN "MPN"

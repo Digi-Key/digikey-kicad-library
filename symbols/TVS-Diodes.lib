@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF PGB1010603MR U 0 40 Y Y 1 F N
 F0 "D?" -100 100 60 H V C C N N
 F1 "PGB1010603MR" 0 -200 60 H V C C N N
-F2 "testfplib:0603" 200 200 60 H I L C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
 F3 "http://www.littelfuse.com/data/en/data_sheets/littelfuse_pulseguard-esd_pgb1.pdf" 200 300 60 H I L C N N
 F4 "F2594CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PGB1010603MR" 200 500 60 H I L CNN "MPN"
@@ -31,7 +31,7 @@ ENDDEF
 DEF RCLAMP0524P_TCT U 0 40 Y Y 1 F N
 F0 "D?" 6 636 60 H V C C N N
 F1 "RCLAMP0524P_TCT" 0 800 60 H V C C N N
-F2 "testfplib:10-UFDFN" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-UFDFN" 200 200 60 H I L C N N
 F3 "http://www.semtech.com/images/datasheet/rclamp0522p_0524p.pdf" 200 300 60 H I L C N N
 F4 "RCLAMP0524PCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RCLAMP0524P.TCT" 200 500 60 H I L CNN "MPN"
@@ -113,7 +113,7 @@ ENDDEF
 DEF RCLAMP0524PATCT U 0 40 Y Y 1 F N
 F0 "D?" 6 636 60 H V C C N N
 F1 "RCLAMP0524PATCT" 0 800 60 H V C C N N
-F2 "testfplib:10-UFDFN" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-UFDFN" 200 200 60 H I L C N N
 F3 "http://www.semtech.com/images/datasheet/rclamp0522pa_0524pa.pdf" 200 300 60 H I L C N N
 F4 "RCLAMP0524PACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RCLAMP0524PATCT" 200 500 60 H I L CNN "MPN"
@@ -195,7 +195,7 @@ ENDDEF
 DEF PRTR5V0U2X_215 U 0 0 Y Y 1 F N
 F0 "D?" -250 450 60 H V C C N N
 F1 "PRTR5V0U2X_215" 0 -450 60 H V C C N N
-F2 "testfplib:1727-3884-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1727-3884-1-ND" 200 200 60 H I L C N N
 F3 "http://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" 200 300 60 H I L C N N
 F4 "1727-3884-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PRTR5V0U2X,215" 200 500 60 H I L CNN "MPN"
@@ -246,7 +246,7 @@ ENDDEF
 DEF TPD1E10B06DPYR U 0 40 Y Y 1 F N
 F0 "D?" -250 250 60 H V C C N N
 F1 "TPD1E10B06DPYR" 0 -250 60 H V C C N N
-F2 "testfplib:2-XDFN" 200 200 60 H I L C N N
+F2 "digikey-footprints:2-XDFN" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tpd1e10b06.pdf" 200 300 60 H I L C N N
 F4 "296-30406-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPD1E10B06DPYR" 200 500 60 H I L CNN "MPN"
@@ -279,7 +279,7 @@ ENDDEF
 DEF TPD2E001DRLR U 0 0 Y Y 1 F N
 F0 "D?" -250 350 60 H V C C N N
 F1 "TPD2E001DRLR" -600 -450 60 H V C C N N
-F2 "testfplib:5-SOT" 200 200 60 H I L C N N
+F2 "digikey-footprints:5-SOT" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tpd2e001.pdf" 200 300 60 H I L C N N
 F4 "296-21883-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPD2E001DRLR" 200 500 60 H I L CNN "MPN"
@@ -330,7 +330,7 @@ ENDDEF
 DEF TPD4S012DRYR U 0 40 Y Y 1 F N
 F0 "D?" -150 50 60 H V C C N N
 F1 "TPD4S012DRYR" 500 -600 60 H V C C N N
-F2 "testfplib:6-USON_(1.45x1)" 200 200 60 H I L C N N
+F2 "digikey-footprints:6-USON_(1.45x1)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tpd4s012.pdf" 200 300 60 H I L C N N
 F4 "296-24244-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPD4S012DRYR" 200 500 60 H I L CNN "MPN"
@@ -356,7 +356,7 @@ ENDDEF
 DEF SP0503BAHTG U 0 40 Y Y 1 F N
 F0 "D?" -150 250 60 H V C C N N
 F1 "SP0503BAHTG" 250 -250 60 H V C C N N
-F2 "testfplib:F2715CT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:F2715CT-ND" 200 200 60 H I L C N N
 F3 "http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" 200 300 60 H I L C N N
 F4 "F2715CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SP0503BAHTG" 200 500 60 H I L CNN "MPN"
@@ -394,7 +394,7 @@ ENDDEF
 DEF ESD5Z3_3T1G U 0 40 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "ESD5Z3_3T1G" 0 -200 60 H V C C N N
-F2 "testfplib:SOD-523" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-523" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF" 200 300 60 H I L C N N
 F4 "ESD5Z3.3T1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ESD5Z3.3T1G" 200 500 60 H I L CNN "MPN"
@@ -417,7 +417,7 @@ ENDDEF
 DEF SM712_TCT U 0 0 Y Y 1 F N
 F0 "D?" 0 1800 60 H V C C N N
 F1 "SM712_TCT" 100 1600 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.semtech.com/images/datasheet/sm712.pdf" 200 300 60 H I L C N N
 F4 "SM712CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SM712.TCT" 200 500 60 H I L CNN "MPN"
@@ -465,7 +465,7 @@ ENDDEF
 DEF PESD2CAN_215 U 0 0 Y Y 1 F N
 F0 "D?" -250 250 60 H V C C N N
 F1 "PESD2CAN_215" 0 -250 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://assets.nexperia.com/documents/data-sheet/PESD2CAN.pdf" 200 300 60 H I L C N N
 F4 "1727-3891-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PESD2CAN,215" 200 500 60 H I L CNN "MPN"
@@ -508,7 +508,7 @@ ENDDEF
 DEF NUP2105LT1G U 0 40 Y Y 1 F N
 F0 "D?" 25 550 60 H V C C N N
 F1 "NUP2105LT1G" 25 450 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/NUP2105L-D.PDF" 200 300 60 H I L C N N
 F4 "NUP2105LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NUP2105LT1G" 200 500 60 H I L CNN "MPN"
@@ -545,7 +545,7 @@ ENDDEF
 DEF PESD1CAN_215 U 0 0 Y Y 1 F N
 F0 "D?" -250 250 60 H V C C N N
 F1 "PESD1CAN_215" 0 -250 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://assets.nexperia.com/documents/data-sheet/PESD1CAN.pdf" 200 300 60 H I L C N N
 F4 "1727-3817-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PESD1CAN,215" 200 500 60 H I L CNN "MPN"
@@ -588,7 +588,7 @@ ENDDEF
 DEF CDSOT23-SM712 U 0 0 Y Y 1 F N
 F0 "D?" -400 400 60 H V C C N N
 F1 "CDSOT23-SM712" 0 -400 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf" 200 300 60 H I L C N N
 F4 "CDSOT23-SM712CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CDSOT23-SM712" 200 500 60 H I L CNN "MPN"
@@ -642,7 +642,7 @@ ENDDEF
 DEF SRV05-4_TCT U 0 40 Y Y 1 F N
 F0 "D?" 6 636 60 H V C C N N
 F1 "SRV05-4_TCT" 0 800 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.semtech.com/images/datasheet/srv05-4.pdf" 200 300 60 H I L C N N
 F4 "SRV05-4CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SRV05-4.TCT" 200 500 60 H I L CNN "MPN"
@@ -717,7 +717,7 @@ ENDDEF
 DEF RCLAMP0504S_TCT U 0 40 Y Y 1 F N
 F0 "D?" 0 400 60 H V C C N N
 F1 "RCLAMP0504S_TCT" 0 -400 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.semtech.com/images/datasheet/rclamp0504s.pdf" 200 300 60 H I L C N N
 F4 "RCLAMP0504SCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RCLAMP0504S.TCT" 200 500 60 H I L CNN "MPN"
@@ -791,7 +791,7 @@ ENDDEF
 DEF USBLC6-4SC6 U 0 40 Y Y 1 F N
 F0 "D?" -350 550 60 H V C C N N
 F1 "USBLC6-4SC6" 0 -550 60 H V C C N N
-F2 "testfplib:SOT23-6L" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT23-6L" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr:content/translations/en.CD00047494.pdf" 200 300 60 H I L C N N
 F4 "497-4492-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "USBLC6-4SC6" 200 500 60 H I L CNN "MPN"
@@ -866,7 +866,7 @@ ENDDEF
 DEF USBLC6-2SC6 U 0 40 Y Y 1 F N
 F0 "D?" -350 550 60 H V C C N N
 F1 "USBLC6-2SC6" 0 -550 60 H V C C N N
-F2 "testfplib:SOT23-6L" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT23-6L" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/06/1d/48/9c/6c/20/4a/b2/CD00050750.pdf/files/CD00050750.pdf/jcr:content/translations/en.CD00050750.pdf" 200 300 60 H I L C N N
 F4 "497-5235-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "USBLC6-2SC6" 200 500 60 H I L CNN "MPN"
@@ -941,7 +941,7 @@ ENDDEF
 DEF TPD2EUSB30DRTR U 0 0 Y Y 1 F N
 F0 "D?" -250 250 60 H V C C N N
 F1 "TPD2EUSB30DRTR" -500 -250 60 H V C C N N
-F2 "testfplib:SOT-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf" 200 300 60 H I L C N N
 F4 "296-25509-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPD2EUSB30DRTR" 200 500 60 H I L CNN "MPN"
@@ -992,7 +992,7 @@ ENDDEF
 DEF PESD1CAN-UX U 0 0 Y Y 1 F N
 F0 "D?" -250 250 60 H V C C N N
 F1 "PESD1CAN-UX" 50 -250 60 H V C C N N
-F2 "testfplib:SOT-323(SC-70)" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-323(SC-70)" 200 200 60 H I L C N N
 F3 "http://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf" 200 300 60 H I L C N N
 F4 "1727-1306-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PESD1CAN-UX" 200 500 60 H I L CNN "MPN"
@@ -1035,7 +1035,7 @@ ENDDEF
 DEF IP4220CZ6_125 U 0 0 Y Y 1 F N
 F0 "D?" 0 350 60 H V C C N N
 F1 "IP4220CZ6_125" 0 -600 60 H V C C N N
-F2 "testfplib:SOT-457(SC-74)" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-457(SC-74)" 200 200 60 H I L C N N
 F3 "http://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf" 200 300 60 H I L C N N
 F4 "1727-3578-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IP4220CZ6,125" 200 500 60 H I L CNN "MPN"

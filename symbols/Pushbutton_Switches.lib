@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF GPTS203211B U 0 40 Y Y 1 F N
 F0 "S?" -175 225 60 H V C C N N
 F1 "GPTS203211B" 0 -150 60 H V C C N N
-F2 "testfplib:GPTS203211B" 200 200 60 H I L C N N
+F2 "digikey-footprints:GPTS203211B" 200 200 60 H I L C N N
 F3 "http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf" 200 300 60 H I L C N N
 F4 "CW181-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "GPTS203211B" 200 500 60 H I L CNN "MPN"
@@ -30,7 +30,7 @@ ENDDEF
 DEF KS-01Q-01 U 0 40 Y Y 1 F N
 F0 "S?" -175 250 60 H V C C N N
 F1 "KS-01Q-01" 0 -250 60 H V C C N N
-F2 "testfplib:KS-01Q-01" 200 200 60 H I L C N N
+F2 "digikey-footprints:KS-01Q-01" 200 200 60 H I L C N N
 F3 "http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf" 200 300 60 H I L C N N
 F4 "EG4791-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KS-01Q-01" 200 500 60 H I L CNN "MPN"

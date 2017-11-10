@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF L4931CD120-TR U 0 40 Y Y 1 F N
 F0 "U?" -200 -50 60 H V C C N N
 F1 "L4931CD120-TR" 0 200 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 300 60 H I L C N N
 F4 "497-7761-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L4931CD120-TR" 200 500 60 H I L CNN "MPN"
@@ -34,7 +34,7 @@ ENDDEF
 DEF L4931ABD33-TR U 0 40 Y Y 1 F N
 F0 "U?" -250 -50 60 H V C C N N
 F1 "L4931ABD33-TR" 700 -700 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 300 60 H I L C N N
 F4 "497-1155-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L4931ABD33-TR" 200 500 60 H I L CNN "MPN"
@@ -62,7 +62,7 @@ ENDDEF
 DEF L4931ABD50-TR U 0 40 Y Y 1 F N
 F0 "U?" -50 350 60 H V C C N N
 F1 "L4931ABD50-TR" 0 500 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 300 60 H I L C N N
 F4 "497-1156-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L4931ABD50-TR" 200 500 60 H I L CNN "MPN"
@@ -90,7 +90,7 @@ ENDDEF
 DEF MC7805BDTRKG U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "MC7805BDTRKG" 0 300 60 H V C C N N
-F2 "testfplib:DPAK-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:DPAK-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MC7800-D.PDF" 200 300 60 H I L C N N
 F4 "MC7805BDTRKGOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MC7805BDTRKG" 200 500 60 H I L CNN "MPN"
@@ -113,7 +113,7 @@ ENDDEF
 DEF LD1117S33CTR U 0 40 Y Y 1 F N
 F0 "U?" 50 150 60 H V C C N N
 F1 "LD1117S33CTR" 0 300 60 H V C C N N
-F2 "testfplib:SOT-223" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf" 200 300 60 H I L C N N
 F4 "497-1241-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LD1117S33CTR" 200 500 60 H I L CNN "MPN"
@@ -137,7 +137,7 @@ ENDDEF
 DEF AZ1117CH-3_3TRG1 U 0 40 Y Y 1 F N
 F0 "U?" -50 150 60 H V C C N N
 F1 "AZ1117CH-3_3TRG1" 0 400 60 H V C C N N
-F2 "testfplib:SOT-223" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/AZ1117C.pdf" 200 300 60 H I L C N N
 F4 "AZ1117CH-3.3TRG1DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AZ1117CH-3.3TRG1" 200 500 60 H I L CNN "MPN"
@@ -161,7 +161,7 @@ ENDDEF
 DEF NCP1117ST33T3G U 0 40 Y Y 1 F N
 F0 "U?" 0 300 60 H V C C N N
 F1 "NCP1117ST33T3G" 0 400 60 H V C C N N
-F2 "testfplib:SOT-223" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
 F4 "NCP1117ST33T3GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NCP1117ST33T3G" 200 500 60 H I L CNN "MPN"
@@ -185,7 +185,7 @@ ENDDEF
 DEF LM1117MPX-3_3_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -50 200 60 H V C C N N
 F1 "LM1117MPX-3_3_NOPB" -50 300 60 H V C C N N
-F2 "testfplib:SOT-223" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" 200 300 60 H I L C N N
 F4 "LM1117MPX-3.3/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM1117MPX-3.3/NOPB" 200 500 60 H I L CNN "MPN"
@@ -209,7 +209,7 @@ ENDDEF
 DEF NCP1117ST50T3G U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "NCP1117ST50T3G" 0 300 60 H V C C N N
-F2 "testfplib:SOT-223" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
 F4 "NCP1117ST50T3GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NCP1117ST50T3G" 200 500 60 H I L CNN "MPN"
@@ -233,7 +233,7 @@ ENDDEF
 DEF LM317DCYR U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "LM317DCYR" 0 300 60 H V C C N N
-F2 "testfplib:SOT-223-4" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-223-4" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm317.pdf" 200 300 60 H I L C N N
 F4 "296-12602-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM317DCYR" 200 500 60 H I L CNN "MPN"
@@ -257,7 +257,7 @@ ENDDEF
 DEF MCP1700T-3302E_TT U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "MCP1700T-3302E_TT" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011779" 200 300 60 H I L C N N
 F4 "MCP1700T3302ETTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP1700T-3302E/TT" 200 500 60 H I L CNN "MPN"
@@ -280,7 +280,7 @@ ENDDEF
 DEF LP2985-33DBVR U 0 40 Y Y 1 F N
 F0 "U?" -200 0 60 H V C C N N
 F1 "LP2985-33DBVR" 600 -600 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lp2985.pdf" 200 300 60 H I L C N N
 F4 "296-18476-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LP2985-33DBVR" 200 500 60 H I L CNN "MPN"
@@ -305,7 +305,7 @@ ENDDEF
 DEF LP5907MFX-3_3_NOPB U 0 40 Y Y 1 F N
 F0 "U?" 0 350 60 H V C C N N
 F1 "LP5907MFX-3_3_NOPB" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lp5907.pdf" 200 300 60 H I L C N N
 F4 "296-38557-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LP5907MFX-3.3/NOPB" 200 500 60 H I L CNN "MPN"
@@ -330,7 +330,7 @@ ENDDEF
 DEF MIC5219-3_3YM5-TR U 0 40 Y Y 1 F N
 F0 "U?" 0 300 60 H V C C N N
 F1 "MIC5219-3_3YM5-TR" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579712" 200 300 60 H I L C N N
 F4 "576-1281-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MIC5219-3.3YM5-TR" 200 500 60 H I L CNN "MPN"
@@ -355,7 +355,7 @@ ENDDEF
 DEF LT1761ES5-3_3_TRMPBF U 0 40 Y Y 1 F N
 F0 "U?" -200 350 60 H V C C N N
 F1 "LT1761ES5-3_3_TRMPBF" 0 600 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/2732" 200 300 60 H I L C N N
 F4 "LT1761ES5-3.3#TRMPBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LT1761ES5-3.3#TRMPBF" 200 500 60 H I L CNN "MPN"
@@ -380,7 +380,7 @@ ENDDEF
 DEF LT1964ES5-BYP_TRMPBF U 0 1 Y Y 1 F N
 F0 "U?" -150 150 60 H V C C N N
 F1 "LT1964ES5-BYP_TRMPBF" 0 450 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/1258" 200 300 60 H I L C N N
 F4 "LT1964ES5-BYP#TRMPBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LT1964ES5-BYP#TRMPBF" 200 500 60 H I L CNN "MPN"
@@ -405,7 +405,7 @@ ENDDEF
 DEF LM337T U 0 40 Y Y 1 F N
 F0 "U?" 0 300 60 H V C C N N
 F1 "LM337T" 0 400 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm137.pdf" 200 300 60 H I L C N N
 F4 "LM337T-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM337T" 200 500 60 H I L CNN "MPN"
@@ -429,7 +429,7 @@ ENDDEF
 DEF LM317T U 0 40 Y Y 1 F N
 F0 "U?" 0 150 60 H V C C N N
 F1 "LM317T" 0 300 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/a0/db/e6/9b/6f/9c/45/7b/CD00000455/files/CD00000455.pdf/jcr:content/translations/en.CD00000455.pdf" 200 300 60 H I L C N N
 F4 "497-1575-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM317T" 200 500 60 H I L CNN "MPN"
@@ -452,7 +452,7 @@ ENDDEF
 DEF LM317T261 U 0 40 Y Y 1 F N
 F0 "U?" 0 300 60 H V C C N N
 F1 "LM317T261" 0 400 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/LM/LM317T.pdf" 200 300 60 H I L C N N
 F4 "LM317TFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM317T" 200 500 60 H I L CNN "MPN"
@@ -475,7 +475,7 @@ ENDDEF
 DEF LM317TG U 0 40 Y Y 1 F N
 F0 "U?" 0 300 60 H V C C N N
 F1 "LM317TG" 0 400 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/LM317-D.PDF" 200 300 60 H I L C N N
 F4 "LM317TGOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM317TG" 200 500 60 H I L CNN "MPN"
@@ -498,7 +498,7 @@ ENDDEF
 DEF LM7812CT U 0 40 Y Y 1 F N
 F0 "U?" 0 300 60 H V C C N N
 F1 "LM7812CT" 0 400 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 300 60 H I L C N N
 F4 "LM7812CTFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM7812CT" 200 500 60 H I L CNN "MPN"
@@ -521,7 +521,7 @@ ENDDEF
 DEF LD1117V33 U 0 40 Y Y 1 F N
 F0 "U?" 50 150 60 H V C C N N
 F1 "LD1117V33" 0 300 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf" 200 300 60 H I L C N N
 F4 "497-1491-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LD1117V33" 200 500 60 H I L CNN "MPN"
@@ -544,7 +544,7 @@ ENDDEF
 DEF MC7805CT-BP U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "MC7805CT-BP" 0 300 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/MC7805CT(TO-220).pdf" 200 300 60 H I L C N N
 F4 "MC7805CT-BPMS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MC7805CT-BP" 200 500 60 H I L CNN "MPN"
@@ -567,7 +567,7 @@ ENDDEF
 DEF L7805CV U 0 40 Y Y 1 F N
 F0 "U?" 0 150 60 H V C C N N
 F1 "L7805CV" 0 300 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" 200 300 60 H I L C N N
 F4 "497-1443-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L7805CV" 200 500 60 H I L CNN "MPN"
@@ -590,7 +590,7 @@ ENDDEF
 DEF LM7805CT U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "LM7805CT" 0 300 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 300 60 H I L C N N
 F4 "LM7805CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM7805CT" 200 500 60 H I L CNN "MPN"
@@ -613,7 +613,7 @@ ENDDEF
 DEF MC7805CTG U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "MC7805CTG" 0 300 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MC7800-D.PDF" 200 300 60 H I L C N N
 F4 "MC7805CTGOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MC7805CTG" 200 500 60 H I L CNN "MPN"
@@ -636,7 +636,7 @@ ENDDEF
 DEF MCP1700-3302E_TO U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "MCP1700-3302E_TO" 0 300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011779" 200 300 60 H I L C N N
 F4 "MCP1700-3302E/TO-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP1700-3302E/TO" 200 500 60 H I L CNN "MPN"
@@ -659,7 +659,7 @@ ENDDEF
 DEF LM78L05ACZ_NOPB U 0 40 Y Y 1 F N
 F0 "U?" 0 200 60 H V C C N N
 F1 "LM78L05ACZ_NOPB" 0 300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm78l.pdf" 200 300 60 H I L C N N
 F4 "LM78L05ACZNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM78L05ACZ/NOPB" 200 500 60 H I L CNN "MPN"
@@ -682,7 +682,7 @@ ENDDEF
 DEF L4931CZ50-AP U 0 40 Y Y 1 F N
 F0 "U?" 50 350 60 H V C C N N
 F1 "L4931CZ50-AP" 0 500 60 H V C C N N
-F2 "testfplib:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 300 60 H I L C N N
 F4 "497-5838-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L4931CZ50-AP" 200 500 60 H I L CNN "MPN"

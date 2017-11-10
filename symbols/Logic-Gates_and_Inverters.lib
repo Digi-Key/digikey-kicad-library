@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF SN74HC08N U 0 1 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "SN74HC08N" 500 -1500 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74hc08.pdf" 200 300 60 H I L C N N
 F4 "296-1570-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC08N" 200 500 60 H I L CNN "MPN"
@@ -64,7 +64,7 @@ ENDDEF
 DEF SN74LS08N U 0 0 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "SN74LS08N" 500 -800 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74ls08.pdf" 200 300 60 H I L C N N
 F4 "296-1633-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS08N" 200 500 60 H I L CNN "MPN"
@@ -118,7 +118,7 @@ ENDDEF
 DEF SN74HC00N U 0 1 Y Y 1 F N
 F0 "U?" -200 900 60 H V C C N N
 F1 "SN74HC00N" 500 -900 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74hc00.pdf" 200 300 60 H I L C N N
 F4 "296-1563-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC00N" 200 500 60 H I L CNN "MPN"
@@ -176,7 +176,7 @@ ENDDEF
 DEF SN74LS00N U 0 1 Y Y 1 F N
 F0 "U?" -300 400 60 H V C C N N
 F1 "SN74LS00N" 400 -700 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn7400.pdf" 200 300 60 H I L C N N
 F4 "296-1626-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS00N" 200 500 60 H I L CNN "MPN"
@@ -238,7 +238,7 @@ ENDDEF
 DEF CD4011BE U 0 1 Y Y 1 F N
 F0 "U?" -300 400 60 H V C C N N
 F1 "CD4011BE" 400 -700 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd4011b.pdf" 200 300 60 H I L C N N
 F4 "296-2031-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4011BE" 200 500 60 H I L CNN "MPN"
@@ -300,7 +300,7 @@ ENDDEF
 DEF CD4093BE U 0 1 Y Y 1 F N
 F0 "U?" -200 400 60 H V C C N N
 F1 "CD4093BE" 500 -700 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd4093b.pdf" 200 300 60 H I L C N N
 F4 "296-2068-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4093BE" 200 500 60 H I L CNN "MPN"
@@ -362,7 +362,7 @@ ENDDEF
 DEF SN74LS02N U 0 0 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "SN74LS02N" 500 -800 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn7402.pdf" 200 300 60 H I L C N N
 F4 "296-1627-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS02N" 200 500 60 H I L CNN "MPN"
@@ -436,7 +436,7 @@ ENDDEF
 DEF SN74HC32N U 0 0 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "SN74HC32N" 500 -800 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74hc32.pdf" 200 300 60 H I L C N N
 F4 "296-1589-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC32N" 200 500 60 H I L CNN "MPN"
@@ -506,7 +506,7 @@ ENDDEF
 DEF SN74LS32N U 0 1 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "SN74LS32N" 500 -800 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74ls32.pdf" 200 300 60 H I L C N N
 F4 "296-1658-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS32N" 200 500 60 H I L CNN "MPN"
@@ -576,7 +576,7 @@ ENDDEF
 DEF SN74HC04N U 0 0 Y Y 1 F N
 F0 "U?" -200 500 60 H V C C N N
 F1 "SN74HC04N" 500 -400 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74hc04.pdf" 200 300 60 H I L C N N
 F4 "296-1566-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC04N" 200 500 60 H I L CNN "MPN"
@@ -634,7 +634,7 @@ ENDDEF
 DEF SN74LS04N U 0 0 Y Y 1 F N
 F0 "U?" -200 500 60 H V C C N N
 F1 "SN74LS04N" 500 -400 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74ls04.pdf" 200 300 60 H I L C N N
 F4 "296-1629-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS04N" 200 500 60 H I L CNN "MPN"
@@ -692,7 +692,7 @@ ENDDEF
 DEF SN74HC14N U 0 0 Y Y 1 F N
 F0 "U?" -200 500 60 H V C C N N
 F1 "SN74HC14N" 500 -400 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74hc14.pdf" 200 300 60 H I L C N N
 F4 "296-1577-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC14N" 200 500 60 H I L CNN "MPN"
@@ -750,7 +750,7 @@ ENDDEF
 DEF CD40106BE U 0 0 Y Y 1 F N
 F0 "U?" -150 450 60 H V C C N N
 F1 "CD40106BE" 600 -400 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd40106b.pdf" 200 300 60 H I L C N N
 F4 "296-3503-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD40106BE" 200 500 60 H I L CNN "MPN"
@@ -844,7 +844,7 @@ ENDDEF
 DEF MC14093BDR2G U 0 0 Y Y 1 F N
 F0 "U?" -100 450 60 H V C C N N
 F1 "MC14093BDR2G" 0 800 60 H V C C N N
-F2 "testfplib:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MC14093B-D.PDF" 200 300 60 H I L C N N
 F4 "MC14093BDR2GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MC14093BDR2G" 200 500 60 H I L CNN "MPN"
@@ -914,7 +914,7 @@ ENDDEF
 DEF SN74LVC1G08DCKR U 0 1 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "SN74LVC1G08DCKR" 500 -300 60 H V C C N N
-F2 "testfplib:SC-70-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SC-70-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf" 200 300 60 H I L C N N
 F4 "296-11602-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G08DCKR" 200 500 60 H I L CNN "MPN"
@@ -940,7 +940,7 @@ ENDDEF
 DEF SN74LVC1G08DBVR U 0 1 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "SN74LVC1G08DBVR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf" 200 300 60 H I L C N N
 F4 "296-11601-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G08DBVR" 200 500 60 H I L CNN "MPN"
@@ -966,7 +966,7 @@ ENDDEF
 DEF SN74LVC1G14DBVR U 0 0 Y Y 1 F N
 F0 "U?" -150 150 60 H V C C N N
 F1 "SN74LVC1G14DBVR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf" 200 300 60 H I L C N N
 F4 "296-11607-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G14DBVR" 200 500 60 H I L CNN "MPN"
@@ -995,7 +995,7 @@ ENDDEF
 DEF SN74LVC1G04DBVR U 0 0 Y Y 1 F N
 F0 "U?" -150 150 60 H V C C N N
 F1 "SN74LVC1G04DBVR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g04.pdf" 200 300 60 H I L C N N
 F4 "296-11599-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G04DBVR" 200 500 60 H I L CNN "MPN"

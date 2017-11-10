@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF SJ1-2503A U 0 40 Y Y 1 F N
 F0 "CON?" 0 300 60 H V C C N N
 F1 "SJ1-2503A" 0 400 60 H V C C N N
-F2 "testfplib:CP1-2503A-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:CP1-2503A-ND" 200 200 60 H I L C N N
 F3 "http://www.cui.com/product/resource/digikeypdf/sj1-2503a.pdf" 200 300 60 H I L C N N
 F4 "CP1-2503A-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SJ1-2503A" 200 500 60 H I L CNN "MPN"
@@ -30,7 +30,7 @@ ENDDEF
 DEF SJ1-3523N U 0 40 Y Y 1 F N
 F0 "CON?" 0 300 60 H V C C N N
 F1 "SJ1-3523N" 0 400 60 H V C C N N
-F2 "testfplib:CP1-3523N-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:CP1-3523N-ND" 200 200 60 H I L C N N
 F3 "http://www.cui.com/product/resource/digikeypdf/sj1-352xn_series.pdf" 200 300 60 H I L C N N
 F4 "CP1-3523N-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SJ1-3523N" 200 500 60 H I L CNN "MPN"
@@ -53,7 +53,7 @@ ENDDEF
 DEF SJ-3523-SMT-TR U 0 40 Y Y 1 F N
 F0 "CON?" 0 300 60 H V C C N N
 F1 "SJ-3523-SMT-TR" 0 400 60 H V C C N N
-F2 "testfplib:CP-3523SJCT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:CP-3523SJCT-ND" 200 200 60 H I L C N N
 F3 "http://www.cui.com/product/resource/digikeypdf/sj-352x-smt_series.pdf" 200 300 60 H I L C N N
 F4 "CP-3523SJCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SJ-3523-SMT-TR" 200 500 60 H I L CNN "MPN"
@@ -76,7 +76,7 @@ ENDDEF
 DEF SN49B12B U 0 40 Y Y 1 F N
 F0 "CON?" 0 300 60 H V C C N N
 F1 "SN49B12B" 0 400 60 H V C C N N
-F2 "testfplib:SC1522-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:SC1522-ND" 200 200 60 H I L C N N
 F3 "http://www.switchcraft.com/Drawings/SN49B_SERIES_CD.pdf" 200 300 60 H I L C N N
 F4 "SC1522-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN49B12B" 200 500 60 H I L CNN "MPN"
@@ -104,7 +104,7 @@ ENDDEF
 DEF RA49B14B U 0 1 Y Y 1 F N
 F0 "CON?" -50 250 60 H V C C N N
 F1 "RA49B14B" 0 -100 60 V V C C N N
-F2 "testfplib:SC2030-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:SC2030-ND" 200 200 60 H I L C N N
 F3 "http://www.switchcraft.com/Drawings/ra49b_Series_cd.pdf" 200 300 60 H I L C N N
 F4 "SC2030-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RA49B14B" 200 500 60 H I L CNN "MPN"

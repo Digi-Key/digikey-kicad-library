@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ADS1015IDGST U 0 40 Y Y 1 F N
 F0 "U?" -250 350 60 H V C C N N
 F1 "ADS1015IDGST" 500 -600 60 H V C C N N
-F2 "testfplib:10-MSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-MSOP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ads1013.pdf" 200 300 60 H I L C N N
 F4 "296-25227-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADS1015IDGST" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF ADS1115IDGST U 0 40 Y Y 1 F N
 F0 "U?" -250 350 60 H V C C N N
 F1 "ADS1115IDGST" 500 -600 60 H V C C N N
-F2 "testfplib:10-MSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-MSOP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ads1113.pdf" 200 300 60 H I L C N N
 F4 "296-24934-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADS1115IDGST" 200 500 60 H I L CNN "MPN"
@@ -66,7 +66,7 @@ ENDDEF
 DEF MCP3008-I_P U 0 40 Y Y 1 F N
 F0 "U?" -200 650 60 H V C C N N
 F1 "MCP3008-I_P" 200 -100 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011593" 200 300 60 H I L C N N
 F4 "MCP3008-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP3008-I/P" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LTA-1000G U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LTA-1000G" 0 -1100 60 H V C C N N
-F2 "testfplib:LTA-1000Y" 200 200 60 H I L C N N
+F2 "digikey-footprints:LTA-1000Y" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0809/A1000G.pdf" 200 300 60 H I L C N N
 F4 "160-1067-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTA-1000G" 200 500 60 H I L CNN "MPN"
@@ -86,7 +86,7 @@ ENDDEF
 DEF LTA-1000HR U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LTA-1000HR" 0 -1100 60 H V C C N N
-F2 "testfplib:LTA-1000Y" 200 200 60 H I L C N N
+F2 "digikey-footprints:LTA-1000Y" 200 200 60 H I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-30-92-0810/LTA-1000HR.pdf" 200 300 60 H I L C N N
 F4 "160-1066-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTA-1000HR" 200 500 60 H I L CNN "MPN"
@@ -166,7 +166,7 @@ ENDDEF
 DEF LTA-1000Y U 0 0 Y Y 1 F N
 F0 "D?" -150 150 60 H V C C N N
 F1 "LTA-1000Y" 0 -1100 60 H V C C N N
-F2 "testfplib:LTA-1000Y" 200 200 60 H I L C N N
+F2 "digikey-footprints:LTA-1000Y" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTA-1000Y.pdf" 200 300 60 H I L C N N
 F4 "160-1068-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTA-1000Y" 200 500 60 H I L CNN "MPN"

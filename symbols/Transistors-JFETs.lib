@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 2N5457 U 0 0 Y Y 1 F N
 F0 "Q?" -100 200 60 H V C C N N
 F1 "2N5457" -300 -200 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5457-5459.PDF" 200 300 60 H I L C N N
 F4 "2N5457-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5457" 200 500 60 H I L CNN "MPN"
@@ -34,7 +34,7 @@ ENDDEF
 DEF J113 U 0 0 Y Y 1 F N
 F0 "Q?" -100 200 60 H V C C N N
 F1 "J113" -300 -200 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/J1/J111.pdf" 200 300 60 H I L C N N
 F4 "J113FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "J113" 200 500 60 H I L CNN "MPN"
@@ -62,7 +62,7 @@ ENDDEF
 DEF J175_D26Z U 0 0 Y Y 1 F N
 F0 "Q?" -100 200 60 H V C C N N
 F1 "J175_D26Z" -400 -200 60 H V C C N N
-F2 "testfplib:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/J1/J175.pdf" 200 300 60 H I L C N N
 F4 "J175_D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "J175_D26Z" 200 500 60 H I L CNN "MPN"

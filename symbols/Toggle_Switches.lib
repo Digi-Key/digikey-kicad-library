@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 100SP1T1B4M2QE U 0 0 Y Y 1 F N
 F0 "S?" -200 300 60 H V C C N N
 F1 "100SP1T1B4M2QE" 500 -200 60 H V C C N N
-F2 "testfplib:100SP1T1B4M2QE" 200 200 60 H I L C N N
+F2 "digikey-footprints:100SP1T1B4M2QE" 200 200 60 H I L C N N
 F3 "http://spec_sheets.e-switch.com/specs/T111597.pdf" 200 300 60 H I L C N N
 F4 "EG2355-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "100SP1T1B4M2QE" 200 500 60 H I L CNN "MPN"
@@ -35,7 +35,7 @@ ENDDEF
 DEF 100SP1T2B4M6QE U 0 0 Y Y 1 F N
 F0 "S?" -200 300 60 H V C C N N
 F1 "100SP1T2B4M6QE" 500 -200 60 H V C C N N
-F2 "testfplib:100SP1T2B4M6QE" 200 200 60 H I L C N N
+F2 "digikey-footprints:100SP1T2B4M6QE" 200 200 60 H I L C N N
 F3 "http://spec_sheets.e-switch.com/specs/T111069.pdf" 200 300 60 H I L C N N
 F4 "EG2362-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "100SP1T2B4M6QE" 200 500 60 H I L CNN "MPN"
@@ -65,7 +65,7 @@ ENDDEF
 DEF ATE1D-2M3-10-Z U 0 0 Y Y 1 F N
 F0 "S?" -200 300 60 H V C C N N
 F1 "ATE1D-2M3-10-Z" 500 -200 60 H V C C N N
-F2 "testfplib:ATE1D-2M3-10-Z" 200 200 60 H I L C N N
+F2 "digikey-footprints:ATE1D-2M3-10-Z" 200 200 60 H I L C N N
 F3 "https://www.nidec-copal-electronics.com/e/catalog/switch/ate.pdf" 200 300 60 H I L C N N
 F4 "563-1157-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATE1D-2M3-10-Z" 200 500 60 H I L CNN "MPN"

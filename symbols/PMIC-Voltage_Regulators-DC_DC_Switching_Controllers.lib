@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LM3481MM_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -250 150 60 H V C C N N
 F1 "LM3481MM_NOPB" 0 500 60 H V C C N N
-F2 "testfplib:10-MSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-MSOP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm3481.pdf" 200 300 60 H I L C N N
 F4 "LM3481MM/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM3481MM/NOPB" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF TPS40210DGQR U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "TPS40210DGQR" 600 -600 60 H V C C N N
-F2 "testfplib:10-MSOP_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-MSOP_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps40210.pdf" 200 300 60 H I L C N N
 F4 "296-26969-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS40210DGQR" 200 500 60 H I L CNN "MPN"
@@ -67,7 +67,7 @@ ENDDEF
 DEF LT3757EMSE_PBF U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "LT3757EMSE_PBF" 0 500 60 H V C C N N
-F2 "testfplib:10-MSOP_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-MSOP_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/27994" 200 300 60 H I L C N N
 F4 "LT3757EMSE#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LT3757EMSE#PBF" 200 500 60 H I L CNN "MPN"
@@ -98,7 +98,7 @@ ENDDEF
 DEF SG3525AN U 0 40 Y Y 1 F N
 F0 "U?" -300 250 60 H V C C N N
 F1 "SG3525AN" 100 -400 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c0/12/98/4a/3b/1a/4b/8b/CD00000958.pdf/files/CD00000958.pdf/jcr:content/translations/en.CD00000958.pdf" 200 300 60 H I L C N N
 F4 "497-2041-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SG3525AN" 200 500 60 H I L CNN "MPN"
@@ -134,7 +134,7 @@ ENDDEF
 DEF TL494CN U 0 40 Y Y 1 F N
 F0 "U?" -300 400 60 H V C C N N
 F1 "TL494CN" 150 -200 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tl494.pdf" 200 300 60 H I L C N N
 F4 "296-1799-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL494CN" 200 500 60 H I L CNN "MPN"
@@ -170,7 +170,7 @@ ENDDEF
 DEF LT3748EMS_PBF U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "LT3748EMS_PBF" 0 500 60 H V C C N N
-F2 "testfplib:16-TFSOP_12POS_(3.00mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-TFSOP_12POS_(3.00mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/29653" 200 300 60 H I L C N N
 F4 "LT3748EMS#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LT3748EMS#PBF" 200 500 60 H I L CNN "MPN"
@@ -202,7 +202,7 @@ ENDDEF
 DEF LM3478MM_NOPB U 0 40 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "LM3478MM_NOPB" 0 600 60 H V C C N N
-F2 "testfplib:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm3478.pdf" 200 300 60 H I L C N N
 F4 "LM3478MM/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM3478MM/NOPB" 200 500 60 H I L CNN "MPN"

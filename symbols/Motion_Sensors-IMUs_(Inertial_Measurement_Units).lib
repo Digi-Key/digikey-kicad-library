@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MPU-6050 U 0 40 Y Y 1 F N
 F0 "U?" -650 450 60 H V C C N N
 F1 "MPU-6050" -900 -550 60 H V C C N N
-F2 "testfplib:1428-1007-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1428-1007-1-ND" 200 200 60 H I L C N N
 F3 "http://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf" 200 300 60 H I L C N N
 F4 "1428-1007-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPU-6050" 200 500 60 H I L CNN "MPN"
@@ -50,7 +50,7 @@ ENDDEF
 DEF MPU-9250 U 0 40 Y Y 1 F N
 F0 "U?" -650 450 60 H V C C N N
 F1 "MPU-9250" -100 -300 60 H V C C N N
-F2 "testfplib:1428-1019-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1428-1019-1-ND" 200 200 60 H I L C N N
 F3 "http://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf" 200 300 60 H I L C N N
 F4 "1428-1019-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPU-9250" 200 500 60 H I L CNN "MPN"
@@ -95,7 +95,7 @@ ENDDEF
 DEF LSM303CTR U 0 40 Y Y 1 F N
 F0 "U?" -450 550 60 H V C C N N
 F1 "LSM303CTR" 550 -450 60 H V C C N N
-F2 "testfplib:497-14085-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:497-14085-1-ND" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf" 200 300 60 H I L C N N
 F4 "497-14085-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LSM303CTR" 200 500 60 H I L CNN "MPN"
@@ -127,7 +127,7 @@ ENDDEF
 DEF LSM9DS1TR U 0 40 Y Y 1 F N
 F0 "U?" -450 750 60 H V C C N N
 F1 "LSM9DS1TR" 650 -750 60 H V C C N N
-F2 "testfplib:497-14946-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:497-14946-1-ND" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf" 200 300 60 H I L C N N
 F4 "497-14946-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LSM9DS1TR" 200 500 60 H I L CNN "MPN"
@@ -171,7 +171,7 @@ ENDDEF
 DEF LSM6DS3TR U 0 40 Y Y 1 F N
 F0 "U?" -250 450 60 H V C C N N
 F1 "LSM6DS3TR" 450 -700 60 H V C C N N
-F2 "testfplib:497-15383-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:497-15383-1-ND" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/f5/4f/ae/8e/44/41/d7/DM00133076.pdf/files/DM00133076.pdf/jcr:content/translations/en.DM00133076.pdf" 200 300 60 H I L C N N
 F4 "497-15383-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LSM6DS3TR" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF QRE1113GR U 0 0 Y Y 1 F N
 F0 "U?" -100 400 60 H V C C N N
 F1 "QRE1113GR" 0 -200 60 H V C C N N
-F2 "testfplib:4-SMD_Gull_Wing" 200 200 60 H I L C N N
+F2 "digikey-footprints:4-SMD_Gull_Wing" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/QR/QRE1113.pdf" 200 300 60 H I L C N N
 F4 "QRE1113GRCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "QRE1113GR" 200 500 60 H I L CNN "MPN"
@@ -38,7 +38,7 @@ ENDDEF
 DEF QRD1114 U 0 40 Y Y 1 F N
 F0 "U?" 0 900 60 H V C C N N
 F1 "QRD1114" 0 800 60 H V C C N N
-F2 "testfplib:QRD1114" 200 200 60 H I L C N N
+F2 "digikey-footprints:QRD1114" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/QR/QRD1113.pdf" 200 300 60 H I L C N N
 F4 "QRD1114-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "QRD1114" 200 500 60 H I L CNN "MPN"
@@ -78,7 +78,7 @@ ENDDEF
 DEF QRE1113 U 0 0 Y Y 1 F N
 F0 "U?" -100 400 60 H V C C N N
 F1 "QRE1113" 0 -200 60 H V C C N N
-F2 "testfplib:QRE1113" 200 200 60 H I L C N N
+F2 "digikey-footprints:QRE1113" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/QR/QRE1113.pdf" 200 300 60 H I L C N N
 F4 "QRE1113-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "QRE1113" 200 500 60 H I L CNN "MPN"

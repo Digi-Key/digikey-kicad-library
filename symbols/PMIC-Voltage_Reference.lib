@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF REF3012AIDBZR U 0 1 Y Y 1 F N
 F0 "VR?" 50 150 60 H V C C N N
 F1 "REF3012AIDBZR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ref3012.pdf" 200 300 60 H I L C N N
 F4 "296-32213-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "REF3012AIDBZR" 200 500 60 H I L CNN "MPN"
@@ -29,7 +29,7 @@ ENDDEF
 DEF REF3025AIDBZR U 0 1 Y Y 1 F N
 F0 "VR?" 50 150 60 H V C C N N
 F1 "REF3025AIDBZR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ref3012.pdf" 200 300 60 H I L C N N
 F4 "296-26322-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "REF3025AIDBZR" 200 500 60 H I L CNN "MPN"
@@ -52,7 +52,7 @@ ENDDEF
 DEF MCP1525T-I_TT U 0 1 Y Y 1 F N
 F0 "VR?" 0 200 60 H V C C N N
 F1 "MCP1525T-I_TT" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011331" 200 300 60 H I L C N N
 F4 "MCP1525T-I/TTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP1525T-I/TT" 200 500 60 H I L CNN "MPN"
@@ -75,7 +75,7 @@ ENDDEF
 DEF REF3030AIDBZR U 0 1 Y Y 1 F N
 F0 "VR?" 50 150 60 H V C C N N
 F1 "REF3030AIDBZR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ref3012.pdf" 200 300 60 H I L C N N
 F4 "296-26323-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "REF3030AIDBZR" 200 500 60 H I L CNN "MPN"
@@ -98,7 +98,7 @@ ENDDEF
 DEF MCP1541T-I_TT U 0 1 Y Y 1 F N
 F0 "VR?" 0 200 60 H V C C N N
 F1 "MCP1541T-I_TT" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011331" 200 300 60 H I L C N N
 F4 "MCP1541T-I/TTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP1541T-I/TT" 200 500 60 H I L CNN "MPN"
@@ -121,7 +121,7 @@ ENDDEF
 DEF ADR510ARTZ-REEL7 U 0 0 Y Y 1 F N
 F0 "VR?" 0 200 60 H V C C N N
 F1 "ADR510ARTZ-REEL7" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADR510.pdf" 200 300 60 H I L C N N
 F4 "ADR510ARTZ-REEL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADR510ARTZ-REEL7" 200 500 60 H I L CNN "MPN"
@@ -148,7 +148,7 @@ ENDDEF
 DEF LM4040D25FTA U 0 0 Y Y 1 F N
 F0 "VR?" 0 200 60 H V C C N N
 F1 "LM4040D25FTA" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/LM4040.pdf" 200 300 60 H I L C N N
 F4 "LM4040D25FCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM4040D25FTA" 200 500 60 H I L CNN "MPN"
@@ -175,7 +175,7 @@ ENDDEF
 DEF TL431AIDBZR U 0 0 Y Y 1 F N
 F0 "VR?" 0 200 60 H V C C N N
 F1 "TL431AIDBZR" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tl431a.pdf" 200 300 60 H I L C N N
 F4 "296-17329-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL431AIDBZR" 200 500 60 H I L CNN "MPN"
@@ -200,7 +200,7 @@ ENDDEF
 DEF TL431AQDBZR_215 U 0 0 Y Y 1 F N
 F0 "VR?" -50 150 60 H V C C N N
 F1 "TL431AQDBZR_215" 0 -300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://assets.nexperia.com/documents/data-sheet/TL431_FAM.pdf" 200 300 60 H I L C N N
 F4 "1727-4259-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL431AQDBZR,215" 200 500 60 H I L CNN "MPN"
@@ -228,7 +228,7 @@ ENDDEF
 DEF TL431CLPM U 0 0 Y Y 1 F N
 F0 "VR?" -50 150 60 H V C C N N
 F1 "TL431CLPM" 0 300 60 H V C C N N
-F2 "testfplib:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tl431a.pdf" 200 300 60 H I L C N N
 F4 "296-26717-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL431CLPM" 200 500 60 H I L CNN "MPN"

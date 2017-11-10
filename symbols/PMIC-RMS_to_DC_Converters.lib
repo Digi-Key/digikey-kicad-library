@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF AD736JNZ U 0 40 Y Y 1 F N
 F0 "U?" -250 250 60 H V C C N N
 F1 "AD736JNZ" 0 600 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf" 200 300 60 H I L C N N
 F4 "AD736JNZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD736JNZ" 200 500 60 H I L CNN "MPN"
@@ -34,7 +34,7 @@ ENDDEF
 DEF LTC1968CMS8_PBF U 0 40 Y Y 1 F N
 F0 "U?" -350 50 60 H V C C N N
 F1 "LTC1968CMS8_PBF" 0 400 60 H V C C N N
-F2 "testfplib:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/5090" 200 300 60 H I L C N N
 F4 "LTC1968CMS8#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTC1968CMS8#PBF" 200 500 60 H I L CNN "MPN"
@@ -62,7 +62,7 @@ ENDDEF
 DEF LTC1966CMS8_PBF U 0 40 Y Y 1 F N
 F0 "U?" -300 150 60 H V C C N N
 F1 "LTC1966CMS8_PBF" 0 600 60 H V C C N N
-F2 "testfplib:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/3396" 200 300 60 H I L C N N
 F4 "LTC1966CMS8#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTC1966CMS8#PBF" 200 500 60 H I L CNN "MPN"

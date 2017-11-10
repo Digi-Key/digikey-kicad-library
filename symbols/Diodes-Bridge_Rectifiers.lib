@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF CD2320-B11000 U 0 0 Y Y 1 F N
 F0 "D?" 0 600 60 H V C C N N
 F1 "CD2320-B11000" 0 700 60 H V C C N N
-F2 "testfplib:2320" 200 200 60 H I L C N N
+F2 "digikey-footprints:2320" 200 200 60 H I L C N N
 F3 "http://www.bourns.com/docs/Product-Datasheets/CD2320-B.pdf" 200 300 60 H I L C N N
 F4 "CD2320-B11000CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD2320-B11000" 200 500 60 H I L CNN "MPN"
@@ -46,7 +46,7 @@ ENDDEF
 DEF DF04M U 0 0 Y Y 1 F N
 F0 "D?" 0 600 60 H V C C N N
 F1 "DF04M" 0 700 60 H V C C N N
-F2 "testfplib:4-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:4-DIP" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/DF/DF005M.pdf" 200 300 60 H I L C N N
 F4 "DF04M-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DF04M" 200 500 60 H I L CNN "MPN"
@@ -86,7 +86,7 @@ ENDDEF
 DEF KBP04G U 0 0 Y Y 1 F N
 F0 "D?" -200 300 60 H V C C N N
 F1 "KBP04G" 400 -300 60 H V C C N N
-F2 "testfplib:4SIP-(3.81mm)" 200 200 60 H I L C N N
+F2 "digikey-footprints:4SIP-(3.81mm)" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds21203.pdf" 200 300 60 H I L C N N
 F4 "KBP04G-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KBP04G" 200 500 60 H I L CNN "MPN"
@@ -122,7 +122,7 @@ ENDDEF
 DEF MDB8S U 0 0 Y Y 1 F N
 F0 "D?" -300 300 60 H V C C N N
 F1 "MDB8S" 0 800 60 H V C C N N
-F2 "testfplib:4-SMD_Gull_Wing" 200 200 60 H I L C N N
+F2 "digikey-footprints:4-SMD_Gull_Wing" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf" 200 300 60 H I L C N N
 F4 "MDB8SFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MDB8S" 200 500 60 H I L CNN "MPN"
@@ -162,7 +162,7 @@ ENDDEF
 DEF MB6S U 0 0 Y Y 1 F N
 F0 "D?" -300 300 60 H V C C N N
 F1 "MB6S" 0 600 60 H V C C N N
-F2 "testfplib:MB6ST-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:MB6ST-ND" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MB/MB1S.pdf" 200 300 60 H I L C N N
 F4 "MB6SCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MB6S" 200 500 60 H I L CNN "MPN"
@@ -202,7 +202,7 @@ ENDDEF
 DEF MB6S-TP U 0 0 Y Y 1 F N
 F0 "D?" -250 300 60 H V C C N N
 F1 "MB6S-TP" 0 650 60 H V C C N N
-F2 "testfplib:TO-269AA" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-269AA" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf" 200 300 60 H I L C N N
 F4 "MB6S-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MB6S-TP" 200 500 60 H I L CNN "MPN"

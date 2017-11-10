@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TXB0104PWR U 0 0 Y Y 1 F N
 F0 "U?" -250 350 60 H V C C N N
 F1 "TXB0104PWR" 400 -500 60 H V C C N N
-F2 "testfplib:14-TSSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-TSSOP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/txb0104.pdf" 200 300 60 H I L C N N
 F4 "296-21929-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TXB0104PWR" 200 500 60 H I L CNN "MPN"
@@ -64,7 +64,7 @@ ENDDEF
 DEF TXB0108PWR U 0 0 Y Y 1 F N
 F0 "U?" -300 500 60 H V C C N N
 F1 "TXB0108PWR" 500 -700 60 H V C C N N
-F2 "testfplib:20-TSSOP_(4.4mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-TSSOP_(4.4mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/txb0108.pdf" 200 300 60 H I L C N N
 F4 "296-21527-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TXB0108PWR" 200 500 60 H I L CNN "MPN"
@@ -152,7 +152,7 @@ ENDDEF
 DEF PCA9306D_118 U 0 40 Y Y 1 F N
 F0 "U?" -200 450 60 H V C C N N
 F1 "PCA9306D_118" 0 800 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.nxp.com/documents/data_sheet/PCA9306.pdf" 200 300 60 H I L C N N
 F4 "568-4215-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PCA9306D,118" 200 500 60 H I L CNN "MPN"
@@ -180,7 +180,7 @@ ENDDEF
 DEF SN74LVC1T45DBVR U 0 1 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "SN74LVC1T45DBVR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf" 200 300 60 H I L C N N
 F4 "296-16843-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1T45DBVR" 200 500 60 H I L CNN "MPN"

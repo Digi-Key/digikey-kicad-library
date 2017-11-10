@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF AR1100-I_SS U 0 40 Y Y 1 F N
 F0 "U?" -400 850 60 H V C C N N
 F1 "AR1100-I_SS" 0 100 60 V V C C N N
-F2 "testfplib:20-SSOP_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-SSOP_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en555252" 200 300 60 H I L C N N
 F4 "AR1100-I/SS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AR1100-I/SS" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TPS51200DRCR U 0 40 Y Y 1 F N
 F0 "U?" -300 350 60 H V C C N N
 F1 "TPS51200DRCR" 600 -400 60 H V C C N N
-F2 "testfplib:10-VSON_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-VSON_(3x3)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps51200.pdf" 200 300 60 H I L C N N
 F4 "296-26978-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS51200DRCR" 200 500 60 H I L CNN "MPN"

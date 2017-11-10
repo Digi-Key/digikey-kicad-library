@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF PS1240P02BT U 0 0 Y Y 1 F N
 F0 "BZ?" 0 200 60 H V C C N N
 F1 "PS1240P02BT" 0 300 60 H V C C N N
-F2 "testfplib:445-2525-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:445-2525-1-ND" 200 200 60 H I L C N N
 F3 "https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf" 200 300 60 H I L C N N
 F4 "445-2525-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PS1240P02BT" 200 500 60 H I L CNN "MPN"
@@ -31,7 +31,7 @@ ENDDEF
 DEF PKMCS0909E4000-R1 U 0 0 Y Y 1 F N
 F0 "BZ?" 0 200 60 H V C C N N
 F1 "PKMCS0909E4000-R1" 0 300 60 H V C C N N
-F2 "testfplib:490-9647-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:490-9647-1-ND" 200 200 60 H I L C N N
 F3 "http://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx" 200 300 60 H I L C N N
 F4 "490-9647-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PKMCS0909E4000-R1" 200 500 60 H I L CNN "MPN"

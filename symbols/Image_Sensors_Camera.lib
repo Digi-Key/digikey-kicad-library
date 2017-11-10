@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 500-0659-01 U 0 40 Y Y 1 F N
 F0 "U?" -500 850 60 H V C C N N
 F1 "500-0659-01" 100 100 60 V V C C N N
-F2 "testfplib:1050281001" 200 200 60 H I L C N N
+F2 "digikey-footprints:1050281001" 200 200 60 H I L C N N
 F3 "http://www.flir.com/uploadedFiles/CVS_Americas/Cores_and_Components_NEW/Products/Uncooled_Cores/Lepton/FLIR-Lepton-DataBrief.pdf" 200 300 60 H I L C N N
 F4 "500-0659-01-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "500-0659-01" 200 500 60 H I L CNN "MPN"
@@ -59,7 +59,7 @@ ENDDEF
 DEF 500-0643-00 U 0 40 Y Y 1 F N
 F0 "U?" -500 550 60 H V C C N N
 F1 "500-0643-00" 100 -200 60 V V C C N N
-F2 "testfplib:1050281001" 200 200 60 H I L C N N
+F2 "digikey-footprints:1050281001" 200 200 60 H I L C N N
 F3 "http://www.flir.com/uploadedFiles/CVS_Americas/Cores_and_Components_NEW/Products/Uncooled_Cores/Lepton/FLIR-Lepton-DataBrief.pdf" 200 300 60 H I L C N N
 F4 "500-0643-00-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "500-0643-00" 200 500 60 H I L CNN "MPN"
@@ -112,7 +112,7 @@ ENDDEF
 DEF 500-0690-00 U 0 40 Y Y 1 F N
 F0 "U?" -400 550 60 H V C C N N
 F1 "500-0690-00" 200 -200 60 V V C C N N
-F2 "testfplib:1050281001" 200 200 60 H I L C N N
+F2 "digikey-footprints:1050281001" 200 200 60 H I L C N N
 F3 "http://www.flir.com/uploadedFiles/CVS_Americas/Cores_and_Components_NEW/Products/Uncooled_Cores/Lepton/FLIR-Lepton-DataBrief.pdf" 200 300 60 H I L C N N
 F4 "500-0690-00-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "500-0690-00" 200 500 60 H I L CNN "MPN"

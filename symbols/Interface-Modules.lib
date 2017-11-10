@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF WIZ810MJ U 0 40 Y Y 2 L N
 F0 "U?" -300 850 60 H V C C N N
 F1 "WIZ810MJ" 100 0 60 V V C C N N
-F2 "testfplib:Module_WIZ810MJ" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_WIZ810MJ" 200 200 60 H I L C N N
 F3 "http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf" 200 300 60 H I L C N N
 F4 "1278-1020-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WIZ810MJ" 200 500 60 H I L CNN "MPN"

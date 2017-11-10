@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TMP006AIYZFR U 0 40 Y Y 1 F N
 F0 "U?" -250 450 60 H V C C N N
 F1 "TMP006AIYZFR" -500 -200 60 H V C C N N
-F2 "testfplib:8-DSBGA" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DSBGA" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tmp006.pdf" 200 300 60 H I L C N N
 F4 "296-28819-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMP006AIYZFR" 200 500 60 H I L CNN "MPN"
@@ -34,7 +34,7 @@ ENDDEF
 DEF AMG8833 U 0 40 Y Y 1 F N
 F0 "U?" -300 700 60 H V C C N N
 F1 "AMG8833" 500 -200 60 H V C C N N
-F2 "testfplib:AMG8833" 200 200 60 H I L C N N
+F2 "digikey-footprints:AMG8833" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Sensors%20PDFs/Grid-EYE_AMG88.pdf" 200 300 60 H I L C N N
 F4 "P19002CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AMG8833" 200 500 60 H I L CNN "MPN"
@@ -68,7 +68,7 @@ ENDDEF
 DEF MCP9700AT-E_TT U 0 40 Y Y 1 F N
 F0 "U?" 100 300 60 H V C C N N
 F1 "MCP9700AT-E_TT" 600 -300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859" 200 300 60 H I L C N N
 F4 "MCP9700AT-E/TTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP9700AT-E/TT" 200 500 60 H I L CNN "MPN"
@@ -91,7 +91,7 @@ ENDDEF
 DEF MCP9700T-E_TT U 0 40 Y Y 1 F N
 F0 "U?" -200 400 60 H V C C N N
 F1 "MCP9700T-E_TT" 600 -400 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859" 200 300 60 H I L C N N
 F4 "MCP9700T-E/TTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP9700T-E/TT" 200 500 60 H I L CNN "MPN"
@@ -114,7 +114,7 @@ ENDDEF
 DEF MCP9701AT-E_TT U 0 40 Y Y 1 F N
 F0 "U?" -200 400 60 H V C C N N
 F1 "MCP9701AT-E_TT" 600 -300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859" 200 300 60 H I L C N N
 F4 "MCP9701AT-E/TTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP9701AT-E/TT" 200 500 60 H I L CNN "MPN"
@@ -137,7 +137,7 @@ ENDDEF
 DEF TC1047AVNBTR U 0 40 Y Y 1 F N
 F0 "U?" 100 300 60 H V C C N N
 F1 "TC1047AVNBTR" 400 -300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011393" 200 300 60 H I L C N N
 F4 "TC1047AVNBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TC1047AVNBTR" 200 500 60 H I L CNN "MPN"
@@ -160,7 +160,7 @@ ENDDEF
 DEF TMP112AIDRLT U 0 40 Y Y 1 F N
 F0 "U?" -200 400 60 H V C C N N
 F1 "TMP112AIDRLT" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-563" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-563" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tmp112.pdf" 200 300 60 H I L C N N
 F4 "296-24621-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMP112AIDRLT" 200 500 60 H I L CNN "MPN"
@@ -186,7 +186,7 @@ ENDDEF
 DEF TMP102AIDRLR U 0 40 Y Y 1 F N
 F0 "U?" -250 450 60 H V C C N N
 F1 "TMP102AIDRLR" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-563" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-563" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tmp102.pdf" 200 300 60 H I L C N N
 F4 "296-26834-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMP102AIDRLR" 200 500 60 H I L CNN "MPN"
@@ -212,7 +212,7 @@ ENDDEF
 DEF LM35DT_NOPB U 0 40 Y Y 1 F N
 F0 "U?" 100 300 60 H V C C N N
 F1 "LM35DT_NOPB" 500 -300 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm35.pdf" 200 300 60 H I L C N N
 F4 "LM35DT/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM35DT/NOPB" 200 500 60 H I L CNN "MPN"
@@ -235,7 +235,7 @@ ENDDEF
 DEF MLX90614ESF-BAA-000-TU U 0 40 Y Y 1 F N
 F0 "U?" -300 400 60 H V C C N N
 F1 "MLX90614ESF-BAA-000-TU" 900 -400 60 H V C C N N
-F2 "testfplib:TO-39-4" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-39-4" 200 200 60 H I L C N N
 F3 "https://www.melexis.com/-/media/files/documents/datasheets/mlx90614-datasheet-melexis.pdf" 200 300 60 H I L C N N
 F4 "MLX90614ESF-BAA-000-TU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MLX90614ESF-BAA-000-TU" 200 500 60 H I L CNN "MPN"
@@ -259,7 +259,7 @@ ENDDEF
 DEF LM34DZ_NOPB U 0 40 Y Y 1 F N
 F0 "U?" 100 300 60 H V C C N N
 F1 "LM34DZ_NOPB" 500 -300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm34.pdf" 200 300 60 H I L C N N
 F4 "LM34DZ/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM34DZ/NOPB" 200 500 60 H I L CNN "MPN"
@@ -282,7 +282,7 @@ ENDDEF
 DEF LM35DZ_NOPB U 0 40 Y Y 1 F N
 F0 "U?" 100 300 60 H V C C N N
 F1 "LM35DZ_NOPB" 500 -300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm35.pdf" 200 300 60 H I L C N N
 F4 "LM35DZ/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM35DZ/NOPB" 200 500 60 H I L CNN "MPN"
@@ -305,7 +305,7 @@ ENDDEF
 DEF MCP9700A-E_TO U 0 40 Y Y 1 F N
 F0 "U?" 100 300 60 H V C C N N
 F1 "MCP9700A-E_TO" 500 -300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859" 200 300 60 H I L C N N
 F4 "MCP9700A-E/TO-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP9700A-E/TO" 200 500 60 H I L CNN "MPN"
@@ -328,7 +328,7 @@ ENDDEF
 DEF MCP9701A-E_TO U 0 40 Y Y 1 F N
 F0 "U?" -200 400 60 H V C C N N
 F1 "MCP9701A-E_TO" 500 -300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859" 200 300 60 H I L C N N
 F4 "MCP9701A-E/TO-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP9701A-E/TO" 200 500 60 H I L CNN "MPN"
@@ -351,7 +351,7 @@ ENDDEF
 DEF TMP36GT9Z U 0 40 Y Y 1 F N
 F0 "U?" 100 300 60 H V C C N N
 F1 "TMP36GT9Z" 400 -300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf" 200 300 60 H I L C N N
 F4 "TMP36GT9Z-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMP36GT9Z" 200 500 60 H I L CNN "MPN"
@@ -374,7 +374,7 @@ ENDDEF
 DEF DS18B20_ U 0 40 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "DS18B20_" 400 -300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf" 200 300 60 H I L C N N
 F4 "DS18B20+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS18B20+" 200 500 60 H I L CNN "MPN"
@@ -397,7 +397,7 @@ ENDDEF
 DEF DS18S20_ U 0 40 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "DS18S20_" 200 0 60 V V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/DS18S20.pdf" 200 300 60 H I L C N N
 F4 "DS18S20+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS18S20+" 200 500 60 H I L CNN "MPN"
@@ -420,7 +420,7 @@ ENDDEF
 DEF MAX31820MCR_ U 0 40 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "MAX31820MCR_" 500 -300 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX31820.pdf" 200 300 60 H I L C N N
 F4 "MAX31820MCR+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX31820MCR+" 200 500 60 H I L CNN "MPN"

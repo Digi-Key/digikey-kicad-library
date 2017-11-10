@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LTC2990IMS_PBF U 0 40 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "LTC2990IMS_PBF" 0 600 60 H V C C N N
-F2 "testfplib:10-MSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-MSOP" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/29813" 200 300 60 H I L C N N
 F4 "LTC2990IMS#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTC2990IMS#PBF" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF AD595AQ U 0 40 Y Y 1 F N
 F0 "U?" -350 350 60 H V C C N N
 F1 "AD595AQ" -100 -200 60 V V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD594_595.pdf" 200 300 60 H I L C N N
 F4 "AD595AQ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD595AQ" 200 500 60 H I L CNN "MPN"
@@ -70,7 +70,7 @@ ENDDEF
 DEF LTC2991IMS_PBF U 0 40 Y Y 1 F N
 F0 "U?" -200 450 60 H V C C N N
 F1 "LTC2991IMS_PBF" 0 -350 60 V V C C N N
-F2 "testfplib:16-TFSOP(3.00mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-TFSOP(3.00mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/40232" 200 300 60 H I L C N N
 F4 "LTC2991IMS#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTC2991IMS#PBF" 200 500 60 H I L CNN "MPN"
@@ -106,7 +106,7 @@ ENDDEF
 DEF MAX31865ATP_ U 0 40 Y Y 1 F N
 F0 "U?" -300 250 60 H V C C N N
 F1 "MAX31865ATP_" 0 600 60 H V C C N N
-F2 "testfplib:20-TQFN-EP_(5x5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-TQFN-EP_(5x5)" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX31865.pdf" 200 300 60 H I L C N N
 F4 "MAX31865ATP+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX31865ATP+" 200 500 60 H I L CNN "MPN"

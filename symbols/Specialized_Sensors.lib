@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MAX30105EFD_ U 0 40 Y Y 1 F N
 F0 "U?" -400 500 60 H V C C N N
 F1 "MAX30105EFD_" 500 -400 60 H V C C N N
-F2 "testfplib:MAX30105EFD+" 200 200 60 H I L C N N
+F2 "digikey-footprints:MAX30105EFD+" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX30105.pdf" 200 300 60 H I L C N N
 F4 "MAX30105EFD+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX30105EFD+" 200 500 60 H I L CNN "MPN"

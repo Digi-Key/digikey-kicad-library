@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MAX5481EUD_ U 0 40 Y Y 1 F N
 F0 "U?" -300 150 60 H V C C N N
 F1 "MAX5481EUD_" 100 -450 60 V V C C N N
-F2 "testfplib:14-TSSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-TSSOP" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX5481-MAX5484.pdf" 200 300 60 H I L C N N
 F4 "MAX5481EUD+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX5481EUD+" 200 500 60 H I L CNN "MPN"
@@ -40,7 +40,7 @@ ENDDEF
 DEF MCP4017T-103E_LT U 0 40 Y Y 1 F N
 F0 "U?" -100 250 60 H V C C N N
 F1 "MCP4017T-103E_LT" 0 500 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en540631" 200 300 60 H I L C N N
 F4 "MCP4017T-103E/LTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP4017T-103E/LT" 200 500 60 H I L CNN "MPN"
@@ -66,7 +66,7 @@ ENDDEF
 DEF MCP4018T-103E_LT U 0 40 Y Y 1 F N
 F0 "U?" -100 250 60 H V C C N N
 F1 "MCP4018T-103E_LT" 0 500 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en540631" 200 300 60 H I L C N N
 F4 "MCP4018T-103E/LTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP4018T-103E/LT" 200 500 60 H I L CNN "MPN"

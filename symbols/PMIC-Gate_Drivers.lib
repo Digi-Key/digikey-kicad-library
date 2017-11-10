@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF IR2110PBF U 0 40 Y Y 1 F N
 F0 "U?" -100 150 60 H V C C N N
 F1 "IR2110PBF" 0 500 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 200 300 60 H I L C N N
 F4 "IR2110PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IR2110PBF" 200 500 60 H I L CNN "MPN"
@@ -40,7 +40,7 @@ ENDDEF
 DEF IR2110STRPBF U 0 40 Y Y 1 F N
 F0 "U?" -100 150 60 H V C C N N
 F1 "IR2110STRPBF" 0 500 60 H V C C N N
-F2 "testfplib:16-SOIC" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-SOIC" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e" 200 300 60 H I L C N N
 F4 "IR2110SPBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IR2110STRPBF" 200 500 60 H I L CNN "MPN"
@@ -76,7 +76,7 @@ ENDDEF
 DEF LT1910ES8_PBF U 0 40 Y Y 1 F N
 F0 "U?" -100 250 60 H V C C N N
 F1 "LT1910ES8_PBF" 0 600 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/3996" 200 300 60 H I L C N N
 F4 "LT1910ES8#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LT1910ES8#PBF" 200 500 60 H I L CNN "MPN"
@@ -104,7 +104,7 @@ ENDDEF
 DEF IXDN609SI U 0 0 Y Y 1 F N
 F0 "U?" -200 200 60 H V C C N N
 F1 "IXDN609SI" 0 500 60 H V C C N N
-F2 "testfplib:8-PowerSOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-PowerSOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf" 200 300 60 H I L C N N
 F4 "CLA364-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IXDN609SI" 200 500 60 H I L CNN "MPN"
@@ -139,7 +139,7 @@ ENDDEF
 DEF FAN3111ESX U 0 0 Y Y 1 F N
 F0 "U?" -150 50 60 H V C C N N
 F1 "FAN3111ESX" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/FA/FAN3111E.pdf" 200 300 60 H I L C N N
 F4 "FAN3111ESXCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FAN3111ESX" 200 500 60 H I L CNN "MPN"
@@ -168,7 +168,7 @@ ENDDEF
 DEF MCP1402T-E_OT U 0 40 Y Y 1 F N
 F0 "U?" -200 -50 60 H V C C N N
 F1 "MCP1402T-E_OT" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en530890" 200 300 60 H I L C N N
 F4 "MCP1402T-E/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP1402T-E/OT" 200 500 60 H I L CNN "MPN"
@@ -193,7 +193,7 @@ ENDDEF
 DEF MCP1416T-E_OT U 0 40 Y Y 1 F N
 F0 "U?" -150 50 60 H V C C N N
 F1 "MCP1416T-E_OT" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536128" 200 300 60 H I L C N N
 F4 "MCP1416T-E/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP1416T-E/OT" 200 500 60 H I L CNN "MPN"

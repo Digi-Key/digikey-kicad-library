@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ADM3251EARWZ U 0 40 Y Y 1 F N
 F0 "U?" -400 650 60 H V C C N N
 F1 "ADM3251EARWZ" -100 100 60 V V C C N N
-F2 "testfplib:20-SOIC_(7.50mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-SOIC_(7.50mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pdf" 200 300 60 H I L C N N
 F4 "ADM3251EARWZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADM3251EARWZ" 200 500 60 H I L CNN "MPN"
@@ -46,7 +46,7 @@ ENDDEF
 DEF ISO1540DR U 0 0 Y Y 1 F N
 F0 "U?" -250 50 60 H V C C N N
 F1 "ISO1540DR" 600 -600 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/iso1540.pdf" 200 300 60 H I L C N N
 F4 "296-34871-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ISO1540DR" 200 500 60 H I L CNN "MPN"

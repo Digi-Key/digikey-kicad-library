@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TLP222AF U 0 0 Y Y 1 F N
 F0 "RLY?" 0 600 60 H V C C N N
 F1 "TLP222AF" 0 700 60 H V C C N N
-F2 "testfplib:4-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:4-DIP" 200 200 60 H I L C N N
 F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=17036&prodName=TLP222A-2" 200 300 60 H I L C N N
 F4 "TLP222AF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLP222AF" 200 500 60 H I L CNN "MPN"
@@ -64,7 +64,7 @@ ENDDEF
 DEF CPC1002NTR U 0 0 Y Y 1 F N
 F0 "RLY?" 100 300 60 H V C C N N
 F1 "CPC1002NTR" 100 -300 60 H V C C N N
-F2 "testfplib:4-SOP_(3.81mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:4-SOP_(3.81mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1002N.pdf/$file/CPC1002N.pdf" 200 300 60 H I L C N N
 F4 "CLA230CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CPC1002NTR" 200 500 60 H I L CNN "MPN"
@@ -104,7 +104,7 @@ ENDDEF
 DEF CPC1017NTR U 0 0 Y Y 1 F N
 F0 "RLY?" 0 300 60 H V C C N N
 F1 "CPC1017NTR" 0 -400 60 H V C C N N
-F2 "testfplib:4-SOP_(3.81mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:4-SOP_(3.81mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ixysic.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf" 200 300 60 H I L C N N
 F4 "CLA233CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CPC1017NTR" 200 500 60 H I L CNN "MPN"

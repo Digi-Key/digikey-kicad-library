@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF SN74HC74N U 0 40 Y Y 1 F N
 F0 "U?" -250 550 60 H V C C N N
 F1 "SN74HC74N" 0 -50 60 V V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74hc74.pdf" 200 300 60 H I L C N N
 F4 "296-1602-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC74N" 200 500 60 H I L CNN "MPN"
@@ -40,7 +40,7 @@ ENDDEF
 DEF SN74LS74AN U 0 40 Y Y 1 F N
 F0 "U?" -200 500 60 H V C C N N
 F1 "SN74LS74AN" 600 -600 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf" 200 300 60 H I L C N N
 F4 "296-1668-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS74AN" 200 500 60 H I L CNN "MPN"
@@ -74,7 +74,7 @@ ENDDEF
 DEF CD4013BE U 0 40 Y Y 1 F N
 F0 "U?" -200 200 60 H V C C N N
 F1 "CD4013BE" 600 -900 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd4013b.pdf" 200 300 60 H I L C N N
 F4 "296-2033-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4013BE" 200 500 60 H I L CNN "MPN"

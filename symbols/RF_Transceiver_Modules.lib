@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF WT12-A-AI5 U 0 40 Y Y 1 F N
 F0 "MOD?" -250 650 60 H V C C N N
 F1 "WT12-A-AI5" -700 -1350 60 H V C C N N
-F2 "testfplib:1446-1011-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1446-1011-1-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/WT12.pdf" 200 300 60 H I L C N N
 F4 "1446-1011-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WT12-A-AI5" 200 500 60 H I L CNN "MPN"
@@ -57,7 +57,7 @@ ENDDEF
 DEF BLE112-A-V1 U 0 40 Y Y 1 F N
 F0 "MOD?" -350 550 60 H V C C N N
 F1 "BLE112-A-V1" -700 -1750 60 H V C C N N
-F2 "testfplib:1446-1017-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1446-1017-1-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE112.pdf" 200 300 60 H I L C N N
 F4 "1446-1017-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLE112-A-V1" 200 500 60 H I L CNN "MPN"
@@ -107,7 +107,7 @@ ENDDEF
 DEF BLE113-A-V1 U 0 40 Y Y 1 F N
 F0 "MOD?" -850 650 60 H V C C N N
 F1 "BLE113-A-V1" -1000 -1300 60 V V C C N N
-F2 "testfplib:1446-1028-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1446-1028-1-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE113.pdf" 200 300 60 H I L C N N
 F4 "1446-1028-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLE113-A-V1" 200 500 60 H I L CNN "MPN"
@@ -163,7 +163,7 @@ ENDDEF
 DEF WF111-E-V1 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 850 60 H V C C N N
 F1 "WF111-E-V1" -800 -850 60 H V C C N N
-F2 "testfplib:1446-1032-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1446-1032-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/WF111.pdf" 200 300 60 H I L C N N
 F4 "1446-1032-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WF111-E-V1" 200 500 60 H I L CNN "MPN"
@@ -216,7 +216,7 @@ ENDDEF
 DEF WF121-A-V2 U 0 40 Y Y 1 F N
 F0 "MOD?" -550 650 60 H V C C N N
 F1 "WF121-A-V2" -650 -2850 60 V V C C N N
-F2 "testfplib:1446-1033-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1446-1033-1-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/WF121_Datasheet.pdf" 200 300 60 H I L C N N
 F4 "1446-1033-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WF121-A-V2" 200 500 60 H I L CNN "MPN"
@@ -291,7 +291,7 @@ ENDDEF
 DEF BLE113-A-M256K U 0 40 Y Y 1 F N
 F0 "MOD?" -850 650 60 H V C C N N
 F1 "BLE113-A-M256K" -950 -1250 60 V V C C N N
-F2 "testfplib:1446-1035-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1446-1035-1-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE113_DS_V1.45.pdf" 200 300 60 H I L C N N
 F4 "1446-1035-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLE113-A-M256K" 200 500 60 H I L CNN "MPN"
@@ -347,7 +347,7 @@ ENDDEF
 DEF WT32I-A-AI6 U 0 40 Y Y 1 F N
 F0 "MOD?" -550 750 60 H V C C N N
 F1 "WT32I-A-AI6" -650 -1850 60 V V C C N N
-F2 "testfplib:1446-1036-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1446-1036-1-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/WT32i_DS_V1.21.pdf" 200 300 60 H I L C N N
 F4 "1446-1036-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WT32I-A-AI6" 200 500 60 H I L CNN "MPN"
@@ -417,7 +417,7 @@ ENDDEF
 DEF BLE121LR-A-M256K U 0 40 Y Y 1 F N
 F0 "MOD?" -550 750 60 H V C C N N
 F1 "BLE121LR-A-M256K" -800 -800 60 V V C C N N
-F2 "testfplib:1446-1039-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1446-1039-1-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE121LR_V1.2.pdf" 200 300 60 H I L C N N
 F4 "1446-1039-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLE121LR-A-M256K" 200 500 60 H I L CNN "MPN"
@@ -473,7 +473,7 @@ ENDDEF
 DEF NL-SW-EVDO-V U 0 40 Y Y 1 F N
 F0 "MOD?" -350 650 60 H V C C N N
 F1 "NL-SW-EVDO-V" -550 -550 60 H V C C N N
-F2 "testfplib:1477-1002-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1477-1002-ND" 200 200 60 H I L C N N
 F3 "http://nimbelink.com/Documentation/Skywire/3G_EVDO/30006_NL-SW-EVDO_Datasheet.pdf" 200 300 60 H I L C N N
 F4 "1477-1002-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NL-SW-EVDO-V" 200 500 60 H I L CNN "MPN"
@@ -513,7 +513,7 @@ ENDDEF
 DEF NL-SW-LTE-TSVG U 0 40 Y Y 1 F N
 F0 "MOD?" -350 550 60 H V C C N N
 F1 "NL-SW-LTE-TSVG" -450 -550 60 H V C C N N
-F2 "testfplib:1477-1011-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1477-1011-ND" 200 200 60 H I L C N N
 F3 "https://nimbelink.com/Documentation/Skywire/4G_LTE_Cat_3/30012_NL-SW-LTE_Datasheet.pdf" 200 300 60 H I L C N N
 F4 "1477-1011-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NL-SW-LTE-TSVG" 200 500 60 H I L CNN "MPN"
@@ -553,7 +553,7 @@ ENDDEF
 DEF NL-SW-LTE-GELS3-C U 0 40 Y Y 1 F N
 F0 "MOD?" -350 850 60 H V C C N N
 F1 "NL-SW-LTE-GELS3-C" 0 0 60 V V C C N N
-F2 "testfplib:1477-1048-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1477-1048-ND" 200 200 60 H I L C N N
 F3 "http://nimbelink.com/Documentation/Skywire/4G_LTE_Cat_1/30122_NL-SW-LTE-GELS3_Datasheet.pdf" 200 300 60 H I L C N N
 F4 "1477-1048-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NL-SW-LTE-GELS3-C" 200 500 60 H I L CNN "MPN"
@@ -593,7 +593,7 @@ ENDDEF
 DEF DWM1000 U 0 40 Y Y 1 F N
 F0 "MOD?" -400 900 60 H V C C N N
 F1 "DWM1000" 0 -100 60 V V C C N N
-F2 "testfplib:1479-1002-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1479-1002-1-ND" 200 200 60 H I L C N N
 F3 "http://www.decawave.com/sites/default/files/resources/DWM1000-Datasheet-V1.6.pdf" 200 300 60 H I L C N N
 F4 "1479-1002-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DWM1000" 200 500 60 H I L CNN "MPN"
@@ -637,7 +637,7 @@ ENDDEF
 DEF RFD22301 U 0 40 Y Y 1 F N
 F0 "MOD?" -550 450 60 H V C C N N
 F1 "RFD22301" 600 -650 60 H V C C N N
-F2 "testfplib:1562-1016-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1562-1016-ND" 200 200 60 H I L C N N
 F3 "http://www.rfdigital.com/wp-content/uploads/2014/03/RFD22301.Data_.Sheet_.11.24.13_11.38PM.pdf" 200 300 60 H I L C N N
 F4 "1562-1016-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RFD22301" 200 500 60 H I L CNN "MPN"
@@ -676,7 +676,7 @@ ENDDEF
 DEF RFD77101 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 650 60 H V C C N N
 F1 "RFD77101" -750 -2250 60 V V C C N N
-F2 "testfplib:1562-1034-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1562-1034-ND" 200 200 60 H I L C N N
 F3 "https://www.simblee.com/Simblee%20RFD77101%20Datasheet%20v1.0.pdf" 200 300 60 H I L C N N
 F4 "1562-1034-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RFD77101" 200 500 60 H I L CNN "MPN"
@@ -741,7 +741,7 @@ ENDDEF
 DEF COM-13909 U 0 40 Y Y 1 F N
 F0 "MOD?" -350 550 60 H V C C N N
 F1 "COM-13909" -550 -650 60 H V C C N N
-F2 "testfplib:1568-1394-ND_TH  or 1568-1394-ND_SM" 200 200 60 H I L C N N
+F2 "digikey-footprints:1568-1394-ND_TH  or 1568-1394-ND_SM" 200 200 60 H I L C N N
 F3 "https://cdn.sparkfun.com/datasheets/Wireless/General/RFM69HCW-V1.1.pdf" 200 300 60 H I L C N N
 F4 "1568-1394-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "COM-13909" 200 500 60 H I L CNN "MPN"
@@ -777,7 +777,7 @@ ENDDEF
 DEF RN42-I_RM U 0 40 Y Y 1 F N
 F0 "MOD?" -450 1150 60 H V C C N N
 F1 "RN42-I_RM" 600 -1050 60 H V C C N N
-F2 "testfplib:740-1038-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:740-1038-ND" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572993" 200 300 60 H I L C N N
 F4 "740-1038-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RN42-I/RM" 200 500 60 H I L CNN "MPN"
@@ -831,7 +831,7 @@ ENDDEF
 DEF ATWINC1500-MR210PB U 0 40 Y Y 1 F N
 F0 "MOD?" -550 750 60 H V C C N N
 F1 "ATWINC1500-MR210PB" 700 -1000 60 H V C C N N
-F2 "testfplib:ATWINC1500-MR210PB-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:ATWINC1500-MR210PB-ND" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en594386" 200 300 60 H I L C N N
 F4 "ATWINC1500-MR210PB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATWINC1500-MR210PB" 200 500 60 H I L CNN "MPN"
@@ -880,7 +880,7 @@ ENDDEF
 DEF CYBLE-022001-00 U 0 40 Y Y 1 F N
 F0 "MOD?" -350 350 60 H V C C N N
 F1 "CYBLE-022001-00" 450 -850 60 H V C C N N
-F2 "testfplib:CYBLE-022001-00_MODULE" 200 200 60 H I L C N N
+F2 "digikey-footprints:CYBLE-022001-00_MODULE" 200 200 60 H I L C N N
 F3 "http://www.cypress.com/file/140791/download" 200 300 60 H I L C N N
 F4 "428-3408-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CYBLE-022001-00" 200 500 60 H I L CNN "MPN"
@@ -921,7 +921,7 @@ ENDDEF
 DEF 2491 U 0 40 Y Y 1 F N
 F0 "MOD?" -300 400 60 H V C C N N
 F1 "2491" -100 -300 60 V V C C N N
-F2 "testfplib:ESP8266_SMT_MODULE" 200 200 60 H I L C N N
+F2 "digikey-footprints:ESP8266_SMT_MODULE" 200 200 60 H I L C N N
 F3 "https://www.adafruit.com/images/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf" 200 300 60 H I L C N N
 F4 "1528-1438-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2491" 200 500 60 H I L CNN "MPN"
@@ -957,7 +957,7 @@ ENDDEF
 DEF 450-0064 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 750 60 H V C C N N
 F1 "450-0064" 800 -2200 60 H V C C N N
-F2 "testfplib:Laird_Module_450-0064" 200 200 60 H I L C N N
+F2 "digikey-footprints:Laird_Module_450-0064" 200 200 60 H I L C N N
 F3 "http://www.lsr.com/downloads/products/330-0087.pdf" 200 300 60 H I L C N N
 F4 "450-0064-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "450-0064" 200 500 60 H I L CNN "MPN"
@@ -1030,7 +1030,7 @@ ENDDEF
 DEF BC118-1103394 U 0 40 Y Y 1 F N
 F0 "MOD?" -750 550 60 H V C C N N
 F1 "BC118-1103394" -850 -1150 60 V V C C N N
-F2 "testfplib:Module_BC118-1103394" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_BC118-1103394" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/BlueCreation%20PDFs/BC118_DS.pdf" 200 300 60 H I L C N N
 F4 "1495-1003-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC118-1103394" 200 500 60 H I L CNN "MPN"
@@ -1085,7 +1085,7 @@ ENDDEF
 DEF BC127-1103383 U 0 40 Y Y 1 F N
 F0 "MOD?" -550 650 60 H V C C N N
 F1 "BC127-1103383" -700 -2050 60 H V C C N N
-F2 "testfplib:Module_BC127-1103383" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_BC127-1103383" 200 200 60 H I L C N N
 F3 "https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf" 200 300 60 H I L C N N
 F4 "1495-1000-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC127-1103383" 200 500 60 H I L CNN "MPN"
@@ -1156,7 +1156,7 @@ ENDDEF
 DEF BM77SPPS3MC2-0007AA U 0 40 Y Y 1 F N
 F0 "MOD?" -400 600 60 H V C C N N
 F1 "BM77SPPS3MC2-0007AA" 900 -1700 60 H V C C N N
-F2 "testfplib:Module_BM77SPPS3MC2-0007AA" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_BM77SPPS3MC2-0007AA" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572189" 200 300 60 H I L C N N
 F4 "BM77SPPS3MC2-0007AA-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BM77SPPS3MC2-0007AA" 200 500 60 H I L CNN "MPN"
@@ -1209,7 +1209,7 @@ ENDDEF
 DEF BMD-300-A-R U 0 40 Y Y 1 F N
 F0 "MOD?" -550 1150 60 H V C C N N
 F1 "BMD-300-A-R" 1050 -950 60 H V C C N N
-F2 "testfplib:Module_BMD-300-A-R" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_BMD-300-A-R" 200 200 60 H I L C N N
 F3 "http://www.rigado.com/?wpdmdl=1441" 200 300 60 H I L C N N
 F4 "1604-1006-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BMD-300-A-R" 200 500 60 H I L CNN "MPN"
@@ -1276,7 +1276,7 @@ ENDDEF
 DEF RN171-I_RM U 0 40 Y Y 1 F N
 F0 "MOD?" -750 650 60 H V C C N N
 F1 "RN171-I_RM" 750 -1650 60 H V C C N N
-F2 "testfplib:Module_RN171-I_RM" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_RN171-I_RM" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en558063" 200 300 60 H I L C N N
 F4 "740-1042-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RN171-I/RM" 200 500 60 H I L CNN "MPN"
@@ -1346,7 +1346,7 @@ ENDDEF
 DEF RN2483-I_RM101 U 0 40 Y Y 1 F N
 F0 "MOD?" 0 1200 60 H V C C N N
 F1 "RN2483-I_RM101" 0 1100 60 H V C C N N
-F2 "testfplib:Module_RN2483-I_RM101" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_RN2483-I_RM101" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en574289" 200 300 60 H I L C N N
 F4 "RN2483-I/RM101-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RN2483-I/RM101" 200 500 60 H I L CNN "MPN"
@@ -1413,7 +1413,7 @@ ENDDEF
 DEF RN42HID-I_RM U 0 40 Y Y 1 F N
 F0 "MOD?" 0 1300 60 H V C C N N
 F1 "RN42HID-I_RM" 0 1200 60 H V C C N N
-F2 "testfplib:Module_RN42HID-I_RM" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_RN42HID-I_RM" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572993" 200 300 60 H I L C N N
 F4 "RN42HID-I/RM-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RN42HID-I/RM" 200 500 60 H I L CNN "MPN"
@@ -1468,7 +1468,7 @@ ENDDEF
 DEF MRF24J40MA-I_RM U 0 40 Y Y 1 F N
 F0 "MOD?" 0 800 60 H V C C N N
 F1 "MRF24J40MA-I_RM" 100 700 60 H V C C N N
-F2 "testfplib:MRF24J40MA-IRM-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:MRF24J40MA-IRM-ND" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536005" 200 300 60 H I L C N N
 F4 "MRF24J40MA-I/RM-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MRF24J40MA-I/RM" 200 500 60 H I L CNN "MPN"
@@ -1500,7 +1500,7 @@ ENDDEF
 DEF MRF24J40MD-I_RM U 0 40 Y Y 1 F N
 F0 "MOD?" 0 800 60 H V C C N N
 F1 "MRF24J40MD-I_RM" 100 700 60 H V C C N N
-F2 "testfplib:MRF24J40MD-IRM-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:MRF24J40MD-IRM-ND" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en568918" 200 300 60 H I L C N N
 F4 "MRF24J40MD-I/RM-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MRF24J40MD-I/RM" 200 500 60 H I L CNN "MPN"
@@ -1532,7 +1532,7 @@ ENDDEF
 DEF MRF24WG0MA-I_RM U 0 40 Y Y 1 F N
 F0 "MOD?" 0 1700 60 H V C C N N
 F1 "MRF24WG0MA-I_RM" 0 1500 60 H V C C N N
-F2 "testfplib:MRF24WG0MA-I_RM" 200 200 60 H I L C N N
+F2 "digikey-footprints:MRF24WG0MA-I_RM" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en559342" 200 300 60 H I L C N N
 F4 "MRF24WG0MA-I/RM-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MRF24WG0MA-I/RM" 200 500 60 H I L CNN "MPN"
@@ -1588,7 +1588,7 @@ ENDDEF
 DEF MRF89XAM9A-I_RM U 0 40 Y Y 1 F N
 F0 "MOD?" 0 800 60 H V C C N N
 F1 "MRF89XAM9A-I_RM" 100 700 60 H V C C N N
-F2 "testfplib:MRF89XAM9A-IRM-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:MRF89XAM9A-IRM-ND" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en554939" 200 300 60 H I L C N N
 F4 "MRF89XAM9A-I/RM-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MRF89XAM9A-I/RM" 200 500 60 H I L CNN "MPN"
@@ -1620,7 +1620,7 @@ ENDDEF
 DEF RN4020-V_RM U 0 40 Y Y 1 F N
 F0 "MOD?" 0 1100 60 H V C C N N
 F1 "RN4020-V_RM" 0 1000 60 H V C C N N
-F2 "testfplib:RN4020-V_RM_22-SMD_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:RN4020-V_RM_22-SMD_Module" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570043" 200 300 60 H I L C N N
 F4 "RN4020-V/RM-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RN4020-V/RM" 200 500 60 H I L CNN "MPN"
@@ -1662,7 +1662,7 @@ ENDDEF
 DEF RN4020-V_RM120 U 0 40 Y Y 1 F N
 F0 "MOD?" 0 1100 60 H V C C N N
 F1 "RN4020-V_RM120" 0 1000 60 H V C C N N
-F2 "testfplib:RN4020-V_RM_22-SMD_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:RN4020-V_RM_22-SMD_Module" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570043" 200 300 60 H I L C N N
 F4 "RN4020-V/RM120-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RN4020-V/RM120" 200 500 60 H I L CNN "MPN"
@@ -1704,7 +1704,7 @@ ENDDEF
 DEF RN4020-V_RM123 U 0 40 Y Y 1 F N
 F0 "MOD?" 0 1100 60 H V C C N N
 F1 "RN4020-V_RM123" 0 1000 60 H V C C N N
-F2 "testfplib:RN4020-V_RM_22-SMD_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:RN4020-V_RM_22-SMD_Module" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570043" 200 300 60 H I L C N N
 F4 "RN4020-V/RM123-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RN4020-V/RM123" 200 500 60 H I L CNN "MPN"
@@ -1746,7 +1746,7 @@ ENDDEF
 DEF RN4677-V_RM100 U 0 40 Y Y 1 F N
 F0 "MOD?" 0 1700 60 H V C C N N
 F1 "RN4677-V_RM100" 0 1500 60 H V C C N N
-F2 "testfplib:RN4677-VRM100-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:RN4677-VRM100-ND" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en574083" 200 300 60 H I L C N N
 F4 "RN4677-V/RM100-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RN4677-V/RM100" 200 500 60 H I L CNN "MPN"
@@ -1799,7 +1799,7 @@ ENDDEF
 DEF RN52-I_RM U 0 40 Y Y 1 F N
 F0 "MOD?" 0 1300 60 H V C C N N
 F1 "RN52-I_RM" 0 1200 60 H V C C N N
-F2 "testfplib:RN52-IRM-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:RN52-IRM-ND" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en560775" 200 300 60 H I L C N N
 F4 "RN52-I/RM-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RN52-I/RM" 200 500 60 H I L CNN "MPN"
@@ -1869,7 +1869,7 @@ ENDDEF
 DEF SPBT2632C2A_AT2 U 0 40 Y Y 1 F N
 F0 "MOD?" -250 550 60 H V C C N N
 F1 "SPBT2632C2A_AT2" 400 -700 60 H V C C N N
-F2 "testfplib:STMICRO_MODULE_SPBT2632C2A.AT2" 200 200 60 H I L C N N
+F2 "digikey-footprints:STMICRO_MODULE_SPBT2632C2A.AT2" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/2c/4e/6f/76/81/4f/4b/d4/DM00048919.pdf/files/DM00048919.pdf/jcr:content/translations/en.DM00048919.pdf" 200 300 60 H I L C N N
 F4 "497-13189-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SPBT2632C2A.AT2" 200 500 60 H I L CNN "MPN"
@@ -1906,7 +1906,7 @@ ENDDEF
 DEF SPWF01SA_11 U 0 40 Y Y 1 F N
 F0 "MOD?" -350 250 60 H V C C N N
 F1 "SPWF01SA_11" 800 -2000 60 H V C C N N
-F2 "testfplib:STMICRO_MODULE_SPWF01SA.11" 200 200 60 H I L C N N
+F2 "digikey-footprints:STMICRO_MODULE_SPWF01SA.11" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ba/8c/b2/64/02/bc/4e/05/DM00102124.pdf/files/DM00102124.pdf/jcr:content/translations/en.DM00102124.pdf" 200 300 60 H I L C N N
 F4 "497-14636-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SPWF01SA.11" 200 500 60 H I L CNN "MPN"
@@ -1956,7 +1956,7 @@ ENDDEF
 DEF WRL-13678 U 0 40 Y Y 1 F N
 F0 "MOD?" -100 300 60 H V C C N N
 F1 "WRL-13678" 500 -500 60 H V C C N N
-F2 "testfplib:WRL-13678" 200 200 60 H I L C N N
+F2 "digikey-footprints:WRL-13678" 200 200 60 H I L C N N
 F3 "https://nurdspace.nl/images/e/e0/ESP8266_Specifications_English.pdf" 200 300 60 H I L C N N
 F4 "1568-1235-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WRL-13678" 200 500 60 H I L CNN "MPN"
@@ -1984,7 +1984,7 @@ ENDDEF
 DEF XB24-API-001 U 0 40 Y Y 1 F N
 F0 "MOD?" -300 900 60 H V C C N N
 F1 "XB24-API-001" 300 -300 60 V V C C N N
-F2 "testfplib:XBEE_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Module" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbeemultipointmodules.pdf" 200 300 60 H I L C N N
 F4 "602-1273-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XB24-API-001" 200 500 60 H I L CNN "MPN"
@@ -2024,7 +2024,7 @@ ENDDEF
 DEF XB24CZ7PIT-004 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 750 60 H V C C N N
 F1 "XB24CZ7PIT-004" 400 -800 60 H V C C N N
-F2 "testfplib:XBEE_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Module" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbee_zigbee.pdf" 200 300 60 H I L C N N
 F4 "602-1557-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XB24CZ7PIT-004" 200 500 60 H I L CNN "MPN"
@@ -2064,7 +2064,7 @@ ENDDEF
 DEF XB24CZ7WIT-004 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 750 60 H V C C N N
 F1 "XB24CZ7WIT-004" 400 -800 60 H V C C N N
-F2 "testfplib:XBEE_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Module" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbee_zigbee.pdf" 200 300 60 H I L C N N
 F4 "602-1560-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XB24CZ7WIT-004" 200 500 60 H I L CNN "MPN"
@@ -2104,7 +2104,7 @@ ENDDEF
 DEF XB24CAWIT-001 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 750 60 H V C C N N
 F1 "XB24CAWIT-001" 400 -800 60 H V C C N N
-F2 "testfplib:XBEE_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Module" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbee-s2c-802-15-4.pdf" 200 300 60 H I L C N N
 F4 "602-1891-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XB24CAWIT-001" 200 500 60 H I L CNN "MPN"
@@ -2144,7 +2144,7 @@ ENDDEF
 DEF XB2B-WFST-001 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 750 60 H V C C N N
 F1 "XB2B-WFST-001" 400 -800 60 H V C C N N
-F2 "testfplib:XBEE_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Module" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbeewifis6b.pdf" 200 300 60 H I L C N N
 F4 "602-1380-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XB2B-WFST-001" 200 500 60 H I L CNN "MPN"
@@ -2184,7 +2184,7 @@ ENDDEF
 DEF XB2B-WFWT-001 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 750 60 H V C C N N
 F1 "XB2B-WFWT-001" 400 -800 60 H V C C N N
-F2 "testfplib:XBEE_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Module" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbeewifis6b.pdf" 200 300 60 H I L C N N
 F4 "602-1377-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XB2B-WFWT-001" 200 500 60 H I L CNN "MPN"
@@ -2224,7 +2224,7 @@ ENDDEF
 DEF XBP24CZ7SIT-004 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 750 60 H V C C N N
 F1 "XBP24CZ7SIT-004" 400 -800 60 H V C C N N
-F2 "testfplib:XBEE_Pro" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Pro" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbee_zigbee.pdf" 200 300 60 H I L C N N
 F4 "602-1562-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP24CZ7SIT-004" 200 500 60 H I L CNN "MPN"
@@ -2264,7 +2264,7 @@ ENDDEF
 DEF XBP9B-DMST-002 U 0 40 Y Y 1 F N
 F0 "MOD?" -500 400 60 H V C C N N
 F1 "XBP9B-DMST-002" 100 -900 60 V V C C N N
-F2 "testfplib:XBEE_Pro" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Pro" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbeepro900hp.pdf" 200 300 60 H I L C N N
 F4 "602-1299-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DMST-002" 200 500 60 H I L CNN "MPN"
@@ -2304,7 +2304,7 @@ ENDDEF
 DEF XBP9B-DMSTB002 U 0 40 Y Y 1 F N
 F0 "MOD?" -600 400 60 H V C C N N
 F1 "XBP9B-DMSTB002" 100 -900 60 V V C C N N
-F2 "testfplib:XBEE_Pro" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Pro" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbeepro900hp.pdf" 200 300 60 H I L C N N
 F4 "602-1346-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DMSTB002" 200 500 60 H I L CNN "MPN"
@@ -2344,7 +2344,7 @@ ENDDEF
 DEF XBP9B-DPST-001 U 0 40 Y Y 1 F N
 F0 "MOD?" -650 750 60 H V C C N N
 F1 "XBP9B-DPST-001" 400 -800 60 H V C C N N
-F2 "testfplib:XBEE_Pro" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Pro" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbeepro900hp.pdf" 200 300 60 H I L C N N
 F4 "602-1349-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DPST-001" 200 500 60 H I L CNN "MPN"
@@ -2384,7 +2384,7 @@ ENDDEF
 DEF XBP9B-DMUT-002 U 0 40 Y Y 1 F N
 F0 "MOD?" -500 400 60 H V C C N N
 F1 "XBP9B-DMUT-002" 100 -900 60 V V C C N N
-F2 "testfplib:XBEE_Pro" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Pro" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbeepro900hp.pdf" 200 300 60 H I L C N N
 F4 "602-1300-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DMUT-002" 200 500 60 H I L CNN "MPN"
@@ -2424,7 +2424,7 @@ ENDDEF
 DEF XBP9B-DMWT-002 U 0 40 Y Y 1 F N
 F0 "MOD?" -400 1100 60 H V C C N N
 F1 "XBP9B-DMWT-002" 300 -200 60 V V C C N N
-F2 "testfplib:XBEE_Pro" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Pro" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbeepro900hp.pdf" 200 300 60 H I L C N N
 F4 "602-1301-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DMWT-002" 200 500 60 H I L CNN "MPN"
@@ -2464,7 +2464,7 @@ ENDDEF
 DEF XBP24-DMSIT-250 U 0 40 Y Y 1 F N
 F0 "MOD?" -500 400 60 H V C C N N
 F1 "XBP24-DMSIT-250" 100 -900 60 V V C C N N
-F2 "testfplib:XBEE_Pro" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_Pro" 200 200 60 H I L C N N
 F3 "https://www.digi.com/pdf/ds_xbeedigimesh24.pdf" 200 300 60 H I L C N N
 F4 "602-1281-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP24-DMSIT-250" 200 500 60 H I L CNN "MPN"

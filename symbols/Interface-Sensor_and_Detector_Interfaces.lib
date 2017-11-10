@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MAX31855KASA_ U 0 40 Y Y 1 F N
 F0 "U?" -100 50 60 H V C C N N
 F1 "MAX31855KASA_" 0 400 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf" 200 300 60 H I L C N N
 F4 "MAX31855KASA+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX31855KASA+" 200 500 60 H I L CNN "MPN"
@@ -34,7 +34,7 @@ ENDDEF
 DEF AD8495ARMZ U 0 40 Y Y 1 F N
 F0 "U?" -250 150 60 H V C C N N
 F1 "AD8495ARMZ" 0 500 60 H V C C N N
-F2 "testfplib:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8494_8495_8496_8497.pdf" 200 300 60 H I L C N N
 F4 "AD8495ARMZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD8495ARMZ" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF PRT-13612 U 0 40 Y Y 1 F N
 F0 "NA?" -100 200 60 H V C C N N
 F1 "PRT-13612" 300 -200 60 H V C C N N
-F2 "testfplib:PRT-13612" 200 200 60 H I L C N N
+F2 "digikey-footprints:PRT-13612" 200 200 60 H I L C N N
 F3 "https://cdn.sparkfun.com/datasheets/Prototyping/PCC-SMP-K-datasheet.pdf" 200 300 60 H I L C N N
 F4 "1568-1306-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PRT-13612" 200 500 60 H I L CNN "MPN"

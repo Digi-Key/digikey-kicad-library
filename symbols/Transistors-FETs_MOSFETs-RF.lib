@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF BF862_215 U 0 0 Y Y 1 F N
 F0 "Q?" -100 200 60 H V C C N N
 F1 "BF862_215" -400 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.nxp.com/documents/data_sheet/BF862.pdf" 200 300 60 H I L C N N
 F4 "568-1968-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BF862,215" 200 500 60 H I L CNN "MPN"

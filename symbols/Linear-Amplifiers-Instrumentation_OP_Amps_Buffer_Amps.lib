@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF LM324N U 0 1 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "LM324N" 500 -900 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm224.pdf" 200 300 60 H I L C N N
 F4 "296-1391-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM324N" 200 500 60 H I L CNN "MPN"
@@ -56,7 +56,7 @@ ENDDEF
 DEF LM324AN U 0 0 Y Y 1 F N
 F0 "U?" -200 550 60 H V C C N N
 F1 "LM324AN" 500 -600 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm224.pdf" 200 300 60 H I L C N N
 F4 "296-9542-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM324AN" 200 500 60 H I L CNN "MPN"
@@ -106,7 +106,7 @@ ENDDEF
 DEF LM324N261 U 0 0 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "LM324N261" 0 900 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/LM/LM2902.pdf" 200 300 60 H I L C N N
 F4 "LM324NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM324N" 200 500 60 H I L CNN "MPN"
@@ -168,7 +168,7 @@ ENDDEF
 DEF MCP6004-I_P U 0 0 Y Y 1 F N
 F0 "U?" -100 550 60 H V C C N N
 F1 "MCP6004-I_P" 0 900 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705" 200 300 60 H I L C N N
 F4 "MCP6004-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP6004-I/P" 200 500 60 H I L CNN "MPN"
@@ -230,7 +230,7 @@ ENDDEF
 DEF TL074CN U 0 0 Y Y 1 F N
 F0 "U?" -200 600 60 H V C C N N
 F1 "TL074CN" 500 -800 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tl071a.pdf" 200 300 60 H I L C N N
 F4 "296-1777-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL074CN" 200 500 60 H I L CNN "MPN"
@@ -292,7 +292,7 @@ ENDDEF
 DEF TL084CN U 0 0 Y Y 1 F N
 F0 "U?" -200 600 60 H V C C N N
 F1 "TL084CN" 500 -800 60 H V C C N N
-F2 "testfplib:14-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tl081a.pdf" 200 300 60 H I L C N N
 F4 "296-1784-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL084CN" 200 500 60 H I L CNN "MPN"
@@ -354,7 +354,7 @@ ENDDEF
 DEF LM324ADR U 0 0 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "LM324ADR" 500 -600 60 H V C C N N
-F2 "testfplib:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm224.pdf" 200 300 60 H I L C N N
 F4 "296-9540-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM324ADR" 200 500 60 H I L CNN "MPN"
@@ -404,7 +404,7 @@ ENDDEF
 DEF LM324DT U 0 0 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "LM324DT" 0 800 60 H V C C N N
-F2 "testfplib:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:14-SOIC_(3.9mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bd/fc/46/43/26/8f/40/7f/CD00001046.pdf/files/CD00001046.pdf/jcr:content/translations/en.CD00001046.pdf" 200 300 60 H I L C N N
 F4 "497-1580-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM324DT" 200 500 60 H I L CNN "MPN"
@@ -454,7 +454,7 @@ ENDDEF
 DEF OPA2134PA U 0 0 Y Y 1 F N
 F0 "U?" -100 250 60 H V C C N N
 F1 "OPA2134PA" 0 500 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/opa134.pdf" 200 300 60 H I L C N N
 F4 "OPA2134PA-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "OPA2134PA" 200 500 60 H I L CNN "MPN"
@@ -502,7 +502,7 @@ ENDDEF
 DEF LM741CN_NOPB U 0 0 Y Y 1 F N
 F0 "U?" -200 350 60 H V C C N N
 F1 "LM741CN_NOPB" 0 650 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/LM741_Series_Rev_July_2016.pdf" 200 300 60 H I L C N N
 F4 "LM741CNNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM741CN/NOPB" 200 500 60 H I L CNN "MPN"
@@ -536,7 +536,7 @@ ENDDEF
 DEF LMC6482IN_NOPB U 0 0 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "LMC6482IN_NOPB" 0 600 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lmc6482.pdf" 200 300 60 H I L C N N
 F4 "LMC6482IN/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LMC6482IN/NOPB" 200 500 60 H I L CNN "MPN"
@@ -582,7 +582,7 @@ ENDDEF
 DEF NE5532P U 0 0 Y Y 1 F N
 F0 "U?" -200 -150 60 H V C C N N
 F1 "NE5532P" 500 -900 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ne5532.pdf" 200 300 60 H I L C N N
 F4 "296-1410-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NE5532P" 200 500 60 H I L CNN "MPN"
@@ -624,7 +624,7 @@ ENDDEF
 DEF UA741CP U 0 0 Y Y 1 F N
 F0 "U?" -250 150 60 H V C C N N
 F1 "UA741CP" 500 -500 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ua741.pdf" 200 300 60 H I L C N N
 F4 "296-11107-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "UA741CP" 200 500 60 H I L CNN "MPN"
@@ -660,7 +660,7 @@ ENDDEF
 DEF MCP6002-I_P U 0 0 Y Y 1 F N
 F0 "U?" -100 550 60 H V C C N N
 F1 "MCP6002-I_P" 0 900 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705" 200 300 60 H I L C N N
 F4 "MCP6002-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP6002-I/P" 200 500 60 H I L CNN "MPN"
@@ -702,7 +702,7 @@ ENDDEF
 DEF TLV2462CP U 0 0 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "TLV2462CP" 500 -400 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tlv2462a.pdf" 200 300 60 H I L C N N
 F4 "296-1892-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLV2462CP" 200 500 60 H I L CNN "MPN"
@@ -744,7 +744,7 @@ ENDDEF
 DEF LM358P U 0 0 Y Y 1 F N
 F0 "U?" -300 300 60 H V C C N N
 F1 "LM358P" 400 -400 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm358.pdf" 200 300 60 H I L C N N
 F4 "296-1395-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM358P" 200 500 60 H I L CNN "MPN"
@@ -786,7 +786,7 @@ ENDDEF
 DEF LM358AN U 0 0 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "LM358AN" 0 900 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 300 60 H I L C N N
 F4 "LM358ANFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM358AN" 200 500 60 H I L CNN "MPN"
@@ -828,7 +828,7 @@ ENDDEF
 DEF LM358N U 0 0 Y Y 1 F N
 F0 "U?" -200 600 60 H V C C N N
 F1 "LM358N" 0 900 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 300 60 H I L C N N
 F4 "LM358NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM358N" 200 500 60 H I L CNN "MPN"
@@ -870,7 +870,7 @@ ENDDEF
 DEF AD620ANZ U 0 0 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "AD620ANZ" 0 900 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf" 200 300 60 H I L C N N
 F4 "AD620ANZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD620ANZ" 200 500 60 H I L CNN "MPN"
@@ -905,7 +905,7 @@ ENDDEF
 DEF AD623ANZ U 0 0 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "AD623ANZ" 0 900 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf" 200 300 60 H I L C N N
 F4 "AD623ANZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD623ANZ" 200 500 60 H I L CNN "MPN"
@@ -940,7 +940,7 @@ ENDDEF
 DEF TL072IP U 0 0 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "TL072IP" 500 -400 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tl071a.pdf" 200 300 60 H I L C N N
 F4 "296-14997-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL072IP" 200 500 60 H I L CNN "MPN"
@@ -982,7 +982,7 @@ ENDDEF
 DEF TL072CP U 0 0 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "TL072CP" 400 -400 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tl071a.pdf" 200 300 60 H I L C N N
 F4 "296-1775-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL072CP" 200 500 60 H I L CNN "MPN"
@@ -1024,7 +1024,7 @@ ENDDEF
 DEF TL082IP U 0 0 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "TL082IP" 500 -400 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tl081a.pdf" 200 300 60 H I L C N N
 F4 "296-1781-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL082IP" 200 500 60 H I L CNN "MPN"
@@ -1066,7 +1066,7 @@ ENDDEF
 DEF LF356N_NOPB U 0 1 Y Y 1 F N
 F0 "U?" -150 550 60 H V C C N N
 F1 "LF356N_NOPB" 0 900 60 H V C C N N
-F2 "testfplib:8-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lf356.pdf" 200 300 60 H I L C N N
 F4 "LF356N/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LF356N/NOPB" 200 500 60 H I L CNN "MPN"
@@ -1101,7 +1101,7 @@ ENDDEF
 DEF LM358DT U 0 0 Y Y 1 F N
 F0 "U?" -150 350 60 H V C C N N
 F1 "LM358DT" -100 600 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/61/46/87/01/98/ed/44/c5/CD00000464.pdf/files/CD00000464.pdf/jcr:content/translations/en.CD00000464.pdf" 200 300 60 H I L C N N
 F4 "497-1591-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM358DT" 200 500 60 H I L CNN "MPN"
@@ -1143,7 +1143,7 @@ ENDDEF
 DEF LMV358IDR U 0 0 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "LMV358IDR" 500 -500 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lmv324.pdf" 200 300 60 H I L C N N
 F4 "296-9571-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LMV358IDR" 200 500 60 H I L CNN "MPN"
@@ -1185,7 +1185,7 @@ ENDDEF
 DEF LM358DR U 0 0 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "LM358DR" 500 -700 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/lm358.pdf" 200 300 60 H I L C N N
 F4 "296-1014-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM358DR" 200 500 60 H I L CNN "MPN"
@@ -1223,7 +1223,7 @@ ENDDEF
 DEF AD8032BRZ-REEL7 U 0 0 Y Y 1 F N
 F0 "U?" -100 250 60 H V C C N N
 F1 "AD8032BRZ-REEL7" 0 500 60 H V C C N N
-F2 "testfplib:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf" 200 300 60 H I L C N N
 F4 "AD8032BRZ-REEL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD8032BRZ-REEL7" 200 500 60 H I L CNN "MPN"
@@ -1265,7 +1265,7 @@ ENDDEF
 DEF INA333AIDGKR U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "INA333AIDGKR" 400 -600 60 H V C C N N
-F2 "testfplib:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-TSSOP_(3.00mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ina333.pdf" 200 300 60 H I L C N N
 F4 "296-23564-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "INA333AIDGKR" 200 500 60 H I L CNN "MPN"
@@ -1293,7 +1293,7 @@ ENDDEF
 DEF AD8605ARTZ-REEL7 U 0 1 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "AD8605ARTZ-REEL7" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf" 200 300 60 H I L C N N
 F4 "AD8605ARTZREEL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD8605ARTZ-REEL7" 200 500 60 H I L CNN "MPN"
@@ -1318,7 +1318,7 @@ ENDDEF
 DEF MCP6001T-I_OT U 0 0 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "MCP6001T-I_OT" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705" 200 300 60 H I L C N N
 F4 "MCP6001T-I/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP6001T-I/OT" 200 500 60 H I L CNN "MPN"
@@ -1343,7 +1343,7 @@ ENDDEF
 DEF OPA334AIDBVT U 0 0 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "OPA334AIDBVT" 500 -300 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/opa334.pdf" 200 300 60 H I L C N N
 F4 "296-13466-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "OPA334AIDBVT" 200 500 60 H I L CNN "MPN"

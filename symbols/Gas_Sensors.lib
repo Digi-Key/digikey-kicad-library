@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 110-109 U 0 40 Y Y 1 F N
 F0 "U?" -100 500 60 H V C C N N
 F1 "110-109" 0 -300 60 H V C C N N
-F2 "testfplib:110-109" 200 200 60 H I L C N N
+F2 "digikey-footprints:110-109" 200 200 60 H I L C N N
 F3 "http://www.spec-sensors.com/wp-content/uploads/2016/04/3SP_CO_1000-C-Package-110-109.pdf" 200 300 60 H I L C N N
 F4 "1684-1001-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "110-109" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF 110-202 U 0 40 Y Y 1 F N
 F0 "U?" -250 350 60 H V C C N N
 F1 "110-202" 0 -200 60 H V C C N N
-F2 "testfplib:110-202" 200 200 60 H I L C N N
+F2 "digikey-footprints:110-202" 200 200 60 H I L C N N
 F3 "http://www.spec-sensors.com/wp-content/uploads/2016/02/3SP_Ethanol_1000-P-Package-110-202.pdf" 200 300 60 H I L C N N
 F4 "1684-1005-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "110-202" 200 500 60 H I L CNN "MPN"
@@ -62,7 +62,7 @@ ENDDEF
 DEF CCS811 U 0 40 Y Y 1 F N
 F0 "U?" -400 500 60 H V C C N N
 F1 "CCS811" 300 -500 60 H V C C N N
-F2 "testfplib:CCS811CT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:CCS811CT-ND" 200 200 60 H I L C N N
 F3 "http://ams.com/eng/content/download/951091/2269479/471718" 200 300 60 H I L C N N
 F4 "CCS811CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CCS811" 200 500 60 H I L CNN "MPN"

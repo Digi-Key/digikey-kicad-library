@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF DB3-TP U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "DB3-TP" 0 200 60 H V C C N N
-F2 "testfplib:DO-35" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-35" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/DB3,DC34,DB4,DB6(DO-35G).PDF" 200 300 60 H I L C N N
 F4 "DB3-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DB3-TP" 200 500 60 H I L CNN "MPN"
@@ -33,7 +33,7 @@ ENDDEF
 DEF DB3 U 0 0 Y Y 1 F N
 F0 "D?" 0 100 60 H V C C N N
 F1 "DB3" 0 200 60 H V C C N N
-F2 "testfplib:DO-35" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-35" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/fb/af/b0/56/99/1a/42/b4/CD00002277.pdf/files/CD00002277.pdf/jcr:content/translations/en.CD00002277.pdf" 200 300 60 H I L C N N
 F4 "497-3099-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DB3" 200 500 60 H I L CNN "MPN"
@@ -60,7 +60,7 @@ ENDDEF
 DEF BS08D-T112 U 0 0 Y Y 1 F N
 F0 "D?" -200 200 60 H V C C N N
 F1 "BS08D-T112" 500 -200 60 H V C C N N
-F2 "testfplib:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
 F3 "http://www.pwrx.com/pwrx/docs/bs08d.pdf" 200 300 60 H I L C N N
 F4 "835-1126-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BS08D-T112" 200 500 60 H I L CNN "MPN"

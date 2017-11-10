@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 3413_0328_22 U 0 40 Y Y 1 F N
 F0 "F?" 0 100 60 H V C C N N
 F1 "3413_0328_22" 0 200 60 H V C C N N
-F2 "testfplib:1206(3216)" 200 200 60 H I L C N N
+F2 "digikey-footprints:1206(3216)" 200 200 60 H I L C N N
 F3 "http://www.schurterinc.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UST_1206.pdf" 200 300 60 H I L C N N
 F4 "486-1686-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "3413.0328.22" 200 500 60 H I L CNN "MPN"
@@ -33,7 +33,7 @@ ENDDEF
 DEF 3413_0332_22 U 0 40 Y Y 1 F N
 F0 "F?" 0 100 60 H V C C N N
 F1 "3413_0332_22" 0 200 60 H V C C N N
-F2 "testfplib:1206(3216)" 200 200 60 H I L C N N
+F2 "digikey-footprints:1206(3216)" 200 200 60 H I L C N N
 F3 "http://www.schurterinc.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UST_1206.pdf" 200 300 60 H I L C N N
 F4 "486-1690-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "3413.0332.22" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF BAV99 U 0 40 Y Y 1 F N
 F0 "D?" 0 300 60 H V C C N N
 F1 "BAV99" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BA/BAV99.pdf" 200 300 60 H I L C N N
 F4 "BAV99FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BAV99" 200 500 60 H I L CNN "MPN"
@@ -33,7 +33,7 @@ ENDDEF
 DEF BAT54C U 0 1 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "BAT54C" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 300 60 H I L C N N
 F4 "BAT54CFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BAT54C" 200 500 60 H I L CNN "MPN"
@@ -60,7 +60,7 @@ ENDDEF
 DEF BAT54C-7-F U 0 1 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "BAT54C-7-F" 0 300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" 200 300 60 H I L C N N
 F4 "BAT54C-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BAT54C-7-F" 200 500 60 H I L CNN "MPN"
@@ -87,7 +87,7 @@ ENDDEF
 DEF BAT54S-7-F U 0 40 Y Y 1 F N
 F0 "D?" 0 300 60 H V C C N N
 F1 "BAT54S-7-F" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" 200 300 60 H I L C N N
 F4 "BAT54S-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BAT54S-7-F" 200 500 60 H I L CNN "MPN"

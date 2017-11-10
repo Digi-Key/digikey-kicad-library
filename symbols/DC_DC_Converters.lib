@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF V7805-1000 U 0 0 Y Y 1 F N
 F0 "U?" -250 150 60 H V C C N N
 F1 "V7805-1000" 300 -200 60 H V C C N N
-F2 "testfplib:3-SIP_Module_V7805-1000" 200 200 60 H I L C N N
+F2 "digikey-footprints:3-SIP_Module_V7805-1000" 200 200 60 H I L C N N
 F3 "http://www.cui.com/product/resource/digikeypdf/v78xx-1000.pdf" 200 300 60 H I L C N N
 F4 "102-1715-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "V7805-1000" 200 500 60 H I L CNN "MPN"
@@ -34,7 +34,7 @@ ENDDEF
 DEF V7805-500 U 0 0 Y Y 1 F N
 F0 "U?" -250 150 60 H V C C N N
 F1 "V7805-500" 300 -200 60 H V C C N N
-F2 "testfplib:3-SIP_Module_V7805-500" 200 200 60 H I L C N N
+F2 "digikey-footprints:3-SIP_Module_V7805-500" 200 200 60 H I L C N N
 F3 "http://www.cui.com/product/resource/digikeypdf/v78-500.pdf" 200 300 60 H I L C N N
 F4 "102-1709-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "V7805-500" 200 500 60 H I L CNN "MPN"

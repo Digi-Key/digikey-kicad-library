@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TS3USB30EDGSR U 0 0 Y Y 1 F N
 F0 "U?" -50 450 60 H V C C N N
 F1 "TS3USB30EDGSR" 700 -400 60 H V C C N N
-F2 "testfplib:10-MSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-MSOP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ts3usb30e.pdf" 200 300 60 H I L C N N
 F4 "296-25495-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TS3USB30EDGSR" 200 500 60 H I L CNN "MPN"

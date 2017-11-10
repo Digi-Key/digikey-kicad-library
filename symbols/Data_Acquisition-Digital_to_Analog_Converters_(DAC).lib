@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MCP4725A0T-E_CH U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "MCP4725A0T-E_CH" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en532676" 200 300 60 H I L C N N
 F4 "MCP4725A0T-E/CHCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP4725A0T-E/CH" 200 500 60 H I L CNN "MPN"

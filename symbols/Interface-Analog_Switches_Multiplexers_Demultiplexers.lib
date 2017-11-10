@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF CD74HC4051E U 0 40 Y Y 1 F N
 F0 "U?" -200 -50 60 H V C C N N
 F1 "CD74HC4051E" 0 -600 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf" 200 300 60 H I L C N N
 F4 "296-12810-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD74HC4051E" 200 500 60 H I L CNN "MPN"
@@ -42,7 +42,7 @@ ENDDEF
 DEF CD4052BE U 0 40 Y Y 1 F N
 F0 "U?" -200 250 60 H V C C N N
 F1 "CD4052BE" 100 -300 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd4052b.pdf" 200 300 60 H I L C N N
 F4 "296-2058-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4052BE" 200 500 60 H I L CNN "MPN"
@@ -78,7 +78,7 @@ ENDDEF
 DEF CD4053BE U 0 40 Y Y 1 F N
 F0 "U?" -300 200 60 H V C C N N
 F1 "CD4053BE" 50 -500 60 V V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd4051b.pdf" 200 300 60 H I L C N N
 F4 "296-2059-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4053BE" 200 500 60 H I L CNN "MPN"
@@ -114,7 +114,7 @@ ENDDEF
 DEF CD74HC4067M96 U 0 40 Y Y 1 F N
 F0 "U?" -200 750 60 H V C C N N
 F1 "CD74HC4067M96" 0 -400 60 V V C C N N
-F2 "testfplib:24-SOIC_(7.50mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:24-SOIC_(7.50mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf" 200 300 60 H I L C N N
 F4 "296-29408-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD74HC4067M96" 200 500 60 H I L CNN "MPN"
@@ -158,7 +158,7 @@ ENDDEF
 DEF CD74HC4067SM96 U 0 40 Y Y 1 F N
 F0 "U?" -200 750 60 H V C C N N
 F1 "CD74HC4067SM96" 0 -400 60 V V C C N N
-F2 "testfplib:24-SSOP_(5.30mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:24-SSOP_(5.30mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf" 200 300 60 H I L C N N
 F4 "296-9226-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD74HC4067SM96" 200 500 60 H I L CNN "MPN"

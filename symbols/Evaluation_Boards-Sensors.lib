@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF SEN0140 U 0 1 Y Y 1 F N
 F0 "A?" -150 250 60 H V C C N N
 F1 "SEN0140" 400 -400 60 H V C C N N
-F2 "testfplib:SEN0140" 200 200 60 H I L C N N
+F2 "digikey-footprints:SEN0140" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/SEN0140_Web.pdf" 200 300 60 H I L C N N
 F4 "1738-1058-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SEN0140" 200 500 60 H I L CNN "MPN"

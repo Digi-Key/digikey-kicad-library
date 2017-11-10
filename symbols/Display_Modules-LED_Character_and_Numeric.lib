@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF VAOS-C561S9-BW_43 U 0 1 Y Y 1 F N
 F0 "DS?" -200 450 60 H V C C N N
 F1 "VAOS-C561S9-BW_43" 0 750 60 H V C C N N
-F2 "testfplib:10-DIP_(10.16mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-DIP_(10.16mm_Width)" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)561S9-BW43.pdf" 200 300 60 H I L C N N
 F4 "VAOS-C561S9-BW/43-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "VAOS-C561S9-BW/43" 200 500 60 H I L CNN "MPN"
@@ -52,7 +52,7 @@ ENDDEF
 DEF VAOS-C402S9-BW_50 U 0 1 Y Y 1 F N
 F0 "DS?" -200 450 60 H V C C N N
 F1 "VAOS-C402S9-BW_50" 0 750 60 H V C C N N
-F2 "testfplib:VAOS-C402S9-BW_50-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:VAOS-C402S9-BW_50-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Chicago%20Miniature%20Lamps%20PDFs/VAOS-(A,C)402S9-BW50.pdf" 200 300 60 H I L C N N
 F4 "VAOS-C402S9-BW/50-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "VAOS-C402S9-BW/50" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TPS61200DRCR U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "TPS61200DRCR" 600 -700 60 H V C C N N
-F2 "testfplib:10-VSON_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-VSON_(3x3)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps61202.pdf" 200 300 60 H I L C N N
 F4 "296-27017-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS61200DRCR" 200 500 60 H I L CNN "MPN"
@@ -37,7 +37,7 @@ ENDDEF
 DEF AOZ1280CI U 0 40 Y Y 1 F N
 F0 "U?" -100 150 60 H V C C N N
 F1 "AOZ1280CI" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://aosmd.com/res/data_sheets/AOZ1280CI.pdf" 200 300 60 H I L C N N
 F4 "785-1277-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AOZ1280CI" 200 500 60 H I L CNN "MPN"

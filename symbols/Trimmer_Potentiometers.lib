@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TC33X-2-103E U 0 0 Y Y 1 F N
 F0 "POT?" -200 200 60 H V C C N N
 F1 "TC33X-2-103E" 0 -200 60 H V C C N N
-F2 "testfplib:TC33X-2-103E" 200 200 60 H I L C N N
+F2 "digikey-footprints:TC33X-2-103E" 200 200 60 H I L C N N
 F3 "http://www.bourns.com/docs/Product-Datasheets/TC33.pdf" 200 300 60 H I L C N N
 F4 "TC33X-103ETR-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TC33X-2-103E" 200 500 60 H I L CNN "MPN"

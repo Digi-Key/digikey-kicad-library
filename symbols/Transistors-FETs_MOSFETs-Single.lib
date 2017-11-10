@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF DMG1012T-7 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "DMG1012T-7" 600 -200 60 H V C C N N
-F2 "testfplib:SOT-523" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-523" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds31783.pdf" 200 300 60 H I L C N N
 F4 "DMG1012T-7DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DMG1012T-7" 200 500 60 H I L CNN "MPN"
@@ -51,7 +51,7 @@ ENDDEF
 DEF BSS123 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "BSS123" 400 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BS/BSS123.pdf" 200 300 60 H I L C N N
 F4 "BSS123NCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BSS123" 200 500 60 H I L CNN "MPN"
@@ -96,7 +96,7 @@ ENDDEF
 DEF IRLML2402TRPBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRLML2402TRPBF" 500 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/irlml2402pbf.pdf?fileId=5546d462533600a401535664e5ef25fa" 200 300 60 H I L C N N
 F4 "IRLML2402PBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRLML2402TRPBF" 200 500 60 H I L CNN "MPN"
@@ -141,7 +141,7 @@ ENDDEF
 DEF IRLML2502TRPBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRLML2502TRPBF" 500 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.irf.com/product-info/datasheets/data/irlml2502pbf.pdf" 200 300 60 H I L C N N
 F4 "IRLML2502PBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRLML2502TRPBF" 200 500 60 H I L CNN "MPN"
@@ -186,7 +186,7 @@ ENDDEF
 DEF FDV301N U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "FDV301N" 400 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/FDV301N.pdf" 200 300 60 H I L C N N
 F4 "FDV301NCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FDV301N" 200 500 60 H I L CNN "MPN"
@@ -231,7 +231,7 @@ ENDDEF
 DEF FDV303N U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "FDV303N" 400 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/FDV303N.pdf" 200 300 60 H I L C N N
 F4 "FDV303NCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FDV303N" 200 500 60 H I L CNN "MPN"
@@ -276,7 +276,7 @@ ENDDEF
 DEF IRLML6344TRPBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRLML6344TRPBF" 600 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a4015356689c44262c" 200 300 60 H I L C N N
 F4 "IRLML6344TRPBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRLML6344TRPBF" 200 500 60 H I L CNN "MPN"
@@ -321,7 +321,7 @@ ENDDEF
 DEF BSS138-7-F U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "BSS138-7-F" 500 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds30144.pdf" 200 300 60 H I L C N N
 F4 "BSS138-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BSS138-7-F" 200 500 60 H I L CNN "MPN"
@@ -366,7 +366,7 @@ ENDDEF
 DEF BSS138 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "BSS138" 400 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" 200 300 60 H I L C N N
 F4 "BSS138CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BSS138" 200 500 60 H I L CNN "MPN"
@@ -411,7 +411,7 @@ ENDDEF
 DEF 2N7002LT1G U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "2N7002LT1G" 600 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/2N7002L-D.PDF" 200 300 60 H I L C N N
 F4 "2N7002LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7002LT1G" 200 500 60 H I L CNN "MPN"
@@ -456,7 +456,7 @@ ENDDEF
 DEF 2N7002P_215 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "2N7002P_215" 500 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://assets.nexperia.com/documents/data-sheet/2N7002P.pdf" 200 300 60 H I L C N N
 F4 "1727-4692-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7002P,215" 200 500 60 H I L CNN "MPN"
@@ -501,7 +501,7 @@ ENDDEF
 DEF 2N7002 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "2N7002" 450 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" 200 300 60 H I L C N N
 F4 "2N7002NCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7002" 200 500 60 H I L CNN "MPN"
@@ -546,7 +546,7 @@ ENDDEF
 DEF 2N7002-7-F U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "2N7002-7-F" 550 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds11303.pdf" 200 300 60 H I L C N N
 F4 "2N7002-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7002-7-F" 200 500 60 H I L CNN "MPN"
@@ -591,7 +591,7 @@ ENDDEF
 DEF 2N7002K-T1-E3 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "2N7002K-T1-E3" 600 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.vishay.com/docs/71333/2n7002k.pdf" 200 300 60 H I L C N N
 F4 "2N7002K-T1-E3CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7002K-T1-E3" 200 500 60 H I L CNN "MPN"
@@ -636,7 +636,7 @@ ENDDEF
 DEF IRLML6401TRPBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRLML6401TRPBF" 550 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/irlml6401pbf.pdf?fileId=5546d462533600a401535668b96d2634" 200 300 60 H I L C N N
 F4 "IRLML6401PBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRLML6401TRPBF" 200 500 60 H I L CNN "MPN"
@@ -681,7 +681,7 @@ ENDDEF
 DEF IRLML6402TRPBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRLML6402TRPBF" 550 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/irlml6402pbf.pdf?fileId=5546d462533600a401535668d5c2263c" 200 300 60 H I L C N N
 F4 "IRLML6402PBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRLML6402TRPBF" 200 500 60 H I L CNN "MPN"
@@ -726,7 +726,7 @@ ENDDEF
 DEF DMG2305UX-13 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "DMG2305UX-13" 650 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf" 200 300 60 H I L C N N
 F4 "DMG2305UX-13DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DMG2305UX-13" 200 500 60 H I L CNN "MPN"
@@ -771,7 +771,7 @@ ENDDEF
 DEF AO3401A U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "AO3401A" 550 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://aosmd.com/res/data_sheets/AO3401A.pdf" 200 300 60 H I L C N N
 F4 "785-1001-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AO3401A" 200 500 60 H I L CNN "MPN"
@@ -816,7 +816,7 @@ ENDDEF
 DEF BSS84 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "BSS84" 400 -200 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BS/BSS84.pdf" 200 300 60 H I L C N N
 F4 "BSS84CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BSS84" 200 500 60 H I L CNN "MPN"
@@ -861,7 +861,7 @@ ENDDEF
 DEF IRF540NPBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRF540NPBF" 450 -200 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/irf540npbf.pdf?fileId=5546d462533600a4015355e39f0d19a1" 200 300 60 H I L C N N
 F4 "IRF540NPBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRF540NPBF" 200 500 60 H I L CNN "MPN"
@@ -906,7 +906,7 @@ ENDDEF
 DEF IRF510PBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRF510PBF" 400 -200 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.vishay.com/docs/91015/sihf510.pdf" 200 300 60 H I L C N N
 F4 "IRF510PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRF510PBF" 200 500 60 H I L CNN "MPN"
@@ -951,7 +951,7 @@ ENDDEF
 DEF IRLB8721PBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRLB8721PBF" 500 -200 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/irlb8721pbf.pdf?fileId=5546d462533600a40153566056732591" 200 300 60 H I L C N N
 F4 "IRLB8721PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRLB8721PBF" 200 500 60 H I L CNN "MPN"
@@ -996,7 +996,7 @@ ENDDEF
 DEF IRLB3034PBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRLB3034PBF" 500 -200 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/irlb3034pbf.pdf?fileId=5546d462533600a40153566027b22585" 200 300 60 H I L C N N
 F4 "IRLB3034PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRLB3034PBF" 200 500 60 H I L CNN "MPN"
@@ -1041,7 +1041,7 @@ ENDDEF
 DEF FQP30N06L U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "FQP30N06L" 450 -200 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/FQ/FQP30N06L.pdf" 200 300 60 H I L C N N
 F4 "FQP30N06L-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FQP30N06L" 200 500 60 H I L CNN "MPN"
@@ -1086,7 +1086,7 @@ ENDDEF
 DEF IRF9540NPBF U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "IRF9540NPBF" 500 -200 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.infineon.com/dgdl/irf9540npbf.pdf?fileId=5546d462533600a401535611cfa21dc8" 200 300 60 H I L C N N
 F4 "IRF9540NPBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRF9540NPBF" 200 500 60 H I L CNN "MPN"
@@ -1131,7 +1131,7 @@ ENDDEF
 DEF FQP27P06 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "FQP27P06" 450 -200 60 H V C C N N
-F2 "testfplib:TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/FQ/FQP27P06.pdf" 200 300 60 H I L C N N
 F4 "FQP27P06-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FQP27P06" 200 500 60 H I L CNN "MPN"
@@ -1176,7 +1176,7 @@ ENDDEF
 DEF 2N7000 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "2N7000" 400 -200 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" 200 300 60 H I L C N N
 F4 "2N7000FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7000" 200 500 60 H I L CNN "MPN"
@@ -1221,7 +1221,7 @@ ENDDEF
 DEF BS170 U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "BS170" 400 -200 60 H V C C N N
-F2 "testfplib:TO-92-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BS/BS170.pdf" 200 300 60 H I L C N N
 F4 "BS170-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BS170" 200 500 60 H I L CNN "MPN"
@@ -1266,7 +1266,7 @@ ENDDEF
 DEF 2N7000TA U 0 0 Y Y 1 F N
 F0 "Q?" -200 200 60 H V C C N N
 F1 "2N7000TA" 450 -200 60 H V C C N N
-F2 "testfplib:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_(Formed_Leads)" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" 200 300 60 H I L C N N
 F4 "2N7000TACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7000TA" 200 500 60 H I L CNN "MPN"

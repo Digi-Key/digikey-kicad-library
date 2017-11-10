@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ICL7107CPLZ U 0 40 Y Y 1 F N
 F0 "U?" -300 1350 60 H V C C N N
 F1 "ICL7107CPLZ" 0 200 60 V V C C N N
-F2 "testfplib:40-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:40-DIP" 200 200 60 H I L C N N
 F3 "http://www.intersil.com/content/dam/intersil/documents/icl7/icl7106-07-07s.pdf" 200 300 60 H I L C N N
 F4 "ICL7107CPLZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ICL7107CPLZ" 200 500 60 H I L CNN "MPN"

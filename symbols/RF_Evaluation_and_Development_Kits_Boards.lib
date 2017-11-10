@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 114990286 U 0 40 Y Y 1 F N
 F0 "A?" -250 150 60 H V C C N N
 F1 "114990286" -450 -1050 60 H V C C N N
-F2 "testfplib:1597-1150-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1597-1150-ND" 200 200 60 H I L C N N
 F3 "https://docs.particle.io/datasheets/photon-datasheet/" 200 300 60 H I L C N N
 F4 "1597-1150-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "114990286" 200 500 60 H I L CNN "MPN"
@@ -50,7 +50,7 @@ ENDDEF
 DEF 2542 U 0 40 Y Y 1 F N
 F0 "A?" -300 50 60 H V C C N N
 F1 "2542" -100 -600 60 V V C C N N
-F2 "testfplib:Module_2542" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_2542" 200 200 60 H I L C N N
 F3 "https://learn.adafruit.com/downloads/pdf/adafruit-fona-808-cellular-plus-gps-breakout.pdf" 200 300 60 H I L C N N
 F4 "1528-1428-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2542" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF UP2-AH-1-TH U 0 40 Y Y 1 F N
 F0 "J?" 300 200 60 H V C C N N
 F1 "UP2-AH-1-TH" 350 -400 60 H V C C N N
-F2 "testfplib:102-3996-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:102-3996-ND" 200 200 60 H I L C N N
 F3 "http://www.cui.com/product/resource/digikeypdf/up2-ah-th.pdf" 200 300 60 H I L C N N
 F4 "102-3996-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "UP2-AH-1-TH" 200 500 60 H I L CNN "MPN"
@@ -31,7 +31,7 @@ ENDDEF
 DEF UJ2-MBH-1-SMT-TR U 0 40 Y Y 1 F N
 F0 "J?" 0 300 60 H V C C N N
 F1 "UJ2-MBH-1-SMT-TR" 0 -400 60 H V C C N N
-F2 "testfplib:102-4003-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:102-4003-1-ND" 200 200 60 H I L C N N
 F3 "http://www.cui.com/product/resource/digikeypdf/uj2-mbh-smt.pdf" 200 300 60 H I L C N N
 F4 "102-4003-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "UJ2-MBH-1-SMT-TR" 200 500 60 H I L CNN "MPN"
@@ -57,7 +57,7 @@ ENDDEF
 DEF 2001-1-2-21-00-BK U 0 40 Y Y 1 F N
 F0 "J?" 0 650 60 H V C C N N
 F1 "2001-1-2-21-00-BK" 1200 200 60 V V C C N N
-F2 "testfplib:1175-1704-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:1175-1704-1-ND" 200 200 60 H I L C N N
 F3 "http://cnctech.us/pdfs/2001-1-2-21-00-BK.pdf" 200 300 60 H I L C N N
 F4 "1175-1704-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2001-1-2-21-00-BK" 200 500 60 H I L CNN "MPN"
@@ -97,7 +97,7 @@ ENDDEF
 DEF 12401610E4_2A U 0 40 Y Y 1 F N
 F0 "J?" -600 600 60 H V C C N N
 F1 "12401610E4_2A" 500 -500 60 H V C C N N
-F2 "testfplib:12401610E4#2A" 200 200 60 H I L C N N
+F2 "digikey-footprints:12401610E4#2A" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401610E4%232A_Dwg.pdf" 200 300 60 H I L C N N
 F4 "12401610E4#2ACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "12401610E4#2A" 200 500 60 H I L CNN "MPN"
@@ -141,7 +141,7 @@ ENDDEF
 DEF 10118192-0001LF U 0 40 Y Y 1 F N
 F0 "J?" 50 250 60 H V C C N N
 F1 "10118192-0001LF" 0 500 60 H V C C N N
-F2 "testfplib:609-4613-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:609-4613-1-ND" 200 200 60 H I L C N N
 F3 "http://portal.fciconnect.com/Comergent//fci/drawing/10118192.pdf" 200 300 60 H I L C N N
 F4 "609-4613-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "10118192-0001LF" 200 500 60 H I L CNN "MPN"
@@ -167,7 +167,7 @@ ENDDEF
 DEF 10118193-0001LF U 0 40 Y Y 1 F N
 F0 "J?" 50 250 60 H V C C N N
 F1 "10118193-0001LF" 0 500 60 H V C C N N
-F2 "testfplib:609-4616-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:609-4616-1-ND" 200 200 60 H I L C N N
 F3 "http://portal.fciconnect.com/Comergent//fci/drawing/10118193.pdf" 200 300 60 H I L C N N
 F4 "609-4616-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "10118193-0001LF" 200 500 60 H I L CNN "MPN"
@@ -193,7 +193,7 @@ ENDDEF
 DEF 10118194-0001LF U 0 40 Y Y 1 F N
 F0 "J?" 50 250 60 H V C C N N
 F1 "10118194-0001LF" 0 500 60 H V C C N N
-F2 "testfplib:609-4618-1-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:609-4618-1-ND" 200 200 60 H I L C N N
 F3 "http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf" 200 300 60 H I L C N N
 F4 "609-4618-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "10118194-0001LF" 200 500 60 H I L CNN "MPN"
@@ -219,7 +219,7 @@ ENDDEF
 DEF 690-005-299-043 U 0 0 Y Y 1 F N
 F0 "J?" -350 -100 60 H V C C N N
 F1 "690-005-299-043" 500 -300 60 H V C C N N
-F2 "testfplib:690-005-299-043" 200 200 60 H I L C N N
+F2 "digikey-footprints:690-005-299-043" 200 200 60 H I L C N N
 F3 "http://files.edac.net/690-005-299-043.pdf" 200 300 60 H I L C N N
 F4 "151-1206-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "690-005-299-043" 200 500 60 H I L CNN "MPN"
@@ -250,7 +250,7 @@ ENDDEF
 DEF 73725-0110BLF U 0 40 Y Y 1 F N
 F0 "J?" -250 250 60 H V C C N N
 F1 "73725-0110BLF" 0 600 60 H V C C N N
-F2 "testfplib:73725-0110BLF" 200 200 60 H I L C N N
+F2 "digikey-footprints:73725-0110BLF" 200 200 60 H I L C N N
 F3 "http://portal.fciconnect.com/Comergent//fci/drawing/73725.pdf" 200 300 60 H I L C N N
 F4 "609-1041-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "73725-0110BLF" 200 500 60 H I L CNN "MPN"
@@ -274,7 +274,7 @@ ENDDEF
 DEF 2129320-3 U 0 40 Y Y 1 F N
 F0 "J?" -650 450 60 H V C C N N
 F1 "2129320-3" 600 -650 60 H V C C N N
-F2 "testfplib:A120537TR-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:A120537TR-ND" 200 200 60 H I L C N N
 F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2129320&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
 F4 "A120537TR-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2129320-3" 200 500 60 H I L CNN "MPN"
@@ -315,7 +315,7 @@ ENDDEF
 DEF 2040210-1 U 0 40 Y Y 1 F N
 F0 "J?" -150 550 60 H V C C N N
 F1 "2040210-1" 0 0 60 V V C C N N
-F2 "testfplib:A99344-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:A99344-ND" 200 200 60 H I L C N N
 F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2040210&DocType=Customer+Drawing&DocLang=Japanese" 200 300 60 H I L C N N
 F4 "A99344-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2040210-1" 200 500 60 H I L CNN "MPN"
@@ -356,7 +356,7 @@ ENDDEF
 DEF AU-Y1006-3 U 0 40 Y Y 1 F N
 F0 "J?" -350 150 60 H V C C N N
 F1 "AU-Y1006-3" 100 -300 60 V V C C N N
-F2 "testfplib:AE10704-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:AE10704-ND" 200 200 60 H I L C N N
 F3 "http://www.assmann-wsw.com/fileadmin/datasheets/AU-Y1006-3.pdf" 200 300 60 H I L C N N
 F4 "AE10704-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AU-Y1006-3" 200 500 60 H I L CNN "MPN"
@@ -386,7 +386,7 @@ ENDDEF
 DEF E8199-001-01 U 0 40 Y Y 1 F N
 F0 "J?" -500 450 60 H V C C N N
 F1 "E8199-001-01" 0 150 60 H V C C N N
-F2 "testfplib:E8199-001-01" 200 200 60 H I L C N N
+F2 "digikey-footprints:E8199-001-01" 200 200 60 H I L C N N
 F3 "http://productfinder.pulseeng.com/products/datasheets/E8199-001-01.pdf" 200 300 60 H I L C N N
 F4 "553-2273-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "E8199-001-01" 200 500 60 H I L CNN "MPN"
@@ -415,7 +415,7 @@ ENDDEF
 DEF GSB443T33HR U 0 40 Y Y 1 F N
 F0 "J?" -400 400 60 H V C C N N
 F1 "GSB443T33HR" 700 -500 60 H V C C N N
-F2 "testfplib:GSB443T33HR" 200 200 60 H I L C N N
+F2 "digikey-footprints:GSB443T33HR" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/GSB443T33HR_Dwg.pdf" 200 300 60 H I L C N N
 F4 "GSB443T33HRCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "GSB443T33HR" 200 500 60 H I L CNN "MPN"
@@ -446,7 +446,7 @@ ENDDEF
 DEF UX60-MB-5ST U 0 40 Y Y 1 F N
 F0 "J?" -300 250 60 H V C C N N
 F1 "UX60-MB-5ST" -100 100 60 H V C C N N
-F2 "testfplib:H2959CT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:H2959CT-ND" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UX%20Series.pdf" 200 300 60 H I L C N N
 F4 "H2959CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "UX60-MB-5ST" 200 500 60 H I L CNN "MPN"
@@ -472,7 +472,7 @@ ENDDEF
 DEF UE27AC54100 U 0 40 Y Y 1 F N
 F0 "J?" -200 -150 60 H V C C N N
 F1 "UE27AC54100" 0 200 60 H V C C N N
-F2 "testfplib:UE27AC54100-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:UE27AC54100-ND" 200 200 60 H I L C N N
 F3 "https://www.amphenolcanada.com/ProductSearch/drawings/AC/UE27ACX4X0X.pdf" 200 300 60 H I L C N N
 F4 "UE27AC54100-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "UE27AC54100" 200 500 60 H I L CNN "MPN"
@@ -497,7 +497,7 @@ ENDDEF
 DEF UJ2-MIBH-4-SMT-TR U 0 40 Y Y 1 F N
 F0 "J?" -350 250 60 H V C C N N
 F1 "UJ2-MIBH-4-SMT-TR" 0 -400 60 H V C C N N
-F2 "testfplib:UJ2-MIBH-4-SMT-TR" 200 200 60 H I L C N N
+F2 "digikey-footprints:UJ2-MIBH-4-SMT-TR" 200 200 60 H I L C N N
 F3 "http://www.cui.com/product/resource/digikeypdf/uj2-mibh-4-smt.pdf" 200 300 60 H I L C N N
 F4 "102-4006-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "UJ2-MIBH-4-SMT-TR" 200 500 60 H I L CNN "MPN"
@@ -523,7 +523,7 @@ ENDDEF
 DEF 0548190519 U 0 0 Y Y 1 F N
 F0 "J?" -350 -100 60 H V C C N N
 F1 "0548190519" 0 -500 60 H V C C N N
-F2 "testfplib:WM17115-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:WM17115-ND" 200 200 60 H I L C N N
 F3 "http://www.molex.com/pdm_docs/sd/548190519_sd.pdf" 200 300 60 H I L C N N
 F4 "WM17115-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "0548190519" 200 500 60 H I L CNN "MPN"
@@ -554,7 +554,7 @@ ENDDEF
 DEF 74320-9004 U 0 40 Y Y 1 F N
 F0 "J?" 0 550 60 H V C C N N
 F1 "74320-9004" 0 -100 60 V V C C N N
-F2 "testfplib:WM6095-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:WM6095-ND" 200 200 60 H I L C N N
 F3 "http://www.molex.com/pdm_docs/sd/743209004_sd.pdf" 200 300 60 H I L C N N
 F4 "WM6095-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "74320-9004" 200 500 60 H I L CNN "MPN"
@@ -599,7 +599,7 @@ ENDDEF
 DEF 74320-9010 U 0 40 Y Y 1 F N
 F0 "J?" 0 550 60 H V C C N N
 F1 "74320-9010" 0 -300 60 V V C C N N
-F2 "testfplib:WM6096-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:WM6096-ND" 200 200 60 H I L C N N
 F3 "http://www.molex.com/pdm_docs/sd/743209010_sd.pdf" 200 300 60 H I L C N N
 F4 "WM6096-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "74320-9010" 200 500 60 H I L CNN "MPN"
@@ -649,7 +649,7 @@ ENDDEF
 DEF 2000-1-2-41-00-BK U 0 40 Y Y 1 F N
 F0 "J?" 0 850 60 H V C C N N
 F1 "2000-1-2-41-00-BK" 200 -100 60 V V C C N N
-F2 "testfplib:2000-1-2-41-00-BK" 200 200 60 H I L C N N
+F2 "digikey-footprints:2000-1-2-41-00-BK" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/CNC%20Tech%20PDFs/2000-1-2-41-00-BK_Dwg.pdf" 200 300 60 H I L C N N
 F4 "1175-1703-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2000-1-2-41-00-BK" 200 500 60 H I L CNN "MPN"

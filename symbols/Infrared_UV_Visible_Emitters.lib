@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TSAL6100 U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "TSAL6100" 0 300 60 H V C C N N
-F2 "testfplib:751-1203-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:751-1203-ND" 200 200 60 H I L C N N
 F3 "http://www.vishay.com/docs/81009/tsal6100.pdf" 200 300 60 H I L C N N
 F4 "751-1203-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TSAL6100" 200 500 60 H I L CNN "MPN"
@@ -29,7 +29,7 @@ ENDDEF
 DEF SFH_4550 U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "SFH_4550" 0 300 60 H V C C N N
-F2 "testfplib:IR_Radial_2.54mm_Lead_Spacing" 200 200 60 H I L C N N
+F2 "digikey-footprints:IR_Radial_2.54mm_Lead_Spacing" 200 200 60 H I L C N N
 F3 "http://www.osram-os.com/Graphics/XPic7/00209835_0.pdf" 200 300 60 H I L C N N
 F4 "475-1200-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SFH 4550" 200 500 60 H I L CNN "MPN"
@@ -52,7 +52,7 @@ ENDDEF
 DEF SFH_4545 U 0 0 Y Y 1 F N
 F0 "D?" 0 200 60 H V C C N N
 F1 "SFH_4545" 0 300 60 H V C C N N
-F2 "testfplib:LED_5mm_Radial" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
 F3 "http://www.osram-os.com/Graphics/XPic4/00209805_0.pdf" 200 300 60 H I L C N N
 F4 "475-2919-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SFH 4545" 200 500 60 H I L CNN "MPN"

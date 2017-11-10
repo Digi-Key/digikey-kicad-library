@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 1N5231BTR U 0 0 Y Y 1 F N
 F0 "Z?" -50 150 60 H V C C N N
 F1 "1N5231BTR" 0 300 60 H V C C N N
-F2 "testfplib:DO-35" 200 200 60 H I L C N N
+F2 "digikey-footprints:DO-35" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/1N/1N5231B.pdf" 200 300 60 H I L C N N
 F4 "1N5231BFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N5231BTR" 200 500 60 H I L CNN "MPN"
@@ -31,7 +31,7 @@ ENDDEF
 DEF MMSZ5231B-7-F U 0 0 Y Y 1 F N
 F0 "Z?" 0 200 60 H V C C N N
 F1 "MMSZ5231B-7-F" 0 300 60 H V C C N N
-F2 "testfplib:SOD-123" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOD-123" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds18010.pdf" 200 300 60 H I L C N N
 F4 "MMSZ5231B-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMSZ5231B-7-F" 200 500 60 H I L CNN "MPN"

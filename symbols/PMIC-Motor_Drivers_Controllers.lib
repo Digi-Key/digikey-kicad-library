@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF L293D U 0 40 Y Y 1 F N
 F0 "U?" -200 -50 60 H V C C N N
 F1 "L293D" 0 300 60 H V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf" 200 300 60 H I L C N N
 F4 "497-2936-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L293D" 200 500 60 H I L CNN "MPN"
@@ -42,7 +42,7 @@ ENDDEF
 DEF L293DNE U 0 0 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "L293DNE" 600 -700 60 H V C C N N
-F2 "testfplib:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/l293d.pdf" 200 300 60 H I L C N N
 F4 "296-9518-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L293DNE" 200 500 60 H I L CNN "MPN"
@@ -100,7 +100,7 @@ ENDDEF
 DEF TB6612FNG_C_8_EL U 0 40 Y Y 1 F N
 F0 "U?" -500 150 60 H V C C N N
 F1 "TB6612FNG_C_8_EL" 0 500 60 H V C C N N
-F2 "testfplib:24-LSSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:24-LSSOP" 200 200 60 H I L C N N
 F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=10660&prodName=TB6612FNG" 200 300 60 H I L C N N
 F4 "TB6612FNGC8ELCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TB6612FNG,C,8,EL" 200 500 60 H I L CNN "MPN"
@@ -144,7 +144,7 @@ ENDDEF
 DEF A3967SLBTR-T U 0 40 Y Y 1 F N
 F0 "U?" -100 450 60 H V C C N N
 F1 "A3967SLBTR-T" 200 -300 60 V V C C N N
-F2 "testfplib:24-SOIC_(7.50mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:24-SOIC_(7.50mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx" 200 300 60 H I L C N N
 F4 "620-1140-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "A3967SLBTR-T" 200 500 60 H I L CNN "MPN"
@@ -188,7 +188,7 @@ ENDDEF
 DEF DRV8825PWPR U 0 40 Y Y 1 F N
 F0 "U?" -200 650 60 H V C C N N
 F1 "DRV8825PWPR" 100 -300 60 V V C C N N
-F2 "testfplib:28-HTSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-HTSSOP_(4.40mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/drv8825.pdf" 200 300 60 H I L C N N
 F4 "296-29503-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV8825PWPR" 200 500 60 H I L CNN "MPN"
@@ -237,7 +237,7 @@ ENDDEF
 DEF TMC2208-LA-T U 0 40 Y Y 1 F N
 F0 "U?" -50 750 60 H V C C N N
 F1 "TMC2208-LA-T" 200 0 60 V V C C N N
-F2 "testfplib:28-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_Datasheet.pdf" 200 300 60 H I L C N N
 F4 "1460-1184-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMC2208-LA-T" 200 500 60 H I L CNN "MPN"
@@ -286,7 +286,7 @@ ENDDEF
 DEF A4988SETTR-T U 0 40 Y Y 1 F N
 F0 "U?" -300 850 60 H V C C N N
 F1 "A4988SETTR-T" 0 -100 60 V V C C N N
-F2 "testfplib:28-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-VFQFN_Exposed_Pad" 200 200 60 H I L C N N
 F3 "http://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" 200 300 60 H I L C N N
 F4 "620-1343-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "A4988SETTR-T" 200 500 60 H I L CNN "MPN"

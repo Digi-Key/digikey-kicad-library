@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MAG3110FCR1 U 0 40 Y Y 1 F N
 F0 "U?" -300 400 60 H V C C N N
 F1 "MAG3110FCR1" 500 -400 60 H V C C N N
-F2 "testfplib:10-DFN_(2X2)" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-DFN_(2X2)" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MAG3110.pdf" 200 300 60 H I L C N N
 F4 "MAG3110FCR1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAG3110FCR1" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF LIS3MDLTR U 0 40 Y Y 1 F N
 F0 "U?" -350 450 60 H V C C N N
 F1 "LIS3MDLTR" 550 -600 60 H V C C N N
-F2 "testfplib:12-VFLGA" 200 200 60 H I L C N N
+F2 "digikey-footprints:12-VFLGA" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/54/2a/85/76/e3/97/42/18/DM00075867.pdf/files/DM00075867.pdf/jcr:content/translations/en.DM00075867.pdf" 200 300 60 H I L C N N
 F4 "497-13892-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LIS3MDLTR" 200 500 60 H I L CNN "MPN"
@@ -68,7 +68,7 @@ ENDDEF
 DEF A1324LUA-T U 0 40 Y Y 1 F N
 F0 "U?" -150 350 60 H V C C N N
 F1 "A1324LUA-T" 400 -300 60 H V C C N N
-F2 "testfplib:3SIP_A1324LUA-T" 200 200 60 H I L C N N
+F2 "digikey-footprints:3SIP_A1324LUA-T" 200 200 60 H I L C N N
 F3 "http://www.allegromicro.com/en/Products/Part_Numbers/1324/1324.pdf" 200 300 60 H I L C N N
 F4 "620-1432-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "A1324LUA-T" 200 500 60 H I L CNN "MPN"
@@ -91,7 +91,7 @@ ENDDEF
 DEF A1326LUA-T U 0 40 Y Y 1 F N
 F0 "U?" -150 350 60 H V C C N N
 F1 "A1326LUA-T" 400 -300 60 H V C C N N
-F2 "testfplib:3SIP_A1324LUA-T" 200 200 60 H I L C N N
+F2 "digikey-footprints:3SIP_A1324LUA-T" 200 200 60 H I L C N N
 F3 "http://www.allegromicro.com/en/Products/Part_Numbers/1324/1324.pdf" 200 300 60 H I L C N N
 F4 "620-1433-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "A1326LUA-T" 200 500 60 H I L CNN "MPN"
@@ -114,7 +114,7 @@ ENDDEF
 DEF DRV5053VAQDBZR U 0 40 Y Y 1 F N
 F0 "U?" -100 300 60 H V C C N N
 F1 "DRV5053VAQDBZR" 600 -300 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/drv5053.pdf" 200 300 60 H I L C N N
 F4 "296-38460-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV5053VAQDBZR" 200 500 60 H I L CNN "MPN"
@@ -137,7 +137,7 @@ ENDDEF
 DEF A1324LLHLT-T U 0 40 Y Y 1 F N
 F0 "U?" -150 350 60 H V C C N N
 F1 "A1324LLHLT-T" 400 -300 60 H V C C N N
-F2 "testfplib:SOT-23W" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23W" 200 200 60 H I L C N N
 F3 "http://www.allegromicro.com/en/Products/Part_Numbers/1324/1324.pdf" 200 300 60 H I L C N N
 F4 "620-1402-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "A1324LLHLT-T" 200 500 60 H I L CNN "MPN"

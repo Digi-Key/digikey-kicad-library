@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 2908-05WB-MG U 0 40 Y Y 1 F N
 F0 "J?" -400 450 60 H V C C N N
 F1 "2908-05WB-MG" 0 -100 60 V V C C N N
-F2 "testfplib:3M5607CT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:3M5607CT-ND" 200 200 60 H I L C N N
 F3 "http://multimedia.3m.com/mws/media/416257O/3mtm-card-connector-microsdtm-2900-series-ts2197.pdf" 200 300 60 H I L C N N
 F4 "3M5607CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2908-05WB-MG" 200 500 60 H I L CNN "MPN"
@@ -35,7 +35,7 @@ ENDDEF
 DEF 5045200691 U 0 40 Y Y 1 F N
 F0 "J?" -200 300 60 H V C C N N
 F1 "5045200691" 300 0 60 V V C C N N
-F2 "testfplib:WM12731CT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:WM12731CT-ND" 200 200 60 H I L C N N
 F3 "http://www.molex.com/pdm_docs/sd/5045200691_sd.pdf" 200 300 60 H I L C N N
 F4 "WM12731CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "5045200691" 200 500 60 H I L CNN "MPN"
@@ -62,7 +62,7 @@ ENDDEF
 DEF 0473080001 U 0 40 Y Y 1 F N
 F0 "J?" 0 250 60 H V C C N N
 F1 "0473080001" 300 -150 60 V V C C N N
-F2 "testfplib:WM6699CT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:WM6699CT-ND" 200 200 60 H I L C N N
 F3 "http://www.molex.com/pdm_docs/sd/473080001_sd.pdf" 200 300 60 H I L C N N
 F4 "WM6699CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "0473080001" 200 500 60 H I L CNN "MPN"
@@ -89,7 +89,7 @@ ENDDEF
 DEF 0787231001 U 0 40 Y Y 1 F N
 F0 "J?" -300 350 60 H V C C N N
 F1 "0787231001" 400 -200 60 V V C C N N
-F2 "testfplib:WM9259CT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:WM9259CT-ND" 200 200 60 H I L C N N
 F3 "http://www.molex.com/pdm_docs/sd/787231001_sd.pdf" 200 300 60 H I L C N N
 F4 "WM9259CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "0787231001" 200 500 60 H I L CNN "MPN"

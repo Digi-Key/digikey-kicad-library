@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ULN2803A U 0 0 Y Y 1 F N
 F0 "Q?" -350 950 60 H V C C N N
 F1 "ULN2803A" 200 -200 60 H V C C N N
-F2 "testfplib:18-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:18-DIP" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/e4/fa/1c/16/4e/39/49/04/CD00000179.pdf/files/CD00000179.pdf/jcr:content/translations/en.CD00000179.pdf" 200 300 60 H I L C N N
 F4 "497-2356-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULN2803A" 200 500 60 H I L CNN "MPN"
@@ -116,7 +116,7 @@ ENDDEF
 DEF ULQ2803A U 0 0 Y Y 1 F N
 F0 "Q?" -350 950 60 H V C C N N
 F1 "ULQ2803A" 200 -200 60 H V C C N N
-F2 "testfplib:18-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:18-DIP" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/b8/3c/b5/48/9e/4b/40/e6/CD00000181.pdf/files/CD00000181.pdf/jcr:content/translations/en.CD00000181.pdf" 200 300 60 H I L C N N
 F4 "497-2362-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULQ2803A" 200 500 60 H I L CNN "MPN"
@@ -226,7 +226,7 @@ ENDDEF
 DEF ULN2803ADWR U 0 0 Y Y 1 F N
 F0 "Q?" -350 950 60 H V C C N N
 F1 "ULN2803ADWR" 200 -200 60 H V C C N N
-F2 "testfplib:18SOIC" 200 200 60 H I L C N N
+F2 "digikey-footprints:18SOIC" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/uln2803a.pdf" 200 300 60 H I L C N N
 F4 "296-15777-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULN2803ADWR" 200 500 60 H I L CNN "MPN"
@@ -336,7 +336,7 @@ ENDDEF
 DEF MBT3904DW1T1G U 0 0 Y Y 1 F N
 F0 "Q?" -400 400 60 H V C C N N
 F1 "MBT3904DW1T1G" 900 -400 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MBT3904DW1T1-D.PDF" 200 300 60 H I L C N N
 F4 "MBT3904DW1T1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MBT3904DW1T1G" 200 500 60 H I L CNN "MPN"

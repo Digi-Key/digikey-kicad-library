@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MOC3021 U 0 0 Y Y 1 F N
 F0 "U?" -250 450 60 H V C C N N
 F1 "MOC3021" 0 -450 60 H V C C N N
-F2 "testfplib:6-DIP" 200 200 60 V I L C N N
+F2 "digikey-footprints:6-DIP" 200 200 60 V I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0019/MOC302X%20series%20201606.pdf" 200 300 60 V I L C N N
 F4 "160-1374-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MOC3021" 200 500 60 H I L CNN "MPN"
@@ -44,7 +44,7 @@ ENDDEF
 DEF MOC3063 U 0 0 Y Y 1 F N
 F0 "U?" 0 300 60 H V C C N N
 F1 "MOC3063" 100 -300 60 H V C C N N
-F2 "testfplib:6-DIP" 200 200 60 V I L C N N
+F2 "digikey-footprints:6-DIP" 200 200 60 V I L C N N
 F3 "http://optoelectronics.liteon.com/upload/download/DS70-2001-026/MOC306X%20series%20201606.pdf" 200 300 60 V I L C N N
 F4 "160-1722-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MOC3063" 200 500 60 H I L CNN "MPN"

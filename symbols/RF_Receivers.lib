@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF SI4703-C19-GM U 0 40 Y Y 1 F N
 F0 "U?" -250 350 60 H V C C N N
 F1 "SI4703-C19-GM" 600 -800 60 H V C C N N
-F2 "testfplib:20-QFN_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-QFN_(3x3)" 200 200 60 H I L C N N
 F3 "http://www.silabs.com/documents/public/data-sheets/Si4702-03-C19.pdf" 200 300 60 H I L C N N
 F4 "336-1739-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SI4703-C19-GM" 200 500 60 H I L CNN "MPN"
@@ -47,7 +47,7 @@ ENDDEF
 DEF A2235-H U 0 40 Y Y 1 F N
 F0 "U?" -400 500 60 H V C C N N
 F1 "A2235-H" -500 -1100 60 H V C C N N
-F2 "testfplib:Module_A2235-H" 200 200 60 H I L C N N
+F2 "digikey-footprints:Module_A2235-H" 200 200 60 H I L C N N
 F3 "http://update.maestro-wireless.com/GNSS/A2235-H/Maestro_A2135_HA2235_H_v11.pdf" 200 300 60 H I L C N N
 F4 "1530-1011-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "A2235-H" 200 500 60 H I L CNN "MPN"
@@ -90,7 +90,7 @@ ENDDEF
 DEF RXM-418-LR U 0 40 Y Y 1 F N
 F0 "U?" -200 800 60 H V C C N N
 F1 "RXM-418-LR" 100 0 60 V V C C N N
-F2 "testfplib:16-SMD_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-SMD_Module" 200 200 60 H I L C N N
 F3 "https://www.linxtechnologies.com/resources/data-guides/rxm-xxx-lr.pdf" 200 300 60 H I L C N N
 F4 "RXM-418-LR-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RXM-418-LR" 200 500 60 H I L CNN "MPN"
@@ -126,7 +126,7 @@ ENDDEF
 DEF RXM-433-LR U 0 40 Y Y 1 F N
 F0 "U?" -200 800 60 H V C C N N
 F1 "RXM-433-LR" 100 0 60 V V C C N N
-F2 "testfplib:16-SMD_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-SMD_Module" 200 200 60 H I L C N N
 F3 "https://www.linxtechnologies.com/resources/data-guides/rxm-xxx-lr.pdf" 200 300 60 H I L C N N
 F4 "RXM-433-LR-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RXM-433-LR" 200 500 60 H I L CNN "MPN"
@@ -162,7 +162,7 @@ ENDDEF
 DEF CAM-M8C-0 U 0 40 Y Y 1 F N
 F0 "U?" -600 550 60 H V C C N N
 F1 "CAM-M8C-0" 100 -100 60 H V C C N N
-F2 "testfplib:U-BLOX_CAM-M8C-0_Module" 200 200 60 H I L C N N
+F2 "digikey-footprints:U-BLOX_CAM-M8C-0_Module" 200 200 60 H I L C N N
 F3 "https://www.u-blox.com/sites/default/files/CAM-M8-FW3_DataSheet_%28UBX-15031574%29.pdf" 200 300 60 H I L C N N
 F4 "672-1014-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CAM-M8C-0" 200 500 60 H I L CNN "MPN"

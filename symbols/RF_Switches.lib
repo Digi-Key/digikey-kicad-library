@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF PE42423MLBA-Z U 0 40 Y Y 1 F N
 F0 "U?" 200 450 60 H V C C N N
 F1 "PE42423MLBA-Z" 300 100 60 H V C C N N
-F2 "testfplib:16-VFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:16-VFQFN_Exposed_Pad(3x3)" 200 200 60 H I L C N N
 F3 "http://www.psemi.com/pdf/datasheets/pe42423ds.pdf" 200 300 60 H I L C N N
 F4 "1046-1103-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PE42423MLBA-Z" 200 500 60 H I L CNN "MPN"
@@ -43,7 +43,7 @@ ENDDEF
 DEF 4259-63 U 0 40 Y Y 1 F N
 F0 "U?" -100 150 60 H V C C N N
 F1 "4259-63" 700 -500 60 H V C C N N
-F2 "testfplib:SOT-363" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
 F3 "http://www.psemi.com/pdf/datasheets/pe4259ds.pdf" 200 300 60 H I L C N N
 F4 "1046-1011-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "4259-63" 200 500 60 H I L CNN "MPN"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MCP130T-300I_TT U 0 1 Y Y 1 F N
 F0 "U?" -200 300 60 H V C C N N
 F1 "MCP130T-300I_TT" 0 600 60 H V C C N N
-F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011325" 200 300 60 H I L C N N
 F4 "MCP130T-300I/TTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP130T-300I/TT" 200 500 60 H I L CNN "MPN"
@@ -29,7 +29,7 @@ ENDDEF
 DEF STWD100NYWY3F U 0 40 Y Y 1 F N
 F0 "U?" -150 50 60 H V C C N N
 F1 "STWD100NYWY3F" 600 -500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/06/6a/b3/83/9a/c7/4f/22/CD00176077.pdf/files/CD00176077.pdf/jcr:content/translations/en.CD00176077.pdf" 200 300 60 H I L C N N
 F4 "497-10058-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "STWD100NYWY3F" 200 500 60 H I L CNN "MPN"
@@ -54,7 +54,7 @@ ENDDEF
 DEF TPS3808G33DBVR U 0 40 Y Y 1 F N
 F0 "U?" 0 400 60 H V C C N N
 F1 "TPS3808G33DBVR" 700 -400 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps3808.pdf" 200 300 60 H I L C N N
 F4 "296-17195-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS3808G33DBVR" 200 500 60 H I L CNN "MPN"
@@ -80,7 +80,7 @@ ENDDEF
 DEF TPS3808G01DBVR U 0 40 Y Y 1 F N
 F0 "U?" 0 400 60 H V C C N N
 F1 "TPS3808G01DBVR" 700 -400 60 H V C C N N
-F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tps3808.pdf" 200 300 60 H I L C N N
 F4 "296-17188-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS3808G01DBVR" 200 500 60 H I L CNN "MPN"
@@ -106,7 +106,7 @@ ENDDEF
 DEF MAX6369KA_T U 0 40 Y Y 1 F N
 F0 "U?" -200 50 60 H V C C N N
 F1 "MAX6369KA_T" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-8" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-8" 200 200 60 H I L C N N
 F3 "https://datasheets.maximintegrated.com/en/ds/MAX6369-MAX6374.pdf" 200 300 60 H I L C N N
 F4 "MAX6369KA+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX6369KA+T" 200 500 60 H I L CNN "MPN"

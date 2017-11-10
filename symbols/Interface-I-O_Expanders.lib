@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MCP23008-E_P U 0 40 Y Y 1 F N
 F0 "U?" -300 650 60 H V C C N N
 F1 "MCP23008-E_P" -100 -200 60 V V C C N N
-F2 "testfplib:18-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:18-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en021920" 200 300 60 H I L C N N
 F4 "MCP23008-E/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP23008-E/P" 200 500 60 H I L CNN "MPN"
@@ -44,7 +44,7 @@ ENDDEF
 DEF MCP23017-E_SP U 0 40 Y Y 1 F N
 F0 "U?" -100 750 60 H V C C N N
 F1 "MCP23017-E_SP" 200 -700 60 V V C C N N
-F2 "testfplib:28-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en023709" 200 300 60 H I L C N N
 F4 "MCP23017-E/SP-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP23017-E/SP" 200 500 60 H I L CNN "MPN"
@@ -92,7 +92,7 @@ ENDDEF
 DEF MCP23018-E_SP U 0 40 Y Y 1 F N
 F0 "U?" -100 750 60 H V C C N N
 F1 "MCP23018-E_SP" 200 -400 60 V V C C N N
-F2 "testfplib:28-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-DIP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en537442" 200 300 60 H I L C N N
 F4 "MCP23018-E/SP-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP23018-E/SP" 200 500 60 H I L CNN "MPN"
@@ -140,7 +140,7 @@ ENDDEF
 DEF SX1509BIULTRT U 0 40 Y Y 1 F N
 F0 "U?" -200 850 60 H V C C N N
 F1 "SX1509BIULTRT" 100 -500 60 V V C C N N
-F2 "testfplib:28-QFN-UT_(4x4)" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-QFN-UT_(4x4)" 200 200 60 H I L C N N
 F3 "http://www.semtech.com/images/datasheet/sx150x_89b.pdf" 200 300 60 H I L C N N
 F4 "SX1509BIULCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SX1509BIULTRT" 200 500 60 H I L CNN "MPN"
@@ -189,7 +189,7 @@ ENDDEF
 DEF MCP23017-E_SO U 0 40 Y Y 1 F N
 F0 "U?" -100 750 60 H V C C N N
 F1 "MCP23017-E_SO" 200 -700 60 V V C C N N
-F2 "testfplib:28-SOIC" 200 200 60 H I L C N N
+F2 "digikey-footprints:28-SOIC" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en023709" 200 300 60 H I L C N N
 F4 "MCP23017-E/SO-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP23017-E/SO" 200 500 60 H I L CNN "MPN"

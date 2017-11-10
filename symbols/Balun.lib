@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ETC1-1-13TR U 0 0 Y Y 1 F N
 F0 "T?" -150 250 60 H V C C N N
 F1 "ETC1-1-13TR" -550 -250 60 H V C C N N
-F2 "testfplib:6-SMD_(5_Leads)" 200 200 60 H I L C N N
+F2 "digikey-footprints:6-SMD_(5_Leads)" 200 200 60 H I L C N N
 F3 "http://cdn.macom.com/datasheets/ETC1-1-13.pdf" 200 300 60 H I L C N N
 F4 "1465-1217-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ETC1-1-13TR" 200 500 60 H I L CNN "MPN"
@@ -49,7 +49,7 @@ ENDDEF
 DEF MABA-007159-000000 U 0 40 Y Y 1 F N
 F0 "T?" -150 250 60 H V C C N N
 F1 "MABA-007159-000000" 0 -250 60 H V C C N N
-F2 "testfplib:6-SMD_(5_Leads)" 200 200 60 H I L C N N
+F2 "digikey-footprints:6-SMD_(5_Leads)" 200 200 60 H I L C N N
 F3 "http://cdn.macom.com/datasheets/MABA-007159-000000.pdf" 200 300 60 H I L C N N
 F4 "1465-1302-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MABA-007159-000000" 200 500 60 H I L CNN "MPN"

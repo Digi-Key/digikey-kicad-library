@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF TRF7970ARHBR U 0 40 Y Y 1 F N
 F0 "U?" -700 950 60 H V C C N N
 F1 "TRF7970ARHBR" -300 0 60 V V C C N N
-F2 "testfplib:32-VQFN_(5x5)" 200 200 60 H I L C N N
+F2 "digikey-footprints:32-VQFN_(5x5)" 200 200 60 H I L C N N
 F3 "http://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/TRF7970A.pdf" 200 300 60 H I L C N N
 F4 "296-29355-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TRF7970ARHBR" 200 500 60 H I L CNN "MPN"

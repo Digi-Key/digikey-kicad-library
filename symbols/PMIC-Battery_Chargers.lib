@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF MCP73833-AMI_UN U 0 40 Y Y 1 F N
 F0 "U?" -150 250 60 H V C C N N
 F1 "MCP73833-AMI_UN" 0 600 60 H V C C N N
-F2 "testfplib:10-MSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:10-MSOP" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en027983" 200 300 60 H I L C N N
 F4 "MCP73833-AMI/UN-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP73833-AMI/UN" 200 500 60 H I L CNN "MPN"
@@ -36,7 +36,7 @@ ENDDEF
 DEF LT3652EMSE_PBF U 0 40 Y Y 1 F N
 F0 "U?" -400 250 60 H V C C N N
 F1 "LT3652EMSE_PBF" 0 600 60 H V C C N N
-F2 "testfplib:12MSOP_EP" 200 200 60 H I L C N N
+F2 "digikey-footprints:12MSOP_EP" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/28522" 200 300 60 H I L C N N
 F4 "LT3652EMSE#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LT3652EMSE#PBF" 200 500 60 H I L CNN "MPN"
@@ -69,7 +69,7 @@ ENDDEF
 DEF MCP73871-2CCI_ML U 0 40 Y Y 1 F N
 F0 "U?" -300 550 60 H V C C N N
 F1 "MCP73871-2CCI_ML" 0 900 60 H V C C N N
-F2 "testfplib:20-QFN_(3x3)" 200 200 60 H I L C N N
+F2 "digikey-footprints:20-QFN_(3x3)" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536709" 200 300 60 H I L C N N
 F4 "MCP73871-2CCI/ML-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP73871-2CCI/ML" 200 500 60 H I L CNN "MPN"
@@ -110,7 +110,7 @@ ENDDEF
 DEF LTC4020EUHF_PBF U 0 40 Y Y 1 F N
 F0 "U?" -300 950 60 H V C C N N
 F1 "LTC4020EUHF_PBF" 100 -400 60 V V C C N N
-F2 "testfplib:38-WFQFN_Exposed_Pad_(5x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:38-WFQFN_Exposed_Pad_(5x7)" 200 200 60 H I L C N N
 F3 "http://www.linear.com/docs/44025" 200 300 60 H I L C N N
 F4 "LTC4020EUHF#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTC4020EUHF#PBF" 200 500 60 H I L CNN "MPN"
@@ -169,7 +169,7 @@ ENDDEF
 DEF SPV1040TTR U 0 40 Y Y 1 F N
 F0 "U?" -50 250 60 H V C C N N
 F1 "SPV1040TTR" 0 400 60 H V C C N N
-F2 "testfplib:8-TSSOP" 200 200 60 H I L C N N
+F2 "digikey-footprints:8-TSSOP" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/0d/30/c2/1a/92/03/48/cb/CD00287506.pdf/files/CD00287506.pdf/jcr:content/translations/en.CD00287506.pdf" 200 300 60 H I L C N N
 F4 "497-11288-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SPV1040TTR" 200 500 60 H I L CNN "MPN"
@@ -197,7 +197,7 @@ ENDDEF
 DEF MCP73831T-2ACI_OT U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "MCP73831T-2ACI_OT" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en025112" 200 300 60 H I L C N N
 F4 "MCP73831T-2ACI/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP73831T-2ACI/OT" 200 500 60 H I L CNN "MPN"
@@ -222,7 +222,7 @@ ENDDEF
 DEF MCP73831T-2ATI_OT U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "MCP73831T-2ATI_OT" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en025112" 200 300 60 H I L C N N
 F4 "MCP73831T-2ATI/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP73831T-2ATI/OT" 200 500 60 H I L CNN "MPN"
@@ -247,7 +247,7 @@ ENDDEF
 DEF MCP73831T-2DCI_OT U 0 40 Y Y 1 F N
 F0 "U?" -200 150 60 H V C C N N
 F1 "MCP73831T-2DCI_OT" 0 500 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en025112" 200 300 60 H I L C N N
 F4 "MCP73831T-2DCI/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP73831T-2DCI/OT" 200 500 60 H I L CNN "MPN"
@@ -272,7 +272,7 @@ ENDDEF
 DEF MCP73811T-420I_OT U 0 40 Y Y 1 F N
 F0 "U?" -200 50 60 H V C C N N
 F1 "MCP73811T-420I_OT" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en528273" 200 300 60 H I L C N N
 F4 "MCP73811T-420I/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP73811T-420I/OT" 200 500 60 H I L CNN "MPN"
@@ -297,7 +297,7 @@ ENDDEF
 DEF MCP73812T-420I_OT U 0 40 Y Y 1 F N
 F0 "U?" -200 50 60 H V C C N N
 F1 "MCP73812T-420I_OT" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en528273" 200 300 60 H I L C N N
 F4 "MCP73812T-420I/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP73812T-420I/OT" 200 500 60 H I L CNN "MPN"
@@ -322,7 +322,7 @@ ENDDEF
 DEF MCP73832T-2ACI_OT U 0 40 Y Y 1 F N
 F0 "U?" -200 50 60 H V C C N N
 F1 "MCP73832T-2ACI_OT" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en025112" 200 300 60 H I L C N N
 F4 "MCP73832T-2ACI/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP73832T-2ACI/OT" 200 500 60 H I L CNN "MPN"
@@ -347,7 +347,7 @@ ENDDEF
 DEF MAX1555EZK_T U 0 40 Y Y 1 F N
 F0 "U?" -150 50 60 H V C C N N
 F1 "MAX1555EZK_T" 0 400 60 H V C C N N
-F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-5" 200 200 60 H I L C N N
 F3 "https://datasheets.maximintegrated.com/en/ds/MAX1551-MAX1555.pdf" 200 300 60 H I L C N N
 F4 "MAX1555EZK+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX1555EZK+T" 200 500 60 H I L CNN "MPN"
