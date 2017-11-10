@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HMC6343
+D 3-AXIS DIGITAL COMPASS SOLUTION
+K 342-1056-ND HMC
+F https://aerocontent.honeywell.com/aero/common/documents/myaerospacecatalog-documents/Missiles-Munitions/HMC6343.pdf
+$ENDCMP
+#
+#End Doc Library

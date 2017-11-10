@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADL5380ACPZ-R7
+D IC DEMOD QUAD .4/6GHZ 24LFCSP
+K ADL5380ACPZ-R7CT-ND 
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5380.pdf
+$ENDCMP
+#
+#End Doc Library

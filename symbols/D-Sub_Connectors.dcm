@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5747840-3
+D CONN D-SUB PLUG 9POS R/A SOLDER
+K A32091-ND AMPLIMITE HD-20
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+$CMP A-DF_09_A_KG-T2S
+D CONN D-SUB RCPT 9POS R/A SOLDER
+K AE10921-ND 
+F http://www.assmann-wsw.com/fileadmin/datasheets/ASS_4888_CO.pdf
+$ENDCMP
+#
+#End Doc Library

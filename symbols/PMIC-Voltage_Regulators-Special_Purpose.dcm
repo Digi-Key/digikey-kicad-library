@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS51200DRCR
+D IC CONV DDR DDR2 DDR3 10SON
+K 296-26978-1-ND 
+F http://www.ti.com/lit/ds/symlink/tps51200.pdf
+$ENDCMP
+#
+#End Doc Library

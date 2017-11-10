@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 570CAC000141DG
+D OSC XO 10-160MHZ CMOS SMD
+K 336-2518-ND Si570
+F http://www.silabs.com/documents/public/data-sheets/si570.pdf
+$ENDCMP
+#
+#End Doc Library

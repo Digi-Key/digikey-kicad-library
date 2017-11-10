@@ -1,0 +1,130 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# SIT1533AI-H4-DCC-32_768E
+#
+DEF SIT1533AI-H4-DCC-32_768E U 0 1 Y Y 1 F N
+F0 "Y?" -200 250 60 H V C C N N
+F1 "SIT1533AI-H4-DCC-32_768E" -500 -250 60 H V C C N N
+F2 "testfplib:1473-1239-1-ND" 200 200 60 H I L C N N
+F3 "http://www.sitime.com/products/datasheets/sit1533/SiT1533-datasheet.pdf" 200 300 60 H I L C N N
+F4 "1473-1239-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SIT1533AI-H4-DCC-32.768E" 200 500 60 H I L CNN "MPN"
+F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
+F7 "Oscillators" 200 700 60 H I L CNN "Family"
+F8 "http://www.sitime.com/products/datasheets/sit1533/SiT1533-datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/sitime/SIT1533AI-H4-DCC-32.768E/1473-1239-1-ND/4898151" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OSC MEMS 32.768KHZ LVCMOS SMD" 200 1000 60 H I L CNN "Description"
+F11 "SiTIME" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S 300 200 -200 -200 0 1 0 f
+X NC 1 -400 0 200 R 50 50 1 1 N
+X GND 2 0 -400 200 U 50 50 1 1 W
+X CLK_OUT 3 500 0 200 L 50 50 1 1 O
+X VDD 4 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# XLH536025_000000I
+#
+DEF XLH536025_000000I U 0 1 Y Y 1 F N
+F0 "Y?" -200 200 60 H V C C N N
+F1 "XLH536025_000000I" 500 -400 60 H V C C N N
+F2 "testfplib:631-1156-1-ND" 200 200 60 H I L C N N
+F3 "http://www.foxonline.com/pdfs/FXO_HC53.pdf" 200 300 60 H I L C N N
+F4 "631-1156-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "XLH536025.000000I" 200 500 60 H I L CNN "MPN"
+F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
+F7 "Oscillators" 200 700 60 H I L CNN "Family"
+F8 "http://www.foxonline.com/pdfs/FXO_HC53.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/idt-integrated-device-technology-inc/XLH536025.000000I/631-1156-1-ND/2074684" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OSC XO 25.000MHZ HCMOS SMD" 200 1000 60 H I L CNN "Description"
+F11 "IDT, Integrated Device Technology Inc" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S 200 100 -100 -300 0 1 0 f
+X E/D 1 -300 -100 200 R 50 50 1 1 I
+X GND 2 0 -500 200 U 50 50 1 1 W
+X OUT 3 400 -100 200 L 50 50 1 1 O
+X VDD 4 100 300 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# XLH736022_579200I
+#
+DEF XLH736022_579200I U 0 1 Y Y 1 F N
+F0 "Y?" -200 200 60 H V C C N N
+F1 "XLH736022_579200I" 400 -400 60 H V C C N N
+F2 "testfplib:631-1277-ND" 200 200 60 H I L C N N
+F3 "http://www.foxonline.com/pdfs/FXO_HC73.pdf" 200 300 60 H I L C N N
+F4 "631-1277-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "XLH736022.579200I" 200 500 60 H I L CNN "MPN"
+F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
+F7 "Oscillators" 200 700 60 H I L CNN "Family"
+F8 "http://www.foxonline.com/pdfs/FXO_HC73.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/idt-integrated-device-technology-inc/XLH736022.579200I/631-1277-ND/3189602" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OSC XO 22.5792MHZ HCMOS SMD" 200 1000 60 H I L CNN "Description"
+F11 "IDT, Integrated Device Technology Inc" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S 200 100 -100 -300 0 1 0 f
+X E/D 1 -300 -100 200 R 50 50 1 1 I
+X GND 2 0 -500 200 U 50 50 1 1 W
+X OUT 3 400 0 200 L 50 50 1 1 O
+X VDD 4 0 300 200 D 50 50 1 1 W
+X NC 5 400 -100 200 L 50 50 1 1 N
+X NC 6 400 -200 200 L 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+# SIT9102AI-243N25E200_00000Y
+#
+DEF SIT9102AI-243N25E200_00000Y U 0 40 Y Y 1 F N
+F0 "Y?" -350 350 60 H V C C N N
+F1 "SIT9102AI-243N25E200_00000Y" 400 -300 60 H V C C N N
+F2 "testfplib:6SMD_7050" 200 200 60 H I L C N N
+F3 "https://www.sitime.com/products/datasheets/sit9102/SiT9102-datasheet.pdf" 200 300 60 H I L C N N
+F4 "1473-1521-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SIT9102AI-243N25E200.00000Y" 200 500 60 H I L CNN "MPN"
+F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
+F7 "Oscillators" 200 700 60 H I L CNN "Family"
+F8 "https://www.sitime.com/products/datasheets/sit9102/SiT9102-datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/sitime/SIT9102AI-243N25E200.00000Y/1473-1521-1-ND/6166268" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OSC MEMS 200.000MHZ LVDS SMD" 200 1000 60 H I L CNN "Description"
+F11 "SiTIME" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S -400 200 200 -200 0 1 0 f
+X ~ST~/OE 1 -600 100 200 R 50 50 1 1 O
+X NC 2 -600 0 200 R 50 50 1 1 N
+X GND 3 -100 -400 200 U 50 50 1 1 W
+X OUT+ 4 400 100 200 L 50 50 1 1 O
+X OUT- 5 400 0 200 L 50 50 1 1 O
+X VDD 6 -100 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# XLL736200_000000I
+#
+DEF XLL736200_000000I U 0 1 Y Y 1 F N
+F0 "Y?" -200 200 60 H V C C N N
+F1 "XLL736200_000000I" 400 -300 60 H V C C N N
+F2 "testfplib:6SMD_NO_LEAD" 200 200 60 H I L C N N
+F3 "http://www.foxonline.com/pdfs/FXO_LC73.pdf" 200 300 60 H I L C N N
+F4 "631-1362-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "XLL736200.000000I" 200 500 60 H I L CNN "MPN"
+F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
+F7 "Oscillators" 200 700 60 H I L CNN "Family"
+F8 "http://www.foxonline.com/pdfs/FXO_LC73.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/idt-integrated-device-technology-inc/XLL736200.000000I/631-1362-ND/2157622" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OSC XO 200.000MHZ LVDS SMD" 200 1000 60 H I L CNN "Description"
+F11 "IDT, Integrated Device Technology Inc" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S 300 100 -200 -200 0 1 0 f
+X E/D 1 -400 0 200 R 50 50 1 1 I
+X NC 2 -400 -100 200 R 50 50 1 1 N
+X GND 3 0 -400 200 U 50 50 1 1 W
+X OUT 4 500 0 200 L 50 50 1 1 O
+X ~OUT_2 5 500 -100 200 L 50 50 1 1 O
+X VDD 6 0 300 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

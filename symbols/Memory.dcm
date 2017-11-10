@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MB85RS64VPNF-G-JNERE1
+D IC FRAM 64KBIT 20MHZ 8SOP
+K 865-1260-1-ND 
+F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS64V-DS501-00015-4v0-E.pdf
+$ENDCMP
+#
+$CMP MR25H256CDC
+D IC MRAM 256KBIT 40MHZ 8DFN
+K 819-1015-ND 
+F http://www.everspin.com/file/158/download
+$ENDCMP
+#
+#End Doc Library

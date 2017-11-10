@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI5351A-B-GT
+D IC CLK GENERATOR 200MHZ 10MSOP
+K 336-2399-5-ND MultiSynth™
+F http://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf
+$ENDCMP
+#
+#End Doc Library

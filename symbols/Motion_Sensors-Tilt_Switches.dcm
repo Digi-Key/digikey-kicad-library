@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TM1000Q
+D TILT SWITCH
+K EG4917CT-ND 
+F http://spec_sheets.e-switch.com/specs/P700000.pdf
+$ENDCMP
+#
+$CMP RB-220-07A_R
+D SENSOR ROLLING BALL
+K CKN10398-ND RB
+F http://www.ckswitches.com/media/1317/rb.pdf
+$ENDCMP
+#
+#End Doc Library

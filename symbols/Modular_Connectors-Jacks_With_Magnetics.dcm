@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ARJC02-111008B
+D CONN MAGJACK 1PORT 100 BASE-TX
+K 535-12605-ND ARJC02
+F http://www.abracon.com/Magnetics/lan/ARJC02-111008B.PDF
+$ENDCMP
+#
+#End Doc Library

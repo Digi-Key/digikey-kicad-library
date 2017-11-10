@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2450AT18A100E
+D ANTENNA CHIP 2.4GHZ
+K 712-1005-1-ND 
+F https://www.johansontechnology.com/datasheets/antennas/2450AT18A100.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74HC74N
+D IC D-TYPE POS TRG DUAL 14DIP
+K 296-1602-5-ND 74HC
+F http://www.ti.com/lit/ds/symlink/sn74hc74.pdf
+$ENDCMP
+#
+$CMP SN74LS74AN
+D IC D-TYPE POS TRG DUAL 14DIP
+K 296-1668-5-ND 74LS
+F http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf
+$ENDCMP
+#
+$CMP CD4013BE
+D IC D-TYPE POS TRG DUAL 14DIP
+K 296-2033-5-ND 4000B
+F http://www.ti.com/lit/ds/symlink/cd4013b.pdf
+$ENDCMP
+#
+#End Doc Library

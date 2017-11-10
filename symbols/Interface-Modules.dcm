@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WIZ810MJ
+D IC MODULE W5100 + MAG JACK
+K 1278-1020-ND 
+F http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf
+$ENDCMP
+#
+#End Doc Library

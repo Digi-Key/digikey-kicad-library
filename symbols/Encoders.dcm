@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PEC11R-4215F-S0024
+D ENCODER ROTARY
+K PEC11R-4215F-S0024-ND PEC11R
+F http://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf
+$ENDCMP
+#
+#End Doc Library

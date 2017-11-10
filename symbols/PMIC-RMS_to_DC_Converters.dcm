@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD736JNZ
+D IC TRUE RMS/DC CONV LP 8-DIP
+K AD736JNZ-ND 
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf
+$ENDCMP
+#
+$CMP LTC1968CMS8_PBF
+D IC CONVERTER RMS-DC PREC 8MSOP
+K LTC1968CMS8#PBF-ND 
+F http://www.linear.com/docs/5090
+$ENDCMP
+#
+$CMP LTC1966CMS8_PBF
+D IC PREC RMS/DC CONV MCRPWR 8MSOP
+K LTC1966CMS8#PBF-ND 
+F http://www.linear.com/docs/3396
+$ENDCMP
+#
+#End Doc Library

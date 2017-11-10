@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX5481EUD_
+D IC DGTL POT 10BIT NV 14-TSSOP
+K MAX5481EUD+-ND 
+F http://datasheets.maximintegrated.com/en/ds/MAX5481-MAX5484.pdf
+$ENDCMP
+#
+$CMP MCP4017T-103E_LT
+D IC DGTL POT 10K 128TAPS SC70-6
+K MCP4017T-103E/LTCT-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en540631
+$ENDCMP
+#
+$CMP MCP4018T-103E_LT
+D IC DGTL POT 10K 128TAPS SC70-6
+K MCP4018T-103E/LTCT-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en540631
+$ENDCMP
+#
+#End Doc Library

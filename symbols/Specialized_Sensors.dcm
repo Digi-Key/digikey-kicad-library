@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX30105EFD_
+D SENSOR OPTIC AIR QUAL 14-OESIP
+K MAX30105EFD+-ND 
+F http://datasheets.maximintegrated.com/en/ds/MAX30105.pdf
+$ENDCMP
+#
+#End Doc Library

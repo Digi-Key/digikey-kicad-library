@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L293D
+D IC MOTOR DRIVER PAR 16-DIP
+K 497-2936-5-ND 
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf
+$ENDCMP
+#
+$CMP L293DNE
+D IC MOTOR DRIVER PAR 16-DIP
+K 296-9518-5-ND 
+F http://www.ti.com/lit/ds/symlink/l293d.pdf
+$ENDCMP
+#
+$CMP TB6612FNG_C_8_EL
+D IC MOTOR DRIVER PAR 24SSOP
+K TB6612FNGC8ELCT-ND 
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=10660&prodName=TB6612FNG
+$ENDCMP
+#
+$CMP A3967SLBTR-T
+D IC MOTOR DRIVER PAR 24SOIC
+K 620-1140-1-ND 
+F http://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx
+$ENDCMP
+#
+$CMP DRV8825PWPR
+D IC MOTOR DRIVER PAR 28HTSSOP
+K 296-29503-1-ND 
+F http://www.ti.com/lit/ds/symlink/drv8825.pdf
+$ENDCMP
+#
+$CMP TMC2208-LA-T
+D IC STEPPER MOTOR DRIVER 28QFN
+K 1460-1184-1-ND 
+F http://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_Datasheet.pdf
+$ENDCMP
+#
+$CMP A4988SETTR-T
+D IC MOTOR DRIVER PAR 28QFN
+K 620-1343-1-ND 
+F http://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx
+$ENDCMP
+#
+#End Doc Library

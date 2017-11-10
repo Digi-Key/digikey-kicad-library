@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD74HC4051E
+D IC MUX/DEMUX 8X1 16DIP
+K 296-12810-5-ND 
+F http://www.ti.com/lit/ds/symlink/cd74hc4051.pdf
+$ENDCMP
+#
+$CMP CD4052BE
+D IC MUX/DEMUX DUAL 4X1 16DIP
+K 296-2058-5-ND 
+F http://www.ti.com/lit/ds/symlink/cd4052b.pdf
+$ENDCMP
+#
+$CMP CD4053BE
+D IC MUX/DEMUX TRIPLE 2X1 16DIP
+K 296-2059-5-ND 
+F http://www.ti.com/lit/ds/symlink/cd4051b.pdf
+$ENDCMP
+#
+$CMP CD74HC4067M96
+D IC MUX/DEMUX 1X16 24SOIC
+K 296-29408-1-ND 
+F http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf
+$ENDCMP
+#
+$CMP CD74HC4067SM96
+D IC MUX/DEMUX 1X16 24SSOP
+K 296-9226-1-ND 
+F http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 500-0659-01
+D CAMERA IR 80X60 50 DEG W/SHUTTER
+K 500-0659-01-ND Lepton®
+F http://www.flir.com/uploadedFiles/CVS_Americas/Cores_and_Components_NEW/Products/Uncooled_Cores/Lepton/FLIR-Lepton-DataBrief.pdf
+$ENDCMP
+#
+$CMP 500-0643-00
+D CAMERA IR 80X60 50 DEGREE 9HZ
+K 500-0643-00-ND Lepton®
+F http://www.flir.com/uploadedFiles/CVS_Americas/Cores_and_Components_NEW/Products/Uncooled_Cores/Lepton/FLIR-Lepton-DataBrief.pdf
+$ENDCMP
+#
+$CMP 500-0690-00
+D CAMERA IR 80X60 25 DEGREE 9HZ
+K 500-0690-00-ND Lepton®
+F http://www.flir.com/uploadedFiles/CVS_Americas/Cores_and_Components_NEW/Products/Uncooled_Cores/Lepton/FLIR-Lepton-DataBrief.pdf
+$ENDCMP
+#
+#End Doc Library

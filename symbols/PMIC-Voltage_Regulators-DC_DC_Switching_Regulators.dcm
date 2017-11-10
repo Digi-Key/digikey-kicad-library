@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61200DRCR
+D IC REG BOOST ADJ 1.2A SYNC 10SON
+K 296-27017-1-ND 
+F http://www.ti.com/lit/ds/symlink/tps61202.pdf
+$ENDCMP
+#
+$CMP AOZ1280CI
+D IC REG BUCK ADJ 1.2A SOT23-6
+K 785-1277-1-ND EZBuck™
+F http://aosmd.com/res/data_sheets/AOZ1280CI.pdf
+$ENDCMP
+#
+#End Doc Library

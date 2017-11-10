@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA9548APWR
+D IC I2C SW 8CH W/RESET 24TSSOP
+K 296-34905-1-ND TCA
+F http://www.ti.com/lit/ds/symlink/tca9548a.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GPTS203211B
+D SWITCH PUSHBUTTON SPST 1A 30V
+K CW181-ND GPTS
+F http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf
+$ENDCMP
+#
+$CMP KS-01Q-01
+D SWITCH PUSH SPST-NO 0.01A 35V
+K EG4791-ND KS, LAMB
+F http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf
+$ENDCMP
+#
+#End Doc Library

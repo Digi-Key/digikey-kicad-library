@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N5109
+D TRANS RF NPN 20V 400MA TO-39
+K 2N5109CS-ND 
+F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5109.PDF
+$ENDCMP
+#
+$CMP 2N3866
+D TRANS RF NPN 30V 400MA TO-39
+K 2N3866CS-ND 
+F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N3866_SERIES.PDF
+$ENDCMP
+#
+#End Doc Library

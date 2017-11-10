@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ETC1-1-13TR
+D TRANSFORMER
+K 1465-1217-1-ND 
+F http://cdn.macom.com/datasheets/ETC1-1-13.pdf
+$ENDCMP
+#
+$CMP MABA-007159-000000
+D TRANSFORMER
+K 1465-1302-1-ND 
+F http://cdn.macom.com/datasheets/MABA-007159-000000.pdf
+$ENDCMP
+#
+#End Doc Library

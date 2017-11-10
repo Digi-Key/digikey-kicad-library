@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8302ARUZ
+D IC DETECT GAIN PHASE 14-TSSOP
+K AD8302ARUZ-ND 
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8302.pdf
+$ENDCMP
+#
+$CMP LTC5507ES6_TRMPBF
+D IC DETEC RF 100KHZ-1GHZ TSOT23-6
+K LTC5507ES6#TRMPBFCT-ND 
+F http://www.linear.com/docs/2368
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TRF7970ARHBR
+D IC RFID/NFC AFE 13.56MHZ 32QFN
+K 296-29355-1-ND 
+F http://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/TRF7970A.pdf
+$ENDCMP
+#
+#End Doc Library

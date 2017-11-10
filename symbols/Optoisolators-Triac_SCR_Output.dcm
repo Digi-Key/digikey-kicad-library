@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOC3021
+D OPTOISOLATOR 5KV TRIAC 6DIP
+K 160-1374-5-ND 
+F http://optoelectronics.liteon.com/upload/download/DS-70-99-0019/MOC302X%20series%20201606.pdf
+$ENDCMP
+#
+$CMP MOC3063
+D OPTOISOLATOR 5KV TRIAC 6DIP
+K 160-1722-5-ND 
+F http://optoelectronics.liteon.com/upload/download/DS70-2001-026/MOC306X%20series%20201606.pdf
+$ENDCMP
+#
+#End Doc Library

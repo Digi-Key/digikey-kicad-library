@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4150IMS_PBF
+D IC COUNTER/GAUGE GAS/BATT 10MSOP
+K LTC4150IMS#PBF-ND 
+F http://www.linear.com/docs/1556
+$ENDCMP
+#
+$CMP BQ29700DSET
+D IC LITHIUM BATT PROTECT 6-SON
+K 296-37746-1-ND 
+F http://www.ti.com/lit/ds/symlink/bq2971.pdf
+$ENDCMP
+#
+$CMP LTC2943IDD_PBF
+D IC GAS GAUGE MULTICELL 8DFN
+K LTC2943IDD#PBF-ND 
+F http://www.linear.com/docs/44018
+$ENDCMP
+#
+#End Doc Library

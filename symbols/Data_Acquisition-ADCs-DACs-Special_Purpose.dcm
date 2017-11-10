@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ICL7107CPLZ
+D IC ADC 3.5DIGIT LCD/LED 40DIP
+K ICL7107CPLZ-ND 
+F http://www.intersil.com/content/dam/intersil/documents/icl7/icl7106-07-07s.pdf
+$ENDCMP
+#
+#End Doc Library

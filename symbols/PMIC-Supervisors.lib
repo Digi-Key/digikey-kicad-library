@@ -1,0 +1,132 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MCP130T-300I_TT
+#
+DEF MCP130T-300I_TT U 0 1 Y Y 1 F N
+F0 "U?" -200 300 60 H V C C N N
+F1 "MCP130T-300I_TT" 0 600 60 H V C C N N
+F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011325" 200 300 60 H I L C N N
+F4 "MCP130T-300I/TTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP130T-300I/TT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Supervisors" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011325" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP130T-300I-TT/MCP130T-300I-TTCT-ND/275294" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC SUPERVISOR 3.00V LOW SOT23" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S 200 200 -100 -100 0 1 0 f
+X ~RST 1 400 0 200 L 50 50 1 1 O
+X VDD 2 0 400 200 D 50 50 1 1 W
+X VSS 3 0 -300 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# STWD100NYWY3F
+#
+DEF STWD100NYWY3F U 0 40 Y Y 1 F N
+F0 "U?" -150 50 60 H V C C N N
+F1 "STWD100NYWY3F" 600 -500 60 H V C C N N
+F2 "testfplib:SOT-23-5" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/06/6a/b3/83/9a/c7/4f/22/CD00176077.pdf/files/CD00176077.pdf/jcr:content/translations/en.CD00176077.pdf" 200 300 60 H I L C N N
+F4 "497-10058-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "STWD100NYWY3F" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Supervisors" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/06/6a/b3/83/9a/c7/4f/22/CD00176077.pdf/files/CD00176077.pdf/jcr:content/translations/en.CD00176077.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/STWD100NYWY3F/497-10058-1-ND/2175107" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC WATCHDOG TIME CIRCUIT SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S -200 0 300 -400 0 1 0 f
+X WDO 1 500 -100 200 L 50 50 1 1 O
+X GND 2 100 -600 200 U 50 50 1 1 W
+X ~EN 3 -400 -300 200 R 50 50 1 1 I
+X ~WDI 4 -400 -200 200 R 50 50 1 1 I
+X VCC 5 0 200 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TPS3808G33DBVR
+#
+DEF TPS3808G33DBVR U 0 40 Y Y 1 F N
+F0 "U?" 0 400 60 H V C C N N
+F1 "TPS3808G33DBVR" 700 -400 60 H V C C N N
+F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tps3808.pdf" 200 300 60 H I L C N N
+F4 "296-17195-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPS3808G33DBVR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Supervisors" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tps3808.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPS3808G33DBVR/296-17195-1-ND/666726" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC VOLT SUPERVISOR 3.3V SOT23-6" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S -200 100 300 -300 0 1 0 f
+X ~RES 1 500 0 200 L 50 50 1 1 O
+X GND 2 200 -500 200 U 50 50 1 1 W
+X ~MR 3 -400 -100 200 R 50 50 1 1 I
+X CT 4 -400 0 200 R 50 50 1 1 I
+X SENSE 5 -400 -200 200 R 50 50 1 1 I
+X VDD 6 0 300 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TPS3808G01DBVR
+#
+DEF TPS3808G01DBVR U 0 40 Y Y 1 F N
+F0 "U?" 0 400 60 H V C C N N
+F1 "TPS3808G01DBVR" 700 -400 60 H V C C N N
+F2 "testfplib:SOT-23-6" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tps3808.pdf" 200 300 60 H I L C N N
+F4 "296-17188-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPS3808G01DBVR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Supervisors" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tps3808.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPS3808G01DBVR/296-17188-1-ND/666713" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC VOLT SUPERVISOR ADJ SOT23-6" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S -200 100 300 -300 0 1 0 f
+X ~RES 1 500 0 200 L 50 50 1 1 O
+X GND 2 200 -500 200 U 50 50 1 1 W
+X ~MR 3 -400 -100 200 R 50 50 1 1 I
+X CT 4 -400 0 200 R 50 50 1 1 I
+X SENSE 5 -400 -200 200 R 50 50 1 1 I
+X VDD 6 0 300 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MAX6369KA_T
+#
+DEF MAX6369KA_T U 0 40 Y Y 1 F N
+F0 "U?" -200 50 60 H V C C N N
+F1 "MAX6369KA_T" 0 400 60 H V C C N N
+F2 "testfplib:SOT-23-8" 200 200 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX6369-MAX6374.pdf" 200 300 60 H I L C N N
+F4 "MAX6369KA+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX6369KA+T" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Supervisors" 200 700 60 H I L CNN "Family"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX6369-MAX6374.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX6369KA-T/MAX6369KA-TCT-ND/948266" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC WATCHDOG TIMER SOT23-8" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S -300 0 300 -500 0 1 0 f
+X WDI 1 -500 -100 200 R 50 50 1 1 I
+X GND 2 0 -700 200 U 50 50 1 1 W
+X NC 3 500 -300 200 L 50 50 1 1 N
+X SET0 4 -500 -200 200 R 50 50 1 1 I
+X SET1 5 -500 -300 200 R 50 50 1 1 I
+X SET2 6 -500 -400 200 R 50 50 1 1 I
+X ~WDO 7 500 -200 200 L 50 50 1 1 O
+X VCC 8 0 200 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 28086
+D WS2812B LED MODULE 10-PACK
+K 28086-ND 
+F http://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

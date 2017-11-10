@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TXM-433-LR
+D TRANSMITTER 433MHZ LR SERIES
+K TXM-433-LR_-ND LR
+F https://www.linxtechnologies.com/resources/data-guides/txm-xxx-lr.pdf
+$ENDCMP
+#
+#End Doc Library

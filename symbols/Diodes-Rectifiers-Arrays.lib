@@ -1,0 +1,112 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# BAV99
+#
+DEF BAV99 U 0 40 Y Y 1 F N
+F0 "D?" 0 300 60 H V C C N N
+F1 "BAV99" 0 400 60 H V C C N N
+F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/BA/BAV99.pdf" 200 300 60 H I L C N N
+F4 "BAV99FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BAV99" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Rectifiers - Arrays" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/BA/BAV99.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/fairchild-on-semiconductor/BAV99/BAV99FSCT-ND/458933" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "DIODE ARRAY GP 70V 200MA SOT23-3" 200 1000 60 H I L CNN "Description"
+F11 "Fairchild/ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+P 2 0 1 0 -100 -50 -100 -150 N
+P 2 0 1 0 0 150 0 50 N
+P 4 0 1 0 -100 150 -100 50 0 100 -100 150 F
+P 4 0 1 0 0 -50 0 -150 -100 -100 0 -50 F
+P 4 1 1 0 0 100 100 100 100 -100 0 -100 N
+X ~ 1 -300 100 200 R 50 50 1 1 I
+X ~ 2 -300 -100 200 R 50 50 1 1 I
+X ~ 3 300 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# BAT54C
+#
+DEF BAT54C U 0 1 Y Y 1 F N
+F0 "D?" 0 200 60 H V C C N N
+F1 "BAT54C" 0 300 60 H V C C N N
+F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 300 60 H I L C N N
+F4 "BAT54CFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BAT54C" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Rectifiers - Arrays" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/fairchild-on-semiconductor/BAT54C/BAT54CFSCT-ND/458929" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "DIODE ARRAY SCHOTTKY 30V SOT23-3" 200 1000 60 H I L CNN "Description"
+F11 "Fairchild/ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+P 2 0 1 0 100 -150 100 -250 N
+P 2 0 1 0 100 -50 100 50 N
+P 4 0 1 0 0 -150 0 -250 100 -200 0 -150 F
+P 4 0 1 0 0 50 0 -50 100 0 0 50 F
+P 4 1 1 0 100 0 200 0 200 -200 100 -200 N
+X ~ 1 400 -100 200 L 50 50 1 1 I
+X ~ 2 -200 -200 200 R 50 50 1 1 I
+X ~ 3 -200 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# BAT54C-7-F
+#
+DEF BAT54C-7-F U 0 1 Y Y 1 F N
+F0 "D?" 0 200 60 H V C C N N
+F1 "BAT54C-7-F" 0 300 60 H V C C N N
+F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" 200 300 60 H I L C N N
+F4 "BAT54C-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BAT54C-7-F" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Rectifiers - Arrays" 200 700 60 H I L CNN "Family"
+F8 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/diodes-incorporated/BAT54C-7-F/BAT54C-FDICT-ND/717821" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "DIODE ARRAY SCHOTTKY 30V SOT23-3" 200 1000 60 H I L CNN "Description"
+F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+P 2 0 1 0 100 -150 100 -250 N
+P 2 0 1 0 100 -50 100 50 N
+P 4 0 1 0 0 -150 0 -250 100 -200 0 -150 F
+P 4 0 1 0 0 50 0 -50 100 0 0 50 F
+P 4 1 1 0 100 0 200 0 200 -200 100 -200 N
+X ~ 1 400 -100 200 L 50 50 1 1 I
+X ~ 2 -200 -200 200 R 50 50 1 1 I
+X ~ 3 -200 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# BAT54S-7-F
+#
+DEF BAT54S-7-F U 0 40 Y Y 1 F N
+F0 "D?" 0 300 60 H V C C N N
+F1 "BAT54S-7-F" 0 400 60 H V C C N N
+F2 "testfplib:SOT-23-3" 200 200 60 H I L C N N
+F3 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" 200 300 60 H I L C N N
+F4 "BAT54S-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BAT54S-7-F" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Rectifiers - Arrays" 200 700 60 H I L CNN "Family"
+F8 "https://www.diodes.com/assets/Datasheets/ds11005.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/diodes-incorporated/BAT54S-7-F/BAT54S-FDICT-ND/755493" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "DIODE ARRAY SCHOTTKY 30V SOT23-3" 200 1000 60 H I L CNN "Description"
+F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+P 2 0 1 0 -100 -50 -100 -150 N
+P 2 0 1 0 0 150 0 50 N
+P 4 0 1 0 -100 150 -100 50 0 100 -100 150 F
+P 4 0 1 0 0 -50 0 -150 -100 -100 0 -50 F
+P 4 1 1 0 0 100 100 100 100 -100 0 -100 N
+X ~ 1 -300 100 200 R 50 50 1 1 I
+X ~ 2 -300 -100 200 R 50 50 1 1 I
+X ~ 3 300 0 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

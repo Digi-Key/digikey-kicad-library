@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS712ELCTR-20A-T
+D SENSOR CURRENT HALL 20A AC/DC
+K 620-1190-1-ND 
+F http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx
+$ENDCMP
+#
+$CMP ACS712ELCTR-30A-T
+D SENSOR CURRENT HALL 30A AC/DC
+K 620-1191-1-ND 
+F http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx
+$ENDCMP
+#
+$CMP ACS712ELCTR-05B-T
+D SENSOR CURRENT HALL 5A AC/DC
+K 620-1189-1-ND 
+F http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx
+$ENDCMP
+#
+#End Doc Library

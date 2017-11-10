@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CMA-4544PF-W
+D MIC COND ANALOG OMNI -44DB
+K 102-1721-ND 
+F http://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf
+$ENDCMP
+#
+$CMP SPH0645LM4H-B
+D MIC MEMS DIGITAL I2S OMNI -26DB
+K 423-1405-1-ND SiSonic™, Zero-Height Mic™, SPH
+F http://www.knowles.com/eng/content/download/5988/105771/version/4/file/SPH0645LM4H-BRevB.PDF
+$ENDCMP
+#
+#End Doc Library

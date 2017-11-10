@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DFP10112
+D TCO 250VAC 139C(282F) RADIAL
+K 285-1901-ND 
+F http://www.us.tdk-lambda.com/ftp/specs/dfp10112.pdf
+$ENDCMP
+#
+#End Doc Library

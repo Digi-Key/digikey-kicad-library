@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSOP38238
+D IC IR RCVR MOD 38KHZ DOME RADIAL
+K 751-1227-ND 
+F http://www.vishay.com/docs/82491/tsop382.pdf
+$ENDCMP
+#
+#End Doc Library

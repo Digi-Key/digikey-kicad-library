@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3251EARWZ
+D DGTL ISO 2.5KV 2CH RS232 20SOIC
+K ADM3251EARWZ-ND IsoPower®, iCoupler®
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pdf
+$ENDCMP
+#
+$CMP ISO1540DR
+D DGTL ISO 2.5KV 2CH I2C 8SOIC
+K 296-34871-1-ND 
+F http://www.ti.com/lit/ds/symlink/iso1540.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP V7805-1000
+D CONVERTER DC/DC REG 5V 1A
+K 102-1715-ND V78-1000
+F http://www.cui.com/product/resource/digikeypdf/v78xx-1000.pdf
+$ENDCMP
+#
+$CMP V7805-500
+D CONVERTER DC/DC REG 5V 500MA
+K 102-1709-ND V78-500
+F http://www.cui.com/product/resource/digikeypdf/v78-500.pdf
+$ENDCMP
+#
+#End Doc Library

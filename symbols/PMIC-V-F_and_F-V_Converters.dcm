@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2917N_NOPB
+D IC CONVERTER FREQ TO VOLT 14-DIP
+K LM2917N/NOPB-ND 
+F http://www.ti.com/lit/ds/symlink/lm2907-n.pdf
+$ENDCMP
+#
+$CMP LM331N_NOPB
+D IC CONV PREC VOLT TO FREQ 8-DIP
+K LM331N/NOPB-ND 
+F http://www.ti.com/lit/ds/symlink/lm231.pdf
+$ENDCMP
+#
+$CMP LM2907N-8_NOPB
+D IC CONVERTER FREQ TO VOLT 8-DIP
+K LM2907N-8/NOPB-ND 
+F http://www.ti.com/lit/ds/symlink/lm2907-n.pdf
+$ENDCMP
+#
+#End Doc Library

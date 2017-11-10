@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN65220DBVR
+D IC SINGLE USB PORT TVS SOT-23-6
+K 296-9694-1-ND 
+F http://www.ti.com/lit/ds/symlink/sn75240.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OH090U
+D MAGNETIC SWITCH UNIPOLAR TO92-3
+K 365-1001-ND 
+F http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_OH090-OHS3100.pdf
+$ENDCMP
+#
+$CMP US5881LUA-AAA-000-BU
+D MAGNETIC SWITCH UNIPOLAR TO92UA
+K US5881LUA-AAA-000-BU-ND 
+F https://www.melexis.com/-/media/files/documents/datasheets/us5881-datasheet-melexis.pdf
+$ENDCMP
+#
+#End Doc Library
