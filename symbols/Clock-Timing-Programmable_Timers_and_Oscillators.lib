@@ -4,7 +4,7 @@ EESchema-LIBRARY Version 2.3
 # NE555P
 #
 DEF NE555P U 0 40 Y Y 1 F N
-F0 "Y?" -250 50 60 H V C C N N
+F0 "U?" -250 50 60 H V C C N N
 F1 "NE555P" 500 -600 60 H V C C N N
 F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 200 300 60 H I L C N N
@@ -32,7 +32,7 @@ ENDDEF
 # TLC555CP
 #
 DEF TLC555CP U 0 40 Y Y 1 F N
-F0 "Y?" -300 100 60 H V C C N N
+F0 "U?" -300 100 60 H V C C N N
 F1 "TLC555CP" 500 -600 60 H V C C N N
 F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tlc555.pdf" 200 300 60 H I L C N N
@@ -60,7 +60,7 @@ ENDDEF
 # NE555DR
 #
 DEF NE555DR U 0 40 Y Y 1 F N
-F0 "Y?" -200 50 60 H V C C N N
+F0 "U?" -200 50 60 H V C C N N
 F1 "NE555DR" 500 -600 60 H V C C N N
 F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 200 300 60 H I L C N N
@@ -88,7 +88,7 @@ ENDDEF
 # TLC555CDR
 #
 DEF TLC555CDR U 0 40 Y Y 1 F N
-F0 "Y?" -200 100 60 H V C C N N
+F0 "U?" -200 100 60 H V C C N N
 F1 "TLC555CDR" 500 -600 60 H V C C N N
 F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tlc555.pdf" 200 300 60 H I L C N N
@@ -116,7 +116,7 @@ ENDDEF
 # TPL5110DDCT
 #
 DEF TPL5110DDCT U 0 40 Y Y 1 F N
-F0 "Y?" -250 250 60 H V C C N N
+F0 "U?" -250 250 60 H V C C N N
 F1 "TPL5110DDCT" 500 -700 60 H V C C N N
 F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/tpl5110.pdf" 200 300 60 H I L C N N
