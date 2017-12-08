@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS2413P_
+D IC SWITCH DL ADDRESS 6-TSOC
+K DS2413P+-ND 
+F http://datasheets.maximintegrated.com/en/ds/DS2413.pdf
+$ENDCMP
+#
+$CMP ATSHA204A-STUCZ-T
+D IC CRYPTO 4.5KB SWI
+K ATSHA204A-STUCZ-TCT-ND CryptoAuthentication™
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590027
+$ENDCMP
+#
+$CMP DS2411R_T_R
+D IC SILICON SERIAL NUMBER SOT-23
+K DS2411R+CT-ND 
+F http://datasheets.maximintegrated.com/en/ds/DS2411.pdf
+$ENDCMP
+#
+$CMP DS28CM00R-A00_T
+D IC SILICON SERIAL NUMBER SOT23-5
+K DS28CM00R-A00+TCT-ND 
+F http://datasheets.maximintegrated.com/en/ds/DS28CM00.pdf
+$ENDCMP
+#
+#End Doc Library

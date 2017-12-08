@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EC2-12NU
+D RELAY GEN PURPOSE DPDT 2A 12V
+K 399-11029-5-ND EC2
+F https://search.kemet.com/component-edge/download/datasheet/EC2-12NU.pdf
+$ENDCMP
+#
+$CMP EC2-5NU
+D RELAY GEN PURPOSE DPDT 2A 5V
+K 399-11052-5-ND EC2
+F https://search.kemet.com/component-edge/download/datasheet/EC2-5NU.pdf
+$ENDCMP
+#
+$CMP G5V-2-DC12
+D RELAY GEN PURPOSE DPDT 2A 12V
+K Z768-ND G5V-2
+F http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_2.pdf
+$ENDCMP
+#
+$CMP G5V-1-DC5
+D RELAY GENERAL PURPOSE SPDT 1A 5V
+K Z773-ND G5V-1
+F http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf
+$ENDCMP
+#
+$CMP G5V-1-DC12
+D RELAY GEN PURPOSE SPDT 1A 12V
+K Z774-ND G5V-1
+F http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf
+$ENDCMP
+#
+#End Doc Library

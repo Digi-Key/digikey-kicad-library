@@ -1,0 +1,53 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CMA-4544PF-W
+#
+DEF CMA-4544PF-W U 0 40 Y Y 1 F N
+F0 "MIC" -200 300 60 H V C C N N
+F1 "CMA-4544PF-W" 0 -400 60 H V C C N N
+F2 "digikey-footprints:102-1721-ND" 200 200 60 H I L C N N
+F3 "http://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf" 200 300 60 H I L C N N
+F4 "102-1721-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "CMA-4544PF-W" 200 500 60 H I L CNN "MPN"
+F6 "Audio Products" 200 600 60 H I L CNN "Category"
+F7 "Microphones" 200 700 60 H I L CNN "Family"
+F8 "http://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/cui-inc/CMA-4544PF-W/102-1721-ND/1869981" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "MIC COND ANALOG OMNI -44DB" 200 1000 60 H I L CNN "Description"
+F11 "CUI Inc." 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+C 0 0 316 1 1 0 f
+P 2 1 1 20 -300 300 -300 -300 N
+X Term_1 1 500 100 200 L 50 50 1 1 O
+X Term_2 2 500 -100 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# SPH0645LM4H-B
+#
+DEF SPH0645LM4H-B U 0 40 Y Y 1 F N
+F0 "MIC" -350 450 60 H V C C N N
+F1 "SPH0645LM4H-B" 350 -250 60 H V C C N N
+F2 "digikey-footprints:SPH_3.50x2.65x0.98mm" 200 200 60 H I L C N N
+F3 "http://www.knowles.com/eng/content/download/5988/105771/version/4/file/SPH0645LM4H-BRevB.PDF" 200 300 60 H I L C N N
+F4 "423-1405-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SPH0645LM4H-B" 200 500 60 H I L CNN "MPN"
+F6 "Audio Products" 200 600 60 H I L CNN "Category"
+F7 "Microphones" 200 700 60 H I L CNN "Family"
+F8 "http://www.knowles.com/eng/content/download/5988/105771/version/4/file/SPH0645LM4H-BRevB.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/knowles/SPH0645LM4H-B/423-1405-1-ND/5332432" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "MIC MEMS DIGITAL I2S OMNI -26DB" 200 1000 60 H I L CNN "Description"
+F11 "Knowles" 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S -400 400 300 -200 1 1 0 f
+X WS 1 -600 300 200 R 50 50 1 1 I
+X SELECT 2 -600 200 200 R 50 50 1 1 I
+X GND 3 -100 -400 200 U 50 50 1 1 W
+X BCLK 4 -600 100 200 R 50 50 1 1 I
+X VDD 5 0 600 200 D 50 50 1 1 W
+X DATA_OUT 6 500 100 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library

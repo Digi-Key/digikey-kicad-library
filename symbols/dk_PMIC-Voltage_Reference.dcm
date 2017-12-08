@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP REF3012AIDBZR
+D IC VREF SERIES 1.25V SOT23-3
+K 296-32213-1-ND 
+F http://www.ti.com/lit/ds/symlink/ref3012.pdf
+$ENDCMP
+#
+$CMP REF3025AIDBZR
+D IC VREF SERIES 2.5V SOT23-3
+K 296-26322-1-ND 
+F http://www.ti.com/lit/ds/symlink/ref3012.pdf
+$ENDCMP
+#
+$CMP MCP1525T-I_TT
+D IC VREF SERIES 2.5V SOT23-3
+K MCP1525T-I/TTCT-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011331
+$ENDCMP
+#
+$CMP REF3030AIDBZR
+D IC VREF SERIES 3V SOT23-3
+K 296-26323-1-ND 
+F http://www.ti.com/lit/ds/symlink/ref3012.pdf
+$ENDCMP
+#
+$CMP MCP1541T-I_TT
+D IC VREF SERIES 4.096V SOT23-3
+K MCP1541T-I/TTCT-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011331
+$ENDCMP
+#
+$CMP ADR510ARTZ-REEL7
+D IC VREF SHUNT 1V SOT23-3
+K ADR510ARTZ-REEL7CT-ND 
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADR510.pdf
+$ENDCMP
+#
+$CMP LM4040D25FTA
+D IC VREF SHUNT 2.5V SOT23-3
+K LM4040D25FCT-ND 
+F https://www.diodes.com/assets/Datasheets/LM4040.pdf
+$ENDCMP
+#
+$CMP TL431AIDBZR
+D IC VREF SHUNT ADJ SOT23-3
+K 296-17329-1-ND 
+F http://www.ti.com/lit/ds/symlink/tl431a.pdf
+$ENDCMP
+#
+$CMP TL431AQDBZR_215
+D IC VREF SHUNT ADJ SOT23-3
+K 1727-4259-1-ND 
+F https://assets.nexperia.com/documents/data-sheet/TL431_FAM.pdf
+$ENDCMP
+#
+$CMP TL431CLPM
+D IC VREF SHUNT ADJ TO92-3
+K 296-26717-1-ND 
+F http://www.ti.com/lit/ds/symlink/tl431a.pdf
+$ENDCMP
+#
+#End Doc Library

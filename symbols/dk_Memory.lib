@@ -1,0 +1,60 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MB85RS64VPNF-G-JNERE1
+#
+DEF MB85RS64VPNF-G-JNERE1 U 0 40 Y Y 1 F N
+F0 "U" -100 250 60 H V C C N N
+F1 "MB85RS64VPNF-G-JNERE1" 0 600 60 H V C C N N
+F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
+F3 "http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS64V-DS501-00015-4v0-E.pdf" 200 300 60 H I L C N N
+F4 "865-1260-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MB85RS64VPNF-G-JNERE1" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Memory" 200 700 60 H I L CNN "Family"
+F8 "http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS64V-DS501-00015-4v0-E.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/fujitsu-electronics-america-inc/MB85RS64VPNF-G-JNERE1/865-1260-1-ND/4022676" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC FRAM 64KBIT 20MHZ 8SOP" 200 1000 60 H I L CNN "Description"
+F11 "Fujitsu Electronics America, Inc." 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S -200 200 300 -400 0 1 0 f
+X ~CS 1 -400 100 200 R 50 50 1 1 I
+X SO 2 500 0 200 L 50 50 1 1 O
+X ~WP 3 -400 0 200 R 50 50 1 1 I
+X GND 4 100 -600 200 U 50 50 1 1 W
+X SI 5 -400 -100 200 R 50 50 1 1 I
+X SCK 6 -400 -300 200 R 50 50 1 1 I
+X ~HOLD 7 -400 -200 200 R 50 50 1 1 I
+X VDD 8 100 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MR25H256CDC
+#
+DEF MR25H256CDC U 0 40 Y Y 1 F N
+F0 "U" -100 150 60 H V C C N N
+F1 "MR25H256CDC" 0 400 60 H V C C N N
+F2 "digikey-footprints:8-TDFN_Exposed_Pad" 200 200 60 H I L C N N
+F3 "http://www.everspin.com/file/158/download" 200 300 60 H I L C N N
+F4 "819-1015-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MR25H256CDC" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Memory" 200 700 60 H I L CNN "Family"
+F8 "http://www.everspin.com/file/158/download" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/everspin-technologies-inc/MR25H256CDC/819-1015-ND/2504973" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MRAM 256KBIT 40MHZ 8DFN" 200 1000 60 H I L CNN "Description"
+F11 "Everspin Technologies Inc." 200 1100 60 H I L CNN "Manufacturer"
+DRAW
+S -200 100 200 -500 0 1 0 f
+X ~CS 1 -400 0 200 R 50 50 1 1 I
+X SO 2 400 -200 200 L 50 50 1 1 O
+X ~WP 3 -400 -100 200 R 50 50 1 1 I
+X VSS 4 100 -700 200 U 50 50 1 1 W
+X SI 5 -400 -200 200 R 50 50 1 1 I
+X SCK 6 -400 -300 200 R 50 50 1 1 I
+X ~HOLD 7 -400 -400 200 R 50 50 1 1 I
+X VDD 8 100 300 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

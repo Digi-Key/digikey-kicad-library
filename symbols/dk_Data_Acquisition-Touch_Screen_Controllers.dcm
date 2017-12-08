@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AR1100-I_SS
+D IC TOUCH SCREEN CTRLR 20-SSOP
+K AR1100-I/SS-ND mTouch™
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41606B.pdf
+$ENDCMP
+#
+#End Doc Library

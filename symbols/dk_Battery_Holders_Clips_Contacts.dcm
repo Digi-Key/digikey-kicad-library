@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BS-7
+D HOLDER COINCELL 2032 RETAINRCLIP
+K BS-7-ND 
+F http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
