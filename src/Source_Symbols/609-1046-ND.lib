@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 609-1046-ND
+#
+DEF 609-1046-ND U 0 40 Y Y 1 F N
+F0 "J" -50 -50 60 H V C C N N
+F1 "609-1046-ND" 50 -550 60 V V C C N N
+F2 "digikey-footprints:Ethernet_Jack_54602-908LF" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S -100 -100 200 -1000 0 1 0 f
+X ~ 1 -300 -200 200 R 50 50 1 1 B
+X ~ 2 -300 -300 200 R 50 50 1 1 B
+X ~ 3 -300 -400 200 R 50 50 1 1 B
+X ~ 4 -300 -500 200 R 50 50 1 1 B
+X ~ 5 -300 -600 200 R 50 50 1 1 B
+X ~ 6 -300 -700 200 R 50 50 1 1 B
+X ~ 7 -300 -800 200 R 50 50 1 1 B
+X ~ 8 -300 -900 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

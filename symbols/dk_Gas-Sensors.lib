@@ -1,0 +1,62 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 110-109
+#
+DEF 110-109 U 0 40 Y Y 1 F N
+F0 "U" -100 500 60 H V C C N N
+F1 "110-109" 0 -300 60 H V C C N N
+F2 "digikey-footprints:Gas_Sensor_110-109" 200 200 60 H I L C N N
+F3 "http://www.spec-sensors.com/wp-content/uploads/2016/04/3SP_CO_1000-C-Package-110-109.pdf" 200 300 60 H I L C N N
+F4 "1684-1001-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "110-109" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Gas Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://www.spec-sensors.com/wp-content/uploads/2016/04/3SP_CO_1000-C-Package-110-109.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/spec-sensors-llc/110-109/1684-1001-ND/6136364" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR GAS CO ANALOG CUR MOD" 200 1000 60 H I L CNN "Description"
+F11 "SPEC Sensors, LLC" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 400 300 -200 0 1 0 f
+X Working 1 500 300 200 L 50 50 1 1 O
+X NC 2 -600 100 200 R 50 50 1 1 N
+X NC 3 -600 0 200 R 50 50 1 1 N
+X NC 4 -600 -100 200 R 50 50 1 1 N
+X REF 5 -600 300 200 R 50 50 1 1 I
+X Counter 6 -600 200 200 R 50 50 1 1 I
+X NC 7 500 -100 200 L 50 50 1 1 N
+X NC 8 500 0 200 L 50 50 1 1 N
+X NC 9 500 100 200 L 50 50 1 1 N
+X Working 10 500 200 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# 110-202
+#
+DEF 110-202 U 0 40 Y Y 1 F N
+F0 "U" -250 350 60 H V C C N N
+F1 "110-202" 0 -200 60 H V C C N N
+F2 "digikey-footprints:Gas_Sensor_110-202" 200 200 60 H I L C N N
+F3 "http://www.spec-sensors.com/wp-content/uploads/2016/02/3SP_Ethanol_1000-P-Package-110-202.pdf" 200 300 60 H I L C N N
+F4 "1684-1005-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "110-202" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Gas Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://www.spec-sensors.com/wp-content/uploads/2016/02/3SP_Ethanol_1000-P-Package-110-202.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/spec-sensors-llc/110-202/1684-1005-ND/6136368" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR GAS ALCOHOL ANALG CUR MOD" 200 1000 60 H I L CNN "Description"
+F11 "SPEC Sensors, LLC" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 300 -100 1 1 0 f
+X Counter 1 -500 200 200 R 50 50 1 1 I
+X NC 2 500 100 200 L 50 50 1 1 N
+X NC 3 500 0 200 L 50 50 1 1 N
+X REF 4 500 200 200 L 50 50 1 1 I
+X Counter 5 -500 100 200 R 50 50 1 1 I
+X Working 6 -500 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

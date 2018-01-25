@@ -1,0 +1,233 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# APDS-9960
+#
+DEF APDS-9960 U 0 40 Y Y 1 F N
+F0 "U" 100 400 60 H V C C N N
+F1 "APDS-9960" 400 -400 60 H V C C N N
+F2 "digikey-footprints:Ambient_Prox_APDS-9960" 200 200 60 H I L C N N
+F3 "https://docs.broadcom.com/docs/AV02-4191EN" 200 300 60 H I L C N N
+F4 "516-3480-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "APDS-9960" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
+F8 "https://docs.broadcom.com/docs/AV02-4191EN" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/broadcom-limited/APDS-9960/516-3480-1-ND/6677150" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR AMBIENT/PROX DGTL" 200 1000 60 H I L CNN "Description"
+F11 "Broadcom Limited" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 200 -300 0 1 0 f
+X SDA 1 400 -200 200 L 50 50 1 1 B
+X INT 2 400 0 200 L 50 50 1 1 O
+X LDR 3 400 100 200 L 50 50 1 1 U
+X LEDK 4 400 200 200 L 50 50 1 1 U
+X LEDA 5 -400 0 200 R 50 50 1 1 I
+X GND 6 -100 -500 200 U 50 50 1 1 W
+X SCL 7 400 -100 200 L 50 50 1 1 O
+X VDD 8 -100 500 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# OPT101P
+#
+DEF OPT101P U 0 40 Y Y 1 F N
+F0 "U" -250 -50 60 H V C C N N
+F1 "OPT101P" 500 -600 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/opt101.pdf" 200 300 60 H I L C N N
+F4 "296-23090-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "OPT101P" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/opt101.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/OPT101P/296-23090-5-ND/251177" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC PHOTODIODE/AMPLIFIER 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 -100 200 -500 0 1 0 f
+X VS 1 0 100 200 D 50 50 1 1 W
+X -IN 2 -500 -200 200 R 50 50 1 1 I
+X V- 3 0 -700 200 U 50 50 1 1 W
+X FEED 4 -500 -300 200 R 50 50 1 1 I
+X OUT 5 400 -200 200 L 50 50 1 1 O
+X NC 6 400 -300 200 L 50 50 1 1 N
+X NC 7 400 -400 200 L 50 50 1 1 N
+X COM 8 -500 -400 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# VL6180XV0NR_1
+#
+DEF VL6180XV0NR_1 U 0 40 Y Y 1 F N
+F0 "U" -350 450 60 H V C C N N
+F1 "VL6180XV0NR_1" 1000 -700 60 H V C C N N
+F2 "digikey-footprints:LGA-12_4.8x2.8_VL6180" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/11/28/86/e6/26/44/b3/DM00112632.pdf/files/DM00112632.pdf/jcr:content/translations/en.DM00112632.pdf" 200 300 60 H I L C N N
+F4 "497-14702-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "VL6180XV0NR/1" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/11/28/86/e6/26/44/b3/DM00112632.pdf/files/DM00112632.pdf/jcr:content/translations/en.DM00112632.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/VL6180XV0NR-1/497-14702-1-ND/4854910" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "MOD TIME-OF-FLIGHT 3IN1 12LGA" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 400 200 -400 0 1 0 f
+X GPIO1 1 -600 -100 200 R 50 50 1 1 B
+X NC 2 400 100 200 L 50 50 1 1 N
+X NC 3 400 0 200 L 50 50 1 1 N
+X GPIO0 4 -600 -200 200 R 50 50 1 1 B
+X SCL 5 -600 100 200 R 50 50 1 1 I
+X SDA 6 -600 0 200 R 50 50 1 1 B
+X NC 7 400 -100 200 L 50 50 1 1 N
+X AVDD_VCSEL 8 -100 600 200 D 50 50 1 1 W
+X AVSS_VCSEL 9 0 -600 200 U 50 50 1 1 W
+X AVDD 10 0 600 200 D 50 50 1 1 W
+X NC 11 400 -200 200 L 50 50 1 1 N
+X AVSS 12 -100 -600 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TSL235R-LF
+#
+DEF TSL235R-LF U 0 1 Y Y 1 F N
+F0 "U" -200 200 60 H V C C N N
+F1 "TSL235R-LF" 0 500 60 H V C C N N
+F2 "digikey-footprints:Light_to_Freq_TSL235R-LF" 200 200 60 H I L C N N
+F3 "http://ams.com/eng/content/download/250249/975925/142301" 200 300 60 H I L C N N
+F4 "TSL235-R-LF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TSL235R-LF" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://ams.com/eng/content/download/250249/975925/142301" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/ams/TSL235R-LF/TSL235-R-LF-ND/3095040" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC LIGHT TO FREQUENCY CONV 3PIN" 200 1000 60 H I L CNN "Description"
+F11 "ams" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 200 100 -100 -200 1 1 0 f
+X GND 1 0 -400 200 U 50 50 1 1 W
+X VDD 2 0 300 200 D 50 50 1 1 W
+X OUT 3 400 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# VEML6070
+#
+DEF VEML6070 U 0 40 Y Y 1 F N
+F0 "U" -100 50 60 H V C C N N
+F1 "VEML6070" 0 400 60 H V C C N N
+F2 "digikey-footprints:OPLGA-6_VEML6070" 200 200 60 H I L C N N
+F3 "http://www.vishay.com/docs/84277/veml6070.pdf" 200 300 60 H I L C N N
+F4 "VEML6070CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "VEML6070" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://www.vishay.com/docs/84277/veml6070.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/vishay-semiconductor-opto-division/VEML6070/VEML6070CT-ND/5171286" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC UV LIGHT SENSOR I2C 8OPLGA" 200 1000 60 H I L CNN "Description"
+F11 "Vishay Semiconductor Opto Division" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 0 400 -400 0 1 0 f
+X GND 1 100 -600 200 U 50 50 1 1 W
+X ACK 2 600 -200 200 L 50 50 1 1 O
+X SDA 3 -400 -100 200 R 50 50 1 1 B
+X RSET 4 -400 -200 200 R 50 50 1 1 I
+X SCL 5 -400 -300 200 R 50 50 1 1 I
+X VDD 6 100 200 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MAX44009EDT_T
+#
+DEF MAX44009EDT_T U 0 40 Y Y 1 F N
+F0 "U" -200 400 60 H V C C N N
+F1 "MAX44009EDT_T" 700 -300 60 H V C C N N
+F2 "digikey-footprints:UDFN-6-1EP_2x2mm" 200 200 60 H I L C N N
+F3 "http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 300 60 H I L C N N
+F4 "MAX44009EDT+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX44009EDT+T" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX44009EDT-T/MAX44009EDT-TCT-ND/2606396" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR AMBIENT LIGHT 6UTDFN" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+X Pad 7 500 -100 200 L 50 50 1 0 U
+S -200 300 300 -200 1 1 0 f
+X VCC 1 0 500 200 D 50 50 1 1 W
+X GND 2 100 -400 200 U 50 50 1 1 W
+X AO 3 500 0 200 L 50 50 1 1 O
+X ~INT 4 500 100 200 L 50 50 1 1 O
+X SCL 5 -400 0 200 R 50 50 1 1 I
+X SDA 6 -400 -100 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# OPT3001DNPT
+#
+DEF OPT3001DNPT U 0 40 Y Y 1 F N
+F0 "U" -200 150 60 H V C C N N
+F1 "OPT3001DNPT" 500 -500 60 H V C C N N
+F2 "digikey-footprints:UDFN-6-1EP_2x2mm_USON" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/opt3001.pdf" 200 300 60 H I L C N N
+F4 "296-38667-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "OPT3001DNPT" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/opt3001.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/OPT3001DNPT/296-38667-1-ND/5114786" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMBIENT LIGHT SENSOR 6USON" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 100 200 -400 0 1 0 f
+X VDD 1 0 300 200 D 50 50 1 1 W
+X ADDR 2 -500 -100 200 R 50 50 1 1 I
+X GND 3 0 -600 200 U 50 50 1 1 W
+X SCL 4 -500 -200 200 R 50 50 1 1 I
+X INT 5 400 -100 200 L 50 50 1 1 O
+X SDA 6 -500 -300 200 R 50 50 1 1 B
+X ~ 7 400 -200 200 L 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+# SI1145-A10-GMR_NRND
+#
+DEF SI1145-A10-GMR_NRND U 0 40 Y Y 1 F N
+F0 "U" -250 450 60 H V C C N N
+F1 "SI1145-A10-GMR_NRND" 250 -350 60 H V C C N N
+F2 "digikey-footprints:WFQFN-10_2x2mm" 200 200 60 H I L C N N
+F3 "https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf" 200 300 60 H I L C N N
+F4 "336-2622-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SI1145-A10-GMR" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
+F8 "https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/silicon-labs/SI1145-A10-GMR/336-2622-1-ND/4515975" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR DGTL UV INDEX 10QFN" 200 1000 60 H I L CNN "Description"
+F11 "Silicon Labs" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 400 300 -300 1 1 0 f
+X SDA 1 -500 300 200 R 50 50 1 1 B
+X SCL 2 -500 200 200 R 50 50 1 1 B
+X VDD 3 0 600 200 D 50 50 1 1 B
+X INT 4 500 0 200 L 50 50 1 1 B
+X DNC 5 500 -100 200 L 50 50 1 1 N
+X LED2 6 500 200 200 L 50 50 1 1 O
+X LED3 7 500 100 200 L 50 50 1 1 O
+X GND 8 -200 -500 200 U 50 50 1 1 O
+X LED1 9 500 300 200 L 50 50 1 1 O
+X DNC 10 500 -200 200 L 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+#End Library

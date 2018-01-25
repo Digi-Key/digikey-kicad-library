@@ -1,0 +1,82 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 82103C
+#
+DEF 82103C U 0 40 Y Y 1 F N
+F0 "L" 0 200 60 H V C C N N
+F1 "82103C" 0 300 60 H V C C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
+F3 "https://www.murata-ps.com/data/magnetics/kmp_8200c.pdf" 200 300 60 H I L C N N
+F4 "811-2473-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "82103C" 200 500 60 H I L CNN "MPN"
+F6 "Inductors, Coils, Chokes" 200 600 60 H I L CNN "Category"
+F7 "Fixed Inductors" 200 700 60 H I L CNN "Family"
+F8 "https://www.murata-ps.com/data/magnetics/kmp_8200c.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/murata-power-solutions-inc/82103C/811-2473-1-ND/3178544" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "FIXED IND 10UH 500MA 400 MOHM" 200 1000 60 H I L CNN "Description"
+F11 "Murata Power Solutions Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+A -150 0 50 1 1799 0 1 0 N -100 0 -200 0
+A -50 0 50 1 1799 0 1 0 N 0 0 -100 0
+A 50 0 50 1 1799 0 1 0 N 100 0 0 0
+A 150 0 50 1 1799 0 1 0 N 200 0 100 0
+X ~ 1 -400 0 200 R 50 50 1 1 B
+X ~ 2 400 0 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# 82473C
+#
+DEF 82473C U 0 40 Y Y 1 F N
+F0 "L" 0 200 60 H V C C N N
+F1 "82473C" 0 300 60 H V C C N N
+F2 "digikey-footprints:1210" 200 200 60 H I L C N N
+F3 "https://www.murata-ps.com/data/magnetics/kmp_8200c.pdf" 200 300 60 H I L C N N
+F4 "811-2477-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "82473C" 200 500 60 H I L CNN "MPN"
+F6 "Inductors, Coils, Chokes" 200 600 60 H I L CNN "Category"
+F7 "Fixed Inductors" 200 700 60 H I L CNN "Family"
+F8 "https://www.murata-ps.com/data/magnetics/kmp_8200c.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/murata-power-solutions-inc/82473C/811-2477-1-ND/3178548" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "FIXED IND 47UH 250MA 1.69 OHM" 200 1000 60 H I L CNN "Description"
+F11 "Murata Power Solutions Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+A -150 0 50 1 1799 0 1 0 N -100 0 -200 0
+A -50 0 50 1 1799 0 1 0 N 0 0 -100 0
+A 50 0 50 1 1799 0 1 0 N 100 0 0 0
+A 150 0 50 1 1799 0 1 0 N 200 0 100 0
+X ~ 1 -400 0 200 R 50 50 1 1 B
+X ~ 2 400 0 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# 13R106C
+#
+DEF 13R106C U 0 40 Y Y 1 F N
+F0 "L" 0 200 60 H V C C N N
+F1 "13R106C" 0 300 60 H V C C N N
+F2 "digikey-footprints:Inductor_13R106C" 200 200 60 H I L C N N
+F3 "https://www.murata-ps.com/data/magnetics/kmp_1300r.pdf" 200 300 60 H I L C N N
+F4 "811-2058-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "13R106C" 200 500 60 H I L CNN "MPN"
+F6 "Inductors, Coils, Chokes" 200 600 60 H I L CNN "Category"
+F7 "Fixed Inductors" 200 700 60 H I L CNN "Family"
+F8 "https://www.murata-ps.com/data/magnetics/kmp_1300r.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/murata-power-solutions-inc/13R106C/811-2058-ND/1998245" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "FIXED IND 10MH 85MA 23.8 OHM TH" 200 1000 60 H I L CNN "Description"
+F11 "Murata Power Solutions Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+A -150 0 50 1 1799 0 1 0 N -100 0 -200 0
+A -50 0 50 1 1799 0 1 0 N 0 0 -100 0
+A 50 0 50 1 1799 0 1 0 N 100 0 0 0
+A 150 0 50 1 1799 0 1 0 N 200 0 100 0
+X ~ 1 -400 0 200 R 50 50 1 1 B
+X ~ 2 400 0 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -16,6 +16,7 @@ F8 "https://www.fairchildsemi.com/datasheets/1N/1N5231B.pdf" 200 800 60 H I L CN
 F9 "/product-detail/en/on-semiconductor/1N5231BTR/1N5231BFSCT-ND/1532765" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE ZENER 5.1V 500MW DO35" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 -50 -25 -50 N
 P 2 0 1 0 0 50 0 -50 N
@@ -41,6 +42,7 @@ F8 "https://www.diodes.com/assets/Datasheets/ds18010.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/diodes-incorporated/MMSZ5231B-7-F/MMSZ5231B-FDICT-ND/755506" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE ZENER 5.1V 500MW SOD123" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 -50 25 -75 N
 P 2 0 1 0 0 50 -25 75 N

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# SW400-ND
+#
+DEF SW400-ND U 0 40 Y Y 1 F N
+F0 "S" -200 300 60 H V C C N N
+F1 "SW400-ND" 0 -300 60 H V C C N N
+F2 "digikey-footprints:Switch_Tactile_THT_B3F-1000" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S -200 200 200 -200 0 1 0 f
+P 2 0 1 0 -200 -100 200 -100 N
+P 2 0 1 0 -25 -100 -25 -25 N
+P 2 0 1 0 -25 100 -25 25 N
+P 2 0 1 0 25 0 100 0 N
+P 2 0 1 0 25 50 25 -50 N
+P 2 0 1 0 200 100 -200 100 N
+X ~ 1 -400 100 200 R 50 50 1 1 B
+X ~ 2 400 100 200 L 50 50 1 1 B
+X ~ 3 -400 -100 200 R 50 50 1 1 B
+X ~ 4 400 -100 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

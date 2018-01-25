@@ -1,0 +1,145 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# EC2-12NU
+#
+DEF EC2-12NU U 0 40 Y Y 1 F N
+F0 "RLY" -350 550 60 H V C C N N
+F1 "EC2-12NU" -100 -100 60 H V C C N N
+F2 "digikey-footprints:Relay_EC2-12NU" 200 200 60 H I L C N N
+F3 "https://search.kemet.com/component-edge/download/datasheet/EC2-12NU.pdf" 200 300 60 H I L C N N
+F4 "399-11029-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "EC2-12NU" 200 500 60 H I L CNN "MPN"
+F6 "Relays" 200 600 60 H I L CNN "Category"
+F7 "Signal Relays, Up to 2 Amps" 200 700 60 H I L CNN "Family"
+F8 "https://search.kemet.com/component-edge/download/datasheet/EC2-12NU.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/kemet/EC2-12NU/399-11029-5-ND/4291095" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "RELAY GEN PURPOSE DPDT 2A 12V" 200 1000 60 H I L CNN "Description"
+F11 "KEMET" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 500 100 0 0 1 0 f
+X COIL 1 -600 200 200 R 50 50 1 1 W
+X NC1 3 300 400 200 L 50 50 1 1 O
+X COM1 4 -600 400 200 R 50 50 1 1 I
+X NO1 5 300 300 200 L 50 50 1 1 O
+X NO2 8 300 100 200 L 50 50 1 1 O
+X COM2 9 -600 300 200 R 50 50 1 1 I
+X NC2 10 300 200 200 L 50 50 1 1 O
+X COIL 12 -600 100 200 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# EC2-5NU
+#
+DEF EC2-5NU U 0 40 Y Y 1 F N
+F0 "RLY" -350 550 60 H V C C N N
+F1 "EC2-5NU" -100 -100 60 H V C C N N
+F2 "digikey-footprints:Relay_EC2-5NU" 200 200 60 H I L C N N
+F3 "https://search.kemet.com/component-edge/download/datasheet/EC2-5NU.pdf" 200 300 60 H I L C N N
+F4 "399-11052-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "EC2-5NU" 200 500 60 H I L CNN "MPN"
+F6 "Relays" 200 600 60 H I L CNN "Category"
+F7 "Signal Relays, Up to 2 Amps" 200 700 60 H I L CNN "Family"
+F8 "https://search.kemet.com/component-edge/download/datasheet/EC2-5NU.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/kemet/EC2-5NU/399-11052-5-ND/4291118" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "RELAY GEN PURPOSE DPDT 2A 5V" 200 1000 60 H I L CNN "Description"
+F11 "KEMET" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 500 100 0 0 1 0 f
+X COIL 1 -600 200 200 R 50 50 1 1 W
+X NC1 3 300 400 200 L 50 50 1 1 O
+X COM1 4 -600 400 200 R 50 50 1 1 I
+X NO1 5 300 200 200 L 50 50 1 1 O
+X NO2 8 300 100 200 L 50 50 1 1 O
+X COM2 9 -600 300 200 R 50 50 1 1 I
+X NC2 10 300 300 200 L 50 50 1 1 O
+X COIL 12 -600 100 200 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# G5V-1-DC12
+#
+DEF G5V-1-DC12 U 0 40 Y Y 1 F N
+F0 "RLY" 0 400 60 H V C C N N
+F1 "G5V-1-DC12" 0 -300 60 H V C C N N
+F2 "digikey-footprints:Relay_THT_G5V-1-DC12" 200 200 60 H I L C N N
+F3 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf" 200 300 60 H I L C N N
+F4 "Z774-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "G5V-1-DC12" 200 500 60 H I L CNN "MPN"
+F6 "Relays" 200 600 60 H I L CNN "Category"
+F7 "Signal Relays, Up to 2 Amps" 200 700 60 H I L CNN "Family"
+F8 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/omron-electronics-inc-emc-div/G5V-1-DC12/Z774-ND/87833" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "RELAY GEN PURPOSE SPDT 1A 12V" 200 1000 60 H I L CNN "Description"
+F11 "Omron Electronics Inc-EMC Div" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 200 -200 0 1 0 f
+X NC 1 400 200 200 L 50 50 1 1 O
+X COIL 2 -400 200 200 R 50 50 1 1 W
+X COM 5 -400 0 200 R 50 50 1 1 I
+X COM 6 -400 -100 200 R 50 50 1 1 I
+X COIL 9 -400 100 200 R 50 50 1 1 W
+X NO 10 400 100 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# G5V-1-DC5
+#
+DEF G5V-1-DC5 U 0 40 Y Y 1 F N
+F0 "RLY" 0 400 60 H V C C N N
+F1 "G5V-1-DC5" 0 -300 60 H V C C N N
+F2 "digikey-footprints:Relay_THT_G5V-1-DC5" 200 200 60 H I L C N N
+F3 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf" 200 300 60 H I L C N N
+F4 "Z773-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "G5V-1-DC5" 200 500 60 H I L CNN "MPN"
+F6 "Relays" 200 600 60 H I L CNN "Category"
+F7 "Signal Relays, Up to 2 Amps" 200 700 60 H I L CNN "Family"
+F8 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/omron-electronics-inc-emc-div/G5V-1-DC5/Z773-ND/87831" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "RELAY GENERAL PURPOSE SPDT 1A 5V" 200 1000 60 H I L CNN "Description"
+F11 "Omron Electronics Inc-EMC Div" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 200 -200 0 1 0 f
+X NC 1 400 200 200 L 50 50 1 1 O
+X COIL 2 -400 200 200 R 50 50 1 1 W
+X COM 5 -400 0 200 R 50 50 1 1 I
+X COM 6 -400 -100 200 R 50 50 1 1 I
+X COIL 9 -400 100 200 R 50 50 1 1 W
+X NO 10 400 100 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# G5V-2-DC12
+#
+DEF G5V-2-DC12 U 0 40 Y Y 1 F N
+F0 "RLY" 0 300 60 H V C C N N
+F1 "G5V-2-DC12" 0 -400 60 H V C C N N
+F2 "digikey-footprints:Relay_THT_G5V-2-DC12" 200 200 60 H I L C N N
+F3 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_2.pdf" 200 300 60 H I L C N N
+F4 "Z768-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "G5V-2-DC12" 200 500 60 H I L CNN "MPN"
+F6 "Relays" 200 600 60 H I L CNN "Category"
+F7 "Signal Relays, Up to 2 Amps" 200 700 60 H I L CNN "Family"
+F8 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/omron-electronics-inc-emc-div/G5V-2-DC12/Z768-ND/87821" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "RELAY GEN PURPOSE DPDT 2A 12V" 200 1000 60 H I L CNN "Description"
+F11 "Omron Electronics Inc-EMC Div" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 200 -300 0 1 0 f
+X COIL 1 -500 0 200 R 50 50 1 1 W
+X COM1 4 -500 100 200 R 50 50 1 1 I
+X NC1 6 400 100 200 L 50 50 1 1 O
+X NO1 8 400 0 200 L 50 50 1 1 O
+X NO2 9 400 -200 200 L 50 50 1 1 O
+X NC2 11 400 -100 200 L 50 50 1 1 O
+X COM2 13 -500 -200 200 R 50 50 1 1 I
+X COIL 16 -500 -100 200 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

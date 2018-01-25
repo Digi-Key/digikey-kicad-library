@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 835-1126-1-ND
+#
+DEF 835-1126-1-ND U 0 0 Y Y 1 F N
+F0 "D" -200 200 60 H V C C N N
+F1 "835-1126-1-ND" 500 -200 60 H V C C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+C 0 0 141 0 1 0 f
+P 2 0 1 0 -75 -75 75 -75 N
+P 2 0 1 0 -75 75 75 75 N
+P 2 0 1 0 0 75 -75 -75 N
+P 2 0 1 0 0 150 0 -150 N
+P 2 0 1 0 75 0 -150 0 N
+P 2 0 1 0 75 75 0 -75 N
+X T2 1 0 300 200 D 50 50 1 1 B
+X G 2 -300 0 200 R 50 50 1 1 B
+X T1 3 0 -300 200 U 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

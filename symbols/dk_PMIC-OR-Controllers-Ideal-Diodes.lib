@@ -1,0 +1,87 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# LM5050MK-1_NOPB
+#
+DEF LM5050MK-1_NOPB U 0 40 Y Y 1 F N
+F0 "Q" -100 250 60 H V C C N N
+F1 "LM5050MK-1_NOPB" 0 600 60 H V C C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm5050-1.pdf" 200 300 60 H I L C N N
+F4 "LM5050MK-1/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM5050MK-1/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - OR Controllers, Ideal Diodes" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm5050-1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM5050MK-1-NOPB/LM5050MK-1-NOPBCT-ND/2673204" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OR CTRLR N+1 6SOT" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 300 -300 0 1 0 f
+X VS 1 100 400 200 D 50 50 1 1 W
+X GND 2 0 -500 200 U 50 50 1 1 W
+X OFF 3 -400 0 200 R 50 50 1 1 I
+X IN 4 -400 -100 200 R 50 50 1 1 I
+X GATE 5 500 0 200 L 50 50 1 1 O
+X OUT 6 500 -100 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LTC4412ES6_TRMPBF
+#
+DEF LTC4412ES6_TRMPBF U 0 40 Y Y 1 F N
+F0 "Q" -200 -150 60 H V C C N N
+F1 "LTC4412ES6_TRMPBF" 0 300 60 H V C C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/1527" 200 300 60 H I L C N N
+F4 "LTC4412ES6#TRMPBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC4412ES6#TRMPBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - OR Controllers, Ideal Diodes" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/1527" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC4412ES6-TRMPBF/LTC4412ES6-TRMPBFCT-ND/890097" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OR CTRLR SRC SELECT TSOT23-6" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 -200 300 -600 0 1 0 f
+X VIN 1 0 0 200 D 50 50 1 1 W
+X GND 2 100 -800 200 U 50 50 1 1 W
+X CTL 3 -500 -300 200 R 50 50 1 1 I
+X STAT 4 500 -300 200 L 50 50 1 1 O
+X GATE 5 -500 -400 200 R 50 50 1 1 I
+X SENSE 6 -500 -500 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTC4359IMS8_PBF
+#
+DEF LTC4359IMS8_PBF U 0 40 Y Y 1 F N
+F0 "Q" 0 400 60 H V C C N N
+F1 "LTC4359IMS8_PBF" 0 500 60 H V C C N N
+F2 "digikey-footprints:TSSOP-8_W3mm" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/41608" 200 300 60 H I L C N N
+F4 "LTC4359IMS8#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC4359IMS8#PBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - OR Controllers, Ideal Diodes" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/41608" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC4359IMS8-PBF/LTC4359IMS8-PBF-ND/3306829" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OR CTRLR N+1 8MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 300 -300 0 1 0 f
+X GATE 1 500 200 200 L 50 50 1 1 O
+X SOURCE 2 -500 200 200 R 50 50 1 1 I
+X NC 3 -500 -100 200 R 50 50 1 1 N
+X IN 4 -500 100 200 R 50 50 1 1 I
+X ~SHDN 5 -500 0 200 R 50 50 1 1 I
+X VSS 6 0 -500 200 U 50 50 1 1 W
+X NC 7 -500 -200 200 R 50 50 1 1 N
+X OUT 8 500 100 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library

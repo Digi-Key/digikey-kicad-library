@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2542
+D BREAKOUT BOARD GSM/GPS FONA 808
+K 1528-1428-ND FONA 800
+F https://learn.adafruit.com/downloads/pdf/adafruit-fona-808-cellular-plus-gps-breakout.pdf
+$ENDCMP
+#
+$CMP 114990286_NonStock
+D PARTICLE PHOTON
+K 1597-1150-ND WICED
+F https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/
+$ENDCMP
+#
+#End Doc Library

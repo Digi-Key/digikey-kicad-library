@@ -6,21 +6,15 @@ K LM339NFS-ND
 F https://www.fairchildsemi.com/datasheets/LM/LM239A.pdf
 $ENDCMP
 #
-$CMP LM339AN
+$CMP LM339N296
 D IC QUAD DIFF COMPARATOR 14-DIP
-K 296-6605-5-ND 
+K 296-1393-5-ND 
 F http://www.ti.com/lit/ds/symlink/lm139a.pdf
 $ENDCMP
 #
-$CMP LM339DT
-D IC COMPARATOR LP QUAD 14-SOIC
-K 497-1588-1-ND 
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/bf/7e/d7/a4/67/86/4e/89/CD00000460.pdf/files/CD00000460.pdf/jcr:content/translations/en.CD00000460.pdf
-$ENDCMP
-#
-$CMP LM339ADR
-D IC QUAD DIFF COMPARATOR 14 -SOIC
-K 296-6604-1-ND 
+$CMP LM339AN
+D IC QUAD DIFF COMPARATOR 14-DIP
+K 296-6605-5-ND 
 F http://www.ti.com/lit/ds/symlink/lm139a.pdf
 $ENDCMP
 #
@@ -42,6 +36,18 @@ K LM311NNS/NOPB-ND
 F http://www.ti.com/lit/ds/symlink/lm311-n.pdf
 $ENDCMP
 #
+$CMP LM339DT
+D IC COMPARATOR LP QUAD 14-SOIC
+K 497-1588-1-ND 
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/bf/7e/d7/a4/67/86/4e/89/CD00000460.pdf/files/CD00000460.pdf/jcr:content/translations/en.CD00000460.pdf
+$ENDCMP
+#
+$CMP LM339ADR
+D IC QUAD DIFF COMPARATOR 14 -SOIC
+K 296-6604-1-ND 
+F http://www.ti.com/lit/ds/symlink/lm139a.pdf
+$ENDCMP
+#
 $CMP LM393DT
 D IC COMPARATOR LP DUAL 8-SOIC
 K 497-1593-1-ND 
@@ -60,6 +66,12 @@ K 296-1015-1-ND
 F http://www.ti.com/lit/ds/symlink/lm193.pdf
 $ENDCMP
 #
+$CMP TPS3700DDCR
+D IC COMP WINDOW W/REF 6SOT
+K 296-30395-1-ND 
+F http://www.ti.com/lit/ds/symlink/tps3700.pdf
+$ENDCMP
+#
 $CMP TL331IDBVR
 D IC DIFF COMP SINGLE SOT23-5
 K 296-10168-1-ND 
@@ -70,12 +82,6 @@ $CMP LT1716CS5_TRMPBF
 D IC COMP OTT R-R 44V TSOT-23-5
 K LT1716CS5#TRMPBFCT-ND Over-The-Top®
 F http://www.linear.com/docs/3319
-$ENDCMP
-#
-$CMP TPS3700DDCR
-D IC COMP WINDOW W/REF 6SOT
-K 296-30395-1-ND 
-F http://www.ti.com/lit/ds/symlink/tps3700.pdf
 $ENDCMP
 #
 #End Doc Library

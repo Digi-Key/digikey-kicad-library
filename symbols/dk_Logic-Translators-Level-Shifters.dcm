@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9306D_118
+D IC LEVEL TRANSLATOR 8-SOIC
+K 568-4215-1-ND 
+F http://www.nxp.com/documents/data_sheet/PCA9306.pdf
+$ENDCMP
+#
+$CMP SN74LVC1T45DBVR
+D IC BUS TRANSCVR TRI-ST SOT23-6
+K 296-16843-1-ND 74LVC
+F http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf
+$ENDCMP
+#
+$CMP TXB0104PWR
+D IC VOLT-LEVEL TRANSLATOR 14TSSOP
+K 296-21929-1-ND 
+F http://www.ti.com/lit/ds/symlink/txb0104.pdf
+$ENDCMP
+#
+$CMP TXB0108PWR
+D IC 8-BIT TRNSTR 15KV ESD 20TSSOP
+K 296-21527-1-ND 
+F http://www.ti.com/lit/ds/symlink/txb0108.pdf
+$ENDCMP
+#
+#End Doc Library

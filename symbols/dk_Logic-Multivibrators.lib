@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF CD14538BE U 0 40 Y Y 1 F N
 F0 "U" -100 450 60 H V C C N N
 F1 "CD14538BE" 150 -250 60 V V C C N N
-F2 "digikey-footprints:16-DIP" 200 200 60 H I L C N N
+F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd14538b.pdf" 200 300 60 H I L C N N
 F4 "296-14074-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD14538BE" 200 500 60 H I L CNN "MPN"
@@ -16,6 +16,7 @@ F8 "http://www.ti.com/lit/ds/symlink/cd14538b.pdf" 200 800 60 H I L CNN "DK_Data
 F9 "/product-detail/en/texas-instruments/CD14538BE/296-14074-5-ND/525847" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC DUAL PREC MULTIVIB 16-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 400 400 -900 0 1 0 f
 X Cx1 1 -400 -100 200 R 50 50 1 1 U
@@ -42,7 +43,7 @@ ENDDEF
 DEF SN74LVC1G123DCTR U 0 40 Y Y 1 F N
 F0 "U" -200 200 60 H V C C N N
 F1 "SN74LVC1G123DCTR" 800 -600 60 H V C C N N
-F2 "digikey-footprints:SM8_2.80MM_Width" 200 200 60 H I L C N N
+F2 "digikey-footprints:MSOP-8_W2.80mm" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g123.pdf" 200 300 60 H I L C N N
 F4 "296-18758-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G123DCTR" 200 500 60 H I L CNN "MPN"
@@ -52,6 +53,7 @@ F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g123.pdf" 200 800 60 H I L CNN "DK_
 F9 "/product-detail/en/texas-instruments/SN74LVC1G123DCTR/296-18758-1-ND/863888" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC SNGL MONO MULTIVIBTOR SM8" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 400 -500 0 1 0 f
 X ~A 1 -400 0 200 R 50 50 1 1 I

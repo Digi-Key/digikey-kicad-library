@@ -16,6 +16,7 @@ F8 "http://www.littelfuse.com/~/media/electronics/datasheets/switching_thyristor
 F9 "/product-detail/en/littelfuse-inc/MCR218-4G/MCR218-4GOS-ND/919423" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "THYRISTOR SCR 8A 200V TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "Littelfuse Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -300 175 100 -150 0 1 0 f
 P 2 0 1 0 -300 200 -300 200 N
@@ -48,6 +49,7 @@ F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd
 F9 "/product-detail/en/central-semiconductor-corp/2N5060/2N5060-ND/4806901" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SCR 0.8A 30V TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 2 0 1 0 100 100 0 0 N

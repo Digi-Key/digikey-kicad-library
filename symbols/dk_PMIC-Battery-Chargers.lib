@@ -1,0 +1,382 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MCP73833-AMI_UN
+#
+DEF MCP73833-AMI_UN U 0 40 Y Y 1 F N
+F0 "U" -150 250 60 H V C C N N
+F1 "MCP73833-AMI_UN" 0 600 60 H V C C N N
+F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en027983" 200 300 60 H I L C N N
+F4 "MCP73833-AMI/UN-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP73833-AMI/UN" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en027983" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP73833-AMI-UN/MCP73833-AMI-UN-ND/1223157" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC LI-ION/LI-POLY CTRLR 10MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 400 -500 0 1 0 f
+X VDD 1 0 400 200 D 50 50 1 1 W
+X VDD 2 100 400 200 D 50 50 1 1 W
+X STAT1 3 600 0 200 L 50 50 1 1 O
+X STAT2 4 600 -100 200 L 50 50 1 1 O
+X VSS 5 100 -700 200 U 50 50 1 1 W
+X PROG 6 -400 -100 200 R 50 50 1 1 I
+X ~PG~(~TE~) 7 600 -200 200 L 50 50 1 1 O
+X THERM 8 -400 -200 200 R 50 50 1 1 I
+X VBAT 9 600 -300 200 L 50 50 1 1 O
+X VBAT 10 600 -400 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LT3652EMSE_PBF
+#
+DEF LT3652EMSE_PBF U 0 40 Y Y 1 F N
+F0 "U" -400 250 60 H V C C N N
+F1 "LT3652EMSE_PBF" 0 600 60 H V C C N N
+F2 "digikey-footprints:MSOP-12-1EP_W3mm" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/28522" 200 300 60 H I L C N N
+F4 "LT3652EMSE#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LT3652EMSE#PBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/28522" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LT3652EMSE-PBF/LT3652EMSE-PBF-ND/2225686" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC BATTERY CHARGER SOLAR 12MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -500 200 400 -500 0 1 0 f
+X VIN 1 -100 400 200 D 50 50 1 1 W
+X VIN_REG 2 0 400 200 D 50 50 1 1 W
+X ~SHDN 3 -700 100 200 R 50 50 1 1 I
+X ~CHRG 4 600 100 200 L 50 50 1 1 O
+X ~FAULT 5 600 0 200 L 50 50 1 1 O
+X TIMER 6 -700 0 200 R 50 50 1 1 I
+X VFB 7 -700 -100 200 R 50 50 1 1 I
+X NTC 8 -700 -200 200 R 50 50 1 1 I
+X BAT 9 600 -100 200 L 50 50 1 1 w
+X SENSE 10 -700 -300 200 R 50 50 1 1 I
+X BOOST 11 600 -400 200 L 50 50 1 1 U
+X SW 12 600 -300 200 L 50 50 1 1 U
+X GND 13 0 -700 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MCP73871-2CCI_ML
+#
+DEF MCP73871-2CCI_ML U 0 40 Y Y 1 F N
+F0 "U" -300 550 60 H V C C N N
+F1 "MCP73871-2CCI_ML" 0 900 60 H V C C N N
+F2 "digikey-footprints:QFN-20-1EP_4x4mm" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536709" 200 300 60 H I L C N N
+F4 "MCP73871-2CCI/ML-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP73871-2CCI/ML" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536709" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP73871-2CCI-ML/MCP73871-2CCI-ML-ND/1680971" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC USB/AC BATT CHRGR W/PPM 20QFN" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 500 400 -800 0 1 0 f
+X OUT 1 600 300 200 L 50 50 1 1 O
+X VPCC 2 -600 400 200 R 50 50 1 1 I
+X SEL 3 -600 300 200 R 50 50 1 1 I
+X PROG2 4 -600 200 200 R 50 50 1 1 I
+X THERM 5 -600 100 200 R 50 50 1 1 B
+X ~PG 6 600 200 200 L 50 50 1 1 O
+X STAT2 7 600 100 200 L 50 50 1 1 O
+X STAT1/~LBO 8 600 0 200 L 50 50 1 1 O
+X ~TE 9 -600 0 200 R 50 50 1 1 I
+X VSS 10 0 -1000 200 U 50 50 1 1 W
+X OUT 20 600 -100 200 L 50 50 1 1 O
+X VSS 11 100 -1000 200 U 50 50 1 1 W
+X EP 21 200 -1000 200 U 50 50 1 1 W
+X PROG3 12 -600 -100 200 R 50 50 1 1 B
+X PROG1 13 -600 -200 200 R 50 50 1 1 B
+X VBAT 14 -600 -300 200 R 50 50 1 1 B
+X VBAT 15 -600 -400 200 R 50 50 1 1 B
+X VBAT_SENSE 16 -600 -500 200 R 50 50 1 1 B
+X CE 17 -600 -600 200 R 50 50 1 1 I
+X IN 18 0 700 200 D 50 50 1 1 W
+X IN 19 100 700 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MCP73831T-2ACI_OT
+#
+DEF MCP73831T-2ACI_OT U 0 40 Y Y 1 F N
+F0 "U" -200 150 60 H V C C N N
+F1 "MCP73831T-2ACI_OT" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" 200 300 60 H I L C N N
+F4 "MCP73831T-2ACI/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP73831T-2ACI/OT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP73831T-2ACI-OT/MCP73831T-2ACI-OTCT-ND/1979802" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CONTROLLR LI-ION 4.2V SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 300 100 -300 -300 0 1 0 f
+X STAT 1 500 -100 200 L 50 50 1 1 O
+X VSS 2 0 -500 200 U 50 50 1 1 W
+X VBAT 3 500 0 200 L 50 50 1 1 O
+X VDD 4 0 300 200 D 50 50 1 1 W
+X PROG 5 -500 -100 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MCP73831T-2ATI_OT
+#
+DEF MCP73831T-2ATI_OT U 0 40 Y Y 1 F N
+F0 "U" -200 150 60 H V C C N N
+F1 "MCP73831T-2ATI_OT" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" 200 300 60 H I L C N N
+F4 "MCP73831T-2ATI/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP73831T-2ATI/OT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP73831T-2ATI-OT/MCP73831T-2ATI-OTCT-ND/1979803" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CONTROLLR LI-ION 4.2V SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 300 100 -300 -300 0 1 0 f
+X STAT 1 500 -100 200 L 50 50 1 1 O
+X VSS 2 0 -500 200 U 50 50 1 1 W
+X VBAT 3 500 0 200 L 50 50 1 1 O
+X VDD 4 0 300 200 D 50 50 1 1 W
+X PROG 5 -500 -100 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MCP73831T-2DCI_OT
+#
+DEF MCP73831T-2DCI_OT U 0 40 Y Y 1 F N
+F0 "U" -200 150 60 H V C C N N
+F1 "MCP73831T-2DCI_OT" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" 200 300 60 H I L C N N
+F4 "MCP73831T-2DCI/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP73831T-2DCI/OT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP73831T-2DCI-OT/MCP73831T-2DCI-OTCT-ND/1979804" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CONTROLLR LI-ION 4.2V SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 300 100 -300 -300 0 1 0 f
+X STAT 1 500 -100 200 L 50 50 1 1 O
+X VSS 2 0 -500 200 U 50 50 1 1 W
+X VBAT 3 500 0 200 L 50 50 1 1 O
+X VDD 4 0 300 200 D 50 50 1 1 W
+X PROG 5 -500 -100 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MCP73811T-420I_OT
+#
+DEF MCP73811T-420I_OT U 0 40 Y Y 1 F N
+F0 "U" -200 50 60 H V C C N N
+F1 "MCP73811T-420I_OT" 0 400 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en528273" 200 300 60 H I L C N N
+F4 "MCP73811T-420I/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP73811T-420I/OT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en528273" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP73811T-420I-OT/MCP73811T-420I-OTCT-ND/1649474" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC LI-ION/LI-POLY CTRLR SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 0 300 -400 0 1 0 f
+X CE 1 -500 -100 200 R 50 50 1 1 I
+X VSS 2 0 -600 200 U 50 50 1 1 W
+X VBAT 3 500 -200 200 L 50 50 1 1 O
+X VDD 4 0 200 200 D 50 50 1 1 W
+X PROG 5 -500 -200 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MCP73812T-420I_OT
+#
+DEF MCP73812T-420I_OT U 0 40 Y Y 1 F N
+F0 "U" -200 50 60 H V C C N N
+F1 "MCP73812T-420I_OT" 0 400 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en528273" 200 300 60 H I L C N N
+F4 "MCP73812T-420I/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP73812T-420I/OT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en528273" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP73812T-420I-OT/MCP73812T-420I-OTCT-ND/1979800" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC LI-ION/LI-POLY CTRLR SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 0 300 -400 0 1 0 f
+X CE 1 -500 -100 200 R 50 50 1 1 I
+X VSS 2 0 -600 200 U 50 50 1 1 W
+X VBAT 3 500 -200 200 L 50 50 1 1 O
+X VDD 4 0 200 200 D 50 50 1 1 W
+X PROG 5 -500 -200 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MCP73832T-2ACI_OT
+#
+DEF MCP73832T-2ACI_OT U 0 40 Y Y 1 F N
+F0 "U" -200 50 60 H V C C N N
+F1 "MCP73832T-2ACI_OT" 0 400 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" 200 300 60 H I L C N N
+F4 "MCP73832T-2ACI/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP73832T-2ACI/OT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP73832T-2ACI-OT/MCP73832T-2ACI-OTCT-ND/1979805" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC LI-ION/LI-POLY CTRLR SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 0 300 -400 0 1 0 f
+X CE 1 -500 -100 200 R 50 50 1 1 I
+X VSS 2 0 -600 200 U 50 50 1 1 W
+X VBAT 3 500 -200 200 L 50 50 1 1 O
+X VDD 4 0 200 200 D 50 50 1 1 W
+X PROG 5 -500 -200 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MAX1555EZK_T
+#
+DEF MAX1555EZK_T U 0 40 Y Y 1 F N
+F0 "U" -150 50 60 H V C C N N
+F1 "MAX1555EZK_T" 0 400 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX1551-MAX1555.pdf" 200 300 60 H I L C N N
+F4 "MAX1555EZK+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX1555EZK+T" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX1551-MAX1555.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX1555EZK-T/MAX1555EZK-TCT-ND/2699449" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC BATT CHRGR LI+ 1CELL SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 300 0 -200 -600 0 1 0 f
+X USB 1 0 200 200 D 50 50 1 1 W
+X GND 2 0 -800 200 U 50 50 1 1 W
+X ~POK(CHG) 3 500 -300 200 L 50 50 1 1 O
+X DC 4 100 200 200 D 50 50 1 1 W
+X BAT 5 500 -400 200 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# SPV1040TTR
+#
+DEF SPV1040TTR U 0 40 Y Y 1 F N
+F0 "U" -50 250 60 H V C C N N
+F1 "SPV1040TTR" 0 400 60 H V C C N N
+F2 "digikey-footprints:TSSOP-8_W4.4mm" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/0d/30/c2/1a/92/03/48/cb/CD00287506.pdf/files/CD00287506.pdf/jcr:content/translations/en.CD00287506.pdf" 200 300 60 H I L C N N
+F4 "497-11288-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SPV1040TTR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/0d/30/c2/1a/92/03/48/cb/CD00287506.pdf/files/CD00287506.pdf/jcr:content/translations/en.CD00287506.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/SPV1040TTR/497-11288-1-ND/2672709" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC SOLAR BATTERY CHARGER 8TSSOP" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 200 300 -500 0 1 0 f
+X MPP-SET 1 -600 100 200 R 50 50 1 1 I
+X GND 2 200 -700 200 U 50 50 1 1 W
+X LX 3 -600 -100 200 R 50 50 1 1 I
+X VOUT 4 500 -100 200 L 50 50 1 1 w
+X VCTRL 5 -600 -400 200 R 50 50 1 1 I
+X ICTRL_MINUS 6 -600 -300 200 R 50 50 1 1 I
+X ICTRL_PLUS 7 -600 -200 200 R 50 50 1 1 I
+X XSHUT 8 -600 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTC4020EUHF_PBF
+#
+DEF LTC4020EUHF_PBF U 0 40 Y Y 1 F N
+F0 "U" -300 950 60 H V C C N N
+F1 "LTC4020EUHF_PBF" 100 -400 60 V V C C N N
+F2 "digikey-footprints:WFQFN-38-1EP_5x7mm" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/44025" 200 300 60 H I L C N N
+F4 "LTC4020EUHF#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC4020EUHF#PBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/44025" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC4020EUHF-PBF/LTC4020EUHF-PBF-ND/4490515" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC BATT CHARGER 55V BB 38QFN" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 900 600 -1500 0 1 0 f
+X TG1 1 0 1100 200 D 50 50 1 1 W
+X BST1 2 100 1100 200 D 50 50 1 1 W
+X SGND 3 0 -1700 200 U 50 50 1 1 W
+X SENSGND 4 100 -1700 200 U 50 50 1 1 W
+X SENSBOT 5 -600 600 200 R 50 50 1 1 O
+X SENSTOP 6 -600 500 200 R 50 50 1 1 O
+X SENSVIN 7 -600 400 200 R 50 50 1 1 O
+X RT 8 -600 300 200 R 50 50 1 1 O
+X SHDN 9 -600 200 200 R 50 50 1 1 O
+X VIN_REG 10 -600 100 200 R 50 50 1 1 O
+X BAT 20 -600 -700 200 R 50 50 1 1 I
+X BST2 30 800 -200 200 L 50 50 1 1 w
+X MODE 11 -600 0 200 R 50 50 1 1 O
+X BGATE 21 800 300 200 L 50 50 1 1 O
+X TG2 31 800 -300 200 L 50 50 1 1 w
+X STAT1 12 800 500 200 L 50 50 1 1 O
+X CSN 22 -600 -800 200 R 50 50 1 1 I
+X SW2 32 -600 -1400 200 R 50 50 1 1 I
+X STAT2 13 800 400 200 L 50 50 1 1 O
+X CSP 23 -600 -900 200 R 50 50 1 1 I
+X BG2 33 800 -400 200 L 50 50 1 1 w
+X TIMER 14 -600 -100 200 R 50 50 1 1 O
+X CSOUT 24 800 100 200 L 50 50 1 1 O
+X INTVCC 34 200 1100 200 D 50 50 1 1 W
+X RNG/SS 15 -600 -200 200 R 50 50 1 1 O
+X ILIMIT 25 -600 -1000 200 R 50 50 1 1 I
+X PGND 35 300 -1700 200 U 50 50 1 1 W
+X NTC 16 -600 -300 200 R 50 50 1 1 O
+X VFBMAX 26 800 200 200 L 50 50 1 1 O
+X PVIN 36 300 1100 200 D 50 50 1 1 W
+X VFB 17 -600 -400 200 R 50 50 1 1 O
+X ITH 27 -600 -1100 200 R 50 50 1 1 I
+X BG1 37 400 1100 200 D 50 50 1 1 W
+X FBG 18 -600 -500 200 R 50 50 1 1 O
+X VC 28 -600 -1200 200 R 50 50 1 1 I
+X SW1 38 -600 -1300 200 R 50 50 1 1 I
+X VFBMIN 19 -600 -600 200 R 50 50 1 1 O
+X SGND 29 200 -1700 200 U 50 50 1 1 W
+X ~ 39 400 -1700 200 U 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

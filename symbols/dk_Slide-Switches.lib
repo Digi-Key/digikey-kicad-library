@@ -1,0 +1,73 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# EG1218
+#
+DEF EG1218 U 0 0 Y Y 1 F N
+F0 "S" -200 300 60 H V C C N N
+F1 "EG1218" 500 -200 60 H V C C N N
+F2 "digikey-footprints:Switch_Slide_11.6x4mm_EG1218" 200 200 60 H I L C N N
+F3 "http://spec_sheets.e-switch.com/specs/P040040.pdf" 200 300 60 H I L C N N
+F4 "EG1903-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "EG1218" 200 500 60 H I L CNN "MPN"
+F6 "Switches" 200 600 60 H I L CNN "Category"
+F7 "Slide Switches" 200 700 60 H I L CNN "Family"
+F8 "http://spec_sheets.e-switch.com/specs/P040040.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/e-switch/EG1218/EG1903-ND/101726" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SWITCH SLIDE SPDT 200MA 30V" 200 1000 60 H I L CNN "Description"
+F11 "E-Switch" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C -75 0 7 0 1 0 N
+C 75 0 7 0 1 0 N
+S -200 200 200 -100 0 1 0 f
+P 2 0 1 0 -200 0 -100 0 N
+P 2 0 1 0 -100 0 -75 0 N
+P 2 0 1 0 0 200 -65 -15 N
+P 2 0 1 0 200 0 75 0 N
+X ~ 1 -400 0 200 R 50 50 1 1 B
+X Com 2 0 400 200 D 50 50 1 1 B
+X ~ 3 400 0 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# JS202011SCQN
+#
+DEF JS202011SCQN U 0 0 Y Y 1 F N
+F0 "S" -450 250 60 H V C C N N
+F1 "JS202011SCQN" 800 -250 60 H V C C N N
+F2 "digikey-footprints:Switch_Slide_JS202011SCQN" 200 200 60 H I L C N N
+F3 "http://www.ckswitches.com/media/1422/js.pdf" 200 300 60 H I L C N N
+F4 "401-2002-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "JS202011SCQN" 200 500 60 H I L CNN "MPN"
+F6 "Switches" 200 600 60 H I L CNN "Category"
+F7 "Slide Switches" 200 700 60 H I L CNN "Family"
+F8 "http://www.ckswitches.com/media/1422/js.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/c-k/JS202011SCQN/401-2002-1-ND/1640098" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SWITCH SLIDE DPDT 300MA 6V" 200 1000 60 H I L CNN "Description"
+F11 "C&K" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -500 200 500 -200 0 1 0 f
+P 2 0 1 0 -400 -50 -400 -150 N
+P 2 0 1 0 -300 -200 -300 -150 N
+P 2 0 1 0 -300 200 -300 150 N
+P 2 0 1 0 -250 50 -250 -50 N
+P 2 0 1 0 -50 -50 -50 50 F
+P 2 0 1 0 0 -200 0 -150 N
+P 2 0 1 0 0 200 0 150 N
+P 2 0 1 0 300 -200 300 -150 N
+P 2 0 1 0 300 200 300 150 N
+P 4 0 1 0 -400 -150 100 -150 100 -50 -400 -50 F
+P 5 0 1 0 -400 50 -400 150 100 150 100 50 -400 50 F
+P 5 0 1 0 -50 50 -250 50 -250 -50 -50 -50 -50 50 F
+X ~ 1 -300 -400 200 U 50 50 1 1 B
+X Com1 2 0 -400 200 U 50 50 1 1 B
+X ~ 3 300 -400 200 U 50 50 1 1 B
+X ~ 4 -300 400 200 D 50 50 1 1 B
+X Com2 5 0 400 200 D 50 50 1 1 B
+X ~ 6 300 400 200 D 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

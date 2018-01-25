@@ -1,9 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP XLL736200_000000I
+D OSC XO 200.000MHZ LVDS SMD
+K 631-1362-ND XPRESSO™ FXO-LC73
+F http://www.foxonline.com/pdfs/FXO_LC73.pdf
+$ENDCMP
+#
 $CMP SIT1533AI-H4-DCC-32_768E
 D OSC MEMS 32.768KHZ LVCMOS SMD
 K 1473-1239-1-ND SiT1533
-F https://www.sitime.com/sites/default/files/gated/SiT1533-datasheet.pdf
+F https://www.sitime.com/datasheet/SiT1533
 $ENDCMP
 #
 $CMP XLH536025_000000I
@@ -18,16 +24,10 @@ K 631-1277-ND XPRESSO™ FXO-HC73
 F http://www.foxonline.com/pdfs/FXO_HC73.pdf
 $ENDCMP
 #
-$CMP SIT9102AI-243N25E200_00000Y
+$CMP SIT9102AI-243N25E200_00000Y_NRND
 D OSC MEMS 200.000MHZ LVDS SMD
 K 1473-1521-1-ND SiT9102
-F https://www.sitime.com/products/datasheets/sit9102/SiT9102-datasheet.pdf
-$ENDCMP
-#
-$CMP XLL736200_000000I
-D OSC XO 200.000MHZ LVDS SMD
-K 631-1362-ND XPRESSO™ FXO-LC73
-F http://www.foxonline.com/pdfs/FXO_LC73.pdf
+F http://media.digikey.com/pdf/Data%20Sheets/SiTime%20PDFs/SIT9102A.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# BS-7-ND
+#
+DEF BS-7-ND U 0 40 Y Y 1 F N
+F0 "BAT" 0 200 60 H V C C N N
+F1 "BS-7-ND" 0 -200 60 H V C C N N
+F2 "digikey-footprints:Battery_Holder_Coin_2032_BS-7" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+P 2 1 1 0 -110 120 -110 80 N
+P 2 1 1 0 -90 100 -130 100 N
+P 2 1 1 0 -75 0 -100 0 N
+P 2 1 1 0 -75 100 -75 -100 N
+P 2 1 1 0 -25 50 -25 -50 N
+P 2 1 1 0 25 100 25 -100 N
+P 2 1 1 0 75 50 75 -50 N
+P 2 1 1 0 100 0 75 0 N
+X ~ Neg 300 0 200 L 50 50 1 1 W
+X ~ Pos -300 0 200 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

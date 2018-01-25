@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# F2594CT-ND
+#
+DEF F2594CT-ND U 0 40 Y Y 1 F N
+F0 "D" -100 100 60 H V C C N N
+F1 "F2594CT-ND" 0 -200 60 H V C C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+P 3 0 1 0 0 0 0 -50 -25 -75 N
+P 3 0 1 0 0 0 0 50 25 75 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 4 0 1 0 100 50 100 -50 0 0 100 50 F
+X ~ 1 -300 0 200 R 50 50 1 1 B
+X ~ 2 300 0 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

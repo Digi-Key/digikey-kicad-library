@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 28086
+#
+DEF 28086 U 0 40 Y Y 1 F N
+F0 "D" -350 350 60 H V C C N N
+F1 "28086" 100 -300 60 H V C C N N
+F2 "digikey-footprints:LED_Breakout_Parallax_WS2812B" 200 200 60 H I L C N N
+F3 "http://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf" 200 300 60 H I L C N N
+F4 "28086-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "28086" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "Addressable, Specialty" 200 700 60 H I L CNN "Family"
+F8 "http://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/parallax-inc/28086/28086-ND/5030529" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "WS2812B LED MODULE 10-PACK" 200 1000 60 H I L CNN "Description"
+F11 "Parallax Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 200 100 -200 0 1 0 f
+X VCC 1 -200 400 200 D 50 50 1 1 W
+X DOUT 2 300 0 200 L 50 50 1 1 O
+X VSS 3 -200 -400 200 U 50 50 1 1 W
+X DIN 4 -600 0 200 R 50 50 1 1 I
+X ~ 5 300 -100 200 L 50 50 1 1 U
+X ~ 6 -600 -100 200 R 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,62 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# V7805-1000
+#
+DEF V7805-1000 U 0 0 Y Y 1 F N
+F0 "U" -250 150 60 H V C C N N
+F1 "V7805-1000" 300 -200 60 H V C C N N
+F2 "digikey-footprints:3-SIP_Module_V7805-1000" 200 200 60 H I L C N N
+F3 "http://www.cui.com/product/resource/digikeypdf/v78xx-1000.pdf" 200 300 60 H I L C N N
+F4 "102-1715-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "V7805-1000" 200 500 60 H I L CNN "MPN"
+F6 "Power Supplies - Board Mount" 200 600 60 H I L CNN "Category"
+F7 "DC DC Converters" 200 700 60 H I L CNN "Family"
+F8 "http://www.cui.com/product/resource/digikeypdf/v78xx-1000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/cui-inc/V7805-1000/102-1715-ND/1828608" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONVERTER DC/DC REG 5V 1A" 200 1000 60 H I L CNN "Description"
+F11 "CUI Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 0 -100 0 1 0 f
+P 2 0 1 0 -200 -100 0 100 N
+P 2 0 1 0 -175 50 -100 50 N
+P 2 0 1 0 -100 -75 -25 -75 N
+P 2 0 1 0 -100 75 -175 75 N
+P 2 0 1 0 -25 -50 -100 -50 N
+X Vin+ 1 -100 300 200 D 50 50 1 1 W
+X GND 2 -100 -300 200 U 50 50 1 1 W
+X Vo+ 3 200 0 200 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# V7805-500
+#
+DEF V7805-500 U 0 0 Y Y 1 F N
+F0 "U" -250 150 60 H V C C N N
+F1 "V7805-500" 300 -200 60 H V C C N N
+F2 "digikey-footprints:3-SIP_Module_V7805-500" 200 200 60 H I L C N N
+F3 "http://www.cui.com/product/resource/digikeypdf/v78-500.pdf" 200 300 60 H I L C N N
+F4 "102-1709-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "V7805-500" 200 500 60 H I L CNN "MPN"
+F6 "Power Supplies - Board Mount" 200 600 60 H I L CNN "Category"
+F7 "DC DC Converters" 200 700 60 H I L CNN "Family"
+F8 "http://www.cui.com/product/resource/digikeypdf/v78-500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/cui-inc/V7805-500/102-1709-ND/1828602" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONVERTER DC/DC REG 5V 500MA" 200 1000 60 H I L CNN "Description"
+F11 "CUI Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 0 -100 0 1 0 f
+P 2 0 1 0 -200 -100 0 100 N
+P 2 0 1 0 -175 50 -100 50 N
+P 2 0 1 0 -100 -75 -25 -75 N
+P 2 0 1 0 -100 75 -175 75 N
+P 2 0 1 0 -25 -50 -100 -50 N
+X Vin+ 1 -100 300 200 D 50 50 1 1 W
+X GND 2 -100 -300 200 U 50 50 1 1 W
+X Vo+ 3 200 0 200 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CKN10398-ND
+#
+DEF CKN10398-ND U 0 40 Y Y 1 F N
+F0 "S" 0 150 60 H V C C N N
+F1 "CKN10398-ND" 0 -150 60 H V C C N N
+F2 "digikey-footprints:Tilt_Switch_RB-220-07A_R" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S 100 100 -100 -50 0 1 0 f
+P 2 0 1 0 -100 0 -50 0 N
+P 3 0 1 0 -50 50 50 0 100 0 N
+X ~ 1 -300 0 200 R 50 50 1 1 B
+X ~ 2 300 0 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

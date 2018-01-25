@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 9007-05-00
-D RELAY REED SPST 500MA 5V
-K 306-1062-ND 9000, Spartan
-F http://media.digikey.com/pdf/Data%20Sheets/Coto%20Technology%20PDFS/9000_Spartan_Series.pdf
-$ENDCMP
-#
-#End Doc Library

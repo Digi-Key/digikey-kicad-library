@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# EG1903-ND
+#
+DEF EG1903-ND U 0 0 Y Y 1 F N
+F0 "S" -200 300 60 H V C C N N
+F1 "EG1903-ND" 500 -200 60 H V C C N N
+F2 "digikey-footprints:Switch_Slide_11.6x4mm_EG1218" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+C -75 0 7 0 1 0 N
+C 75 0 7 0 1 0 N
+S -200 200 200 -100 0 1 0 f
+P 2 0 1 0 -200 0 -100 0 N
+P 2 0 1 0 -100 0 -75 0 N
+P 2 0 1 0 0 200 -65 -15 N
+P 2 0 1 0 200 0 75 0 N
+X ~ 1 -400 0 200 R 50 50 1 1 B
+X Com 2 0 400 200 D 50 50 1 1 B
+X ~ 3 400 0 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 365-1001-ND
+#
+DEF 365-1001-ND U 0 40 Y Y 1 F N
+F0 "Q" -150 350 60 H V C C N N
+F1 "365-1001-ND" 400 -300 60 H V C C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S 200 200 -100 -200 0 1 0 f
+X VDD 1 0 400 200 D 50 50 1 1 W
+X GND 2 0 -400 200 U 50 50 1 1 W
+X OUT 3 400 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library

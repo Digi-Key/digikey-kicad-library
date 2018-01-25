@@ -16,6 +16,7 @@ F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/67/06/bc
 F9 "/product-detail/en/stmicroelectronics/BTA16-600BRG/497-2397-5-ND/603422" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRIAC 600V 16A TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -200 75 200 75 N
 P 2 0 1 0 0 -100 0 -50 N
@@ -45,6 +46,7 @@ F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/67/06/bc
 F9 "/product-detail/en/stmicroelectronics/BTA16-600BWRG/497-3122-5-ND/654430" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRIAC ALTERNISTOR 600V TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -200 75 200 75 N
 P 2 0 1 0 0 -100 0 -50 N
@@ -64,7 +66,7 @@ ENDDEF
 DEF BTA41-600BRG U 0 0 Y Y 1 F N
 F0 "TRI" -250 125 60 H V C C N N
 F1 "BTA41-600BRG" 500 -175 60 H V C C N N
-F2 "digikey-footprints:TOP-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TOP-3_Vertical_Insulated" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bc/c6/38/ee/88/59/49/0d/CD00002263.pdf/files/CD00002263.pdf/jcr:content/translations/en.CD00002263.pdf" 200 300 60 H I L C N N
 F4 "497-2431-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BTA41-600BRG" 200 500 60 H I L CNN "MPN"
@@ -74,6 +76,7 @@ F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bc/c6/38
 F9 "/product-detail/en/stmicroelectronics/BTA41-600BRG/497-2431-5-ND/603456" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRIAC 600V 40A TOP3" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -200 75 200 75 N
 P 2 0 1 0 0 -100 0 -50 N

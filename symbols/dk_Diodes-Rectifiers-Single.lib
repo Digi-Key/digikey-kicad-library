@@ -16,6 +16,7 @@ F8 "https://www.diodes.com/assets/Datasheets/ds13012.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/diodes-incorporated/B540C-13-F/B540C-FDICT-ND/768814" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 40V 5A SMC" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -41,6 +42,7 @@ F8 "https://www.diodes.com/assets/Datasheets/ds13012.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/diodes-incorporated/B560C-13-F/B560C-FDICT-ND/768816" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 60V 5A SMC" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -66,6 +68,7 @@ F8 "https://www.fairchildsemi.com/datasheets/S1/S1A.pdf" 200 800 60 H I L CNN "D
 F9 "/product-detail/en/on-semiconductor/S1G/S1GFSCT-ND/965720" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 400V 1A SMA" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -89,6 +92,7 @@ F8 "https://www.diodes.com/assets/Datasheets/ds13004.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/diodes-incorporated/B240A-13-F/B240A-FDICT-ND/717810" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 40V 2A SMA" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -114,6 +118,7 @@ F8 "https://www.diodes.com/assets/Datasheets/ds30891.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/diodes-incorporated/B340A-13-F/B340A-FDICT-ND/725054" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 40V 3A SMA" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -139,6 +144,7 @@ F8 "https://www.fairchildsemi.com/datasheets/1N/1N914.pdf" 200 800 60 H I L CNN 
 F9 "/product-detail/en/on-semiconductor/1N4148TA/1N4148TACT-ND/1532747" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 100V 200MA DO35" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -162,6 +168,7 @@ F8 "https://www.fairchildsemi.com/datasheets/1N/1N914.pdf" 200 800 60 H I L CNN 
 F9 "/product-detail/en/on-semiconductor/1N914BTR/1N914BCT-ND/458919" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 100V 200MA DO35" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -170,11 +177,11 @@ X ~ 2 -300 0 200 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# 1N4007-T
+# 1N4007-T_NRND
 #
-DEF 1N4007-T U 0 0 Y Y 1 F N
+DEF 1N4007-T_NRND U 0 0 Y Y 1 F N
 F0 "D" 0 100 60 H V C C N N
-F1 "1N4007-T" 0 -100 60 H V C C N N
+F1 "1N4007-T_NRND" 0 -100 60 H V C C N N
 F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds28002.pdf" 200 300 60 H I L C N N
 F4 "1N4007DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -185,6 +192,7 @@ F8 "https://www.diodes.com/assets/Datasheets/ds28002.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/diodes-incorporated/1N4007-T/1N4007DICT-ND/76454" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 1KV 1A DO41" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -193,11 +201,11 @@ X ~ 2 -300 0 200 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# 1N4004-T
+# 1N4004-T_NRND
 #
-DEF 1N4004-T U 0 0 Y Y 1 F N
+DEF 1N4004-T_NRND U 0 0 Y Y 1 F N
 F0 "D" 0 100 60 H V C C N N
-F1 "1N4004-T" 0 -100 60 H V C C N N
+F1 "1N4004-T_NRND" 0 -100 60 H V C C N N
 F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ds28002.pdf" 200 300 60 H I L C N N
 F4 "1N4004DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -208,6 +216,7 @@ F8 "https://www.diodes.com/assets/Datasheets/ds28002.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/diodes-incorporated/1N4004-T/1N4004DICT-ND/160593" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 400V 1A DO41" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -231,6 +240,7 @@ F8 "http://www.mccsemi.com/up_pdf/1N4001-1N4007(DO-41).pdf" 200 800 60 H I L CNN
 F9 "/product-detail/en/micro-commercial-co/1N4001-TP/1N4001-TPMSCT-ND/773688" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 50V 1A DO41" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -254,6 +264,7 @@ F8 "http://www.comchiptech.com/cms/UserFiles/QW-BG013 1N4001 Thru456224. 1N4007 
 F9 "/product-detail/en/comchip-technology/1N4001-G/641-1310-1-ND/1979675" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 50V 1A DO41" 200 1000 60 H I L CNN "Description"
 F11 "Comchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -277,6 +288,7 @@ F8 "https://www.fairchildsemi.com/datasheets/1N/1N5817.pdf" 200 800 60 H I L CNN
 F9 "/product-detail/en/on-semiconductor/1N5817/1N5817FSCT-ND/1532776" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 20V 1A DO41" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 -50 -25 -50 N
 P 2 0 1 0 0 50 0 -50 N
@@ -302,6 +314,7 @@ F8 "https://www.fairchildsemi.com/datasheets/1N/1N5817.pdf" 200 800 60 H I L CNN
 F9 "/product-detail/en/on-semiconductor/1N5819/1N5819FSCT-ND/965482" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 40V 1A DO41" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 -50 -25 -50 N
 P 2 0 1 0 0 50 0 -50 N
@@ -327,6 +340,7 @@ F8 "http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf" 200 800 60 H I L CNN "DK_
 F9 "/product-detail/en/micro-commercial-co/1N4148W-TP/1N4148WTPMSCT-ND/717311" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 100V 150MA SOD123" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -350,6 +364,7 @@ F8 "https://www.diodes.com/assets/Datasheets/ds30086.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/diodes-incorporated/1N4148W-7-F/1N4148W-FDICT-ND/815280" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 100V 300MA SOD123" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -373,6 +388,7 @@ F8 "http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF" 200 800 60 H I L CNN 
 F9 "/product-detail/en/on-semiconductor/MBR0520LT1G/MBR0520LT1GOSCT-ND/917965" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 20V 500MA SOD123" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -398,6 +414,7 @@ F8 "http://www.onsemi.com/pub/Collateral/MBR0540T1-D.PDF" 200 800 60 H I L CNN "
 F9 "/product-detail/en/on-semiconductor/MBR0540T1G/MBR0540T1GOSCT-ND/917967" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 40V 500MA SOD123" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -423,6 +440,7 @@ F8 "https://www.diodes.com/assets/Datasheets/ds30097.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/diodes-incorporated/1N4148WS-7-F/1N4148WS-FDICT-ND/815281" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 75V 150MA SOD323" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -446,6 +464,7 @@ F8 "http://www.mccsemi.com/up_pdf/1N4148WX(SOD323).pdf" 200 800 60 H I L CNN "DK
 F9 "/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 75V 150MA SOD323" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -469,6 +488,7 @@ F8 "https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf" 200 800 60 H I L C
 F9 "/product-detail/en/on-semiconductor/1N4148WS/1N4148WSFSCT-ND/1873821" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 75V 150MA SOD323F" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -492,6 +512,7 @@ F8 "http://www.mccsemi.com/up_pdf/1N4148X(SOD-523).PDF" 200 800 60 H I L CNN "DK
 F9 "/product-detail/en/micro-commercial-co/1N4148X-TP/1N4148XTPMSCT-ND/789335" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 75V 150MA SOD523" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -515,6 +536,7 @@ F8 "https://www.fairchildsemi.com/datasheets/LL/LL4148.pdf" 200 800 60 H I L CNN
 F9 "/product-detail/en/on-semiconductor/LL4148/LL4148FSCT-ND/1923118" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 100V 200MA SOD80" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 0 50 0 -50 N
 P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
@@ -538,6 +560,7 @@ F8 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 800 60 H I L CNN 
 F9 "/product-detail/en/on-semiconductor/BAT54/BAT54FSCT-ND/458928" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 30V 200MA SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 100 -100 0 1 0 f
 P 2 0 1 0 -100 0 -200 0 N

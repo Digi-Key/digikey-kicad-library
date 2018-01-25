@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74AHCT125N
+D IC BUS BUFFER TRI-ST QD 14DIP
+K 296-4655-5-ND 74AHCT
+F http://www.ti.com/lit/ds/symlink/sn74ahct125.pdf
+$ENDCMP
+#
+$CMP CD4050BE
+D IC BUFF/CONVERTER HEX 16DIP
+K 296-2056-5-ND 4000B
+F http://www.ti.com/lit/ds/symlink/cd4049ub.pdf
+$ENDCMP
+#
+$CMP SN74LVC245AN
+D IC BUS TRANSCEIVER 8BIT 20DIP
+K 296-8503-5-ND 74LVC
+F http://www.ti.com/lit/ds/symlink/sn74lvc245a.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G07DCKR
+D IC BUFF/DVR NON-INVERT SC70-5
+K 296-8486-1-ND 74LVC
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G17DCKR
+D IC BUFFER SCHMIT TRIG SC70-5
+K 296-11934-1-ND 74LVC
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G125DCKR
+D IC BUS BUFF TRI-ST N-INV SC70-5
+K 296-11604-1-ND 74LVC
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf
+$ENDCMP
+#
+$CMP SN74LVC2G17DBVR
+D IC BUFF DL SCHMIT TRIG SOT23-6
+K 296-13012-1-ND 74LVC
+F http://www.ti.com/lit/ds/symlink/sn74lvc2g17.pdf
+$ENDCMP
+#
+$CMP NC7SZ125P5X
+D IC BUFF TRI-ST UHS N-INV SC70-5
+K NC7SZ125P5XCT-ND 7SZ
+F https://www.fairchildsemi.com/datasheets/NC/NC7SZ125.pdf
+$ENDCMP
+#
+$CMP NC7WZ17P6X
+D IC BUFF DL SCHMT TRIG UHS SC70-6
+K NC7WZ17P6XCT-ND 7WZ
+F https://www.fairchildsemi.com/datasheets/NC/NC7WZ17.pdf
+$ENDCMP
+#
+$CMP NC7WZ07P6X
+D IC BUFF DL UHS O/DRAIN SC70-6
+K NC7WZ07P6XCT-ND 7WZ
+F https://www.fairchildsemi.com/datasheets/NC/NC7WZ07.pdf
+$ENDCMP
+#
+$CMP NC7SZ125M5X
+D IC BUFF TRI-ST UHS N-INV SOT23-5
+K NC7SZ125M5XCT-ND 7SZ
+F https://www.fairchildsemi.com/datasheets/NC/NC7SZ125.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G07DBVR
+D IC BUFF/DVR NON-INVERT SOT23-5
+K 296-8485-1-ND 74LVC
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G17DBVR
+D IC BUFFER SCHMIT TRIG SOT23-5
+K 296-11933-1-ND 74LVC
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf
+$ENDCMP
+#
+$CMP SN74LVC1G125DBVR
+D IC BUS BUFF TRI-ST N-INV SOT23-5
+K 296-11603-1-ND 74LVC
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf
+$ENDCMP
+#
+#End Doc Library

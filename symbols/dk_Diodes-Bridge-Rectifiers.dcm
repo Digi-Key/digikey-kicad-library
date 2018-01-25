@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD2320-B11000_Obsolete
+D DIODE BRIDGE RECTIFIER 1000V 232
+K CD2320-B11000CT-ND 
+F http://www.bourns.com/docs/Product-Datasheets/CD2320-B.pdf
+$ENDCMP
+#
+$CMP DF04M
+D IC RECT BRIDGE 400V 1.5A 4DIP
+K DF04M-ND 
+F https://www.fairchildsemi.com/datasheets/DF/DF005M.pdf
+$ENDCMP
+#
+$CMP KBP04G
+D RECT BRIDGE GPP 400V 1.5A KBP
+K KBP04G-ND 
+F https://www.diodes.com/assets/Datasheets/ds21203.pdf
+$ENDCMP
+#
+$CMP MDB8S
+D IC BRIDGE DIODE 800V 4-MICRODIP
+K MDB8SFSCT-ND 
+F https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf
+$ENDCMP
+#
+$CMP MB6S
+D IC RECT BRIDGE 0.5A 600V 4SOIC
+K MB6SCT-ND 
+F https://www.fairchildsemi.com/datasheets/MB/MB1S.pdf
+$ENDCMP
+#
+$CMP MB6S-TP
+D IC RECT BRIDGE 0.5A 600V MBS-1
+K MB6S-TPMSCT-ND 
+F http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf
+$ENDCMP
+#
+#End Doc Library

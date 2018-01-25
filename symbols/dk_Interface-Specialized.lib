@@ -16,6 +16,7 @@ F8 "http://datasheets.maximintegrated.com/en/ds/MAX6816-MAX6818.pdf" 200 800 60 
 F9 "/product-detail/en/maxim-integrated/MAX6816EUS-T/MAX6816EUS-TCT-ND/774155" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC DEBOUNCER SWITCH SGL SOT143-4" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 0 200 -400 0 1 0 f
 X GND 1 0 -600 200 U 50 50 1 1 W

@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC1101RGPR
+D IC RF TXRX ISM<1GHZ 20-VFQFN
+K 296-35718-1-ND 
+F http://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/CC1101.pdf
+$ENDCMP
+#
+$CMP NRF24L01P-T
+D IC RF TXRX ISM>1GHZ 20-VFQFN
+K 1490-1019-ND 
+F http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf
+$ENDCMP
+#
+$CMP NRF24L01P-R7
+D IC RF TXRX ISM>1GHZ 20-VFQFN
+K 1490-1033-1-ND 
+F http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf
+$ENDCMP
+#
+$CMP NRF8001-R2Q32-T
+D IC RF TXRX BLUETOOTH 32-VFQFN
+K 1490-1026-ND 
+F http://www.nordicsemi.com/eng/content/download/2981/38488/file/nRF8001_PS_v1.2.pdf
+$ENDCMP
+#
+$CMP CC1200RHBT
+D IC RF TXRX+MCU ISM<1GHZ 32-VFQFN
+K 296-36396-1-ND 
+F http://www.ti.com/lit/ds/symlink/cc1200.pdf
+$ENDCMP
+#
+$CMP DW1000-I-TR13
+D IC RF TXRX 802.15.4 48-QFN
+K 1479-1001-1-ND 
+F http://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf
+$ENDCMP
+#
+$CMP NRF52832-QFAA-R
+D IC RF TXRX+MCU BLUETOOTH 48QFN
+K 1490-1052-1-ND 
+F http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.4.pdf
+$ENDCMP
+#
+$CMP NRF51822-QFAA-T
+D IC RF TXRX+MCU BLUETOOTH 48VFQFN
+K 1490-1024-ND 
+F http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf
+$ENDCMP
+#
+$CMP NRF51822-QFAA-R7
+D IC RF TXRX+MCU BLUETOOTH 48VFQFN
+K 1490-1031-1-ND 
+F http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf
+$ENDCMP
+#
+$CMP NRF51822-QFAB-R7
+D IC RF TXRX+MCU BLUETOOTH 48VFQFN
+K 1490-1032-1-ND 
+F http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf
+$ENDCMP
+#
+$CMP NRF51422-QFAC-R
+D IC RF TXRX+MCU BLUETOOTH 48VFQFN
+K 1490-1040-1-ND 
+F http://www.nordicsemi.com/eng/content/download/13359/215006/file/nRF51422_PS%20v3.1.pdf
+$ENDCMP
+#
+$CMP NRF51822-QFAC-R
+D IC RF TXRX+MCU BLUETOOTH 48VFQFN
+K 1490-1042-1-ND 
+F http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf
+$ENDCMP
+#
+$CMP NRF51822-QFAC-R7
+D IC RF TXRX+MCU BLUETOOTH 48VFQFN
+K 1490-1049-1-ND 
+F http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf
+$ENDCMP
+#
+$CMP CC2650F128RGZT
+D IC RF TXRX+MCU 802.15.4/BT 48QFN
+K 296-39656-1-ND SimpleLink™
+F http://www.ti.com/lit/ds/symlink/cc2650.pdf
+$ENDCMP
+#
+$CMP CSR1010A05-IQQM-R
+D IC RF TXRX+MCU BLUETOOTH 32UFQFN
+K CSR1010A05-IQQM-RCT-ND µEnergy®
+F https://www.qualcomm.com/documents/csr1010-data-sheet
+$ENDCMP
+#
+$CMP CC2541F256RHAR
+D IC RF TXRX+MCU BLUETOOTH 40VFQFN
+K 296-37144-1-ND 
+F http://www.ti.com/lit/ds/symlink/cc2541.pdf
+$ENDCMP
+#
+$CMP CC3200R1M2RGCR
+D IC RF TXRX+MCU WIFI 64-VFQFN
+K 296-38902-1-ND SimpleLink™
+F http://www.ti.com/lit/ds/symlink/cc3200.pdf
+$ENDCMP
+#
+$CMP SX1272IMLTRT
+D IC RF TXRX 802.15.4 28VQFN
+K SX1272IMLTRTCT-ND 
+F https://www.semtech.com/uploads/documents/sx1272.pdf
+$ENDCMP
+#
+$CMP SX1276IMLTRT
+D IC RF TXRX 802.15.4 28VQFN
+K SX1276IMLTRTCT-ND 
+F https://www.semtech.com/uploads/documents/sx1276_77_78_79.pdf
+$ENDCMP
+#
+#End Doc Library

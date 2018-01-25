@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BF862_215_LTB
+D JFET N-CH 20V 25MA SOT23
+K 568-1968-1-ND 
+F http://www.nxp.com/documents/data_sheet/BF862.pdf
+$ENDCMP
+#
+$CMP 2N3819_PBFREE
+D JFET N-CH 25V TO92
+K 2N3819PBFREE-ND 
+F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N3819.PDF
+$ENDCMP
+#
+#End Doc Library

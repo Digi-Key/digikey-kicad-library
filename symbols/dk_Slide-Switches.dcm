@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EG1218
+D SWITCH SLIDE SPDT 200MA 30V
+K EG1903-ND EG
+F http://spec_sheets.e-switch.com/specs/P040040.pdf
+$ENDCMP
+#
+$CMP JS202011SCQN
+D SWITCH SLIDE DPDT 300MA 6V
+K 401-2002-1-ND JS
+F http://www.ckswitches.com/media/1422/js.pdf
+$ENDCMP
+#
+#End Doc Library

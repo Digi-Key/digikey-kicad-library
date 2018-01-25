@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 1684-1005-ND
+#
+DEF 1684-1005-ND U 0 40 Y Y 1 F N
+F0 "U" -250 350 60 H V C C N N
+F1 "1684-1005-ND" 0 -200 60 H V C C N N
+F2 "digikey-footprints:Gas_Sensor_110-202" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S -300 300 300 -100 1 1 0 f
+X Counter 1 -500 200 200 R 50 50 1 1 I
+X NC 2 500 100 200 L 50 50 1 1 N
+X NC 3 500 0 200 L 50 50 1 1 N
+X REF 4 500 200 200 L 50 50 1 1 I
+X Counter 5 -500 100 200 R 50 50 1 1 I
+X Working 6 -500 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

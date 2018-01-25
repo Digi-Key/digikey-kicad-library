@@ -1,0 +1,246 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CD2320-B11000_Obsolete
+#
+DEF CD2320-B11000_Obsolete U 0 0 Y Y 1 F N
+F0 "D" 0 600 60 H V C C N N
+F1 "CD2320-B11000_Obsolete" 0 700 60 H V C C N N
+F2 "digikey-footprints:2320" 200 200 60 H I L C N N
+F3 "http://www.bourns.com/docs/Product-Datasheets/CD2320-B.pdf" 200 300 60 H I L C N N
+F4 "CD2320-B11000CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "CD2320-B11000" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
+F8 "http://www.bourns.com/docs/Product-Datasheets/CD2320-B.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/bourns-inc/CD2320-B11000/CD2320-B11000CT-ND/3741943" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "DIODE BRIDGE RECTIFIER 1000V 232" 200 1000 60 H I L CNN "Description"
+F11 "Bourns Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 -150 200 -50 100 N
+P 2 0 1 0 -50 -100 -150 -200 N
+P 2 0 1 0 100 -50 200 -150 N
+P 2 0 1 0 200 150 100 50 N
+P 3 0 1 0 -150 100 -250 0 -150 -100 N
+P 3 0 1 0 -100 150 0 250 100 150 N
+P 3 0 1 0 100 -150 0 -250 -100 -150 N
+P 3 0 1 0 150 100 250 0 150 -100 N
+P 4 0 1 0 -100 50 -100 150 -200 150 -100 50 F
+P 4 0 1 0 50 -100 150 -100 150 -200 50 -100 F
+P 4 0 1 0 50 100 150 100 150 200 50 100 F
+P 5 0 1 0 -100 -150 -100 -50 -150 -100 -200 -150 -100 -150 F
+P 5 0 1 0 250 0 0 -250 -250 0 0 250 250 0 f
+P 2 1 1 0 -300 0 -250 0 N
+P 2 1 1 0 0 -300 0 -250 N
+P 2 1 1 0 0 250 0 300 N
+P 2 1 1 0 300 0 250 0 N
+X AC 1 0 -500 200 U 50 50 1 1 W
+X AC 2 0 500 200 D 50 50 1 1 W
+X DC- 3 -500 0 200 R 50 50 1 1 w
+X DC+ 4 500 0 200 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# DF04M
+#
+DEF DF04M U 0 0 Y Y 1 F N
+F0 "D" 0 600 60 H V C C N N
+F1 "DF04M" 0 700 60 H V C C N N
+F2 "digikey-footprints:DIP-4_W7.62mm" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/DF/DF005M.pdf" 200 300 60 H I L C N N
+F4 "DF04M-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "DF04M" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/DF/DF005M.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/DF04M/DF04M-ND/965265" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC RECT BRIDGE 400V 1.5A 4DIP" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 -300 0 -250 0 N
+P 2 0 1 0 -150 200 -50 100 N
+P 2 0 1 0 -50 -100 -150 -200 N
+P 2 0 1 0 0 -250 0 -300 N
+P 2 0 1 0 0 300 0 250 N
+P 2 0 1 0 100 -50 200 -150 N
+P 2 0 1 0 200 150 100 50 N
+P 2 0 1 0 300 0 250 0 N
+P 3 0 1 0 -150 100 -250 0 -150 -100 N
+P 3 0 1 0 -100 150 0 250 100 150 N
+P 3 0 1 0 100 -150 0 -250 -100 -150 N
+P 3 0 1 0 150 100 250 0 150 -100 N
+P 4 0 1 0 -100 50 -100 150 -200 150 -100 50 F
+P 4 0 1 0 50 -100 150 -100 150 -200 50 -100 F
+P 4 0 1 0 50 100 150 100 150 200 50 100 F
+P 5 0 1 0 -100 -150 -100 -50 -150 -100 -200 -150 -100 -150 F
+P 5 0 1 0 0 250 250 0 0 -250 -250 0 0 250 f
+X DC+ 1 500 0 200 L 50 50 1 1 w
+X DC- 2 -500 0 200 R 50 50 1 1 w
+X AC 3 0 500 200 D 50 50 1 1 W
+X AC 4 0 -500 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# KBP04G
+#
+DEF KBP04G U 0 0 Y Y 1 F N
+F0 "D" -200 300 60 H V C C N N
+F1 "KBP04G" 400 -300 60 H V C C N N
+F2 "digikey-footprints:SIP-4_W3.81mm" 200 200 60 H I L C N N
+F3 "https://www.diodes.com/assets/Datasheets/ds21203.pdf" 200 300 60 H I L C N N
+F4 "KBP04G-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "KBP04G" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
+F8 "https://www.diodes.com/assets/Datasheets/ds21203.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/diodes-incorporated/KBP04G/KBP04G-ND/248716" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "RECT BRIDGE GPP 400V 1.5A KBP" 200 1000 60 H I L CNN "Description"
+F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 -300 0 -250 0 N
+P 2 0 1 0 -150 200 -50 100 N
+P 2 0 1 0 -50 -100 -150 -200 N
+P 2 0 1 0 0 -250 0 -300 N
+P 2 0 1 0 0 250 0 300 N
+P 2 0 1 0 100 -50 200 -150 N
+P 2 0 1 0 200 150 100 50 N
+P 2 0 1 0 250 0 300 0 N
+P 4 0 1 0 -200 -150 -100 -50 -100 -150 -200 -150 F
+P 4 0 1 0 -200 150 -100 50 -100 150 -200 150 F
+P 4 0 1 0 50 -100 150 -200 150 -100 50 -100 F
+P 4 0 1 0 50 100 150 200 150 100 50 100 F
+P 5 0 1 0 0 -250 -250 0 0 250 250 0 0 -250 f
+X DC+ 1 500 0 200 L 50 50 1 1 w
+X AC 2 0 500 200 D 50 50 1 1 W
+X AC 3 0 -500 200 U 50 50 1 1 W
+X DC- 4 -500 0 200 R 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# MDB8S
+#
+DEF MDB8S U 0 0 Y Y 1 F N
+F0 "D" -300 300 60 H V C C N N
+F1 "MDB8S" 0 800 60 H V C C N N
+F2 "digikey-footprints:SMD-4_5x4.4mm_P4mm" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf" 200 300 60 H I L C N N
+F4 "MDB8SFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MDB8S" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/MDB8S/MDB8SFSCT-ND/3137113" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC BRIDGE DIODE 800V 4-MICRODIP" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 -300 0 -250 0 N
+P 2 0 1 0 -150 200 -50 100 N
+P 2 0 1 0 -50 -100 -150 -200 N
+P 2 0 1 0 0 -300 0 -250 N
+P 2 0 1 0 0 250 0 300 N
+P 2 0 1 0 100 -50 200 -150 N
+P 2 0 1 0 200 150 100 50 N
+P 2 0 1 0 300 0 250 0 N
+P 3 0 1 0 -150 100 -250 0 -150 -100 N
+P 3 0 1 0 -100 150 0 250 100 150 N
+P 3 0 1 0 100 -150 0 -250 -100 -150 N
+P 3 0 1 0 150 100 250 0 150 -100 N
+P 4 0 1 0 -100 50 -100 150 -200 150 -100 50 F
+P 4 0 1 0 50 -100 150 -100 150 -200 50 -100 F
+P 4 0 1 0 50 100 150 100 150 200 50 100 F
+P 5 0 1 0 -100 -150 -100 -50 -150 -100 -200 -150 -100 -150 F
+P 5 0 1 0 0 250 -250 0 0 -250 250 0 0 250 f
+X AC 1 0 -500 200 U 50 50 1 1 W
+X AC 2 0 500 200 D 50 50 1 1 W
+X DC- 3 -500 0 200 R 50 50 1 1 w
+X DC+ 4 500 0 200 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# MB6S
+#
+DEF MB6S U 0 0 Y Y 1 F N
+F0 "D" -300 300 60 H V C C N N
+F1 "MB6S" 0 600 60 H V C C N N
+F2 "digikey-footprints:TO-269AA" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/MB/MB1S.pdf" 200 300 60 H I L C N N
+F4 "MB6SCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MB6S" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/MB/MB1S.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/MB6S/MB6SCT-ND/965654" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC RECT BRIDGE 0.5A 600V 4SOIC" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 -250 0 -300 0 N
+P 2 0 1 0 -150 200 -50 100 N
+P 2 0 1 0 -50 -100 -150 -200 N
+P 2 0 1 0 0 -300 0 -250 N
+P 2 0 1 0 0 250 0 300 N
+P 2 0 1 0 100 -50 200 -150 N
+P 2 0 1 0 200 150 100 50 N
+P 2 0 1 0 300 0 250 0 N
+P 3 0 1 0 -150 100 -250 0 -150 -100 N
+P 3 0 1 0 -100 150 0 250 100 150 N
+P 3 0 1 0 100 -150 0 -250 -100 -150 N
+P 3 0 1 0 150 100 250 0 150 -100 N
+P 4 0 1 0 -100 50 -100 150 -200 150 -100 50 F
+P 4 0 1 0 50 -100 150 -100 150 -200 50 -100 F
+P 4 0 1 0 50 100 150 100 150 200 50 100 F
+P 5 0 1 0 -100 -150 -100 -50 -150 -100 -200 -150 -100 -150 F
+P 5 0 1 0 0 250 -250 0 0 -250 250 0 0 250 f
+X DC+ 1 500 0 200 L 50 50 1 1 w
+X DC- 2 -500 0 200 R 50 50 1 1 w
+X AC 3 0 500 200 D 50 50 1 1 W
+X AC 4 0 -500 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MB6S-TP
+#
+DEF MB6S-TP U 0 0 Y Y 1 F N
+F0 "D" -250 300 60 H V C C N N
+F1 "MB6S-TP" 0 650 60 H V C C N N
+F2 "digikey-footprints:TO-269AA" 200 200 60 H I L C N N
+F3 "http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf" 200 300 60 H I L C N N
+F4 "MB6S-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MB6S-TP" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
+F8 "http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/micro-commercial-co/MB6S-TP/MB6S-TPMSCT-ND/722466" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC RECT BRIDGE 0.5A 600V MBS-1" 200 1000 60 H I L CNN "Description"
+F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 -250 0 -300 0 N
+P 2 0 1 0 -150 200 -50 100 N
+P 2 0 1 0 -50 -100 -150 -200 N
+P 2 0 1 0 0 -300 0 -250 N
+P 2 0 1 0 0 250 0 300 N
+P 2 0 1 0 100 -50 200 -150 N
+P 2 0 1 0 200 150 100 50 N
+P 2 0 1 0 300 0 250 0 N
+P 3 0 1 0 -150 100 -250 0 -150 -100 N
+P 3 0 1 0 -100 150 0 250 100 150 N
+P 3 0 1 0 100 -150 0 -250 -100 -150 N
+P 3 0 1 0 150 100 250 0 150 -100 N
+P 4 0 1 0 -100 50 -100 150 -200 150 -100 50 F
+P 4 0 1 0 50 -100 150 -100 150 -200 50 -100 F
+P 4 0 1 0 50 100 150 100 150 200 50 100 F
+P 5 0 1 0 -250 0 0 -250 250 0 0 250 -250 0 f
+P 5 0 1 0 -100 -150 -100 -50 -150 -100 -200 -150 -100 -150 F
+X DC+ 1 500 0 200 L 50 50 1 1 w
+X DC- 2 -500 0 200 R 50 50 1 1 w
+X AC 3 0 500 200 D 50 50 1 1 W
+X AC 4 0 -500 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

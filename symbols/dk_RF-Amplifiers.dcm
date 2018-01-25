@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKY65017-70LF
+D IC AMP INGAP LF-6GHZ SOT-89
+K 863-1063-1-ND 
+F http://www.skyworksinc.com/uploads/documents/SKY65017_70LF_200528H.pdf
+$ENDCMP
+#
+#End Doc Library

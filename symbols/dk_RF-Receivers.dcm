@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAM-M8C-0
+D IC RECEIVER GPS CHIP ANT 31LCC
+K 672-1014-1-ND CAM-M8
+F https://www.u-blox.com/sites/default/files/CAM-M8-FW3_DataSheet_%28UBX-15031574%29.pdf
+$ENDCMP
+#
+$CMP A2235-H
+D MODULE GPS SIRFSTARIV
+K 1530-1011-1-ND SiRFstarIV™
+F http://update.maestro-wireless.com/GNSS/A2235-H/Maestro_A2135_HA2235_H_v11.pdf
+$ENDCMP
+#
+$CMP SI4703-C19-GM
+D IC FM RADIO TUNER 20-QFN
+K 336-1739-ND 
+F http://www.silabs.com/documents/public/data-sheets/Si4702-03-C19.pdf
+$ENDCMP
+#
+$CMP RXM-418-LR
+D RECEIVER 418MHZ LR SERIES
+K RXM-418-LR-ND LR
+F https://www.linxtechnologies.com/resources/data-guides/rxm-xxx-lr.pdf
+$ENDCMP
+#
+$CMP RXM-433-LR
+D RECEIVER 433MHZ LR SERIES
+K RXM-433-LR-ND LR
+F https://www.linxtechnologies.com/resources/data-guides/rxm-xxx-lr.pdf
+$ENDCMP
+#
+#End Doc Library

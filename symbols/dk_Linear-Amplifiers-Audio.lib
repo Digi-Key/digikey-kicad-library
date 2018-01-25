@@ -1,97 +1,120 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# MAX98306ETD_T
+# LM386N-1_NOPB
 #
-DEF MAX98306ETD_T U 0 0 Y Y 1 F N
-F0 "U" -150 150 60 H V C C N N
-F1 "MAX98306ETD_T" 0 500 60 H V C C N N
-F2 "digikey-footprints:14-WFDFN_Exposed_Pad" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 300 60 H I L C N N
-F4 "MAX98306ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX98306ETD+T" 200 500 60 H I L CNN "MPN"
+DEF LM386N-1_NOPB U 0 40 Y Y 1 F N
+F0 "U" -400 250 60 H V C C N N
+F1 "LM386N-1_NOPB" 300 -400 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
+F4 "296-44414-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM386N-1/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/MAX98306ETD-T/MAX98306ETD-TCT-ND/2708785" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO 3.7W STER D 14TDFN" 200 1000 60 H I L CNN "Description"
-F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM386N-1-NOPB/296-44414-5-ND/6284" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR .325W MONO 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -200 100 200 -800 0 1 0 f
-S -100 -200 100 -300 0 1 0 N
-P 2 0 1 0 -200 -500 -100 -500 N
-P 2 0 1 0 -200 -100 -100 -100 N
-P 2 0 1 0 -150 -550 50 -350 N
-P 2 0 1 0 -150 -150 50 50 N
-P 2 0 1 0 -100 -400 -200 -400 N
-P 2 0 1 0 -100 0 -200 0 N
-P 2 0 1 0 -90 -510 -50 -510 N
-P 2 0 1 0 -90 -400 -50 -400 N
-P 2 0 1 0 -90 -110 -50 -110 N
-P 2 0 1 0 -90 0 -50 0 N
-P 2 0 1 0 -70 -380 -70 -420 N
-P 2 0 1 0 -70 20 -70 -20 N
-P 2 0 1 0 -50 -375 -50 -300 N
-P 2 0 1 0 -50 -125 -50 -200 N
-P 2 0 1 0 200 -500 0 -500 N
-P 2 0 1 0 200 -400 0 -400 N
-P 2 0 1 0 200 -100 0 -100 N
-P 2 0 1 0 200 0 0 0 N
-P 4 0 1 0 -200 -300 -150 -300 -150 -250 -100 -250 N
-P 4 0 1 0 -100 -350 -100 -550 100 -450 -100 -350 N
-P 4 0 1 0 -100 50 -100 -150 100 -50 -100 50 N
-P 4 0 1 0 0 -375 50 -350 25 -400 0 -375 F
-P 4 0 1 0 0 25 50 50 25 0 0 25 F
-X PGND 1 -100 -1000 200 U 50 50 1 1 W
-X ~SHDN 2 -400 -700 200 R 50 50 1 1 I
-X INL+ 3 -400 0 200 R 50 50 1 1 I
-X INL- 4 -400 -100 200 R 50 50 1 1 I
-X GAIN 5 -400 -300 200 R 50 50 1 1 I
-X INR- 6 -400 -500 200 R 50 50 1 1 I
-X INR+ 7 -400 -400 200 R 50 50 1 1 I
-X PGND 8 0 -1000 200 U 50 50 1 1 W
-X OUTR- 9 400 -500 200 L 50 50 1 1 O
-X OUTR+ 10 400 -400 200 L 50 50 1 1 O
-X PVDD 11 0 300 200 D 50 50 1 1 W
-X PVDD 12 100 300 200 D 50 50 1 1 W
-X OUTL+ 13 400 0 200 L 50 50 1 1 O
-X OUTL- 14 400 -100 200 L 50 50 1 1 O
-X GND/PAD 15 100 -1000 200 U 50 50 1 1 U
+S -500 200 200 -300 0 1 0 f
+X Gain 1 -700 100 200 R 50 50 1 1 I
+X IN- 2 -700 0 200 R 50 50 1 1 I
+X IN+ 3 -700 -100 200 R 50 50 1 1 I
+X GND 4 -200 -500 200 U 50 50 1 1 W
+X VOUT 5 400 0 200 L 50 50 1 1 O
+X Vs 6 -200 400 200 D 50 50 1 1 W
+X BYPASS 7 400 -100 200 L 50 50 1 1 O
+X Gain 8 -700 -200 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# MAX9814ETD_T
+# LM386N-3_NOPB
 #
-DEF MAX9814ETD_T U 0 40 Y Y 1 F N
-F0 "U" -300 150 60 H V C C N N
-F1 "MAX9814ETD_T" 0 400 60 H V C C N N
-F2 "digikey-footprints:14-WFDFN_Exposed_Pad" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 300 60 H I L C N N
-F4 "MAX9814ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX9814ETD+T" 200 500 60 H I L CNN "MPN"
+DEF LM386N-3_NOPB U 0 40 Y Y 1 F N
+F0 "U" -400 250 60 H V C C N N
+F1 "LM386N-3_NOPB" 300 -400 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
+F4 "296-43959-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM386N-3/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/MAX9814ETD-T/MAX9814ETD-TCT-ND/2037128" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO MONO AB MIC 14TDFN" 200 1000 60 H I L CNN "Description"
-F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM386N-3-NOPB/296-43959-5-ND/148191" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR .7W MONO 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -400 100 200 -800 0 1 0 f
-X CT 1 -600 0 200 R 50 50 1 1 I
-X ~SHDN 2 -600 -100 200 R 50 50 1 1 I
-X CG 3 -600 -200 200 R 50 50 1 1 I
-X NC 4 400 -500 200 L 50 50 1 1 N
-X VDD 5 -100 300 200 D 50 50 1 1 W
-X MICOUT 6 400 -200 200 L 50 50 1 1 I
-X GND 7 -100 -1000 200 U 50 50 1 1 W
-X MICIN 8 -600 -300 200 R 50 50 1 1 I
-X AR 9 -600 -400 200 R 50 50 1 1 I
-X GAIN 10 -600 -500 200 R 50 50 1 1 I
-X NC 11 400 -600 200 L 50 50 1 1 N
-X BIAS 12 -600 -600 200 R 50 50 1 1 I
-X MICBIAS 13 400 -300 200 L 50 50 1 1 I
-X TH 14 -600 -700 200 R 50 50 1 1 I
-X ~ 15 400 -700 200 L 50 50 1 1 U
+S -500 200 200 -300 0 1 0 f
+X Gain 1 -700 100 200 R 50 50 1 1 I
+X IN- 2 -700 0 200 R 50 50 1 1 I
+X IN+ 3 -700 -100 200 R 50 50 1 1 I
+X GND 4 -200 -500 200 U 50 50 1 1 W
+X VOUT 5 400 0 200 L 50 50 1 1 O
+X Vs 6 -200 400 200 D 50 50 1 1 W
+X BYPASS 7 400 -100 200 L 50 50 1 1 O
+X Gain 8 -700 -200 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LM386N-4_NOPB
+#
+DEF LM386N-4_NOPB U 0 40 Y Y 1 F N
+F0 "U" -400 250 60 H V C C N N
+F1 "LM386N-4_NOPB" 300 -400 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
+F4 "296-43960-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM386N-4/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM386N-4-NOPB/296-43960-5-ND/148192" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 1W MONO AB 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -500 200 200 -300 0 1 0 f
+X Gain 1 -700 100 200 R 50 50 1 1 I
+X IN- 2 -700 0 200 R 50 50 1 1 I
+X IN+ 3 -700 -100 200 R 50 50 1 1 I
+X GND 4 -200 -500 200 U 50 50 1 1 W
+X VOUT 5 400 0 200 L 50 50 1 1 O
+X Vs 6 -200 400 200 D 50 50 1 1 W
+X BYPASS 7 400 -100 200 L 50 50 1 1 O
+X Gain 8 -700 -200 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# TPA2005D1DGNRQ1
+#
+DEF TPA2005D1DGNRQ1 U 0 40 Y Y 1 F N
+F0 "U" -400 250 60 H V C C N N
+F1 "TPA2005D1DGNRQ1" 300 -500 60 H V C C N N
+F2 "digikey-footprints:MSOP-8-1EP_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf" 200 300 60 H I L C N N
+F4 "296-24831-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPA2005D1DGNRQ1" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPA2005D1DGNRQ1/296-24831-1-ND/2094669" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 1.4W D 8MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -500 200 100 -400 0 1 0 f
+X ~Shutdown 1 -700 100 200 R 50 50 1 1 I
+X NC 2 -700 0 200 R 50 50 1 1 N
+X IN+ 3 -700 -100 200 R 50 50 1 1 I
+X IN- 4 -700 -200 200 R 50 50 1 1 I
+X VO+ 5 300 -200 200 L 50 50 1 1 O
+X VDD 6 0 400 200 D 50 50 1 1 W
+X GND 7 -200 -600 200 U 50 50 1 1 W
+X VO- 8 300 -100 200 L 50 50 1 1 O
+X ~ 9 -700 -300 200 R 50 50 1 1 U
 ENDDRAW
 ENDDEF
 #
@@ -100,7 +123,7 @@ ENDDEF
 DEF TDA7293V U 0 40 Y Y 1 F N
 F0 "U" -500 550 60 H V C C N N
 F1 "TDA7293V" 100 0 60 V V C C N N
-F2 "digikey-footprints:15-Multiwatt" 200 200 60 H I L C N N
+F2 "digikey-footprints:Multiwatt-15" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/4f/18/a6/c8/21/33/41/8d/CD00001887.pdf/files/CD00001887.pdf/jcr:content/translations/en.CD00001887.pdf" 200 300 60 H I L C N N
 F4 "497-2170-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TDA7293V" 200 500 60 H I L CNN "MPN"
@@ -110,6 +133,7 @@ F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/4f/18/a6
 F9 "/product-detail/en/stmicroelectronics/TDA7293V/497-2170-5-ND/599502" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO 100W AB MULTIWATT15" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -600 500 600 -700 0 1 0 f
 X STAND-BY_GND 1 200 -900 200 U 50 50 1 1 W
@@ -135,7 +159,7 @@ ENDDEF
 DEF TDA7294V U 0 40 Y Y 1 F N
 F0 "U" -200 700 60 H V C C N N
 F1 "TDA7294V" 600 -600 60 V V C C N N
-F2 "digikey-footprints:15-Multiwatt" 200 200 60 H I L C N N
+F2 "digikey-footprints:Multiwatt-15" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf" 200 300 60 H I L C N N
 F4 "497-2171-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TDA7294V" 200 500 60 H I L CNN "MPN"
@@ -145,6 +169,7 @@ F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa
 F9 "/product-detail/en/stmicroelectronics/TDA7294V/497-2171-5-ND/599496" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO 100W AB MULTIWATT15" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -400 600 500 -700 0 1 0 f
 X STAND-BY_GND 1 100 -900 200 U 50 50 1 1 W
@@ -165,44 +190,120 @@ X -Vs(PWR) 15 300 -900 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# TPA2016D2RTJR
+# LM386MX-1_NOPB
 #
-DEF TPA2016D2RTJR U 0 40 Y Y 1 F N
-F0 "U" -250 150 60 H V C C N N
-F1 "TPA2016D2RTJR" 600 -1100 60 H V C C N N
-F2 "digikey-footprints:20-WQFN_(4x4)" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf" 200 300 60 H I L C N N
-F4 "296-25430-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPA2016D2RTJR" 200 500 60 H I L CNN "MPN"
+DEF LM386MX-1_NOPB U 0 0 Y Y 1 F N
+F0 "U" -200 200 60 H V C C N N
+F1 "LM386MX-1_NOPB" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
+F4 "LM386MX-1/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM386MX-1/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPA2016D2RTJR/296-25430-1-ND/2183791" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 2.8W D 20QFN" 200 1000 60 H I L CNN "Description"
+F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM386MX-1-NOPB/LM386MX-1-NOPBCT-ND/3440154" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR .325W AB 8SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -300 100 500 -1000 0 1 0 f
-X INL+ 1 -500 -200 200 R 50 50 1 1 I
-X INL- 2 -500 -300 200 R 50 50 1 1 I
-X AGND 3 0 -1200 200 U 50 50 1 1 W
-X PVDDL 4 300 300 200 D 50 50 1 1 W
-X PVDDL 5 400 300 200 D 50 50 1 1 W
-X OUTL+ 6 700 -500 200 L 50 50 1 1 O
-X OUTL- 7 700 -600 200 L 50 50 1 1 O
-X PGND 8 100 -1200 200 U 50 50 1 1 W
-X OUTR- 9 700 -400 200 L 50 50 1 1 O
-X OUTR+ 10 700 -300 200 L 50 50 1 1 O
-X NC 20 -500 -800 200 R 50 50 1 1 N
-X PVDDR 11 200 300 200 D 50 50 1 1 W
-X ~ 21 -500 -900 200 R 50 50 1 1 U
-X PVDDR 12 100 300 200 D 50 50 1 1 W
-X AVDD 13 0 300 200 D 50 50 1 1 W
-X INR- 14 -500 -100 200 R 50 50 1 1 I
-X INR+ 15 -500 0 200 R 50 50 1 1 I
-X NC 16 -500 -700 200 R 50 50 1 1 N
-X SCL 17 -500 -600 200 R 50 50 1 1 I
-X SDZ 18 -500 -400 200 R 50 50 1 1 I
-X SDA 19 -500 -500 200 R 50 50 1 1 B
+S -200 100 100 -400 0 1 0 f
+P 4 0 1 0 -200 -200 -150 -200 -150 -175 -100 -175 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 0 -150 50 -150 50 -100 100 -100 N
+X GAIN 1 -400 0 200 R 50 50 1 1 I
+X INPUT- 2 -400 -100 200 R 50 50 1 1 I
+X INPUT+ 3 -400 -200 200 R 50 50 1 1 I
+X GND 4 0 -600 200 U 50 50 1 1 W
+X VOUT 5 300 -100 200 L 50 50 1 1 O
+X VS 6 0 300 200 D 50 50 1 1 W
+X BYPASS 7 300 -300 200 L 50 50 1 1 O
+X GAIN 8 -400 -300 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MAX4466EXK_T
+#
+DEF MAX4466EXK_T U 0 40 Y Y 1 F N
+F0 "U" -150 150 60 H V C C N N
+F1 "MAX4466EXK_T" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-353" 200 200 60 H I L C N N
+F3 "http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 300 60 H I L C N N
+F4 "MAX4466EXK+CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX4466EXK+T" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
+F8 "http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX4466EXK-T/MAX4466EXK-CT-ND/5405773" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC PREAMP AUDIO MONO AB SC70-5" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 200 -400 0 1 0 f
+X IN+ 1 -400 -100 200 R 50 50 1 1 I
+X GND 2 0 -600 200 U 50 50 1 1 W
+X IN- 3 -400 -200 200 R 50 50 1 1 I
+X OUT 4 400 -100 200 L 50 50 1 1 O
+X VCC 5 0 300 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LM3886T_NOPB
+#
+DEF LM3886T_NOPB U 0 40 Y Y 1 F N
+F0 "U" -200 200 60 H V C C N N
+F1 "LM3886T_NOPB" 0 500 60 H V C C N N
+F2 "digikey-footprints:TO-220-11" 200 200 60 V I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm3886.pdf" 200 300 60 V I L C N N
+F4 "LM3886T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM3886T/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm3886.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM3886T-NOPB/LM3886T-NOPB-ND/212684" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 68W AB TO220-11" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 100 300 -600 0 1 0 f
+X V+ 1 200 300 200 D 50 50 1 1 W
+X NC 2 -500 -300 200 R 50 50 1 1 N
+X OUT 3 500 -200 200 L 50 50 1 1 O
+X V- 4 0 300 200 D 50 50 1 1 W
+X V+ 5 100 300 200 D 50 50 1 1 W
+X NC 6 -500 -400 200 R 50 50 1 1 N
+X GND 7 200 -800 200 U 50 50 1 1 W
+X MUTE 8 -500 0 200 R 50 50 1 1 I
+X VIN- 9 -500 -100 200 R 50 50 1 1 I
+X VIN+ 10 -500 -200 200 R 50 50 1 1 I
+X NC 11 -500 -500 200 R 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+# LM1875T_NOPB
+#
+DEF LM1875T_NOPB U 0 0 Y Y 1 F N
+F0 "U" -200 250 60 H V C C N N
+F1 "LM1875T_NOPB" 0 500 60 H V C C N N
+F2 "digikey-footprints:TO-220-5" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm1875.pdf" 200 300 60 H I L C N N
+F4 "LM1875T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM1875T/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm1875.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM1875T-NOPB/LM1875T-NOPB-ND/1669" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 30W AB TO220-5" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 4 0 1 0 200 0 -200 200 -200 -200 200 0 f
+X IN+ 1 -400 -100 200 R 50 50 1 1 I
+X IN- 2 -400 100 200 R 50 50 1 1 I
+X VEE- 3 0 300 200 D 50 50 1 1 W
+X OUT 4 400 0 200 L 50 50 1 1 O
+X VCC 5 0 -300 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
@@ -211,7 +312,7 @@ ENDDEF
 DEF MAX9744ETH_T U 0 40 Y Y 1 F N
 F0 "U" -600 950 60 H V C C N N
 F1 "MAX9744ETH_T" -100 -100 60 V V C C N N
-F2 "digikey-footprints:44-TQFN-EP_(7x7)" 200 200 60 H I L C N N
+F2 "digikey-footprints:TQFN-44-1EP_7x7mm" 200 200 60 H I L C N N
 F3 "http://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 200 300 60 H I L C N N
 F4 "MAX9744ETH+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX9744ETH+T" 200 500 60 H I L CNN "MPN"
@@ -221,6 +322,7 @@ F8 "http://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 200 800 60 H I L CN
 F9 "/product-detail/en/maxim-integrated/MAX9744ETH-T/MAX9744ETH-TCT-ND/2708799" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR 22.5W D 44TQFN" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -700 900 500 -1100 0 1 0 f
 X BOOTL+ 1 700 600 200 L 50 50 1 1 O
@@ -271,229 +373,141 @@ X PGND 39 100 -1300 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# MAX4466EXK_T
+# MAX98306ETD_T
 #
-DEF MAX4466EXK_T U 0 40 Y Y 1 F N
+DEF MAX98306ETD_T U 0 0 Y Y 1 F N
 F0 "U" -150 150 60 H V C C N N
-F1 "MAX4466EXK_T" 0 500 60 H V C C N N
-F2 "digikey-footprints:5-TSSOP" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 300 60 H I L C N N
-F4 "MAX4466EXK+CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX4466EXK+T" 200 500 60 H I L CNN "MPN"
+F1 "MAX98306ETD_T" 0 500 60 H V C C N N
+F2 "digikey-footprints:WFDFN-14-1EP_3x3mm" 200 200 60 H I L C N N
+F3 "http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 300 60 H I L C N N
+F4 "MAX98306ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX98306ETD+T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/MAX4466EXK-T/MAX4466EXK-CT-ND/5405773" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC PREAMP AUDIO MONO AB SC70-5" 200 1000 60 H I L CNN "Description"
+F8 "http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX98306ETD-T/MAX98306ETD-TCT-ND/2708785" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO 3.7W STER D 14TDFN" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -200 100 200 -400 0 1 0 f
-X IN+ 1 -400 -100 200 R 50 50 1 1 I
-X GND 2 0 -600 200 U 50 50 1 1 W
-X IN- 3 -400 -200 200 R 50 50 1 1 I
-X OUT 4 400 -100 200 L 50 50 1 1 O
-X VCC 5 0 300 200 D 50 50 1 1 W
+S -200 100 200 -800 0 1 0 f
+S -100 -200 100 -300 0 1 0 N
+P 2 0 1 0 -200 -500 -100 -500 N
+P 2 0 1 0 -200 -100 -100 -100 N
+P 2 0 1 0 -150 -550 50 -350 N
+P 2 0 1 0 -150 -150 50 50 N
+P 2 0 1 0 -100 -400 -200 -400 N
+P 2 0 1 0 -100 0 -200 0 N
+P 2 0 1 0 -90 -510 -50 -510 N
+P 2 0 1 0 -90 -400 -50 -400 N
+P 2 0 1 0 -90 -110 -50 -110 N
+P 2 0 1 0 -90 0 -50 0 N
+P 2 0 1 0 -70 -380 -70 -420 N
+P 2 0 1 0 -70 20 -70 -20 N
+P 2 0 1 0 -50 -375 -50 -300 N
+P 2 0 1 0 -50 -125 -50 -200 N
+P 2 0 1 0 200 -500 0 -500 N
+P 2 0 1 0 200 -400 0 -400 N
+P 2 0 1 0 200 -100 0 -100 N
+P 2 0 1 0 200 0 0 0 N
+P 4 0 1 0 -200 -300 -150 -300 -150 -250 -100 -250 N
+P 4 0 1 0 -100 -350 -100 -550 100 -450 -100 -350 N
+P 4 0 1 0 -100 50 -100 -150 100 -50 -100 50 N
+P 4 0 1 0 0 -375 50 -350 25 -400 0 -375 F
+P 4 0 1 0 0 25 50 50 25 0 0 25 F
+X PGND 1 -100 -1000 200 U 50 50 1 1 W
+X ~SHDN 2 -400 -700 200 R 50 50 1 1 I
+X INL+ 3 -400 0 200 R 50 50 1 1 I
+X INL- 4 -400 -100 200 R 50 50 1 1 I
+X GAIN 5 -400 -300 200 R 50 50 1 1 I
+X INR- 6 -400 -500 200 R 50 50 1 1 I
+X INR+ 7 -400 -400 200 R 50 50 1 1 I
+X PGND 8 0 -1000 200 U 50 50 1 1 W
+X OUTR- 9 400 -500 200 L 50 50 1 1 O
+X OUTR+ 10 400 -400 200 L 50 50 1 1 O
+X PVDD 11 0 300 200 D 50 50 1 1 W
+X PVDD 12 100 300 200 D 50 50 1 1 W
+X OUTL+ 13 400 0 200 L 50 50 1 1 O
+X OUTL- 14 400 -100 200 L 50 50 1 1 O
+X GND/PAD 15 100 -1000 200 U 50 50 1 1 U
 ENDDRAW
 ENDDEF
 #
-# LM386N-1_NOPB
+# MAX9814ETD_T
 #
-DEF LM386N-1_NOPB U 0 40 Y Y 1 F N
-F0 "U" -400 250 60 H V C C N N
-F1 "LM386N-1_NOPB" 300 -400 60 H V C C N N
-F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
-F4 "296-44414-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM386N-1/NOPB" 200 500 60 H I L CNN "MPN"
+DEF MAX9814ETD_T U 0 40 Y Y 1 F N
+F0 "U" -300 150 60 H V C C N N
+F1 "MAX9814ETD_T" 0 400 60 H V C C N N
+F2 "digikey-footprints:WFDFN-14-1EP_3x3mm" 200 200 60 H I L C N N
+F3 "http://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 300 60 H I L C N N
+F4 "MAX9814ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX9814ETD+T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM386N-1-NOPB/296-44414-5-ND/6284" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR .325W MONO 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX9814ETD-T/MAX9814ETD-TCT-ND/2037128" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO MONO AB MIC 14TDFN" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -500 200 200 -300 0 1 0 f
-X Gain 1 -700 100 200 R 50 50 1 1 I
-X IN- 2 -700 0 200 R 50 50 1 1 I
-X IN+ 3 -700 -100 200 R 50 50 1 1 I
-X GND 4 -200 -500 200 U 50 50 1 1 W
-X VOUT 5 400 0 200 L 50 50 1 1 O
-X Vs 6 -200 400 200 D 50 50 1 1 W
-X BYPASS 7 400 -100 200 L 50 50 1 1 O
-X Gain 8 -700 -200 200 R 50 50 1 1 I
+S -400 100 200 -800 0 1 0 f
+X CT 1 -600 0 200 R 50 50 1 1 I
+X ~SHDN 2 -600 -100 200 R 50 50 1 1 I
+X CG 3 -600 -200 200 R 50 50 1 1 I
+X NC 4 400 -500 200 L 50 50 1 1 N
+X VDD 5 -100 300 200 D 50 50 1 1 W
+X MICOUT 6 400 -200 200 L 50 50 1 1 I
+X GND 7 -100 -1000 200 U 50 50 1 1 W
+X MICIN 8 -600 -300 200 R 50 50 1 1 I
+X AR 9 -600 -400 200 R 50 50 1 1 I
+X GAIN 10 -600 -500 200 R 50 50 1 1 I
+X NC 11 400 -600 200 L 50 50 1 1 N
+X BIAS 12 -600 -600 200 R 50 50 1 1 I
+X MICBIAS 13 400 -300 200 L 50 50 1 1 I
+X TH 14 -600 -700 200 R 50 50 1 1 I
+X ~ 15 400 -700 200 L 50 50 1 1 U
 ENDDRAW
 ENDDEF
 #
-# LM386N-3_NOPB
+# TPA2016D2RTJR
 #
-DEF LM386N-3_NOPB U 0 40 Y Y 1 F N
-F0 "U" -400 250 60 H V C C N N
-F1 "LM386N-3_NOPB" 300 -400 60 H V C C N N
-F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
-F4 "296-43959-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM386N-3/NOPB" 200 500 60 H I L CNN "MPN"
+DEF TPA2016D2RTJR U 0 40 Y Y 1 F N
+F0 "U" -250 150 60 H V C C N N
+F1 "TPA2016D2RTJR" 600 -1100 60 H V C C N N
+F2 "digikey-footprints:WQFN-20-1EP_4x4mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf" 200 300 60 H I L C N N
+F4 "296-25430-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPA2016D2RTJR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM386N-3-NOPB/296-43959-5-ND/148191" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR .7W MONO 8DIP" 200 1000 60 H I L CNN "Description"
+F8 "http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPA2016D2RTJR/296-25430-1-ND/2183791" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC AMP AUDIO PWR 2.8W D 20QFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -500 200 200 -300 0 1 0 f
-X Gain 1 -700 100 200 R 50 50 1 1 I
-X IN- 2 -700 0 200 R 50 50 1 1 I
-X IN+ 3 -700 -100 200 R 50 50 1 1 I
-X GND 4 -200 -500 200 U 50 50 1 1 W
-X VOUT 5 400 0 200 L 50 50 1 1 O
-X Vs 6 -200 400 200 D 50 50 1 1 W
-X BYPASS 7 400 -100 200 L 50 50 1 1 O
-X Gain 8 -700 -200 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# LM386N-4_NOPB
-#
-DEF LM386N-4_NOPB U 0 40 Y Y 1 F N
-F0 "U" -400 250 60 H V C C N N
-F1 "LM386N-4_NOPB" 300 -400 60 H V C C N N
-F2 "digikey-footprints:8-DIP" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
-F4 "296-43960-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM386N-4/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM386N-4-NOPB/296-43960-5-ND/148192" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 1W MONO AB 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-DRAW
-S -500 200 200 -300 0 1 0 f
-X Gain 1 -700 100 200 R 50 50 1 1 I
-X IN- 2 -700 0 200 R 50 50 1 1 I
-X IN+ 3 -700 -100 200 R 50 50 1 1 I
-X GND 4 -200 -500 200 U 50 50 1 1 W
-X VOUT 5 400 0 200 L 50 50 1 1 O
-X Vs 6 -200 400 200 D 50 50 1 1 W
-X BYPASS 7 400 -100 200 L 50 50 1 1 O
-X Gain 8 -700 -200 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# TPA2005D1DGNRQ1
-#
-DEF TPA2005D1DGNRQ1 U 0 40 Y Y 1 F N
-F0 "U" -400 250 60 H V C C N N
-F1 "TPA2005D1DGNRQ1" 300 -500 60 H V C C N N
-F2 "digikey-footprints:8-MSOP_(Exposed_Pad)" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf" 200 300 60 H I L C N N
-F4 "296-24831-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "TPA2005D1DGNRQ1" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/TPA2005D1DGNRQ1/296-24831-1-ND/2094669" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 1.4W D 8MSOP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-DRAW
-S -500 200 100 -400 0 1 0 f
-X ~Shutdown 1 -700 100 200 R 50 50 1 1 I
-X NC 2 -700 0 200 R 50 50 1 1 N
-X IN+ 3 -700 -100 200 R 50 50 1 1 I
-X IN- 4 -700 -200 200 R 50 50 1 1 I
-X VO+ 5 300 -200 200 L 50 50 1 1 O
-X VDD 6 0 400 200 D 50 50 1 1 W
-X GND 7 -200 -600 200 U 50 50 1 1 W
-X VO- 8 300 -100 200 L 50 50 1 1 O
-X ~ 9 -700 -300 200 R 50 50 1 1 U
-ENDDRAW
-ENDDEF
-#
-# LM386MX-1_NOPB
-#
-DEF LM386MX-1_NOPB U 0 0 Y Y 1 F N
-F0 "U" -200 200 60 H V C C N N
-F1 "LM386MX-1_NOPB" 0 500 60 H V C C N N
-F2 "digikey-footprints:8-SOIC_(3.90mm_Width)" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
-F4 "LM386MX-1/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM386MX-1/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM386MX-1-NOPB/LM386MX-1-NOPBCT-ND/3440154" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR .325W AB 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-DRAW
-S -200 100 100 -400 0 1 0 f
-P 4 0 1 0 -200 -200 -150 -200 -150 -175 -100 -175 N
-P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
-P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
-P 4 0 1 0 0 -150 50 -150 50 -100 100 -100 N
-X GAIN 1 -400 0 200 R 50 50 1 1 I
-X INPUT- 2 -400 -100 200 R 50 50 1 1 I
-X INPUT+ 3 -400 -200 200 R 50 50 1 1 I
-X GND 4 0 -600 200 U 50 50 1 1 W
-X VOUT 5 300 -100 200 L 50 50 1 1 O
-X VS 6 0 300 200 D 50 50 1 1 W
-X BYPASS 7 300 -300 200 L 50 50 1 1 O
-X GAIN 8 -400 -300 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# LM3886T_NOPB
-#
-DEF LM3886T_NOPB U 0 40 Y Y 1 F N
-F0 "U" -200 200 60 H V C C N N
-F1 "LM3886T_NOPB" 0 500 60 H V C C N N
-F2 "digikey-footprints:TO-220-11" 200 200 60 V I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm3886.pdf" 200 300 60 V I L C N N
-F4 "LM3886T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM3886T/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm3886.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM3886T-NOPB/LM3886T-NOPB-ND/212684" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 68W AB TO220-11" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-DRAW
-S -300 100 300 -600 0 1 0 f
-X V+ 1 200 300 200 D 50 50 1 1 W
-X NC 2 -500 -300 200 R 50 50 1 1 N
-X OUT 3 500 -200 200 L 50 50 1 1 O
-X V- 4 0 300 200 D 50 50 1 1 W
-X V+ 5 100 300 200 D 50 50 1 1 W
-X NC 6 -500 -400 200 R 50 50 1 1 N
-X GND 7 200 -800 200 U 50 50 1 1 W
-X MUTE 8 -500 0 200 R 50 50 1 1 I
-X VIN- 9 -500 -100 200 R 50 50 1 1 I
-X VIN+ 10 -500 -200 200 R 50 50 1 1 I
-X NC 11 -500 -500 200 R 50 50 1 1 N
-ENDDRAW
-ENDDEF
-#
-# LM1875T_NOPB
-#
-DEF LM1875T_NOPB U 0 0 Y Y 1 F N
-F0 "U" -200 250 60 H V C C N N
-F1 "LM1875T_NOPB" 0 500 60 H V C C N N
-F2 "digikey-footprints:TO-220-5" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm1875.pdf" 200 300 60 H I L C N N
-F4 "LM1875T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM1875T/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm1875.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM1875T-NOPB/LM1875T-NOPB-ND/1669" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC AMP AUDIO PWR 30W AB TO220-5" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-DRAW
-P 4 0 1 0 200 0 -200 200 -200 -200 200 0 f
-X IN+ 1 -400 -100 200 R 50 50 1 1 I
-X IN- 2 -400 100 200 R 50 50 1 1 I
-X VEE- 3 0 300 200 D 50 50 1 1 W
-X OUT 4 400 0 200 L 50 50 1 1 O
-X VCC 5 0 -300 200 U 50 50 1 1 W
+S -300 100 500 -1000 0 1 0 f
+X INL+ 1 -500 -200 200 R 50 50 1 1 I
+X INL- 2 -500 -300 200 R 50 50 1 1 I
+X AGND 3 0 -1200 200 U 50 50 1 1 W
+X PVDDL 4 300 300 200 D 50 50 1 1 W
+X PVDDL 5 400 300 200 D 50 50 1 1 W
+X OUTL+ 6 700 -500 200 L 50 50 1 1 O
+X OUTL- 7 700 -600 200 L 50 50 1 1 O
+X PGND 8 100 -1200 200 U 50 50 1 1 W
+X OUTR- 9 700 -400 200 L 50 50 1 1 O
+X OUTR+ 10 700 -300 200 L 50 50 1 1 O
+X NC 20 -500 -800 200 R 50 50 1 1 N
+X PVDDR 11 200 300 200 D 50 50 1 1 W
+X ~ 21 -500 -900 200 R 50 50 1 1 U
+X PVDDR 12 100 300 200 D 50 50 1 1 W
+X AVDD 13 0 300 200 D 50 50 1 1 W
+X INR- 14 -500 -100 200 R 50 50 1 1 I
+X INR+ 15 -500 0 200 R 50 50 1 1 I
+X NC 16 -500 -700 200 R 50 50 1 1 N
+X SCL 17 -500 -600 200 R 50 50 1 1 I
+X SDZ 18 -500 -400 200 R 50 50 1 1 I
+X SDA 19 -500 -500 200 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #

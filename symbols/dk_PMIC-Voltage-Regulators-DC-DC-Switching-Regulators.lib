@@ -1,0 +1,63 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# AOZ1280CI
+#
+DEF AOZ1280CI U 0 40 Y Y 1 F N
+F0 "U" -100 150 60 H V C C N N
+F1 "AOZ1280CI" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
+F3 "http://aosmd.com/res/data_sheets/AOZ1280CI.pdf" 200 300 60 H I L C N N
+F4 "785-1277-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AOZ1280CI" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - DC DC Switching Regulators" 200 700 60 H I L CNN "Family"
+F8 "http://aosmd.com/res/data_sheets/AOZ1280CI.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/alpha-omega-semiconductor-inc/AOZ1280CI/785-1277-1-ND/2769845" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG BUCK ADJ 1.2A SOT23-6" 200 1000 60 H I L CNN "Description"
+F11 "Alpha & Omega Semiconductor Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 300 -300 0 1 0 f
+X BST 1 -400 0 200 R 50 50 1 1 I
+X GND 2 100 -500 200 U 50 50 1 1 W
+X FB 3 -400 -100 200 R 50 50 1 1 I
+X EN 4 -400 -200 200 R 50 50 1 1 I
+X VIN 5 100 300 200 D 50 50 1 1 W
+X LX 6 500 -100 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# TPS61200DRCR
+#
+DEF TPS61200DRCR U 0 40 Y Y 1 F N
+F0 "U" -200 150 60 H V C C N N
+F1 "TPS61200DRCR" 600 -700 60 H V C C N N
+F2 "digikey-footprints:VSON-10-1EP_3x3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tps61202.pdf" 200 300 60 H I L C N N
+F4 "296-27017-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPS61200DRCR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - DC DC Switching Regulators" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tps61202.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPS61200DRCR/296-27017-1-ND/2255303" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG BOOST ADJ 1.2A SYNC 10SON" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 100 200 -600 0 1 0 f
+X VAUX 1 -500 -500 200 R 50 50 1 1 B
+X VOUT 2 400 -200 200 L 50 50 1 1 O
+X L 3 -500 -300 200 R 50 50 1 1 I
+X PGND 4 0 -800 200 U 50 50 1 1 W
+X VIN 5 0 300 200 D 50 50 1 1 W
+X EN 6 -500 0 200 R 50 50 1 1 I
+X UVLO 7 -500 -400 200 R 50 50 1 1 I
+X PS 8 -500 -200 200 R 50 50 1 1 I
+X GND 9 100 -800 200 U 50 50 1 1 W
+X FB 10 -500 -100 200 R 50 50 1 1 I
+X ~ 11 400 -300 200 L 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

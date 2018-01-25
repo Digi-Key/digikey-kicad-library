@@ -1,0 +1,149 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# AD595AQ
+#
+DEF AD595AQ U 0 40 Y Y 1 F N
+F0 "U" -350 350 60 H V C C N N
+F1 "AD595AQ" -100 -200 60 V V C C N N
+F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD594_595.pdf" 200 300 60 H I L C N N
+F4 "AD595AQ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AD595AQ" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Thermal Management" 200 700 60 H I L CNN "Family"
+F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD594_595.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/analog-devices-inc/AD595AQ/AD595AQ-ND/612045" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC THERMOCOUPLE A W/COMP 14CDIP" 200 1000 60 H I L CNN "Description"
+F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 300 300 -700 0 1 0 f
+X +IN 1 -600 100 200 R 50 50 1 1 I
+X +C 2 500 200 200 L 50 50 1 1 O
+X +T 3 500 -100 200 L 50 50 1 1 U
+X COM 4 500 -300 200 L 50 50 1 1 U
+X -T 5 500 -200 200 L 50 50 1 1 U
+X -C 6 500 100 200 L 50 50 1 1 O
+X V- 7 0 -900 200 U 50 50 1 1 W
+X FB 8 -600 -100 200 R 50 50 1 1 I
+X VO 9 500 0 200 L 50 50 1 1 O
+X COMP 10 500 -400 200 L 50 50 1 1 U
+X V+ 11 -100 500 200 D 50 50 1 1 W
+X +ALM 12 500 -500 200 L 50 50 1 1 U
+X -ALM 13 500 -600 200 L 50 50 1 1 U
+X -IN 14 -600 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTC2990IMS_PBF
+#
+DEF LTC2990IMS_PBF U 0 40 Y Y 1 F N
+F0 "U" -200 250 60 H V C C N N
+F1 "LTC2990IMS_PBF" 0 600 60 H V C C N N
+F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/29813" 200 300 60 H I L C N N
+F4 "LTC2990IMS#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC2990IMS#PBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Thermal Management" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/29813" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC2990IMS-PBF/LTC2990IMS-PBF-ND/2407347" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TEMP/VOLT/CUR MONITOR 10MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 200 -700 0 1 0 f
+X V1 1 -500 100 200 R 50 50 1 1 I
+X V2 2 -500 0 200 R 50 50 1 1 I
+X V3 3 -500 -100 200 R 50 50 1 1 I
+X V4 4 -500 -200 200 R 50 50 1 1 I
+X GND 5 0 -900 200 U 50 50 1 1 W
+X SDA 6 -500 -300 200 R 50 50 1 1 B
+X SCL 7 -500 -400 200 R 50 50 1 1 I
+X ADR0 8 -500 -500 200 R 50 50 1 1 I
+X ADR1 9 -500 -600 200 R 50 50 1 1 I
+X VCC 10 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LTC2991IMS_PBF
+#
+DEF LTC2991IMS_PBF U 0 40 Y Y 1 F N
+F0 "U" -200 450 60 H V C C N N
+F1 "LTC2991IMS_PBF" 0 -350 60 V V C C N N
+F2 "digikey-footprints:TFSOP-16_W3.00mm" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/40232" 200 300 60 H I L C N N
+F4 "LTC2991IMS#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC2991IMS#PBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Thermal Management" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/40232" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC2991IMS-PBF/LTC2991IMS-PBF-ND/2734961" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MONITOR OCTAL 16MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 400 300 -1100 0 1 0 f
+X V1 1 -500 200 200 R 50 50 1 1 I
+X V2 2 -500 100 200 R 50 50 1 1 I
+X V3 3 -500 0 200 R 50 50 1 1 I
+X V4 4 -500 -100 200 R 50 50 1 1 I
+X V5 5 -500 -200 200 R 50 50 1 1 I
+X V6 6 -500 -300 200 R 50 50 1 1 I
+X V7 7 -500 -400 200 R 50 50 1 1 I
+X V8 8 -500 -500 200 R 50 50 1 1 I
+X GND 9 0 -1300 200 U 50 50 1 1 W
+X SDA 10 -500 -600 200 R 50 50 1 1 B
+X SCL 11 -500 -700 200 R 50 50 1 1 I
+X PWM 12 500 -100 200 L 50 50 1 1 O
+X ADR0 13 -500 -800 200 R 50 50 1 1 I
+X ADR1 14 -500 -900 200 R 50 50 1 1 I
+X ADR2 15 -500 -1000 200 R 50 50 1 1 I
+X VCC 16 0 600 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MAX31865ATP_
+#
+DEF MAX31865ATP_ U 0 40 Y Y 1 F N
+F0 "U" -300 250 60 H V C C N N
+F1 "MAX31865ATP_" 0 600 60 H V C C N N
+F2 "digikey-footprints:TQFN-20-1EP_5x5mm" 200 200 60 H I L C N N
+F3 "http://datasheets.maximintegrated.com/en/ds/MAX31865.pdf" 200 300 60 H I L C N N
+F4 "MAX31865ATP+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX31865ATP+" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Thermal Management" 200 700 60 H I L CNN "Family"
+F8 "http://datasheets.maximintegrated.com/en/ds/MAX31865.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX31865ATP-/MAX31865ATP--ND/3681476" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC RTD TO DIGITAL CONVERT 20QFN" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 200 300 -1000 0 1 0 f
+X BIAS 1 500 -100 200 L 50 50 1 1 O
+X REFIN+ 2 -600 100 200 R 50 50 1 1 I
+X REFOM- 3 -600 0 200 R 50 50 1 1 I
+X ISENSOR 4 -600 -100 200 R 50 50 1 1 I
+X FORCE+ 5 500 -200 200 L 50 50 1 1 O
+X FORCE2 6 -600 -200 200 R 50 50 1 1 I
+X RTDIN+ 7 -600 -300 200 R 50 50 1 1 I
+X RTDIN- 8 -600 -400 200 R 50 50 1 1 I
+X FORCE- 9 -600 -500 200 R 50 50 1 1 I
+X GND2 10 100 -1200 200 U 50 50 1 1 W
+X VDD 20 100 400 200 D 50 50 1 1 W
+X SDI 11 -600 -600 200 R 50 50 1 1 I
+X GND/PAD 21 200 -1200 200 U 50 50 1 1 U
+X SCLK 12 -600 -700 200 R 50 50 1 1 I
+X ~CS 13 -600 -800 200 R 50 50 1 1 I
+X SDO 14 500 -300 200 L 50 50 1 1 O
+X DGND 15 -100 -1200 200 U 50 50 1 1 W
+X GND1 16 0 -1200 200 U 50 50 1 1 W
+X NC 17 -600 -900 200 R 50 50 1 1 N
+X ~DRDY 18 500 -400 200 L 50 50 1 1 O
+X DVDD 19 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

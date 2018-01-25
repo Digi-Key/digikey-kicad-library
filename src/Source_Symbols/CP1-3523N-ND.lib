@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CP1-3523N-ND
+#
+DEF CP1-3523N-ND U 0 40 Y Y 1 F N
+F0 "CON" 0 300 60 H V C C N N
+F1 "CP1-3523N-ND" 0 400 60 H V C C N N
+F2 "digikey-footprints:Headphone_Jack_2.5mm_SJ1-3523N" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S -200 200 200 -200 0 1 0 f
+X SLEEVE 1 -400 100 200 R 50 50 1 1 B
+X TIP 2 -400 0 200 R 50 50 1 1 B
+X RING 3 -400 -100 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

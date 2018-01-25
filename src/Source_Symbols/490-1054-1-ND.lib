@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 490-1054-1-ND
+#
+DEF 490-1054-1-ND U 0 40 Y Y 1 F N
+F0 "FB" 0 200 60 H V C C N N
+F1 "490-1054-1-ND" 0 300 60 H V C C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+P 2 0 1 0 -50 0 -100 0 N
+P 2 0 1 0 50 0 100 0 N
+P 5 0 1 0 -50 100 -100 50 50 -100 100 -50 -50 100 f
+X ~ 1 -300 0 200 R 50 50 1 1 I
+X ~ 2 300 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library

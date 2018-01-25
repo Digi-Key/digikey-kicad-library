@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# PRT-13612
+#
+DEF PRT-13612 U 0 40 Y Y 1 F N
+F0 "NA" -100 200 60 H V C C N N
+F1 "PRT-13612" 300 -200 60 H V C C N N
+F2 "digikey-footprints:Thermocouple_Connector_PCC-SMP-K" 200 200 60 H I L C N N
+F3 "https://cdn.sparkfun.com/datasheets/Prototyping/PCC-SMP-K-datasheet.pdf" 200 300 60 H I L C N N
+F4 "1568-1306-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "PRT-13612" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Accessories" 200 700 60 H I L CNN "Family"
+F8 "https://cdn.sparkfun.com/datasheets/Prototyping/PCC-SMP-K-datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/sparkfun-electronics/PRT-13612/1568-1306-ND/5762456" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "THERMOCOUPLE CONN - PCC-SMP-K" 200 1000 60 H I L CNN "Description"
+F11 "SparkFun Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 100 -100 0 1 0 f
+X ~ + -400 0 200 R 50 50 1 1 I
+X ~ - 300 0 200 L 50 50 1 1 I
+X ~ 1 -100 -300 200 U 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

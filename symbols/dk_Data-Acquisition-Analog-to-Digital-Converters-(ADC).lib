@@ -1,0 +1,103 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MCP3008-I_P
+#
+DEF MCP3008-I_P U 0 40 Y Y 1 F N
+F0 "U" -200 650 60 H V C C N N
+F1 "MCP3008-I_P" 200 -100 60 V V C C N N
+F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011593" 200 300 60 H I L C N N
+F4 "MCP3008-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP3008-I/P" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Data Acquisition - Analog to Digital Converters (ADC)" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011593" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP3008-I-P/MCP3008-I-P-ND/319422" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC ADC 10BIT 2.7V 8CH SPI 16DIP" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 600 300 -700 0 1 0 f
+X CH0 1 -500 500 200 R 50 50 1 1 I
+X CH1 2 -500 400 200 R 50 50 1 1 I
+X CH2 3 -500 300 200 R 50 50 1 1 I
+X CH3 4 -500 200 200 R 50 50 1 1 I
+X CH4 5 -500 100 200 R 50 50 1 1 I
+X CH5 6 -500 0 200 R 50 50 1 1 I
+X CH6 7 -500 -100 200 R 50 50 1 1 I
+X CH7 8 -500 -200 200 R 50 50 1 1 I
+X DGND 9 0 -900 200 U 50 50 1 1 W
+X ~CS~/SHDN 10 -500 -300 200 R 50 50 1 1 I
+X DIN 11 -500 -400 200 R 50 50 1 1 I
+X DOUT 12 500 400 200 L 50 50 1 1 O
+X CLK 13 -500 -500 200 R 50 50 1 1 I
+X AGND 14 100 -900 200 U 50 50 1 1 W
+X VREF 15 -500 -600 200 R 50 50 1 1 I
+X VDD 16 0 800 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# ADS1015IDGST
+#
+DEF ADS1015IDGST U 0 40 Y Y 1 F N
+F0 "U" -250 350 60 H V C C N N
+F1 "ADS1015IDGST" 500 -600 60 H V C C N N
+F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/ads1013.pdf" 200 300 60 H I L C N N
+F4 "296-25227-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "ADS1015IDGST" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Data Acquisition - Analog to Digital Converters (ADC)" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/ads1013.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/ADS1015IDGST/296-25227-1-ND/2174997" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC ADC 12BIT I2C W/REF 10-MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 400 -500 0 1 0 f
+X ADDR 1 -500 200 200 R 50 50 1 1 I
+X ALERT/RDY 2 600 0 200 L 50 50 1 1 O
+X GND 3 0 -700 200 U 50 50 1 1 W
+X AIN0 4 -500 100 200 R 50 50 1 1 I
+X AIN1 5 -500 0 200 R 50 50 1 1 I
+X AIN2 6 -500 -100 200 R 50 50 1 1 I
+X AIN3 7 -500 -200 200 R 50 50 1 1 I
+X VDD 8 0 500 200 D 50 50 1 1 W
+X SDA 9 -500 -400 200 R 50 50 1 1 B
+X SCL 10 -500 -300 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# ADS1115IDGST
+#
+DEF ADS1115IDGST U 0 40 Y Y 1 F N
+F0 "U" -250 350 60 H V C C N N
+F1 "ADS1115IDGST" 500 -600 60 H V C C N N
+F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/ads1113.pdf" 200 300 60 H I L C N N
+F4 "296-24934-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "ADS1115IDGST" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Data Acquisition - Analog to Digital Converters (ADC)" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/ads1113.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/ADS1115IDGST/296-24934-1-ND/2123298" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC ADC 16-BIT I2C PROGBL 10-MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 400 -500 0 1 0 f
+X ADDR 1 -500 200 200 R 50 50 1 1 I
+X ALERT/RDY 2 600 0 200 L 50 50 1 1 O
+X GND 3 0 -700 200 U 50 50 1 1 W
+X AIN0 4 -500 100 200 R 50 50 1 1 I
+X AIN1 5 -500 0 200 R 50 50 1 1 I
+X AIN2 6 -500 -100 200 R 50 50 1 1 I
+X AIN3 7 -500 -200 200 R 50 50 1 1 I
+X VDD 8 0 500 200 D 50 50 1 1 W
+X SDA 9 -500 -400 200 R 50 50 1 1 B
+X SCL 10 -500 -300 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

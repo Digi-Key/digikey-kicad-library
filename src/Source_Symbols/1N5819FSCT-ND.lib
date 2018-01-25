@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 1N5819FSCT-ND
+#
+DEF 1N5819FSCT-ND U 0 0 Y Y 1 F N
+F0 "D" 0 200 60 H V C C N N
+F1 "1N5819FSCT-ND" 0 300 60 H V C C N N
+F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+P 2 0 1 0 0 -50 -25 -50 N
+P 2 0 1 0 0 50 0 -50 N
+P 2 0 1 0 0 50 25 50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+X ~ 1 200 0 200 L 50 50 1 1 W
+X ~ 2 -300 0 200 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,45 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# AR1100-I_SS
+#
+DEF AR1100-I_SS U 0 40 Y Y 1 F N
+F0 "U" -400 850 60 H V C C N N
+F1 "AR1100-I_SS" 0 100 60 V V C C N N
+F2 "digikey-footprints:SSOP-20_W5.3mm" 200 200 60 H I L C N N
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/41606B.pdf" 200 300 60 H I L C N N
+F4 "AR1100-I/SS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AR1100-I/SS" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Data Acquisition - Touch Screen Controllers" 200 700 60 H I L CNN "Family"
+F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/41606B.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/AR1100-I-SS/AR1100-I-SS-ND/2749253" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TOUCH SCREEN CTRLR 20-SSOP" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -500 800 500 -600 0 1 0 f
+X VDD 1 0 1000 200 D 50 50 1 1 W
+X OSC1 2 700 500 200 L 50 50 1 1 O
+X OSC2 3 700 400 200 L 50 50 1 1 O
+X MODE 4 700 300 200 L 50 50 1 1 O
+X LED 5 -700 600 200 R 50 50 1 1 I
+X Y+ 6 -700 500 200 R 50 50 1 1 I
+X X+ 7 -700 400 200 R 50 50 1 1 I
+X SY- 8 700 200 200 L 50 50 1 1 O
+X SX+ 9 -700 300 200 R 50 50 1 1 I
+X UART-TX 10 700 -200 200 L 50 50 1 1 O
+X VSS 20 0 -800 200 U 50 50 1 1 W
+X WAKE 11 -700 200 200 R 50 50 1 1 I
+X UART-RX 12 -700 100 200 R 50 50 1 1 I
+X SX- 13 700 100 200 L 50 50 1 1 O
+X X- 14 700 0 200 L 50 50 1 1 O
+X Y+(SY+) 15 -700 0 200 R 50 50 1 1 I
+X Y- 16 700 -100 200 L 50 50 1 1 O
+X VUSB 17 -700 -100 200 R 50 50 1 1 I
+X USB_D- 18 -700 -200 200 R 50 50 1 1 B
+X USB_D+ 19 -700 -300 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

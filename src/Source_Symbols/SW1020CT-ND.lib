@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# SW1020CT-ND
+#
+DEF SW1020CT-ND U 0 40 Y Y 1 F N
+F0 "S" -150 175 60 H V C C N N
+F1 "SW1020CT-ND" 0 -150 60 H V C C N N
+F2 "digikey-footprints:Switch_Tactile_SMD_B3U-1000P" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S -200 100 200 -100 0 1 0 f
+P 2 0 1 0 -50 50 50 0 N
+P 2 0 1 0 -25 0 -200 0 N
+P 2 0 1 0 50 0 200 0 N
+X ~ 1 -400 0 200 R 50 50 1 1 B
+X ~ 2 400 0 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

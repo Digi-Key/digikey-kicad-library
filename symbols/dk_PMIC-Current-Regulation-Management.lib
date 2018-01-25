@@ -1,0 +1,168 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# INA226AIDGSR
+#
+DEF INA226AIDGSR U 0 40 Y Y 1 F N
+F0 "U" -150 150 60 H V C C N N
+F1 "INA226AIDGSR" 600 -800 60 H V C C N N
+F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/ina226.pdf" 200 300 60 H I L C N N
+F4 "296-29034-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "INA226AIDGSR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/ina226.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/INA226AIDGSR/296-29034-1-ND/2687118" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MONITOR PWR/CURR BIDIR 10MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 200 -700 0 1 0 f
+X A1 1 -400 -100 200 R 50 50 1 1 I
+X A0 2 -400 0 200 R 50 50 1 1 I
+X Alert 3 400 -200 200 L 50 50 1 1 O
+X SDA 4 -400 -500 200 R 50 50 1 1 B
+X SCL 5 -400 -400 200 R 50 50 1 1 I
+X VS 6 0 300 200 D 50 50 1 1 W
+X GND 7 100 -900 200 U 50 50 1 1 W
+X VBUS 8 -400 -600 200 R 50 50 1 1 I
+X IN- 9 -400 -300 200 R 50 50 1 1 I
+X IN+ 10 -400 -200 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# INA219AIDCNR
+#
+DEF INA219AIDCNR U 0 40 Y Y 1 F N
+F0 "U" -250 350 60 H V C C N N
+F1 "INA219AIDCNR" 200 0 60 V V C C N N
+F2 "digikey-footprints:SOT-23-8" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/ina219.pdf" 200 300 60 H I L C N N
+F4 "296-23770-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "INA219AIDCNR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/ina219.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/INA219AIDCNR/296-23770-1-ND/1952550" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CURRENT MONITOR 1% SOT23-8" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 100 -400 0 1 0 f
+X IN+ 1 -500 200 200 R 50 50 1 1 I
+X IN- 2 -500 100 200 R 50 50 1 1 I
+X GND 3 0 -600 200 U 50 50 1 1 W
+X VS 4 0 500 200 D 50 50 1 1 W
+X SCL 5 -500 0 200 R 50 50 1 1 I
+X SDA 6 -500 -100 200 R 50 50 1 1 B
+X A0 7 -500 -200 200 R 50 50 1 1 I
+X A1 8 -500 -300 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LT3092ETS8_TRMPBF
+#
+DEF LT3092ETS8_TRMPBF U 0 40 Y Y 1 F N
+F0 "U" 0 400 60 H V C C N N
+F1 "LT3092ETS8_TRMPBF" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-23-8" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/27892" 200 300 60 H I L C N N
+F4 "LT3092ETS8#TRMPBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LT3092ETS8#TRMPBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/27892" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LT3092ETS8-TRMPBF/LT3092ETS8-TRMPBFCT-ND/2136076" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CURRENT SOURCE 1% TSOT23-8" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 200 -300 0 1 0 f
+X NC 1 -400 -100 200 R 50 50 1 1 N
+X OUT 2 400 200 200 L 50 50 1 1 O
+X OUT 3 400 100 200 L 50 50 1 1 O
+X OUT 4 400 0 200 L 50 50 1 1 O
+X SET 5 -400 200 200 R 50 50 1 1 I
+X NC 6 -400 -200 200 R 50 50 1 1 N
+X IN 7 -400 100 200 R 50 50 1 1 I
+X IN 8 -400 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# INA169NA_3K
+#
+DEF INA169NA_3K U 0 40 Y Y 1 F N
+F0 "U" -250 450 60 H V C C N N
+F1 "INA169NA_3K" 500 -100 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/ina139.pdf" 200 300 60 H I L C N N
+F4 "296-26063-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "INA169NA/3K" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/ina139.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/INA169NA-3K/296-26063-1-ND/2254837" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CURRENT MONITOR 0.5% SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 400 200 0 0 1 0 f
+X OUT 1 400 200 200 L 50 50 1 1 O
+X GND 2 0 -200 200 U 50 50 1 1 W
+X VIN+ 3 -500 300 200 R 50 50 1 1 I
+X VIN- 4 -500 200 200 R 50 50 1 1 I
+X V+ 5 0 600 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LT3092EST_PBF
+#
+DEF LT3092EST_PBF U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C C N N
+F1 "LT3092EST_PBF" 0 400 60 H V C C N N
+F2 "digikey-footprints:TO-261-4" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/27892" 200 300 60 H I L C N N
+F4 "LT3092EST#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LT3092EST#PBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/27892" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LT3092EST-PBF/LT3092EST-PBF-ND/2136214" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CURRENT SOURCE 1% SOT223-3" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 200 -100 0 1 0 f
+X SET 1 -500 100 200 R 50 50 1 1 I
+X OUT 2 400 100 200 L 50 50 1 1 O
+X IN 3 -500 0 200 R 50 50 1 1 I
+X TAB/OUT 4 400 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LM334Z_NOPB
+#
+DEF LM334Z_NOPB U 0 1 Y Y 1 F N
+F0 "U" -200 100 60 H V C C N N
+F1 "LM334Z_NOPB" 0 400 60 H V C C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm134.pdf" 200 300 60 H I L C N N
+F4 "LM334ZNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM334Z/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm134.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM334Z-NOPB/LM334ZNS-NOPB-ND/6215" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CURRENT SOURCE 3% TO92-3" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -100 0 100 -200 0 1 0 f
+X V+ 1 0 200 200 D 50 50 1 1 I
+X R 2 -300 -100 200 R 50 50 1 1 I
+X V- 3 0 -400 200 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,318 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# SFH_2701
+#
+DEF ~SFH_2701 U 0 0 Y Y 1 F N
+F0 "PV" -100 150 60 H V C C N N
+F1 "SFH_2701" 50 -150 60 H I C C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
+F3 "http://www.osram-os.com/Graphics/XPic9/00083297_0.pdf" 200 300 60 H I L C N N
+F4 "475-2967-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SFH 2701" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "http://www.osram-os.com/Graphics/XPic9/00083297_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/SFH-2701/475-2967-1-ND/2794398" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE PIN 820NM SMD" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SFH_2430-Z
+#
+DEF ~SFH_2430-Z U 0 0 Y Y 1 F N
+F0 "PV" -150 150 60 H V C C N N
+F1 "SFH_2430-Z" 50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_2-SMD_Gull_Wing_4.4x3.85mm" 200 200 60 H I L C N N
+F3 "http://www.osram-os.com/Graphics/XPic3/00083291_0.pdf" 200 300 60 H I L C N N
+F4 "475-2579-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SFH 2430-Z" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "http://www.osram-os.com/Graphics/XPic3/00083291_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/SFH-2430-Z/475-2579-1-ND/1228076" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE 570NM SMD" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# BPW_34_S-Z
+#
+DEF ~BPW_34_S-Z U 0 0 Y Y 1 F N
+F0 "PV" -100 150 60 H V C C N N
+F1 "BPW_34_S-Z" 50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_2-SMD_Gull_Wing_4.4x3.85mm" 200 200 60 H I L C N N
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Osram%20PDFs/bpw34_spdf.pdf" 200 300 60 H I L C N N
+F4 "475-2659-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BPW 34 S-Z" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "http://media.digikey.com/pdf/Data%20Sheets/Osram%20PDFs/bpw34_spdf.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/BPW-34-S-Z/475-2659-1-ND/1893861" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE SMT" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SFH_229
+#
+DEF ~SFH_229 U 0 0 Y Y 1 F N
+F0 "PV" -150 150 60 H V C C N N
+F1 "SFH_229" 50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.osram-os.com/Graphics/XPic7/00211463_0.pdf" 200 300 60 H I L C N N
+F4 "475-1078-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SFH 229" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "http://www.osram-os.com/Graphics/XPic7/00211463_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/SFH-229/475-1078-ND/607287" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE 860NM 3MM CLEAR" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SFH_213
+#
+DEF ~SFH_213 U 0 0 Y Y 1 F N
+F0 "PV" -150 150 60 H V C C N N
+F1 "SFH_213" 50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.osram-os.com/Graphics/XPic4/00211451_0.pdf" 200 300 60 H I L C N N
+F4 "475-1077-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SFH 213" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "http://www.osram-os.com/Graphics/XPic4/00211451_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/SFH-213/475-1077-ND/607286" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE 850NM 5MM CLEAR" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# PDB-C139
+#
+DEF PDB-C139 U 0 0 Y Y 1 F N
+F0 "PV" -150 100 60 H V C C N N
+F1 "PDB-C139" 0 -150 60 H V C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+F4 "PDB-C139-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "PDB-C139" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/luna-optoelectronics/PDB-C139/PDB-C139-ND/480579" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE BLUE 5MM T1 3/4" 200 1000 60 H I L CNN "Description"
+F11 "Luna Optoelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# PDB-C142
+#
+DEF PDB-C142 U 0 0 Y Y 1 F N
+F0 "PV" -150 150 60 H V C C N N
+F1 "PDB-C142" 0 -150 60 H V C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+F4 "PDB-C142-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "PDB-C142" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/luna-optoelectronics/PDB-C142/PDB-C142-ND/480581" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE BLUE 5MM T1 3/4" 200 1000 60 H I L CNN "Description"
+F11 "Luna Optoelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SFH_203_FA
+#
+DEF ~SFH_203_FA U 0 0 Y Y 1 F N
+F0 "PV" -200 150 60 H V C C N N
+F1 "SFH_203_FA" 50 -150 60 H I C C N N
+F2 "digikey-footprints:Photodiode_5mm_THT_P2.54MM_SFH_203_FA" 200 200 60 H I L C N N
+F3 "http://www.osram-os.com/Graphics/XPic9/00218297_0.pdf" 200 300 60 H I L C N N
+F4 "475-1075-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SFH 203 FA" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "http://www.osram-os.com/Graphics/XPic9/00218297_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/SFH-203-FA/475-1075-ND/607284" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE 900NM 5MM W/FILTER" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SFH_203_P
+#
+DEF ~SFH_203_P U 0 0 Y Y 1 F N
+F0 "PV" -150 150 60 H V C C N N
+F1 "SFH_203_P" 50 -150 60 H I C C N N
+F2 "digikey-footprints:Photodiode_Radial_2.54mm_Lead_Spacing" 200 200 60 H I L C N N
+F3 "http://www.osram-os.com/Graphics/XPic1/00211421_0.pdf" 200 300 60 H I L C N N
+F4 "475-2649-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SFH 203 P" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "http://www.osram-os.com/Graphics/XPic1/00211421_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/SFH-203-P/475-2649-ND/1893875" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE RADIAL" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# PDB-C156
+#
+DEF PDB-C156 U 0 0 Y Y 1 F N
+F0 "PV" 0 250 60 H V C C N N
+F1 "PDB-C156" 0 -200 60 H V C C N N
+F2 "digikey-footprints:Photodiode_Radial_2.54mm_Lead_Spacing" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+F4 "PDB-C156-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "PDB-C156" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/luna-optoelectronics/PDB-C156/PDB-C156-ND/480587" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE BLUE 8.02MM SQ CLEAR" 200 1000 60 H I L CNN "Description"
+F11 "Luna Optoelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# BPW34
+#
+DEF ~BPW34 U 0 0 Y Y 1 F N
+F0 "PV" -150 150 60 H V C C N N
+F1 "BPW34" 50 -150 60 H I C C N N
+F2 "digikey-footprints:Photodiode_THT_BPW34" 200 200 60 H I L C N N
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Osram%20PDFs/bpw34_spdf.pdf" 200 300 60 H I L C N N
+F4 "475-1070-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BPW34" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "http://media.digikey.com/pdf/Data%20Sheets/Osram%20PDFs/bpw34_spdf.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/BPW34/475-1070-ND/607274" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE 850NM THRU-HOLE" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 6 0 1 0 -50 100 -25 100 -50 100 -50 125 -50 100 0 150 N
+P 6 0 1 0 0 100 0 125 0 100 25 100 0 100 50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# PD15-22C_TR8
+#
+DEF ~PD15-22C_TR8 U 0 0 Y Y 1 F N
+F0 "PV" -150 150 60 H V C C N N
+F1 "PD15-22C_TR8" 0 -200 60 H I C C N N
+F2 "digikey-footprints:SMD-4_3.3x2.8_PD15-22C_TR8" 200 200 60 H I L C N N
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/PD15-22C_TR8.pdf" 200 300 60 H I L C N N
+F4 "1080-1367-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "PD15-22C/TR8" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Photodiodes" 200 700 60 H I L CNN "Family"
+F8 "http://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/PD15-22C_TR8.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/everlight-electronics-co-ltd/PD15-22C-TR8/1080-1367-1-ND/2676101" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTODIODE PIN IR CLEAR FLAT SMD" 200 1000 60 H I L CNN "Description"
+F11 "Everlight Electronics Co Ltd" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 -50 0 -100 0 N
+P 2 0 1 0 50 0 100 0 N
+P 2 0 1 0 50 50 50 -50 N
+P 4 0 1 0 -50 50 -50 -50 50 0 -50 50 F
+P 6 0 1 0 0 100 25 100 0 100 0 125 0 100 50 150 N
+P 6 0 1 0 50 100 50 125 50 100 75 100 50 100 100 150 N
+X ~ 1 300 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

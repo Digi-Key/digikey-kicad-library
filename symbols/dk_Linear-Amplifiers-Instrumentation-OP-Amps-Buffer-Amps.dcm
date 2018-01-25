@@ -1,0 +1,195 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM324N
+D IC OPAMP GP 1.2MHZ 14DIP
+K 296-1391-5-ND 
+F http://www.ti.com/lit/ds/symlink/lm224.pdf
+$ENDCMP
+#
+$CMP LM324AN
+D IC OPAMP GP 1.2MHZ 14DIP
+K 296-9542-5-ND 
+F http://www.ti.com/lit/ds/symlink/lm224.pdf
+$ENDCMP
+#
+$CMP LM324N488
+D IC OPAMP GP 14DIP
+K LM324NFS-ND 
+F https://www.fairchildsemi.com/datasheets/LM/LM2902.pdf
+$ENDCMP
+#
+$CMP MCP6004-I_P
+D IC OPAMP GP 1MHZ RRO 14DIP
+K MCP6004-I/P-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705
+$ENDCMP
+#
+$CMP TL074CN
+D IC OPAMP JFET 3MHZ 14DIP
+K 296-1777-5-ND 
+F http://www.ti.com/lit/ds/symlink/tl071a.pdf
+$ENDCMP
+#
+$CMP TL084CN
+D IC OPAMP JFET 3MHZ 14DIP
+K 296-1784-5-ND 
+F http://www.ti.com/lit/ds/symlink/tl081a.pdf
+$ENDCMP
+#
+$CMP OPA2134PA
+D IC OPAMP AUDIO 8MHZ 8DIP
+K OPA2134PA-ND SoundPlus™
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP LM741CN_NOPB
+D IC OPAMP GP 1.5MHZ 8DIP
+K LM741CNNS/NOPB-ND 
+F http://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/LM741_Series_Rev_July_2016.pdf
+$ENDCMP
+#
+$CMP LMC6482IN_NOPB
+D IC OPAMP GP 1.5MHZ RRO 8DIP
+K LMC6482IN/NOPB-ND 
+F http://www.ti.com/lit/ds/symlink/lmc6482.pdf
+$ENDCMP
+#
+$CMP NE5532P
+D IC OPAMP GP 10MHZ 8DIP
+K 296-1410-5-ND 
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP UA741CP
+D IC OPAMP GP 1MHZ 8DIP
+K 296-11107-5-ND 
+F http://www.ti.com/lit/ds/symlink/ua741.pdf
+$ENDCMP
+#
+$CMP MCP6002-I_P
+D IC OPAMP GP 1MHZ RRO 8DIP
+K MCP6002-I/P-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705
+$ENDCMP
+#
+$CMP TLV2462CP
+D IC OPAMP GP 6.4MHZ RRO 8DIP
+K 296-1892-5-ND 
+F http://www.ti.com/lit/ds/symlink/tlv2462a.pdf
+$ENDCMP
+#
+$CMP LM358P
+D IC OPAMP GP 700KHZ 8DIP
+K 296-1395-5-ND 
+F http://www.ti.com/lit/ds/symlink/lm358.pdf
+$ENDCMP
+#
+$CMP LM358AN
+D IC OPAMP GP 8DIP
+K LM358ANFS-ND 
+F https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf
+$ENDCMP
+#
+$CMP LM358N
+D IC OPAMP GP 8DIP
+K LM358NFS-ND 
+F https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf
+$ENDCMP
+#
+$CMP AD620ANZ
+D IC OPAMP INSTR 1MHZ 8DIP
+K AD620ANZ-ND 
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf
+$ENDCMP
+#
+$CMP AD623ANZ
+D IC OPAMP INSTR 800KHZ RRO 8DIP
+K AD623ANZ-ND 
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+$ENDCMP
+#
+$CMP TL072IP
+D IC OPAMP JFET 3MHZ 8DIP
+K 296-14997-5-ND 
+F http://www.ti.com/lit/ds/symlink/tl071a.pdf
+$ENDCMP
+#
+$CMP TL072CP
+D IC OPAMP JFET 3MHZ 8DIP
+K 296-1775-5-ND 
+F http://www.ti.com/lit/ds/symlink/tl071a.pdf
+$ENDCMP
+#
+$CMP TL082IP
+D IC OPAMP JFET 3MHZ 8DIP
+K 296-1781-5-ND 
+F http://www.ti.com/lit/ds/symlink/tl081a.pdf
+$ENDCMP
+#
+$CMP LF356N_NOPB
+D IC OPAMP JFET 5MHZ 8DIP
+K LF356N/NOPB-ND BI-FET™
+F http://www.ti.com/lit/ds/symlink/lf356.pdf
+$ENDCMP
+#
+$CMP LM324ADR
+D IC OPAMP GP 1.2MHZ 14SOIC
+K 296-9540-1-ND 
+F http://www.ti.com/lit/ds/symlink/lm224.pdf
+$ENDCMP
+#
+$CMP LM324DT
+D IC OPAMP GP 1.3MHZ 14SO
+K 497-1580-1-ND 
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/bd/fc/46/43/26/8f/40/7f/CD00001046.pdf/files/CD00001046.pdf/jcr:content/translations/en.CD00001046.pdf
+$ENDCMP
+#
+$CMP LM358DT
+D IC OPAMP GP 1.1MHZ 8SO
+K 497-1591-1-ND 
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/61/46/87/01/98/ed/44/c5/CD00000464.pdf/files/CD00000464.pdf/jcr:content/translations/en.CD00000464.pdf
+$ENDCMP
+#
+$CMP LMV358IDR
+D IC OPAMP GP 1MHZ RRO 8SOIC
+K 296-9571-1-ND 
+F http://www.ti.com/lit/ds/symlink/lmv324.pdf
+$ENDCMP
+#
+$CMP LM358DR
+D IC OPAMP GP 700KHZ 8SOIC
+K 296-1014-1-ND 
+F http://www.ti.com/lit/ds/symlink/lm358.pdf
+$ENDCMP
+#
+$CMP AD8032BRZ-REEL7
+D IC OPAMP VFB 80MHZ RRO 8SOIC
+K AD8032BRZ-REEL7CT-ND 
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf
+$ENDCMP
+#
+$CMP OPA334AIDBVT
+D IC OPAMP CHOPPER 2MHZ SOT23-6
+K 296-13466-1-ND 
+F http://www.ti.com/lit/ds/symlink/opa334.pdf
+$ENDCMP
+#
+$CMP AD8605ARTZ-REEL7
+D IC OPAMP GP 10MHZ RRO SOT23-5
+K AD8605ARTZREEL7CT-ND DigiTrim®
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf
+$ENDCMP
+#
+$CMP MCP6001T-I_OT
+D IC OPAMP GP 1MHZ RRO SOT23-5
+K MCP6001T-I/OTCT-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705
+$ENDCMP
+#
+$CMP INA333AIDGKR
+D IC OPAMP INSTR 150KHZ RRO 8VSSOP
+K 296-23564-1-ND 
+F http://www.ti.com/lit/ds/symlink/ina333.pdf
+$ENDCMP
+#
+#End Doc Library

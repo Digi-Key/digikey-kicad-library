@@ -1,0 +1,103 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 0015912120
+#
+DEF 0015912120 U 0 40 Y Y 1 F N
+F0 "J" 150 150 60 H V C C N N
+F1 "0015912120" 100 -500 60 V V C C N N
+F2 "digikey-footprints:PinHeader_2x6_P2.54mm_Vertical_SMD" 200 200 60 H I L C N N
+F3 "http://www.molex.com/pdm_docs/sd/015912120_sd.pdf" 200 300 60 H I L C N N
+F4 "WM17452-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "0015912120" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Rectangular Connectors - Headers, Male Pins" 200 700 60 H I L CNN "Family"
+F8 "http://www.molex.com/pdm_docs/sd/015912120_sd.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/molex-connector-corporation/0015912120/WM17452-ND/614768" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN HEADER 12POS .100 VERT TIN" 200 1000 60 H I L CNN "Description"
+F11 "Molex Connector Corporation" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 0 100 300 -1200 0 1 0 f
+X ~ 1 -200 0 200 R 50 50 1 1 B
+X ~ 2 -200 -100 200 R 50 50 1 1 B
+X ~ 3 -200 -200 200 R 50 50 1 1 B
+X ~ 4 -200 -300 200 R 50 50 1 1 B
+X ~ 5 -200 -400 200 R 50 50 1 1 B
+X ~ 6 -200 -500 200 R 50 50 1 1 B
+X ~ 7 -200 -600 200 R 50 50 1 1 B
+X ~ 8 -200 -700 200 R 50 50 1 1 B
+X ~ 9 -200 -800 200 R 50 50 1 1 B
+X ~ 10 -200 -900 200 R 50 50 1 1 B
+X ~ 11 -200 -1000 200 R 50 50 1 1 B
+X ~ 12 -200 -1100 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# 68021-412HLF
+#
+DEF 68021-412HLF U 0 40 Y Y 1 F N
+F0 "J" 100 250 60 H V C C N N
+F1 "68021-412HLF" 100 -400 60 V V C C N N
+F2 "digikey-footprints:PinHeader_6x2_P2.54mm_Horizontal" 200 200 60 H I L C N N
+F3 "http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/68020.pdf" 200 300 60 H I L C N N
+F4 "609-3355-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "68021-412HLF" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Rectangular Connectors - Headers, Male Pins" 200 700 60 H I L CNN "Family"
+F8 "http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/68020.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/amphenol-fci/68021-412HLF/609-3355-ND/1878558" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN HEADER 12POS .100 R/A TIN" 200 1000 60 H I L CNN "Description"
+F11 "Amphenol FCI" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 0 200 300 -1100 0 1 0 f
+X ~ 1 -200 100 200 R 50 50 1 1 B
+X ~ 2 -200 0 200 R 50 50 1 1 B
+X ~ 3 -200 -100 200 R 50 50 1 1 B
+X ~ 4 -200 -200 200 R 50 50 1 1 B
+X ~ 5 -200 -300 200 R 50 50 1 1 B
+X ~ 6 -200 -400 200 R 50 50 1 1 B
+X ~ 7 -200 -500 200 R 50 50 1 1 B
+X ~ 8 -200 -600 200 R 50 50 1 1 B
+X ~ 9 -200 -700 200 R 50 50 1 1 B
+X ~ 10 -200 -800 200 R 50 50 1 1 B
+X ~ 11 -200 -900 200 R 50 50 1 1 B
+X ~ 12 -200 -1000 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# 67996-412HLF
+#
+DEF 67996-412HLF U 0 40 Y Y 1 F N
+F0 "J" 50 250 60 H V C C N N
+F1 "67996-412HLF" 100 -400 60 V V C C N N
+F2 "digikey-footprints:PinHeader_6x2_P2.54mm_Vertical" 200 200 60 H I L C N N
+F3 "http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/67996.pdf" 200 300 60 H I L C N N
+F4 "609-3219-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "67996-412HLF" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Rectangular Connectors - Headers, Male Pins" 200 700 60 H I L CNN "Family"
+F8 "http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/67996.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/amphenol-fci/67996-412HLF/609-3219-ND/1878508" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN HEADER 12POS .100 STR TIN" 200 1000 60 H I L CNN "Description"
+F11 "Amphenol FCI" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 0 200 300 -1100 0 1 0 f
+X ~ 1 -200 100 200 R 50 50 1 1 B
+X ~ 2 -200 0 200 R 50 50 1 1 B
+X ~ 3 -200 -100 200 R 50 50 1 1 B
+X ~ 4 -200 -200 200 R 50 50 1 1 B
+X ~ 5 -200 -300 200 R 50 50 1 1 B
+X ~ 6 -200 -400 200 R 50 50 1 1 B
+X ~ 7 -200 -500 200 R 50 50 1 1 B
+X ~ 8 -200 -600 200 R 50 50 1 1 B
+X ~ 9 -200 -700 200 R 50 50 1 1 B
+X ~ 10 -200 -800 200 R 50 50 1 1 B
+X ~ 11 -200 -900 200 R 50 50 1 1 B
+X ~ 12 -200 -1000 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

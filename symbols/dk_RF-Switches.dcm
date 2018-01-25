@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4259-63
+D IC RF SWITCH SPDT 50 OHM SC70-6
+K 1046-1011-1-ND UltraCMOS®
+F http://www.psemi.com/pdf/datasheets/pe4259ds.pdf
+$ENDCMP
+#
+$CMP PE42423MLBA-Z
+D IC RF SWITCH SPDT 50 OHM 16QFN
+K 1046-1103-1-ND UltraCMOS®, HaRP™
+F http://www.psemi.com/pdf/datasheets/pe42423ds.pdf
+$ENDCMP
+#
+#End Doc Library

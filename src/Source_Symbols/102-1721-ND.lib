@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 102-1721-ND
+#
+DEF 102-1721-ND U 0 40 Y Y 1 F N
+F0 "MIC" -200 300 60 H V C C N N
+F1 "102-1721-ND" 0 -400 60 H V C C N N
+F2 "digikey-footprints:Mic_CMA-4544PF-W" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+C 0 0 316 1 1 0 f
+P 2 1 1 20 -300 300 -300 -300 N
+X Term_1 1 500 100 200 L 50 50 1 1 O
+X Term_2 2 500 -100 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

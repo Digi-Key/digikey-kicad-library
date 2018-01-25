@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1307_
+D IC RTC CLK/CALENDAR I2C 8-DIP
+K DS1307+-ND 
+F http://datasheets.maximintegrated.com/en/ds/DS1307.pdf
+$ENDCMP
+#
+$CMP DS3234SN_
+D IC RTC CLK/CALENDAR SPI 20-SOIC
+K DS3234SN#-ND 
+F http://datasheets.maximintegrated.com/en/ds/DS3234.pdf
+$ENDCMP
+#
+$CMP DS3231MZ_V__NRND
+D IC RTC CLK/CALENDAR I2C 8-SOIC
+K DS3231MZ/V+-ND Automotive, AEC-Q100
+F http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf
+$ENDCMP
+#
+$CMP PCF8523T_1_118
+D IC RTC CLK/CALENDAR I2C 8-SOIC
+K 568-5306-1-ND 
+F http://www.nxp.com/documents/data_sheet/PCF8523.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555P
+D IC OSC SINGLE TIMER 100KHZ 8-DIP
+K 296-1411-5-ND 
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TLC555CP
+D IC OSC SINGLE TIMER 2.1MHZ 8-DIP
+K 296-1857-5-ND LinCMOS™
+F http://www.ti.com/lit/ds/symlink/tlc555.pdf
+$ENDCMP
+#
+$CMP ICM7555IPAZ
+D IC OSC SINGLE TIMER 1MHZ 8DIP
+K ICM7555IPAZ-ND 
+F http://www.intersil.com/content/dam/Intersil/documents/icm7/icm7555-56.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D IC OSC SGL TIMER 100KHZ 8-SOIC
+K 296-6501-1-ND 
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TLC555CDR
+D IC OSC SGL TIMER 2.1MHZ 8-SOIC
+K 296-1336-1-ND LinCMOS™
+F http://www.ti.com/lit/ds/symlink/tlc555.pdf
+$ENDCMP
+#
+$CMP TPL5110DDCT
+D IC TIMER W/WATCHDOG 6-SOT
+K 296-38830-1-ND 
+F http://www.ti.com/lit/ds/symlink/tpl5110.pdf
+$ENDCMP
+#
+#End Doc Library

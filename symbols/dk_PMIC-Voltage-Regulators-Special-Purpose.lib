@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# TPS51200DRCR
+#
+DEF TPS51200DRCR U 0 40 Y Y 1 F N
+F0 "U" -300 350 60 H V C C N N
+F1 "TPS51200DRCR" 600 -400 60 H V C C N N
+F2 "digikey-footprints:VSON-10-1EP_3x3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tps51200.pdf" 200 300 60 H I L C N N
+F4 "296-26978-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TPS51200DRCR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Special Purpose" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tps51200.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TPS51200DRCR/296-26978-1-ND/2255274" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC CONV DDR DDR2 DDR3 10SON" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 300 300 -300 0 1 0 f
+X REFIN 1 -600 0 200 R 50 50 1 1 I
+X VLDOIN 2 -100 500 200 D 50 50 1 1 W
+X VO 3 500 -100 200 L 50 50 1 1 O
+X PGND 4 100 -500 200 U 50 50 1 1 W
+X VOSNS 5 -600 -100 200 R 50 50 1 1 I
+X REFOUT 6 500 0 200 L 50 50 1 1 O
+X EN 7 -600 100 200 R 50 50 1 1 I
+X GND 8 0 -500 200 U 50 50 1 1 W
+X PGOOD 9 500 100 200 L 50 50 1 1 O
+X VIN 10 0 500 200 D 50 50 1 1 W
+X ~ 11 500 -200 200 L 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

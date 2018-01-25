@@ -1,0 +1,93 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MCP4017T-103E_LT
+#
+DEF MCP4017T-103E_LT U 0 40 Y Y 1 F N
+F0 "U" -100 250 60 H V C C N N
+F1 "MCP4017T-103E_LT" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en540631" 200 300 60 H I L C N N
+F4 "MCP4017T-103E/LTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP4017T-103E/LT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Data Acquisition - Digital Potentiometers" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en540631" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP4017T-103E-LT/MCP4017T-103E-LTCT-ND/2060166" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC DGTL POT 10K 128TAPS SC70-6" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 200 -300 0 1 0 f
+X VDD 1 100 400 200 D 50 50 1 1 I
+X VSS 2 100 -500 200 U 50 50 1 1 I
+X SCL 3 -400 100 200 R 50 50 1 1 I
+X SDA 4 -400 0 200 R 50 50 1 1 B
+X B 5 -400 -100 200 R 50 50 1 1 B
+X W 6 -400 -200 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# MCP4018T-103E_LT
+#
+DEF MCP4018T-103E_LT U 0 40 Y Y 1 F N
+F0 "U" -100 250 60 H V C C N N
+F1 "MCP4018T-103E_LT" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en540631" 200 300 60 H I L C N N
+F4 "MCP4018T-103E/LTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP4018T-103E/LT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Data Acquisition - Digital Potentiometers" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en540631" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP4018T-103E-LT/MCP4018T-103E-LTCT-ND/2060161" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC DGTL POT 10K 128TAPS SC70-6" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 200 -300 0 1 0 f
+X VDD 1 100 400 200 D 50 50 1 1 I
+X VSS 2 100 -500 200 U 50 50 1 1 I
+X SCL 3 -400 100 200 R 50 50 1 1 I
+X SDA 4 -400 0 200 R 50 50 1 1 B
+X W 5 -400 -100 200 R 50 50 1 1 B
+X A 6 -400 -200 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# MAX5481EUD_
+#
+DEF MAX5481EUD_ U 0 40 Y Y 1 F N
+F0 "U" -300 150 60 H V C C N N
+F1 "MAX5481EUD_" 100 -450 60 V V C C N N
+F2 "digikey-footprints:TSSOP-14_W4.4mm" 200 200 60 H I L C N N
+F3 "http://datasheets.maximintegrated.com/en/ds/MAX5481-MAX5484.pdf" 200 300 60 H I L C N N
+F4 "MAX5481EUD+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX5481EUD+" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Data Acquisition - Digital Potentiometers" 200 700 60 H I L CNN "Family"
+F8 "http://datasheets.maximintegrated.com/en/ds/MAX5481-MAX5484.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX5481EUD-/MAX5481EUD--ND/1779810" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC DGTL POT 10BIT NV 14-TSSOP" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 100 200 -1100 0 1 0 f
+X VDD 1 -100 300 200 D 50 50 1 1 W
+X GND 2 -100 -1300 200 U 50 50 1 1 W
+X ~CS 3 -600 -600 200 R 50 50 1 1 I
+X SCLK(~INC~) 4 -600 -500 200 R 50 50 1 1 I
+X DIN(U/~D~) 5 -600 -400 200 R 50 50 1 1 I
+X SPI/~UD 6 -600 -300 200 R 50 50 1 1 I
+X NC 7 -600 -700 200 R 50 50 1 1 N
+X NC 8 -600 -800 200 R 50 50 1 1 N
+X NC 9 -600 -900 200 R 50 50 1 1 N
+X L 10 -600 -200 200 R 50 50 1 1 B
+X W 11 -600 -100 200 R 50 50 1 1 I
+X H 12 -600 0 200 R 50 50 1 1 B
+X NC 13 -600 -1000 200 R 50 50 1 1 N
+X VSS 14 0 -1300 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

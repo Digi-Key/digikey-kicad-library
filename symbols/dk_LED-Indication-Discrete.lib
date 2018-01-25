@@ -1,0 +1,1217 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# LTST-C191TBKT
+#
+DEF ~LTST-C191TBKT U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTST-C191TBKT" 0 -150 60 H I C C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-230/LTST-C191TBKT.pdf" 200 300 60 H I L C N N
+F4 "160-1647-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C191TBKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS22-2000-230/LTST-C191TBKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C191TBKT/160-1647-1-ND/573587" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED BLUE CLEAR 0603 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C193TBKT-5A
+#
+DEF ~LTST-C193TBKT-5A U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTST-C193TBKT-5A" 0 -150 60 H I C C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C193TBKT-5A.pdf" 200 300 60 H I L C N N
+F4 "160-1827-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C193TBKT-5A" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C193TBKT-5A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C193TBKT-5A/160-1827-1-ND/2355044" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED BLUE CLEAR 0603 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C190KGKT
+#
+DEF ~LTST-C190KGKT U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTST-C190KGKT" -50 -150 60 H I C C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-074/LTST-C190KGKT.PDF" 200 300 60 H I L C N N
+F4 "160-1435-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C190KGKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS22-2000-074/LTST-C190KGKT.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C190KGKT/160-1435-1-ND/386814" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED GREEN CLEAR 0603 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LG_L29K-G2J1-24-Z
+#
+DEF ~LG_L29K-G2J1-24-Z U 0 0 Y Y 1 F N
+F0 "D" -200 150 60 H V C C N N
+F1 "LG_L29K-G2J1-24-Z" 0 -150 60 H I C C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
+F3 "http://www.osram-os.com/Graphics/XPic0/00167682_0.pdf" 200 300 60 H I L C N N
+F4 "475-2709-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LG L29K-G2J1-24-Z" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.osram-os.com/Graphics/XPic0/00167682_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/LG-L29K-G2J1-24-Z/475-2709-1-ND/1938876" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED GREEN DIFFUSED 0603 SMD" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C191KFKT
+#
+DEF ~LTST-C191KFKT U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "LTST-C191KFKT" 0 -150 60 H I C C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-222/LTST-C191KFKT.pdf" 200 300 60 H I L C N N
+F4 "160-1445-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C191KFKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS22-2000-222/LTST-C191KFKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C191KFKT/160-1445-1-ND/386832" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED ORANGE CLEAR 0603 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C190KRKT
+#
+DEF ~LTST-C190KRKT U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTST-C190KRKT" 0 -150 60 H I C C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0151/LTST-C190KRKT.pdf" 200 300 60 H I L C N N
+F4 "160-1436-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C190KRKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0151/LTST-C190KRKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C190KRKT/160-1436-1-ND/386816" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED RED CLEAR 0603 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C190KSKT
+#
+DEF ~LTST-C190KSKT U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTST-C190KSKT" 0 -150 60 H I C C N N
+F2 "digikey-footprints:0603" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0189/LTST-C190KSKT.pdf" 200 300 60 H I L C N N
+F4 "160-1437-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C190KSKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0189/LTST-C190KSKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C190KSKT/160-1437-1-ND/386818" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED YELLOW CLEAR 0603 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C170TBKT
+#
+DEF ~LTST-C170TBKT U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTST-C170TBKT" 0 -150 60 H I C C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0226/LTST-C170TBKT.pdf" 200 300 60 H I L C N N
+F4 "160-1579-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C170TBKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0226/LTST-C170TBKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C170TBKT/160-1579-1-ND/564889" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED BLUE CLEAR 0805 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C171KGKT
+#
+DEF ~LTST-C171KGKT U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "LTST-C171KGKT" -50 -150 60 H I C C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf" 200 300 60 H I L C N N
+F4 "160-1426-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C171KGKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C171KGKT/160-1426-1-ND/386798" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED GREEN CLEAR 0805 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LG_R971-KN-1
+#
+DEF ~LG_R971-KN-1 U 0 0 Y Y 1 F N
+F0 "D" -200 150 60 H V C C N N
+F1 "LG_R971-KN-1" -50 -150 60 H I C C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
+F3 "http://www.osram-os.com/Graphics/XPic9/00078860_0.pdf" 200 300 60 H I L C N N
+F4 "475-1410-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LG R971-KN-1" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.osram-os.com/Graphics/XPic9/00078860_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/LG-R971-KN-1/475-1410-1-ND/1802598" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED GREEN DIFFUSED 0805 SMD" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C170KFKT
+#
+DEF ~LTST-C170KFKT U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "LTST-C170KFKT" -50 -150 60 H I C C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0185/LTST-C170KFKT.pdf" 200 300 60 H I L C N N
+F4 "160-1413-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C170KFKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0185/LTST-C170KFKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C170KFKT/160-1413-1-ND/386774" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED ORANGE CLEAR 0805 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C171KRKT
+#
+DEF ~LTST-C171KRKT U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTST-C171KRKT" -50 -150 60 H I C C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-109/LTST-C171KRKT.pdf" 200 300 60 H I L C N N
+F4 "160-1427-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C171KRKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS22-2000-109/LTST-C171KRKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C171KRKT/160-1427-1-ND/386800" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED RED CLEAR 0805 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LH_R974-LP-1
+#
+DEF ~LH_R974-LP-1 U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "LH_R974-LP-1" -50 -150 60 H I C C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
+F3 "http://www.osram-os.com/Graphics/XPic8/00078869_0.pdf" 200 300 60 H I L C N N
+F4 "475-1415-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LH R974-LP-1" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.osram-os.com/Graphics/XPic8/00078869_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/osram-opto-semiconductors-inc/LH-R974-LP-1/475-1415-1-ND/1802604" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED RED DIFFUSED 0805 SMD" 200 1000 60 H I L CNN "Description"
+F11 "OSRAM Opto Semiconductors Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C171KSKT
+#
+DEF ~LTST-C171KSKT U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "LTST-C171KSKT" -50 -150 60 H I C C N N
+F2 "digikey-footprints:0805" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-110/LTST-C171KSKT.pdf" 200 300 60 H I L C N N
+F4 "160-1428-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C171KSKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS22-2000-110/LTST-C171KSKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C171KSKT/160-1428-1-ND/386802" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED YELLOW CLEAR 0805 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C150TBKT
+#
+DEF ~LTST-C150TBKT U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTST-C150TBKT" -50 -150 60 H I C C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-026/LTST-C150TBKT(0630).pdf" 200 300 60 H I L C N N
+F4 "160-1643-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C150TBKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS22-2000-026/LTST-C150TBKT(0630).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C150TBKT/160-1643-1-ND/573584" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED BLUE CLEAR 1206 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C150KGKT
+#
+DEF ~LTST-C150KGKT U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "LTST-C150KGKT" 0 -200 60 H I C C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS22-2000-072/LTST-C150KGKT.pdf" 200 300 60 H I L C N N
+F4 "160-1404-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C150KGKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS22-2000-072/LTST-C150KGKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C150KGKT/160-1404-1-ND/386759" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED GREEN CLEAR 1206 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C230KFKT
+#
+DEF ~LTST-C230KFKT U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTST-C230KFKT" -50 -150 60 H I C C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf" 200 300 60 H I L C N N
+F4 "160-2025-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C230KFKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C230KFKT/160-2025-1-ND/3711400" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED ORANGE CLEAR 1206 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C150KRKT
+#
+DEF ~LTST-C150KRKT U 0 0 Y Y 1 F N
+F0 "D" -150 200 60 H V C C N N
+F1 "LTST-C150KRKT" -50 -150 60 H I C C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0149/LTST-C150KRKT.pdf" 200 300 60 H I L C N N
+F4 "160-1405-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C150KRKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0149/LTST-C150KRKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C150KRKT/160-1405-1-ND/386760" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED RED CLEAR 1206 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTST-C150KSKT
+#
+DEF ~LTST-C150KSKT U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "LTST-C150KSKT" -50 -150 60 H I C C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0187/LTST-C150KSKT.pdf" 200 300 60 H I L C N N
+F4 "160-1406-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTST-C150KSKT" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-22-99-0187/LTST-C150KSKT.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTST-C150KSKT/160-1406-1-ND/386762" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED YELLOW CLEAR 1206 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTL1CHKYKNN
+#
+DEF ~LTL1CHKYKNN U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTL1CHKYKNN" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf" 200 300 60 H I L C N N
+F4 "160-1664-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTL1CHKYKNN" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTL1CHKYKNN/160-1664-ND/573560" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED AMBER CLEAR 3MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTL1CHKFKNN
+#
+DEF ~LTL1CHKFKNN U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTL1CHKFKNN" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf" 200 300 60 H I L C N N
+F4 "160-1944-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTL1CHKFKNN" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTL1CHKFKNN/160-1944-ND/3198411" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED ORANGE CLEAR 3MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# WP710A10QBC_D
+#
+DEF ~WP710A10QBC_D U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "WP710A10QBC_D" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10QBC-D.pdf" 200 300 60 H I L C N N
+F4 "754-1596-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "WP710A10QBC/D" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10QBC-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/kingbright/WP710A10QBC-D/754-1596-ND/2769812" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED BLUE CLEAR 3MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Kingbright" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# WP710A10CGCK
+#
+DEF ~WP710A10CGCK U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "WP710A10CGCK" 0 -150 60 H I C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10CGCK.pdf" 200 300 60 H I L C N N
+F4 "754-1595-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "WP710A10CGCK" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10CGCK.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/kingbright/WP710A10CGCK/754-1595-ND/2769806" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED GREEN CLEAR 3MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Kingbright" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# WP710A10SRC_E
+#
+DEF ~WP710A10SRC_E U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "WP710A10SRC_E" 0 -150 60 H I C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10SRC-E.pdf" 200 300 60 H I L C N N
+F4 "754-1604-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "WP710A10SRC/E" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10SRC-E.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/kingbright/WP710A10SRC-E/754-1604-ND/2769818" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED RED CLEAR 3MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Kingbright" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# 151033RS03000
+#
+DEF ~151033RS03000 U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "151033RS03000" 0 -150 60 H I C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://katalog.we-online.de/led/datasheet/151033RS03000.pdf" 200 300 60 H I L C N N
+F4 "732-5013-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "151033RS03000" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://katalog.we-online.de/led/datasheet/151033RS03000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/wurth-electronics-inc/151033RS03000/732-5013-ND/4490003" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED RED CLEAR 3MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Wurth Electronics Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# WP710A10SYCK
+#
+DEF ~WP710A10SYCK U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "WP710A10SYCK" 0 -150 60 H I C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10SYCK.pdf" 200 300 60 H I L C N N
+F4 "754-1611-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "WP710A10SYCK" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.kingbrightusa.com/images/catalog/SPEC/WP710A10SYCK.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/kingbright/WP710A10SYCK/754-1611-ND/2769685" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED YELLOW CLEAR 3MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Kingbright" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MT7403A-UR-A
+#
+DEF MT7403A-UR-A U 0 40 Y Y 1 F N
+F0 "D" -100 100 60 H V C C N N
+F1 "MT7403A-UR-A" 0 -100 60 H V C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://marktechopto.com/pdf/products/datasheet/MT7403A-UR-A.pdf" 200 300 60 H I L C N N
+F4 "1125-1181-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MT7403A-UR-A" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://marktechopto.com/pdf/products/datasheet/MT7403A-UR-A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/marktech-optoelectronics/MT7403A-UR-A/1125-1181-ND/4214630" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED RED CLEAR 3MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Marktech Optoelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 1 1 0 -100 50 -100 -50 0 0 -100 50 F
+X ~ 2 -300 0 200 R 50 50 1 1 W
+X ~ 1 200 0 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LTL2R3KYK
+#
+DEF ~LTL2R3KYK U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTL2R3KYK" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-20-98-0074/2R3KYK.pdf" 200 300 60 H I L C N N
+F4 "160-1687-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTL2R3KYK" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-20-98-0074/2R3KYK.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTL2R3KYK/160-1687-ND/573577" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED AMBER CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTL2R3KGKNN
+#
+DEF ~LTL2R3KGKNN U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTL2R3KGKNN" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS20-2000-191/LTL2R3KGKNN.pdf" 200 300 60 H I L C N N
+F4 "160-1947-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTL2R3KGKNN" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS20-2000-191/LTL2R3KGKNN.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTL2R3KGKNN/160-1947-ND/3198465" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED GREEN CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTL2R3KFK
+#
+DEF ~LTL2R3KFK U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTL2R3KFK" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-20-98-0287/LTL2R3KFK.pdf" 200 300 60 H I L C N N
+F4 "160-1683-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTL2R3KFK" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-20-98-0287/LTL2R3KFK.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTL2R3KFK/160-1683-ND/573573" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED ORANGE CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SSL-LX5093PC
+#
+DEF ~SSL-LX5093PC U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "SSL-LX5093PC" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.lumex.com/content/files/ProductAttachment/SSL-LX5093PC.pdf" 200 300 60 H I L C N N
+F4 "67-2062-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SSL-LX5093PC" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.lumex.com/content/files/ProductAttachment/SSL-LX5093PC.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lumex-opto-components-inc/SSL-LX5093PC/67-2062-ND/1842139" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED PINK CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lumex Opto/Components Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SSL-LX5093VC
+#
+DEF ~SSL-LX5093VC U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "SSL-LX5093VC" 0 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.lumex.com/content/files/ProductAttachment/SSL-LX5093VC.pdf" 200 300 60 H I L C N N
+F4 "67-2064-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SSL-LX5093VC" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.lumex.com/content/files/ProductAttachment/SSL-LX5093VC.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lumex-opto-components-inc/SSL-LX5093VC/67-2064-ND/1842141" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED PURPLE CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lumex Opto/Components Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTL2R3KEK
+#
+DEF ~LTL2R3KEK U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTL2R3KEK" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-20-98-0286/LTL2R3KEK.pdf" 200 300 60 H I L C N N
+F4 "160-1682-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTL2R3KEK" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-20-98-0286/LTL2R3KEK.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTL2R3KEK/160-1682-ND/573572" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED RED CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SSL-LX5093TC_NonStock
+#
+DEF ~SSL-LX5093TC_NonStock U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "SSL-LX5093TC_NonStock" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.lumex.com/content/files/ProductAttachment/SSL-LX5093TC.pdf" 200 300 60 H I L C N N
+F4 "67-2063-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SSL-LX5093TC" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.lumex.com/content/files/ProductAttachment/SSL-LX5093TC.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lumex-opto-components-inc/SSL-LX5093TC/67-2063-ND/1842140" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED TURQUOISE CLEAR ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lumex Opto/Components Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTW-2R3D7
+#
+DEF ~LTW-2R3D7 U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTW-2R3D7" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS20-2005-253/LTW-2R3D7.pdf" 200 300 60 H I L C N N
+F4 "160-1772-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTW-2R3D7" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS20-2005-253/LTW-2R3D7.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTW-2R3D7/160-1772-ND/1277121" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED WHITE CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTL2R3KSK
+#
+DEF ~LTL2R3KSK U 0 0 Y Y 1 F N
+F0 "D" -150 100 60 H V C C N N
+F1 "LTL2R3KSK" -50 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-20-99-0058/LTL2R3KSK.pdf" 200 300 60 H I L C N N
+F4 "160-1686-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTL2R3KSK" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-20-99-0058/LTL2R3KSK.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTL2R3KSK/160-1686-ND/573576" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED YELLOW CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# WP7113QBC_D
+#
+DEF ~WP7113QBC_D U 0 0 Y Y 1 F N
+F0 "D" -150 150 60 H V C C N N
+F1 "WP7113QBC_D" 0 -150 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP7113QBC-D.pdf" 200 300 60 H I L C N N
+F4 "754-1489-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "WP7113QBC/D" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.kingbrightusa.com/images/catalog/SPEC/WP7113QBC-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/kingbright/WP7113QBC-D/754-1489-ND/2261460" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED BLUE CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Kingbright" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
+P 2 1 1 0 -50 150 -75 125 N
+P 2 1 1 0 -25 200 -50 200 N
+P 2 1 1 0 0 175 0 150 N
+P 2 1 1 0 50 125 25 100 N
+P 2 1 1 0 75 175 50 175 N
+P 2 1 1 0 100 150 100 125 N
+P 5 1 1 0 50 125 100 175 75 175 100 175 100 150 N
+P 6 1 1 0 0 200 0 175 0 200 -25 200 0 200 -50 150 N
+X ~ 1 200 0 200 L 50 50 1 1 O
+X ~ 2 -300 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# WP154A4SUREQBFZGC
+#
+DEF WP154A4SUREQBFZGC U 0 0 Y Y 1 F N
+F0 "D" 0 300 60 H V C C N N
+F1 "WP154A4SUREQBFZGC" 0 -300 60 H V C C N N
+F2 "digikey-footprints:LED_RGB_WP154A4SUREQBFZGC" 200 200 60 H I L C N N
+F3 "http://www.kingbrightusa.com/images/catalog/SPEC/WP154A4SUREQBFZGC.pdf" 200 300 60 H I L C N N
+F4 "754-1615-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "WP154A4SUREQBFZGC" 200 500 60 H I L CNN "MPN"
+F6 "Optoelectronics" 200 600 60 H I L CNN "Category"
+F7 "LED Indication - Discrete" 200 700 60 H I L CNN "Family"
+F8 "http://www.kingbrightusa.com/images/catalog/SPEC/WP154A4SUREQBFZGC.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/kingbright/WP154A4SUREQBFZGC/754-1615-ND/3084119" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LED RGB CLEAR 5MM ROUND T/H" 200 1000 60 H I L CNN "Description"
+F11 "Kingbright" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 200 200 -200 -200 0 1 0 f
+P 2 0 1 0 -100 0 -200 0 N
+P 2 0 1 0 -50 50 -50 -50 N
+P 2 0 1 0 0 -50 0 -150 N
+P 2 0 1 0 0 50 0 150 N
+P 2 0 1 0 50 0 200 0 N
+P 2 0 1 0 100 -100 200 -100 N
+P 2 0 1 0 100 100 200 100 N
+P 3 0 1 0 -100 0 -100 -100 0 -100 N
+P 4 0 1 0 0 100 -100 100 -100 0 -50 0 N
+P 4 0 1 0 50 50 50 -50 -50 0 50 50 N
+P 4 0 1 0 100 -150 100 -50 0 -100 100 -150 N
+P 4 0 1 0 100 150 100 50 0 100 100 150 N
+X RED 1 400 100 200 L 50 50 1 1 I
+X ~ 2 -400 0 200 R 50 50 1 1 O
+X BLUE 3 400 0 200 L 50 50 1 1 I
+X GREEN 4 400 -100 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

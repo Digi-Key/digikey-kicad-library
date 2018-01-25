@@ -1,0 +1,1407 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# LM324N
+#
+DEF LM324N U 0 1 Y Y 1 F N
+F0 "U" -150 550 60 H V C C N N
+F1 "LM324N" 500 -900 60 H V C C N N
+F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm224.pdf" 200 300 60 H I L C N N
+F4 "296-1391-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM324N" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm224.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM324N/296-1391-5-ND/277627" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1.2MHZ 14DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 100 -800 0 1 0 f
+P 2 0 1 0 -200 -700 -150 -700 N
+P 2 0 1 0 -200 -400 -150 -400 N
+P 2 0 1 0 -200 -100 -150 -100 N
+P 2 0 1 0 -200 200 -150 200 N
+P 2 0 1 0 -150 -500 -200 -500 N
+P 2 0 1 0 -150 -200 -200 -200 N
+P 2 0 1 0 -150 100 -200 100 N
+P 2 0 1 0 -150 400 -200 400 N
+P 2 0 1 0 50 -600 100 -600 N
+P 2 0 1 0 50 -300 100 -300 N
+P 2 0 1 0 50 0 100 0 N
+P 2 0 1 0 50 300 100 300 N
+P 4 0 1 0 -150 -475 -150 -725 50 -600 -150 -475 N
+P 4 0 1 0 -150 -175 -150 -425 50 -300 -150 -175 N
+P 4 0 1 0 -150 125 -150 -125 50 0 -150 125 N
+P 4 0 1 0 -150 425 -150 175 50 300 -150 425 f
+X 1OUT 1 300 300 200 L 50 50 1 1 O
+X 1IN- 2 -400 400 200 R 50 50 1 1 I
+X 1IN+ 3 -400 200 200 R 50 50 1 1 I
+X VCC 4 0 700 200 D 50 50 1 1 W
+X 2IN+ 5 -400 100 200 R 50 50 1 1 I
+X 2IN- 6 -400 -100 200 R 50 50 1 1 I
+X 2OUT 7 300 0 200 L 50 50 1 1 O
+X 3OUT 8 300 -300 200 L 50 50 1 1 O
+X 3IN- 9 -400 -400 200 R 50 50 1 1 I
+X 3IN+ 10 -400 -200 200 R 50 50 1 1 I
+X GND 11 0 -1000 200 U 50 50 1 1 W
+X 4IN+ 12 -400 -700 200 R 50 50 1 1 I
+X 4IN- 13 -400 -500 200 R 50 50 1 1 I
+X 4OUT 14 300 -600 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LM324AN
+#
+DEF LM324AN U 0 0 Y Y 1 F N
+F0 "U" -200 550 60 H V C C N N
+F1 "LM324AN" 500 -600 60 H V C C N N
+F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm224.pdf" 200 300 60 H I L C N N
+F4 "296-9542-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM324AN" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm224.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM324AN/296-9542-5-ND/412056" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1.2MHZ 14DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 100 -500 0 1 0 f
+P 4 0 1 0 -100 -325 -150 -325 -150 -300 -200 -300 N
+P 4 0 1 0 -100 -300 -100 -400 0 -350 -100 -300 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 -100 175 -150 175 -150 200 -200 200 N
+P 4 0 1 0 -100 200 -100 100 0 150 -100 200 N
+P 4 0 1 0 -100 375 -150 375 -150 400 -200 400 N
+P 4 0 1 0 -100 400 -100 300 0 350 -100 400 N
+P 4 0 1 0 0 -350 50 -350 50 -400 100 -400 N
+P 4 0 1 0 0 -150 50 -150 50 -200 100 -200 N
+P 4 0 1 0 0 150 50 150 50 100 100 100 N
+P 4 0 1 0 0 350 50 350 50 300 100 300 N
+P 5 0 1 0 -200 -400 -150 -400 -150 -375 -125 -375 -100 -375 N
+P 5 0 1 0 -200 -200 -150 -200 -150 -175 -125 -175 -100 -175 N
+P 5 0 1 0 -200 100 -150 100 -150 125 -125 125 -100 125 N
+P 5 0 1 0 -200 300 -150 300 -150 325 -125 325 -100 325 N
+X 1OUT 1 300 300 200 L 50 50 1 1 O
+X 1IN- 2 -400 400 200 R 50 50 1 1 I
+X 1IN+ 3 -400 300 200 R 50 50 1 1 I
+X VCC 4 0 700 200 D 50 50 1 1 W
+X 2IN+ 5 -400 200 200 R 50 50 1 1 I
+X 2IN- 6 -400 100 200 R 50 50 1 1 I
+X 2OUT 7 300 100 200 L 50 50 1 1 O
+X 3OUT 8 300 -200 200 L 50 50 1 1 O
+X 3IN- 9 -400 -200 200 R 50 50 1 1 I
+X 3IN+ 10 -400 -100 200 R 50 50 1 1 I
+X GND 11 0 -700 200 U 50 50 1 1 W
+X 4IN+ 12 -400 -400 200 R 50 50 1 1 I
+X 4IN- 13 -400 -300 200 R 50 50 1 1 I
+X 4OUT 14 300 -400 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LM324N488
+#
+DEF LM324N488 U 0 0 Y Y 1 F N
+F0 "U" -150 550 60 H V C C N N
+F1 "LM324N488" 0 900 60 H V C C N N
+F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/LM/LM2902.pdf" 200 300 60 H I L C N N
+F4 "LM324NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM324N" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/LM/LM2902.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/LM324N/LM324NFS-ND/458682" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 14DIP" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 200 -700 0 1 0 f
+P 2 0 1 0 -200 -600 -100 -600 N
+P 2 0 1 0 -200 -300 -100 -300 N
+P 2 0 1 0 -200 0 -100 0 N
+P 2 0 1 0 -200 300 -100 300 N
+P 2 0 1 0 -100 -500 -200 -500 N
+P 2 0 1 0 -100 -200 -200 -200 N
+P 2 0 1 0 -100 100 -200 100 N
+P 2 0 1 0 -100 400 -200 400 N
+P 2 0 1 0 -75 -600 -25 -600 N
+P 2 0 1 0 -75 -525 -25 -525 N
+P 2 0 1 0 -75 -275 -25 -275 N
+P 2 0 1 0 -75 -200 -25 -200 N
+P 2 0 1 0 -75 0 -25 0 N
+P 2 0 1 0 -75 75 -25 75 N
+P 2 0 1 0 -75 325 -25 325 N
+P 2 0 1 0 -75 400 -25 400 N
+P 3 0 1 0 -50 -500 -50 -525 -50 -550 N
+P 3 0 1 0 -50 -250 -50 -275 -50 -300 N
+P 3 0 1 0 -50 100 -50 75 -50 50 N
+P 3 0 1 0 -50 350 -50 325 -50 300 N
+P 4 0 1 0 -100 -450 -100 -650 100 -550 -100 -450 N
+P 4 0 1 0 -100 -150 -100 -350 100 -250 -100 -150 N
+P 4 0 1 0 -100 150 -100 -50 100 50 -100 150 N
+P 4 0 1 0 -100 450 -100 250 100 350 -100 450 N
+P 4 0 1 0 100 -550 150 -550 150 -500 200 -500 N
+P 4 0 1 0 100 -250 150 -250 150 -200 200 -200 N
+P 4 0 1 0 100 50 150 50 150 100 200 100 N
+P 4 0 1 0 100 350 150 350 150 400 200 400 N
+X OUT1 1 400 400 200 L 50 50 1 1 O
+X IN1- 2 -400 400 200 R 50 50 1 1 I
+X IN1+ 3 -400 300 200 R 50 50 1 1 I
+X VCC 4 0 700 200 D 50 50 1 1 I
+X IN2+ 5 -400 100 200 R 50 50 1 1 I
+X IN2- 6 -400 0 200 R 50 50 1 1 I
+X OUT2 7 400 100 200 L 50 50 1 1 O
+X OUT3 8 400 -200 200 L 50 50 1 1 O
+X IN3- 9 -400 -200 200 R 50 50 1 1 I
+X IN3+ 10 -400 -300 200 R 50 50 1 1 I
+X GND 11 100 -900 200 U 50 50 1 1 I
+X IN4+ 12 -400 -500 200 R 50 50 1 1 I
+X IN4- 13 -400 -600 200 R 50 50 1 1 I
+X OUT4 14 400 -500 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# MCP6004-I_P
+#
+DEF MCP6004-I_P U 0 0 Y Y 1 F N
+F0 "U" -100 550 60 H V C C N N
+F1 "MCP6004-I_P" 0 900 60 H V C C N N
+F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705" 200 300 60 H I L C N N
+F4 "MCP6004-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP6004-I/P" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP6004-I-P/MCP6004-I-P-ND/523060" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1MHZ RRO 14DIP" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 200 -700 0 1 0 f
+P 2 0 1 0 -200 -600 -100 -600 N
+P 2 0 1 0 -200 -300 -100 -300 N
+P 2 0 1 0 -200 0 -100 0 N
+P 2 0 1 0 -200 300 -100 300 N
+P 2 0 1 0 -100 -500 -200 -500 N
+P 2 0 1 0 -100 -200 -200 -200 N
+P 2 0 1 0 -100 100 -200 100 N
+P 2 0 1 0 -100 400 -200 400 N
+P 2 0 1 0 -75 -600 -25 -600 N
+P 2 0 1 0 -75 -525 -25 -525 N
+P 2 0 1 0 -75 -275 -25 -275 N
+P 2 0 1 0 -75 -200 -25 -200 N
+P 2 0 1 0 -75 0 -25 0 N
+P 2 0 1 0 -75 75 -25 75 N
+P 2 0 1 0 -75 325 -25 325 N
+P 2 0 1 0 -75 400 -25 400 N
+P 3 0 1 0 -50 -500 -50 -525 -50 -550 N
+P 3 0 1 0 -50 -250 -50 -275 -50 -300 N
+P 3 0 1 0 -50 100 -50 75 -50 50 N
+P 3 0 1 0 -50 350 -50 325 -50 300 N
+P 4 0 1 0 -100 -450 -100 -650 100 -550 -100 -450 N
+P 4 0 1 0 -100 -150 -100 -350 100 -250 -100 -150 N
+P 4 0 1 0 -100 150 -100 -50 100 50 -100 150 N
+P 4 0 1 0 -100 450 -100 250 100 350 -100 450 N
+P 4 0 1 0 100 -550 150 -550 150 -500 200 -500 N
+P 4 0 1 0 100 -250 150 -250 150 -200 200 -200 N
+P 4 0 1 0 100 50 150 50 150 100 200 100 N
+P 4 0 1 0 100 350 150 350 150 400 200 400 N
+X VOUT_A 1 400 400 200 L 50 50 1 1 O
+X VIN_A- 2 -400 400 200 R 50 50 1 1 I
+X VIN_A+ 3 -400 300 200 R 50 50 1 1 I
+X VDD 4 100 700 200 D 50 50 1 1 I
+X VINB+ 5 -400 100 200 R 50 50 1 1 I
+X VINB- 6 -400 0 200 R 50 50 1 1 I
+X VOUT_B 7 400 100 200 L 50 50 1 1 O
+X VOUT_C 8 400 -200 200 L 50 50 1 1 O
+X VINC- 9 -400 -200 200 R 50 50 1 1 I
+X VINC+ 10 -400 -300 200 R 50 50 1 1 I
+X VSS 11 100 -900 200 U 50 50 1 1 I
+X VIND+ 12 -400 -500 200 R 50 50 1 1 I
+X VIND- 13 -400 -600 200 R 50 50 1 1 I
+X VOUT_D 14 400 -500 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# TL074CN
+#
+DEF TL074CN U 0 0 Y Y 1 F N
+F0 "U" -200 600 60 H V C C N N
+F1 "TL074CN" 500 -800 60 H V C C N N
+F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tl071a.pdf" 200 300 60 H I L C N N
+F4 "296-1777-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TL074CN" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tl071a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TL074CN/296-1777-5-ND/277423" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP JFET 3MHZ 14DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 100 -700 0 1 0 f
+P 2 0 1 0 -90 -570 -70 -570 N
+P 2 0 1 0 -90 -530 -70 -530 N
+P 2 0 1 0 -90 -270 -70 -270 N
+P 2 0 1 0 -90 -230 -70 -230 N
+P 2 0 1 0 -90 30 -70 30 N
+P 2 0 1 0 -90 70 -70 70 N
+P 2 0 1 0 -90 330 -70 330 N
+P 2 0 1 0 -90 375 -70 375 N
+P 2 0 1 0 -80 -560 -80 -580 N
+P 2 0 1 0 -80 -220 -80 -240 N
+P 2 0 1 0 -80 80 -80 60 N
+P 2 0 1 0 -80 340 -80 320 N
+P 4 0 1 0 -100 -525 -150 -525 -150 -500 -200 -500 N
+P 4 0 1 0 -100 -500 -100 -600 0 -550 -100 -500 N
+P 4 0 1 0 -100 -225 -150 -225 -150 -200 -200 -200 N
+P 4 0 1 0 -100 -200 -100 -300 0 -250 -100 -200 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 -100 375 -150 375 -150 400 -200 400 N
+P 4 0 1 0 -100 400 -100 300 0 350 -100 400 N
+P 4 0 1 0 0 -550 50 -550 50 -600 100 -600 N
+P 4 0 1 0 0 -250 50 -250 50 -300 100 -300 N
+P 4 0 1 0 0 50 50 50 50 0 100 0 N
+P 4 0 1 0 0 350 50 350 50 300 100 300 N
+P 5 0 1 0 -200 -600 -150 -600 -150 -575 -125 -575 -100 -575 N
+P 5 0 1 0 -200 -300 -150 -300 -150 -275 -125 -275 -100 -275 N
+P 5 0 1 0 -200 0 -150 0 -150 25 -125 25 -100 25 N
+P 5 0 1 0 -200 300 -150 300 -150 325 -125 325 -100 325 N
+X 1OUT 1 300 300 200 L 50 50 1 1 O
+X 1IN- 2 -400 400 200 R 50 50 1 1 I
+X 1IN+ 3 -400 300 200 R 50 50 1 1 I
+X VCC+ 4 0 700 200 D 50 50 1 1 W
+X 2IN+ 5 -400 100 200 R 50 50 1 1 I
+X 2IN- 6 -400 0 200 R 50 50 1 1 I
+X 2OUT 7 300 0 200 L 50 50 1 1 O
+X 3OUT 8 300 -300 200 L 50 50 1 1 O
+X 3IN- 9 -400 -300 200 R 50 50 1 1 I
+X 3IN+ 10 -400 -200 200 R 50 50 1 1 I
+X VCC- 11 0 -900 200 U 50 50 1 1 W
+X 4IN+ 12 -400 -600 200 R 50 50 1 1 I
+X 4IN- 13 -400 -500 200 R 50 50 1 1 I
+X 4OUT 14 300 -600 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# TL084CN
+#
+DEF TL084CN U 0 0 Y Y 1 F N
+F0 "U" -200 600 60 H V C C N N
+F1 "TL084CN" 500 -800 60 H V C C N N
+F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tl081a.pdf" 200 300 60 H I L C N N
+F4 "296-1784-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TL084CN" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tl081a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TL084CN/296-1784-5-ND/277429" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP JFET 3MHZ 14DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 100 -700 0 1 0 f
+P 2 0 1 0 -90 -570 -70 -570 N
+P 2 0 1 0 -90 -525 -70 -525 N
+P 2 0 1 0 -90 -275 -70 -275 N
+P 2 0 1 0 -90 -230 -70 -230 N
+P 2 0 1 0 -90 25 -70 25 N
+P 2 0 1 0 -90 70 -70 70 N
+P 2 0 1 0 -90 330 -70 330 N
+P 2 0 1 0 -90 370 -70 370 N
+P 2 0 1 0 -80 -560 -80 -580 N
+P 2 0 1 0 -80 -220 -80 -240 N
+P 2 0 1 0 -80 80 -80 60 N
+P 2 0 1 0 -80 340 -80 320 N
+P 4 0 1 0 -100 -525 -150 -525 -150 -500 -200 -500 N
+P 4 0 1 0 -100 -500 -100 -600 0 -550 -100 -500 N
+P 4 0 1 0 -100 -225 -150 -225 -150 -200 -200 -200 N
+P 4 0 1 0 -100 -200 -100 -300 0 -250 -100 -200 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 -100 375 -150 375 -150 400 -200 400 N
+P 4 0 1 0 -100 400 -100 300 0 350 -100 400 N
+P 4 0 1 0 0 -550 50 -550 50 -600 100 -600 N
+P 4 0 1 0 0 -250 50 -250 50 -300 100 -300 N
+P 4 0 1 0 0 50 50 50 50 0 100 0 N
+P 4 0 1 0 0 350 50 350 50 300 100 300 N
+P 5 0 1 0 -200 -600 -150 -600 -150 -575 -125 -575 -100 -575 N
+P 5 0 1 0 -200 -300 -150 -300 -150 -275 -125 -275 -100 -275 N
+P 5 0 1 0 -200 0 -150 0 -150 25 -125 25 -100 25 N
+P 5 0 1 0 -200 300 -150 300 -150 325 -125 325 -100 325 N
+X 1OUT 1 300 300 200 L 50 50 1 1 O
+X 1IN- 2 -400 400 200 R 50 50 1 1 I
+X 1IN+ 3 -400 300 200 R 50 50 1 1 I
+X VCC+ 4 0 700 200 D 50 50 1 1 W
+X 2IN+ 5 -400 100 200 R 50 50 1 1 I
+X 2IN- 6 -400 0 200 R 50 50 1 1 I
+X 2OUT 7 300 0 200 L 50 50 1 1 O
+X 3OUT 8 300 -300 200 L 50 50 1 1 O
+X 3IN- 9 -400 -300 200 R 50 50 1 1 I
+X 3IN+ 10 -400 -200 200 R 50 50 1 1 I
+X VCC- 11 0 -900 200 U 50 50 1 1 W
+X 4IN+ 12 -400 -600 200 R 50 50 1 1 I
+X 4IN- 13 -400 -500 200 R 50 50 1 1 I
+X 4OUT 14 300 -600 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# OPA2134PA
+#
+DEF OPA2134PA U 0 0 Y Y 1 F N
+F0 "U" -100 250 60 H V C C N N
+F1 "OPA2134PA" 0 500 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/opa134.pdf" 200 300 60 H I L C N N
+F4 "OPA2134PA-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "OPA2134PA" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/opa134.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/OPA2134PA/OPA2134PA-ND/254686" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP AUDIO 8MHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+A 20 -255 10 -899 899 0 1 0 N 20 -265 20 -245
+A 20 -238 7 -899 899 0 1 0 N 20 -245 20 -230
+S -200 200 200 -400 0 1 0 f
+P 2 0 1 0 -200 -300 -100 -300 N
+P 2 0 1 0 -200 0 -100 0 N
+P 2 0 1 0 -100 -200 -200 -200 N
+P 2 0 1 0 -100 100 -200 100 N
+P 2 0 1 0 -75 -275 -25 -275 N
+P 2 0 1 0 -75 -225 -25 -225 N
+P 2 0 1 0 -75 25 -25 25 N
+P 2 0 1 0 -75 75 -25 75 N
+P 2 0 1 0 -50 -250 -50 -300 N
+P 2 0 1 0 -50 50 -50 0 N
+P 2 0 1 0 5 50 15 50 N
+P 2 0 1 0 10 70 0 40 N
+P 2 0 1 0 10 70 20 40 N
+P 2 0 1 0 15 -230 15 -265 N
+P 4 0 1 0 -100 -150 -100 -350 100 -250 -100 -150 N
+P 4 0 1 0 -100 150 -100 -50 100 50 -100 150 N
+P 4 0 1 0 100 -250 150 -250 150 -200 200 -200 N
+P 4 0 1 0 100 50 150 50 150 100 200 100 N
+X OUT_A 1 400 100 200 L 50 50 1 1 O
+X -IN_A 2 -400 100 200 R 50 50 1 1 I
+X +IN_A 3 -400 0 200 R 50 50 1 1 I
+X V- 4 100 -600 200 U 50 50 1 1 W
+X +IN_B 5 -400 -300 200 R 50 50 1 1 I
+X -IN_B 6 -400 -200 200 R 50 50 1 1 I
+X OUT_B 7 400 -200 200 L 50 50 1 1 O
+X V+ 8 100 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LM741CN_NOPB
+#
+DEF LM741CN_NOPB U 0 0 Y Y 1 F N
+F0 "U" -200 350 60 H V C C N N
+F1 "LM741CN_NOPB" 0 650 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/LM741_Series_Rev_July_2016.pdf" 200 300 60 H I L C N N
+F4 "LM741CNNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM741CN/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/LM741_Series_Rev_July_2016.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM741CN-NOPB/LM741CNNS-NOPB-ND/6322" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1.5MHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 300 -300 0 1 0 f
+P 2 0 1 0 -300 -100 -200 -100 N
+P 2 0 1 0 -200 100 -300 100 N
+P 2 0 1 0 0 -100 0 -300 N
+P 2 0 1 0 0 300 0 100 N
+P 2 0 1 0 200 0 300 0 N
+P 4 0 1 0 200 0 -200 200 -200 -200 200 0 N
+X OFFSET_NULL 1 -500 200 200 R 50 50 1 1 I
+X INV_IN 2 -500 100 200 R 50 50 1 1 I
+X NON-INV_IN 3 -500 -100 200 R 50 50 1 1 I
+X V- 4 0 -500 200 U 50 50 1 1 W
+X OFFSET_NULL 5 -500 -200 200 R 50 50 1 1 I
+X OUT 6 500 0 200 L 50 50 1 1 O
+X V+ 7 0 500 200 D 50 50 1 1 W
+X NC 8 -500 -300 200 R 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+# LMC6482IN_NOPB
+#
+DEF LMC6482IN_NOPB U 0 0 Y Y 1 F N
+F0 "U" -200 250 60 H V C C N N
+F1 "LMC6482IN_NOPB" 0 600 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lmc6482.pdf" 200 300 60 H I L C N N
+F4 "LMC6482IN/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LMC6482IN/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lmc6482.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LMC6482IN-NOPB/LMC6482IN-NOPB-ND/364330" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1.5MHZ RRO 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 100 -300 0 1 0 f
+P 2 0 1 0 -300 -100 -200 -100 N
+P 2 0 1 0 -300 100 -200 100 N
+P 2 0 1 0 -200 -200 -300 -200 N
+P 2 0 1 0 -200 0 -300 0 N
+P 2 0 1 0 -90 -170 -70 -170 N
+P 2 0 1 0 -90 -130 -70 -130 N
+P 2 0 1 0 -90 30 -70 30 N
+P 2 0 1 0 -90 70 -70 70 N
+P 2 0 1 0 -80 -160 -80 -180 N
+P 2 0 1 0 -80 40 -80 20 N
+P 4 0 1 0 -200 -200 -150 -200 -150 -175 -100 -175 N
+P 4 0 1 0 -200 0 -150 0 -150 25 -100 25 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 100 -200 50 -200 50 -150 0 -150 N
+P 4 0 1 0 100 0 50 0 50 50 0 50 N
+X OUT_A 1 300 0 200 L 50 50 1 1 O
+X INV_IN_A 2 -500 100 200 R 50 50 1 1 I
+X NON-INV_IN_A 3 -500 0 200 R 50 50 1 1 I
+X V- 4 0 -500 200 U 50 50 1 1 W
+X NON-INV_IN_B 5 -500 -200 200 R 50 50 1 1 I
+X INV_IN_B 6 -500 -100 200 R 50 50 1 1 I
+X OUT_B 7 300 -200 200 L 50 50 1 1 O
+X V+ 8 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# NE5532P
+#
+DEF NE5532P U 0 0 Y Y 1 F N
+F0 "U" -200 -150 60 H V C C N N
+F1 "NE5532P" 500 -900 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/ne5532.pdf" 200 300 60 H I L C N N
+F4 "296-1410-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "NE5532P" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/ne5532.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/NE5532P/296-1410-5-ND/277056" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 10MHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 -200 100 -800 0 1 0 f
+P 2 0 1 0 -90 -665 -70 -665 N
+P 2 0 1 0 -90 -630 -70 -630 N
+P 2 0 1 0 -90 -330 -70 -330 N
+P 2 0 1 0 -85 -365 -65 -365 N
+P 2 0 1 0 -80 -655 -80 -675 N
+P 2 0 1 0 -75 -355 -75 -375 N
+P 4 0 1 0 -200 -600 -150 -600 -150 -625 -100 -625 N
+P 4 0 1 0 -200 -300 -150 -300 -150 -325 -100 -325 N
+P 4 0 1 0 -100 -675 -150 -675 -150 -700 -200 -700 N
+P 4 0 1 0 -100 -600 -100 -700 0 -650 -100 -600 N
+P 4 0 1 0 -100 -375 -150 -375 -150 -400 -200 -400 N
+P 4 0 1 0 -100 -300 -100 -400 0 -350 -100 -300 N
+P 4 0 1 0 0 -650 50 -650 50 -600 100 -600 N
+P 4 0 1 0 0 -350 50 -350 50 -400 100 -400 N
+X 1OUT 1 300 -400 200 L 50 50 1 1 O
+X 1IN- 2 -400 -300 200 R 50 50 1 1 I
+X IN+ 3 -400 -400 200 R 50 50 1 1 I
+X VCC- 4 0 -1000 200 U 50 50 1 1 W
+X 2IN+ 5 -400 -700 200 R 50 50 1 1 I
+X 2IN- 6 -400 -600 200 R 50 50 1 1 I
+X 2OUT 7 300 -600 200 L 50 50 1 1 O
+X VCC+ 8 0 0 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# UA741CP
+#
+DEF UA741CP U 0 0 Y Y 1 F N
+F0 "U" -250 150 60 H V C C N N
+F1 "UA741CP" 500 -500 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/ua741.pdf" 200 300 60 H I L C N N
+F4 "296-11107-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "UA741CP" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/ua741.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/UA741CP/296-11107-5-ND/382197" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1MHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C -90 -150 10 0 1 0 N
+S -300 100 0 -400 0 1 0 f
+P 2 0 1 0 -50 -150 -80 -150 N
+P 3 0 1 0 -150 -175 -150 -300 -300 -300 N
+P 3 0 1 0 -150 -125 -150 0 -300 0 N
+P 3 0 1 0 -50 -150 -50 -200 0 -200 N
+P 4 0 1 0 -300 -200 -250 -200 -250 -175 -200 -175 N
+P 4 0 1 0 -200 -125 -250 -125 -250 -100 -300 -100 N
+P 4 0 1 0 -200 -100 -200 -200 -100 -150 -200 -100 N
+X OFF_N1 1 -500 0 200 R 50 50 1 1 I
+X IN- 2 -500 -200 200 R 50 50 1 1 I
+X IN+ 3 -500 -100 200 R 50 50 1 1 I
+X VCC- 4 -100 -600 200 U 50 50 1 1 W
+X OFF_N2 5 -500 -300 200 R 50 50 1 1 I
+X OUT 6 200 -200 200 L 50 50 1 1 O
+X VCC+ 7 -100 300 200 D 50 50 1 1 W
+X NC 8 200 0 200 L 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+# MCP6002-I_P
+#
+DEF MCP6002-I_P U 0 0 Y Y 1 F N
+F0 "U" -100 550 60 H V C C N N
+F1 "MCP6002-I_P" 0 900 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705" 200 300 60 H I L C N N
+F4 "MCP6002-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP6002-I/P" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP6002-I-P/MCP6002-I-P-ND/500875" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1MHZ RRO 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 200 -100 0 1 0 f
+P 2 0 1 0 -200 0 -100 0 N
+P 2 0 1 0 -200 300 -100 300 N
+P 2 0 1 0 -100 100 -200 100 N
+P 2 0 1 0 -100 400 -200 400 N
+P 2 0 1 0 -75 0 -25 0 N
+P 2 0 1 0 -75 75 -25 75 N
+P 2 0 1 0 -75 325 -25 325 N
+P 2 0 1 0 -75 400 -25 400 N
+P 3 0 1 0 -50 100 -50 75 -50 50 N
+P 3 0 1 0 -50 350 -50 325 -50 300 N
+P 4 0 1 0 -100 150 -100 -50 100 50 -100 150 N
+P 4 0 1 0 -100 450 -100 250 100 350 -100 450 N
+P 4 0 1 0 100 50 150 50 150 100 200 100 N
+P 4 0 1 0 100 350 150 350 150 400 200 400 N
+X VOUT_A 1 400 400 200 L 50 50 1 1 O
+X VIN_A- 2 -400 400 200 R 50 50 1 1 I
+X VIN_A+ 3 -400 300 200 R 50 50 1 1 I
+X VDD 4 100 700 200 D 50 50 1 1 W
+X VIN_B+ 5 -400 100 200 R 50 50 1 1 I
+X VIN_B- 6 -400 0 200 R 50 50 1 1 I
+X VOUT_B 7 400 100 200 L 50 50 1 1 O
+X VSS 8 100 -300 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TLV2462CP
+#
+DEF TLV2462CP U 0 0 Y Y 1 F N
+F0 "U" -200 300 60 H V C C N N
+F1 "TLV2462CP" 500 -400 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tlv2462a.pdf" 200 300 60 H I L C N N
+F4 "296-1892-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TLV2462CP" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tlv2462a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TLV2462CP/296-1892-5-ND/277537" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 6.4MHZ RRO 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 100 -300 0 1 0 f
+P 2 0 1 0 -90 -170 -70 -170 N
+P 2 0 1 0 -90 -130 -70 -130 N
+P 2 0 1 0 -90 30 -70 30 N
+P 2 0 1 0 -90 70 -70 70 N
+P 2 0 1 0 -80 -160 -80 -180 N
+P 2 0 1 0 -80 40 -80 20 N
+P 4 0 1 0 -200 -200 -150 -200 -150 -175 -100 -175 N
+P 4 0 1 0 -200 0 -150 0 -150 25 -100 25 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 100 -200 50 -200 50 -150 0 -150 N
+P 4 0 1 0 100 0 50 0 50 50 0 50 N
+X 1OUT 1 300 0 200 L 50 50 1 1 O
+X 1IN- 2 -400 100 200 R 50 50 1 1 I
+X 1IN+ 3 -400 0 200 R 50 50 1 1 I
+X GND 4 0 -500 200 U 50 50 1 1 W
+X 2IN+ 5 -400 -200 200 R 50 50 1 1 I
+X 2IN- 6 -400 -100 200 R 50 50 1 1 I
+X 2OUT 7 300 -200 200 L 50 50 1 1 O
+X VDD+ 8 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LM358P
+#
+DEF LM358P U 0 0 Y Y 1 F N
+F0 "U" -300 300 60 H V C C N N
+F1 "LM358P" 400 -400 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm358.pdf" 200 300 60 H I L C N N
+F4 "296-1395-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM358P" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm358.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM358P/296-1395-5-ND/277042" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 700KHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 100 -300 0 1 0 f
+P 2 0 1 0 -90 -170 -70 -170 N
+P 2 0 1 0 -90 -130 -70 -130 N
+P 2 0 1 0 -90 30 -70 30 N
+P 2 0 1 0 -90 70 -70 70 N
+P 2 0 1 0 -80 -160 -80 -180 N
+P 2 0 1 0 -80 40 -80 20 N
+P 4 0 1 0 -200 -200 -150 -200 -150 -175 -100 -175 N
+P 4 0 1 0 -200 0 -150 0 -150 25 -100 25 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 100 -200 50 -200 50 -150 0 -150 N
+P 4 0 1 0 100 0 50 0 50 50 0 50 N
+X 1OUT 1 300 0 200 L 50 50 1 1 O
+X 1IN- 2 -400 100 200 R 50 50 1 1 I
+X IN+ 3 -400 0 200 R 50 50 1 1 I
+X GND 4 -100 -500 200 U 50 50 1 1 W
+X 2IN+ 5 -400 -200 200 R 50 50 1 1 I
+X 2IN- 6 -400 -100 200 R 50 50 1 1 I
+X 2OUT 7 300 -200 200 L 50 50 1 1 O
+X VCC 8 -100 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LM358AN
+#
+DEF LM358AN U 0 0 Y Y 1 F N
+F0 "U" -150 550 60 H V C C N N
+F1 "LM358AN" 0 900 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 300 60 H I L C N N
+F4 "LM358ANFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM358AN" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/LM358AN/LM358ANFS-ND/458690" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 200 -100 0 1 0 f
+P 2 0 1 0 -200 0 -100 0 N
+P 2 0 1 0 -200 300 -100 300 N
+P 2 0 1 0 -100 100 -200 100 N
+P 2 0 1 0 -100 400 -200 400 N
+P 2 0 1 0 -75 0 -25 0 N
+P 2 0 1 0 -75 75 -25 75 N
+P 2 0 1 0 -75 325 -25 325 N
+P 2 0 1 0 -75 400 -25 400 N
+P 3 0 1 0 -50 100 -50 75 -50 50 N
+P 3 0 1 0 -50 350 -50 325 -50 300 N
+P 4 0 1 0 -100 150 -100 -50 100 50 -100 150 N
+P 4 0 1 0 -100 450 -100 250 100 350 -100 450 N
+P 4 0 1 0 100 50 150 50 150 100 200 100 N
+P 4 0 1 0 100 350 150 350 150 400 200 400 N
+X OUT1 1 400 400 200 L 50 50 1 1 O
+X IN1- 2 -400 400 200 R 50 50 1 1 I
+X IN1+ 3 -400 300 200 R 50 50 1 1 I
+X GND 4 100 -300 200 U 50 50 1 1 W
+X IN2+ 5 -400 100 200 R 50 50 1 1 I
+X IN2- 6 -400 0 200 R 50 50 1 1 I
+X OUT2 7 400 100 200 L 50 50 1 1 O
+X VCC 8 0 700 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LM358N
+#
+DEF LM358N U 0 0 Y Y 1 F N
+F0 "U" -200 600 60 H V C C N N
+F1 "LM358N" 0 900 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 300 60 H I L C N N
+F4 "LM358NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM358N" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/LM358N/LM358NFS-ND/458692" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 200 -100 0 1 0 f
+P 2 0 1 0 -200 0 -100 0 N
+P 2 0 1 0 -200 300 -100 300 N
+P 2 0 1 0 -100 100 -200 100 N
+P 2 0 1 0 -100 400 -200 400 N
+P 2 0 1 0 -75 0 -25 0 N
+P 2 0 1 0 -75 75 -25 75 N
+P 2 0 1 0 -75 325 -25 325 N
+P 2 0 1 0 -75 400 -25 400 N
+P 3 0 1 0 -50 100 -50 75 -50 50 N
+P 3 0 1 0 -50 350 -50 325 -50 300 N
+P 4 0 1 0 -100 150 -100 -50 100 50 -100 150 N
+P 4 0 1 0 -100 450 -100 250 100 350 -100 450 N
+P 4 0 1 0 100 50 150 50 150 100 200 100 N
+P 4 0 1 0 100 350 150 350 150 400 200 400 N
+X OUT1 1 400 400 200 L 50 50 1 1 O
+X IN1- 2 -400 400 200 R 50 50 1 1 I
+X IN1+ 3 -400 300 200 R 50 50 1 1 I
+X GND 4 100 -300 200 U 50 50 1 1 W
+X IN2+ 5 -400 100 200 R 50 50 1 1 I
+X IN2- 6 -400 0 200 R 50 50 1 1 I
+X OUT2 7 400 100 200 L 50 50 1 1 O
+X VCC 8 0 700 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# AD620ANZ
+#
+DEF AD620ANZ U 0 0 Y Y 1 F N
+F0 "U" -150 550 60 H V C C N N
+F1 "AD620ANZ" 0 900 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf" 200 300 60 H I L C N N
+F4 "AD620ANZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AD620ANZ" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/analog-devices-inc/AD620ANZ/AD620ANZ-ND/750967" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP INSTR 1MHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 200 0 0 1 0 f
+P 2 0 1 0 -200 300 -100 300 N
+P 2 0 1 0 -100 400 -200 400 N
+P 2 0 1 0 -75 325 -25 325 N
+P 2 0 1 0 -75 400 -25 400 N
+P 3 0 1 0 -50 350 -50 325 -50 300 N
+P 4 0 1 0 -100 450 -100 250 100 350 -100 450 N
+P 4 0 1 0 100 350 150 350 150 400 200 400 N
+X RG 1 -400 200 200 R 50 50 1 1 U
+X IN- 2 -400 400 200 R 50 50 1 1 I
+X IN+ 3 -400 300 200 R 50 50 1 1 I
+X VS- 4 100 -200 200 U 50 50 1 1 W
+X REF 5 400 300 200 L 50 50 1 1 O
+X OUT 6 400 400 200 L 50 50 1 1 O
+X VS+ 7 100 700 200 D 50 50 1 1 W
+X RG 8 -400 100 200 R 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+# AD623ANZ
+#
+DEF AD623ANZ U 0 0 Y Y 1 F N
+F0 "U" -150 550 60 H V C C N N
+F1 "AD623ANZ" 0 900 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf" 200 300 60 H I L C N N
+F4 "AD623ANZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AD623ANZ" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/analog-devices-inc/AD623ANZ/AD623ANZ-ND/750974" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP INSTR 800KHZ RRO 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 200 0 0 1 0 f
+P 2 0 1 0 -200 300 -100 300 N
+P 2 0 1 0 -100 400 -200 400 N
+P 2 0 1 0 -75 325 -25 325 N
+P 2 0 1 0 -75 400 -25 400 N
+P 3 0 1 0 -50 350 -50 325 -50 300 N
+P 4 0 1 0 -100 450 -100 250 100 350 -100 450 N
+P 4 0 1 0 100 350 150 350 150 400 200 400 N
+X RG 1 -400 200 200 R 50 50 1 1 U
+X IN- 2 -400 400 200 R 50 50 1 1 I
+X IN+ 3 -400 300 200 R 50 50 1 1 I
+X VS- 4 100 -200 200 U 50 50 1 1 W
+X REF 5 400 300 200 L 50 50 1 1 O
+X OUT 6 400 400 200 L 50 50 1 1 O
+X VS+ 7 100 700 200 D 50 50 1 1 W
+X RG 8 -400 100 200 R 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+# TL072IP
+#
+DEF TL072IP U 0 0 Y Y 1 F N
+F0 "U" -200 250 60 H V C C N N
+F1 "TL072IP" 500 -400 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tl071a.pdf" 200 300 60 H I L C N N
+F4 "296-14997-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TL072IP" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tl071a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TL072IP/296-14997-5-ND/563039" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP JFET 3MHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 100 -300 0 1 0 f
+P 2 0 1 0 -90 -170 -70 -170 N
+P 2 0 1 0 -90 -130 -70 -130 N
+P 2 0 1 0 -90 30 -70 30 N
+P 2 0 1 0 -90 70 -70 70 N
+P 2 0 1 0 -80 -160 -80 -180 N
+P 2 0 1 0 -80 40 -80 20 N
+P 4 0 1 0 -200 -200 -150 -200 -150 -175 -100 -175 N
+P 4 0 1 0 -200 0 -150 0 -150 25 -100 25 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 100 -200 50 -200 50 -150 0 -150 N
+P 4 0 1 0 100 0 50 0 50 50 0 50 N
+X 1OUT 1 300 0 200 L 50 50 1 1 O
+X 1IN- 2 -400 100 200 R 50 50 1 1 I
+X 1IN+ 3 -400 0 200 R 50 50 1 1 I
+X VCC- 4 0 -500 200 U 50 50 1 1 W
+X 2IN+ 5 -400 -200 200 R 50 50 1 1 I
+X 2IN- 6 -400 -100 200 R 50 50 1 1 I
+X 2OUT 7 300 -200 200 L 50 50 1 1 O
+X VCC+ 8 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TL072CP
+#
+DEF TL072CP U 0 0 Y Y 1 F N
+F0 "U" -200 300 60 H V C C N N
+F1 "TL072CP" 400 -400 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tl071a.pdf" 200 300 60 H I L C N N
+F4 "296-1775-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TL072CP" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tl071a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TL072CP/296-1775-5-ND/277421" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP JFET 3MHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 100 -300 0 1 0 f
+P 2 0 1 0 -90 -170 -70 -170 N
+P 2 0 1 0 -90 -130 -70 -130 N
+P 2 0 1 0 -90 30 -70 30 N
+P 2 0 1 0 -90 70 -70 70 N
+P 2 0 1 0 -80 -160 -80 -180 N
+P 2 0 1 0 -80 40 -80 20 N
+P 4 0 1 0 -200 -200 -150 -200 -150 -175 -100 -175 N
+P 4 0 1 0 -200 0 -150 0 -150 25 -100 25 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 100 -200 50 -200 50 -150 0 -150 N
+P 4 0 1 0 100 0 50 0 50 50 0 50 N
+X 1OUT 1 300 0 200 L 50 50 1 1 O
+X 1IN- 2 -400 100 200 R 50 50 1 1 I
+X 1IN+ 3 -400 0 200 R 50 50 1 1 I
+X VCC- 4 -100 -500 200 U 50 50 1 1 W
+X 2IN+ 5 -400 -200 200 R 50 50 1 1 I
+X 2IN- 6 -400 -100 200 R 50 50 1 1 I
+X 2OUT 7 300 -200 200 L 50 50 1 1 O
+X VCC+ 8 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TL082IP
+#
+DEF TL082IP U 0 0 Y Y 1 F N
+F0 "U" -200 300 60 H V C C N N
+F1 "TL082IP" 500 -400 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/tl081a.pdf" 200 300 60 H I L C N N
+F4 "296-1781-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TL082IP" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/tl081a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/TL082IP/296-1781-5-ND/277426" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP JFET 3MHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 100 -300 0 1 0 f
+P 2 0 1 0 -90 -170 -70 -170 N
+P 2 0 1 0 -90 -130 -70 -130 N
+P 2 0 1 0 -90 30 -70 30 N
+P 2 0 1 0 -90 70 -70 70 N
+P 2 0 1 0 -80 -160 -80 -180 N
+P 2 0 1 0 -80 40 -80 20 N
+P 4 0 1 0 -200 -200 -150 -200 -150 -175 -100 -175 N
+P 4 0 1 0 -200 0 -150 0 -150 25 -100 25 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 100 -200 50 -200 50 -150 0 -150 N
+P 4 0 1 0 100 0 50 0 50 50 0 50 N
+X 1OUT 1 300 0 200 L 50 50 1 1 O
+X 1IN- 2 -400 100 200 R 50 50 1 1 I
+X 1IN+ 3 -400 0 200 R 50 50 1 1 I
+X VCC- 4 0 -500 200 U 50 50 1 1 W
+X 2IN+ 5 -400 -200 200 R 50 50 1 1 I
+X 2IN- 6 -400 -100 200 R 50 50 1 1 I
+X 2OUT 7 300 -200 200 L 50 50 1 1 O
+X VCC+ 8 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LF356N_NOPB
+#
+DEF LF356N_NOPB U 0 1 Y Y 1 F N
+F0 "U" -150 550 60 H V C C N N
+F1 "LF356N_NOPB" 0 900 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lf356.pdf" 200 300 60 H I L C N N
+F4 "LF356N/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LF356N/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lf356.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LF356N-NOPB/LF356N-NOPB-ND/6135" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP JFET 5MHZ 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 200 0 0 1 0 f
+P 2 0 1 0 -200 300 -100 300 N
+P 2 0 1 0 -100 400 -200 400 N
+P 2 0 1 0 -75 325 -25 325 N
+P 2 0 1 0 -75 400 -25 400 N
+P 3 0 1 0 -50 350 -50 325 -50 300 N
+P 4 0 1 0 -100 450 -100 250 100 350 -100 450 N
+P 4 0 1 0 100 350 150 350 150 400 200 400 N
+X BAL 1 -400 200 200 R 50 50 1 1 I
+X IN- 2 -400 400 200 R 50 50 1 1 I
+X IN+ 3 -400 300 200 R 50 50 1 1 I
+X V- 4 100 -200 200 U 50 50 1 1 W
+X BAL 5 -400 100 200 R 50 50 1 1 I
+X OUT 6 400 400 200 L 50 50 1 1 O
+X V+ 7 0 700 200 D 50 50 1 1 W
+X NC 8 400 100 200 L 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+# LM324ADR
+#
+DEF LM324ADR U 0 0 Y Y 1 F N
+F0 "U" -150 550 60 H V C C N N
+F1 "LM324ADR" 500 -600 60 H V C C N N
+F2 "digikey-footprints:SOIC-14_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm224.pdf" 200 300 60 H I L C N N
+F4 "296-9540-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM324ADR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm224.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM324ADR/296-9540-1-ND/405286" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1.2MHZ 14SOIC" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 100 -500 0 1 0 f
+P 4 0 1 0 -100 -325 -150 -325 -150 -300 -200 -300 N
+P 4 0 1 0 -100 -300 -100 -400 0 -350 -100 -300 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 -100 175 -150 175 -150 200 -200 200 N
+P 4 0 1 0 -100 200 -100 100 0 150 -100 200 N
+P 4 0 1 0 -100 375 -150 375 -150 400 -200 400 N
+P 4 0 1 0 -100 400 -100 300 0 350 -100 400 N
+P 4 0 1 0 0 -350 50 -350 50 -400 100 -400 N
+P 4 0 1 0 0 -150 50 -150 50 -200 100 -200 N
+P 4 0 1 0 0 150 50 150 50 100 100 100 N
+P 4 0 1 0 0 350 50 350 50 300 100 300 N
+P 5 0 1 0 -200 -400 -150 -400 -150 -375 -125 -375 -100 -375 N
+P 5 0 1 0 -200 -200 -150 -200 -150 -175 -125 -175 -100 -175 N
+P 5 0 1 0 -200 100 -150 100 -150 125 -125 125 -100 125 N
+P 5 0 1 0 -200 300 -150 300 -150 325 -125 325 -100 325 N
+X 1OUT 1 300 300 200 L 50 50 1 1 O
+X 1IN- 2 -400 400 200 R 50 50 1 1 I
+X 1IN+ 3 -400 300 200 R 50 50 1 1 I
+X VCC 4 0 700 200 D 50 50 1 1 W
+X 2IN+ 5 -400 200 200 R 50 50 1 1 I
+X 2IN- 6 -400 100 200 R 50 50 1 1 I
+X 2OUT 7 300 100 200 L 50 50 1 1 O
+X 3OUT 8 300 -200 200 L 50 50 1 1 O
+X 3IN- 9 -400 -200 200 R 50 50 1 1 I
+X 3IN+ 10 -400 -100 200 R 50 50 1 1 I
+X GND 11 0 -700 200 U 50 50 1 1 W
+X 4IN+ 12 -400 -400 200 R 50 50 1 1 I
+X 4IN- 13 -400 -300 200 R 50 50 1 1 I
+X 4OUT 14 300 -400 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LM324DT
+#
+DEF LM324DT U 0 0 Y Y 1 F N
+F0 "U" -150 550 60 H V C C N N
+F1 "LM324DT" 0 800 60 H V C C N N
+F2 "digikey-footprints:SOIC-14_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bd/fc/46/43/26/8f/40/7f/CD00001046.pdf/files/CD00001046.pdf/jcr:content/translations/en.CD00001046.pdf" 200 300 60 H I L C N N
+F4 "497-1580-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM324DT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bd/fc/46/43/26/8f/40/7f/CD00001046.pdf/files/CD00001046.pdf/jcr:content/translations/en.CD00001046.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/LM324DT/497-1580-1-ND/592078" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1.3MHZ 14SO" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 500 100 -500 0 1 0 f
+P 4 0 1 0 -100 -325 -150 -325 -150 -300 -200 -300 N
+P 4 0 1 0 -100 -300 -100 -400 0 -350 -100 -300 N
+P 4 0 1 0 -100 -125 -150 -125 -150 -100 -200 -100 N
+P 4 0 1 0 -100 -100 -100 -200 0 -150 -100 -100 N
+P 4 0 1 0 -100 175 -150 175 -150 200 -200 200 N
+P 4 0 1 0 -100 200 -100 100 0 150 -100 200 N
+P 4 0 1 0 -100 375 -150 375 -150 400 -200 400 N
+P 4 0 1 0 -100 400 -100 300 0 350 -100 400 N
+P 4 0 1 0 0 -350 50 -350 50 -400 100 -400 N
+P 4 0 1 0 0 -150 50 -150 50 -200 100 -200 N
+P 4 0 1 0 0 150 50 150 50 100 100 100 N
+P 4 0 1 0 0 350 50 350 50 300 100 300 N
+P 5 0 1 0 -200 -400 -150 -400 -150 -375 -125 -375 -100 -375 N
+P 5 0 1 0 -200 -200 -150 -200 -150 -175 -125 -175 -100 -175 N
+P 5 0 1 0 -200 100 -150 100 -150 125 -125 125 -100 125 N
+P 5 0 1 0 -200 300 -150 300 -150 325 -125 325 -100 325 N
+X 1OUT 1 300 300 200 L 50 50 1 1 O
+X 1IN- 2 -400 400 200 R 50 50 1 1 I
+X 1IN+ 3 -400 300 200 R 50 50 1 1 I
+X VCC+ 4 0 700 200 D 50 50 1 1 W
+X 2IN+ 5 -400 200 200 R 50 50 1 1 I
+X 2IN- 6 -400 100 200 R 50 50 1 1 I
+X 2OUT 7 300 100 200 L 50 50 1 1 O
+X 3OUT 8 300 -200 200 L 50 50 1 1 O
+X 3IN- 9 -400 -200 200 R 50 50 1 1 I
+X 3IN+ 10 -400 -100 200 R 50 50 1 1 I
+X VCC- 11 0 -700 200 U 50 50 1 1 W
+X 4IN+ 12 -400 -400 200 R 50 50 1 1 I
+X 4IN- 13 -400 -300 200 R 50 50 1 1 I
+X 4OUT 14 300 -400 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LM358DT
+#
+DEF LM358DT U 0 0 Y Y 1 F N
+F0 "U" -150 350 60 H V C C N N
+F1 "LM358DT" -100 600 60 H V C C N N
+F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/61/46/87/01/98/ed/44/c5/CD00000464.pdf/files/CD00000464.pdf/jcr:content/translations/en.CD00000464.pdf" 200 300 60 H I L C N N
+F4 "497-1591-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM358DT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/61/46/87/01/98/ed/44/c5/CD00000464.pdf/files/CD00000464.pdf/jcr:content/translations/en.CD00000464.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/LM358DT/497-1591-1-ND/592083" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1.1MHZ 8SO" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 100 -200 0 1 0 f
+P 2 0 1 0 -90 -70 -70 -70 N
+P 2 0 1 0 -90 -35 -70 -35 N
+P 2 0 1 0 -90 130 -70 130 N
+P 2 0 1 0 -90 170 -70 170 N
+P 2 0 1 0 -80 -45 -80 -25 N
+P 2 0 1 0 -80 120 -80 140 N
+P 4 0 1 0 -200 -100 -150 -100 -150 -75 -100 -75 N
+P 4 0 1 0 -100 -25 -150 -25 -150 0 -200 0 N
+P 4 0 1 0 -100 0 -100 -100 0 -50 -100 0 N
+P 4 0 1 0 -100 125 -150 125 -150 100 -200 100 N
+P 4 0 1 0 -100 175 -150 175 -150 200 -200 200 N
+P 4 0 1 0 -100 200 -100 100 0 150 -100 200 N
+P 4 0 1 0 0 150 50 150 50 100 100 100 N
+P 4 0 1 0 100 0 50 0 50 -50 0 -50 N
+X OUT1 1 300 100 200 L 50 50 1 1 O
+X IN1- 2 -400 200 200 R 50 50 1 1 I
+X IN1+ 3 -400 100 200 R 50 50 1 1 I
+X VCC- 4 0 -400 200 U 50 50 1 1 W
+X IN2+ 5 -400 0 200 R 50 50 1 1 I
+X IN2- 6 -400 -100 200 R 50 50 1 1 I
+X OUT2 7 300 0 200 L 50 50 1 1 O
+X VCC+ 8 0 500 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LMV358IDR
+#
+DEF LMV358IDR U 0 0 Y Y 1 F N
+F0 "U" -150 250 60 H V C C N N
+F1 "LMV358IDR" 500 -500 60 H V C C N N
+F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lmv324.pdf" 200 300 60 H I L C N N
+F4 "296-9571-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LMV358IDR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lmv324.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LMV358IDR/296-9571-1-ND/379842" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1MHZ RRO 8SOIC" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 100 -400 0 1 0 f
+P 2 0 1 0 -90 -270 -70 -270 N
+P 2 0 1 0 -90 -230 -70 -230 N
+P 2 0 1 0 -90 30 -70 30 N
+P 2 0 1 0 -90 70 -70 70 N
+P 2 0 1 0 -80 -260 -80 -280 N
+P 2 0 1 0 -80 40 -80 20 N
+P 4 0 1 0 -200 -300 -150 -300 -150 -275 -100 -275 N
+P 4 0 1 0 -200 0 -150 0 -150 25 -100 25 N
+P 4 0 1 0 -100 -225 -150 -225 -150 -200 -200 -200 N
+P 4 0 1 0 -100 -200 -100 -300 0 -250 -100 -200 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 0 -250 50 -250 50 -200 100 -200 N
+P 4 0 1 0 100 0 50 0 50 50 0 50 N
+X OUT1 1 300 0 200 L 50 50 1 1 O
+X 1IN- 2 -400 100 200 R 50 50 1 1 I
+X 1IN+ 3 -400 0 200 R 50 50 1 1 I
+X GND 4 0 -600 200 U 50 50 1 1 W
+X 2IN+ 5 -400 -300 200 R 50 50 1 1 I
+X 2IN- 6 -400 -200 200 R 50 50 1 1 I
+X OUT2 7 300 -200 200 L 50 50 1 1 O
+X VCC+ 8 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LM358DR
+#
+DEF LM358DR U 0 0 Y Y 1 F N
+F0 "U" -150 250 60 H V C C N N
+F1 "LM358DR" 500 -700 60 H V C C N N
+F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm358.pdf" 200 300 60 H I L C N N
+F4 "296-1014-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM358DR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm358.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM358DR/296-1014-1-ND/404838" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 700KHZ 8SOIC" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 200 -600 0 1 0 f
+P 2 0 1 0 -200 -300 -100 -300 N
+P 2 0 1 0 -150 -500 -200 -500 N
+P 2 0 1 0 -150 -500 -100 -500 N
+P 2 0 1 0 -150 -100 -200 -100 N
+P 2 0 1 0 -150 -100 -100 -100 N
+P 2 0 1 0 -100 100 -200 100 N
+P 2 0 1 0 150 -400 200 -400 N
+P 2 0 1 0 200 0 150 0 N
+P 4 0 1 0 -100 -250 -100 -550 150 -400 -100 -250 N
+P 4 0 1 0 -100 150 -100 -150 150 0 -100 150 N
+X 1OUT 1 400 0 200 L 50 50 1 1 O
+X 1IN- 2 -400 -100 200 R 50 50 1 1 I
+X 1IN+ 3 -400 100 200 R 50 50 1 1 I
+X GND 4 0 -800 200 U 50 50 1 1 W
+X 2IN+ 5 -400 -300 200 R 50 50 1 1 I
+X 2IN- 6 -400 -500 200 R 50 50 1 1 I
+X 2OUT 7 400 -400 200 L 50 50 1 1 O
+X VCC 8 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# AD8032BRZ-REEL7
+#
+DEF AD8032BRZ-REEL7 U 0 0 Y Y 1 F N
+F0 "U" -100 250 60 H V C C N N
+F1 "AD8032BRZ-REEL7" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf" 200 300 60 H I L C N N
+F4 "AD8032BRZ-REEL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AD8032BRZ-REEL7" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/analog-devices-inc/AD8032BRZ-REEL7/AD8032BRZ-REEL7CT-ND/820414" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP VFB 80MHZ RRO 8SOIC" 200 1000 60 H I L CNN "Description"
+F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 200 -400 0 1 0 f
+P 2 0 1 0 -200 -300 -100 -300 N
+P 2 0 1 0 -200 0 -100 0 N
+P 2 0 1 0 -100 -200 -200 -200 N
+P 2 0 1 0 -100 100 -200 100 N
+P 2 0 1 0 -75 -275 -25 -275 N
+P 2 0 1 0 -75 -225 -25 -225 N
+P 2 0 1 0 -75 25 -25 25 N
+P 2 0 1 0 -75 75 -25 75 N
+P 2 0 1 0 -50 -250 -50 -300 N
+P 2 0 1 0 -50 50 -50 0 N
+P 4 0 1 0 -100 -150 -100 -350 100 -250 -100 -150 N
+P 4 0 1 0 -100 150 -100 -50 100 50 -100 150 N
+P 4 0 1 0 100 -250 150 -250 150 -200 200 -200 N
+P 4 0 1 0 100 50 150 50 150 100 200 100 N
+X OUT1 1 400 100 200 L 50 50 1 1 O
+X IN1- 2 -400 100 200 R 50 50 1 1 I
+X IN1+ 3 -400 0 200 R 50 50 1 1 I
+X VS- 4 100 -600 200 U 50 50 1 1 W
+X IN2+ 5 -400 -300 200 R 50 50 1 1 I
+X IN2- 6 -400 -200 200 R 50 50 1 1 I
+X OUT2 7 400 -200 200 L 50 50 1 1 O
+X VS+ 8 100 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# OPA334AIDBVT
+#
+DEF OPA334AIDBVT U 0 0 Y Y 1 F N
+F0 "U" -150 250 60 H V C C N N
+F1 "OPA334AIDBVT" 500 -300 60 H V C C N N
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/opa334.pdf" 200 300 60 H I L C N N
+F4 "296-13466-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "OPA334AIDBVT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/opa334.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/OPA334AIDBVT/296-13466-1-ND/486383" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP CHOPPER 2MHZ SOT23-6" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 100 -200 0 1 0 f
+P 2 0 1 0 -90 30 -70 30 N
+P 2 0 1 0 -90 65 -70 65 N
+P 2 0 1 0 -80 75 -80 55 N
+P 3 0 1 0 -200 -100 -50 -100 -50 25 N
+P 4 0 1 0 -100 25 -150 25 -150 0 -200 0 N
+P 4 0 1 0 -100 75 -150 75 -150 100 -200 100 N
+P 4 0 1 0 -100 100 -100 0 0 50 -100 100 N
+P 4 0 1 0 0 50 50 50 50 0 100 0 N
+X OUT 1 300 0 200 L 50 50 1 1 O
+X V- 2 0 -400 200 U 50 50 1 1 W
+X +IN 3 -400 100 200 R 50 50 1 1 I
+X -IN 4 -400 0 200 R 50 50 1 1 I
+X Enable 5 -400 -100 200 R 50 50 1 1 I
+X V+ 6 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# AD8605ARTZ-REEL7
+#
+DEF AD8605ARTZ-REEL7 U 0 1 Y Y 1 F N
+F0 "U" -150 250 60 H V C C N N
+F1 "AD8605ARTZ-REEL7" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf" 200 300 60 H I L C N N
+F4 "AD8605ARTZREEL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AD8605ARTZ-REEL7" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/analog-devices-inc/AD8605ARTZ-REEL7/AD8605ARTZREEL7CT-ND/751314" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 10MHZ RRO SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 100 -200 0 1 0 f
+X OUT 1 300 0 200 L 50 50 1 1 O
+X V- 2 0 -400 200 U 50 50 1 1 W
+X IN+ 3 -400 0 200 R 50 50 1 1 I
+X IN- 4 -400 -100 200 R 50 50 1 1 I
+X V+ 5 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MCP6001T-I_OT
+#
+DEF MCP6001T-I_OT U 0 0 Y Y 1 F N
+F0 "U" -200 300 60 H V C C N N
+F1 "MCP6001T-I_OT" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705" 200 300 60 H I L C N N
+F4 "MCP6001T-I/OTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP6001T-I/OT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011705" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP6001T-I-OT/MCP6001T-I-OTCT-ND/697158" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP GP 1MHZ RRO SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 4 0 1 0 200 0 -200 -200 -200 200 200 0 f
+X VOUT 1 400 0 200 L 50 50 1 1 O
+X VSS 2 0 -300 200 U 50 50 1 1 W
+X VIN+ 3 -400 -100 200 R 50 50 1 1 I
+X VIN- 4 -400 100 200 R 50 50 1 1 I
+X VDD 5 0 300 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# INA333AIDGKR
+#
+DEF INA333AIDGKR U 0 40 Y Y 1 F N
+F0 "U" -200 150 60 H V C C N N
+F1 "INA333AIDGKR" 400 -600 60 H V C C N N
+F2 "digikey-footprints:TSSOP-8_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/ina333.pdf" 200 300 60 H I L C N N
+F4 "296-23564-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "INA333AIDGKR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/ina333.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/INA333AIDGKR/296-23564-1-ND/1886116" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OPAMP INSTR 150KHZ RRO 8VSSOP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 100 200 -500 0 1 0 f
+X R 1 -500 -300 200 R 50 50 1 1 U
+X VIN- 2 -500 0 200 R 50 50 1 1 I
+X VIN+ 3 -500 -100 200 R 50 50 1 1 I
+X V- 4 -100 -700 200 U 50 50 1 1 W
+X REF 5 -500 -200 200 R 50 50 1 1 I
+X VOUT 6 400 -200 200 L 50 50 1 1 O
+X V+ 7 0 300 200 D 50 50 1 1 W
+X R 8 -500 -400 200 R 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

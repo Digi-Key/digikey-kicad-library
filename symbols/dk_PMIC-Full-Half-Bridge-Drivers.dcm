@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN754410NE
+D IC HALF-H DRVR QUAD 16-DIP
+K 296-9911-5-ND 
+F http://www.ti.com/lit/ds/symlink/sn754410.pdf
+$ENDCMP
+#
+$CMP L6203
+D IC MOTOR DRIVER PAR 11MULTIWATT
+K 497-1421-5-ND 
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/03/af/9d/d5/a2/56/46/f6/CD00000089.pdf/files/CD00000089.pdf/jcr:content/translations/en.CD00000089.pdf
+$ENDCMP
+#
+$CMP L298N
+D IC BRIDGE DRIVER PAR 15MULTIWATT
+K 497-1395-5-ND 
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/82/cc/3f/39/0a/29/4d/f0/CD00000240.pdf/files/CD00000240.pdf/jcr:content/translations/en.CD00000240.pdf
+$ENDCMP
+#
+$CMP DRV8871DDA
+D IC DRIVER DC MOTOR 3.6A
+K 296-44509-5-ND 
+F http://www.ti.com/lit/ds/symlink/drv8871.pdf
+$ENDCMP
+#
+$CMP DRV8833PWPR
+D IC MOTOR DRIVER PAR 16HTSSOP
+K 296-29434-1-ND 
+F http://www.ti.com/lit/ds/symlink/drv8833.pdf
+$ENDCMP
+#
+$CMP DRV8837DSGR
+D IC MOTOR DRIVER PAR 8WSON
+K 296-34806-1-ND 
+F http://www.ti.com/lit/ds/symlink/drv8837.pdf
+$ENDCMP
+#
+#End Doc Library

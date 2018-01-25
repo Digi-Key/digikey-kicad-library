@@ -1,0 +1,91 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# LTC3588EMSE-1_PBF
+#
+DEF LTC3588EMSE-1_PBF U 0 40 Y Y 1 F N
+F0 "U" -200 250 60 H V C C N N
+F1 "LTC3588EMSE-1_PBF" 0 600 60 H V C C N N
+F2 "digikey-footprints:MSOP-10-1EP_W3mm" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/28909" 200 300 60 H I L C N N
+F4 "LTC3588EMSE-1#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC3588EMSE-1#PBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Power Management - Specialized" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/28909" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC3588EMSE-1-PBF/LTC3588EMSE-1-PBF-ND/2213929" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC ENERGY HARVESTING PSU 10MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 400 -300 0 1 0 f
+X PZ1 1 -500 100 200 R 50 50 1 1 I
+X PZ2 2 -500 0 200 R 50 50 1 1 I
+X CAP 3 -500 -100 200 R 50 50 1 1 I
+X VIN 4 0 400 200 D 50 50 1 1 W
+X SW 5 -500 -200 200 R 50 50 1 1 I
+X VOUT 6 600 100 200 L 50 50 1 1 w
+X VIN2 7 100 400 200 D 50 50 1 1 W
+X D1 8 600 0 200 L 50 50 1 1 O
+X D0 9 600 -100 200 L 50 50 1 1 O
+X PGOOD 10 600 -200 200 L 50 50 1 1 O
+X GND 11 0 -500 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LTC4365CTS8_TRMPBF
+#
+DEF LTC4365CTS8_TRMPBF U 0 40 Y Y 1 F N
+F0 "U" -350 250 60 H V C C N N
+F1 "LTC4365CTS8_TRMPBF" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-23-8" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/29832" 200 300 60 H I L C N N
+F4 "LTC4365CTS8#TRMPBFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTC4365CTS8#TRMPBF" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Power Management - Specialized" 200 700 60 H I L CNN "Family"
+F8 "http://www.linear.com/docs/29832" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LTC4365CTS8-TRMPBF/LTC4365CTS8-TRMPBFCT-ND/2404677" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OVERVOLTAGE PROT TSOT23-8" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 200 200 -200 0 1 0 f
+X VIN 1 -200 400 200 D 50 50 1 1 W
+X UV 2 -600 100 200 R 50 50 1 1 I
+X OV 3 -600 0 200 R 50 50 1 1 I
+X GND 4 -100 -400 200 U 50 50 1 1 W
+X ~SHDN 5 -600 -100 200 R 50 50 1 1 I
+X ~FAULT 6 400 100 200 L 50 50 1 1 O
+X VOUT 7 400 -100 200 L 50 50 1 1 w
+X GATE 8 400 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# SN6501DBVR
+#
+DEF SN6501DBVR U 0 40 Y Y 1 F N
+F0 "U" -150 50 60 H V C C N N
+F1 "SN6501DBVR" 500 -500 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/sn6501.pdf" 200 300 60 H I L C N N
+F4 "296-37700-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN6501DBVR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Power Management - Specialized" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/sn6501.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN6501DBVR/296-37700-1-ND/4833928" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG CONV PWR SUPPLIES SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 0 200 -400 0 1 0 f
+X D1 1 400 -200 200 L 50 50 1 1 O
+X VCC 2 0 200 200 D 50 50 1 1 W
+X D2 3 400 -300 200 L 50 50 1 1 O
+X GND 4 -100 -600 200 U 50 50 1 1 W
+X GND 5 0 -600 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

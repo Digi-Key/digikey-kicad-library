@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP APDS-9960
+D SENSOR AMBIENT/PROX DGTL
+K 516-3480-1-ND 
+F https://docs.broadcom.com/docs/AV02-4191EN
+$ENDCMP
+#
+$CMP OPT101P
+D IC PHOTODIODE/AMPLIFIER 8DIP
+K 296-23090-5-ND 
+F http://www.ti.com/lit/ds/symlink/opt101.pdf
+$ENDCMP
+#
+$CMP VL6180XV0NR_1
+D MOD TIME-OF-FLIGHT 3IN1 12LGA
+K 497-14702-1-ND FlightSense™
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/11/28/86/e6/26/44/b3/DM00112632.pdf/files/DM00112632.pdf/jcr:content/translations/en.DM00112632.pdf
+$ENDCMP
+#
+$CMP TSL235R-LF
+D IC LIGHT TO FREQUENCY CONV 3PIN
+K TSL235-R-LF-ND 
+F http://ams.com/eng/content/download/250249/975925/142301
+$ENDCMP
+#
+$CMP VEML6070
+D IC UV LIGHT SENSOR I2C 8OPLGA
+K VEML6070CT-ND Filtron™
+F http://www.vishay.com/docs/84277/veml6070.pdf
+$ENDCMP
+#
+$CMP MAX44009EDT_T
+D SENSOR AMBIENT LIGHT 6UTDFN
+K MAX44009EDT+TCT-ND 
+F http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf
+$ENDCMP
+#
+$CMP OPT3001DNPT
+D IC AMBIENT LIGHT SENSOR 6USON
+K 296-38667-1-ND 
+F http://www.ti.com/lit/ds/symlink/opt3001.pdf
+$ENDCMP
+#
+$CMP SI1145-A10-GMR_NRND
+D SENSOR DGTL UV INDEX 10QFN
+K 336-2622-1-ND 
+F https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 712-1005-1-ND
+#
+DEF 712-1005-1-ND U 0 0 Y Y 1 F N
+F0 "ANT" 0 150 60 H V C C N N
+F1 "712-1005-1-ND" 0 250 60 H V C C N N
+F2 "digikey-footprints:Antenna_1.6x3.2mm_2450AT18A100E" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S -100 50 100 -50 0 1 0 f
+P 2 0 1 0 25 0 50 -25 N
+P 2 0 1 0 25 0 50 0 N
+P 3 0 1 0 -75 0 25 0 50 25 N
+X FP 1 -300 0 200 R 50 50 1 1 I
+X NC 2 300 0 200 L 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+#End Library

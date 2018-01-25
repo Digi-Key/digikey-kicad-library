@@ -1,0 +1,79 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# MOC3021
+#
+DEF MOC3021 U 0 0 Y Y 1 F N
+F0 "U" -250 450 60 H V C C N N
+F1 "MOC3021" 0 -450 60 H V C C N N
+F2 "digikey-footprints:DIP-6_W7.62mm" 200 200 60 V I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0019/MOC302X%20series%20201606.pdf" 200 300 60 V I L C N N
+F4 "160-1374-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MOC3021" 200 500 60 H I L CNN "MPN"
+F6 "Isolators" 200 600 60 H I L CNN "Category"
+F7 "Optoisolators - Triac, SCR Output" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-70-99-0019/MOC302X%20series%20201606.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/MOC3021/160-1374-5-ND/385844" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISOLATOR 5KV TRIAC 6DIP" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 300 400 -300 -400 0 1 0 f
+P 2 0 1 0 -50 125 -150 125 N
+P 2 0 1 0 75 -25 75 -25 N
+P 2 0 1 0 150 -25 75 -25 N
+P 2 0 1 0 150 50 250 50 N
+P 2 0 1 0 175 75 175 50 N
+P 3 0 1 0 -300 0 -100 0 -100 125 N
+P 3 0 1 0 -100 200 -100 300 -300 300 N
+P 3 0 1 0 175 75 175 300 300 300 N
+P 3 0 1 0 300 -300 175 -300 175 -25 N
+P 4 0 1 0 -50 200 -150 200 -100 125 -50 200 F
+P 4 0 1 0 125 -25 175 50 75 50 125 -25 F
+P 4 0 1 0 250 -25 150 -25 200 50 250 -25 F
+X An 1 -500 300 200 R 50 50 1 1 I
+X Ca 2 -500 0 200 R 50 50 1 1 I
+X N.C. 3 -500 -300 200 R 50 50 1 1 I
+X MAIN 4 500 -300 200 L 50 50 1 1 B
+X Sub 5 500 0 200 L 50 50 1 1 B
+X MAIN 6 500 300 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# MOC3063
+#
+DEF MOC3063 U 0 0 Y Y 1 F N
+F0 "U" 0 300 60 H V C C N N
+F1 "MOC3063" 100 -300 60 H V C C N N
+F2 "digikey-footprints:DIP-6_W7.62mm" 200 200 60 V I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS70-2001-026/MOC306X%20series%20201606.pdf" 200 300 60 V I L C N N
+F4 "160-1722-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MOC3063" 200 500 60 H I L CNN "MPN"
+F6 "Isolators" 200 600 60 H I L CNN "Category"
+F7 "Optoisolators - Triac, SCR Output" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS70-2001-026/MOC306X%20series%20201606.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/MOC3063/160-1722-5-ND/670014" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISOLATOR 5KV TRIAC 6DIP" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -100 200 200 -200 0 1 0 f
+P 2 0 1 0 -25 25 25 25 N
+P 2 0 1 0 125 -25 175 -25 N
+P 2 0 1 0 125 25 75 25 N
+P 3 0 1 0 125 -25 125 -100 200 -100 N
+P 3 0 1 0 200 100 125 100 125 25 N
+P 4 0 1 0 -100 100 0 100 0 0 -100 0 N
+P 4 0 1 0 -25 75 0 25 25 75 -25 75 F
+P 4 0 1 0 75 -25 100 25 125 -25 75 -25 F
+P 4 0 1 0 125 25 150 -25 175 25 125 25 F
+X An 1 -300 100 200 R 50 50 1 1 I
+X Ca 2 -300 0 200 R 50 50 1 1 I
+X NC 3 -300 -100 200 R 50 50 1 1 I
+X MAIN 4 400 -100 200 L 50 50 1 1 B
+X Sub 5 400 0 200 L 50 50 1 1 B
+X MAIN 6 400 100 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

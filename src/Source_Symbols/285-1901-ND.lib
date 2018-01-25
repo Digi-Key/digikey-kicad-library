@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 285-1901-ND
+#
+DEF ~285-1901-ND F 0 0 Y Y 1 F N
+F0 "F" -100 200 60 H V C C N N
+F1 "285-1901-ND" 0 -50 60 H I C C N N
+F2 "digikey-footprints:LED_5mm_Radial" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S -100 150 100 50 0 1 0 f
+P 2 0 1 0 100 150 -100 50 N
+X ~ 1 -300 100 200 R 50 50 1 1 B
+X ~ 2 300 100 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

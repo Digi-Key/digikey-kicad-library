@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3008-I_P
+D IC ADC 10BIT 2.7V 8CH SPI 16DIP
+K MCP3008-I/P-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011593
+$ENDCMP
+#
+$CMP ADS1015IDGST
+D IC ADC 12BIT I2C W/REF 10-MSOP
+K 296-25227-1-ND 
+F http://www.ti.com/lit/ds/symlink/ads1013.pdf
+$ENDCMP
+#
+$CMP ADS1115IDGST
+D IC ADC 16-BIT I2C PROGBL 10-MSOP
+K 296-24934-1-ND 
+F http://www.ti.com/lit/ds/symlink/ads1113.pdf
+$ENDCMP
+#
+#End Doc Library

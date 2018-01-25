@@ -1,0 +1,73 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 0734120114
+#
+DEF 0734120114 U 0 40 Y Y 1 F N
+F0 "J" 0 100 60 H V C C N N
+F1 "0734120114" 0 200 60 H V C C N N
+F2 "digikey-footprints:Molex_734120114_UMC_RF_CONN_Vertical" 200 200 60 H I L C N N
+F3 "http://www.molex.com/pdm_docs/sd/734120110_sd.pdf" 200 300 60 H I L C N N
+F4 "WM3894CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "0734120114" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Coaxial Connectors (RF)" 200 700 60 H I L CNN "Family"
+F8 "http://www.molex.com/pdm_docs/sd/734120110_sd.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/molex-llc/0734120114/WM3894CT-ND/2421931" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN UMC RCPT STR 50 OHM SMD" 200 1000 60 H I L CNN "Description"
+F11 "Molex, LLC" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 0 0 200 -300 0 1 0 f
+X ~ 1 -200 -100 200 R 50 50 1 1 B
+X ~ 2 -200 -200 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONSMA001-SMD-G
+#
+DEF CONSMA001-SMD-G U 0 40 Y Y 1 F N
+F0 "J" 0 100 60 H V C C N N
+F1 "CONSMA001-SMD-G" 0 200 60 H V C C N N
+F2 "digikey-footprints:RF_SMA_Receptical_Vertical_CONSMA001-SMD-G" 200 200 60 H I L C N N
+F3 "https://www.linxtechnologies.com/resources/diagrams/consma001-smd-g.pdf" 200 300 60 H I L C N N
+F4 "CONSMA001-SMD-G-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "CONSMA001-SMD-G" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Coaxial Connectors (RF)" 200 700 60 H I L CNN "Family"
+F8 "https://www.linxtechnologies.com/resources/diagrams/consma001-smd-g.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linx-technologies-inc/CONSMA001-SMD-G/CONSMA001-SMD-G-ND/4496569" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN SMA RCPT STR 50 OHM SMD" 200 1000 60 H I L CNN "Description"
+F11 "Linx Technologies Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 0 0 200 -300 0 1 0 f
+X ~ 1 -200 -100 200 R 50 50 1 1 B
+X ~ 2 -200 -200 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# 5-1814832-1
+#
+DEF 5-1814832-1 U 0 40 Y Y 1 F N
+F0 "J" 0 100 60 H V C C N N
+F1 "5-1814832-1" 0 200 60 H V C C N N
+F2 "digikey-footprints:RF_SMA_Vertical_5-1814832-1" 200 200 60 H I L C N N
+F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
+F4 "A97594-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5-1814832-1" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Coaxial Connectors (RF)" 200 700 60 H I L CNN "Family"
+F8 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-amp-connectors/5-1814832-1/A97594-ND/1755982" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN SMA JACK STR 50 OHM PCB" 200 1000 60 H I L CNN "Description"
+F11 "TE Connectivity AMP Connectors" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 0 0 200 -300 0 1 0 f
+X ~ 1 -200 -100 200 R 50 50 1 1 B
+X ~ 2 -200 -200 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

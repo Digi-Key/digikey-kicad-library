@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# SC2030-ND
+#
+DEF SC2030-ND U 0 1 Y Y 1 F N
+F0 "CON" -50 250 60 H V C C N N
+F1 "SC2030-ND" 0 -100 60 V V C C N N
+F2 "digikey-footprints:Headphone_Jack_6.35mm_RA49B14B" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S -200 200 100 -400 0 1 0 f
+X ~ R -400 -300 200 R 50 50 1 1 B
+X ~ S -400 100 200 R 50 50 1 1 B
+X ~ T -400 -100 200 R 50 50 1 1 B
+X ~ RB -400 -200 200 R 50 50 1 1 B
+X ~ TB -400 0 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

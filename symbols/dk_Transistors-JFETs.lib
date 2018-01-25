@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# 2N5457
+# 2N5457_NonStock
 #
-DEF 2N5457 U 0 0 Y Y 1 F N
+DEF 2N5457_NonStock U 0 0 Y Y 1 F N
 F0 "Q" -100 200 60 H V C C N N
-F1 "2N5457" -300 -200 60 H V C C N N
+F1 "2N5457_NonStock" -300 -200 60 H V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5457-5459.PDF" 200 300 60 H I L C N N
 F4 "2N5457-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -16,6 +16,7 @@ F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd
 F9 "/product-detail/en/central-semiconductor-corp/2N5457/2N5457-ND/4806918" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "JFET N-CH 25V 0.31W TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -25 -100 -25 100 N
 P 2 0 1 0 -25 0 -175 0 N
@@ -44,6 +45,7 @@ F8 "https://www.fairchildsemi.com/datasheets/J1/J111.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/on-semiconductor/J113/J113FS-ND/1048989" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "JFET N-CH 35V 625MW TO92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -25 -100 -25 100 N
 P 2 0 1 0 -25 0 -175 0 N

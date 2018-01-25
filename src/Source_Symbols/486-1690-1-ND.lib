@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 486-1690-1-ND
+#
+DEF 486-1690-1-ND U 0 40 Y Y 1 F N
+F0 "F" 0 100 60 H V C C N N
+F1 "486-1690-1-ND" 0 200 60 H V C C N N
+F2 "digikey-footprints:1206" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+A -50 0 50 1 1799 0 1 0 N 0 0 -100 0
+A 50 0 50 -1799 -1 0 1 0 N 0 0 100 0
+C -190 0 10 0 1 0 N
+C 190 0 10 0 1 0 N
+P 2 0 1 0 -100 0 -180 0 N
+P 2 0 1 0 180 0 100 0 N
+X ~ 1 -400 0 200 R 50 50 1 1 O
+X ~ 2 400 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library

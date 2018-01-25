@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0734120114
+D CONN UMC RCPT STR 50 OHM SMD
+K WM3894CT-ND 73412
+F http://www.molex.com/pdm_docs/sd/734120110_sd.pdf
+$ENDCMP
+#
+$CMP CONSMA001-SMD-G
+D CONN SMA RCPT STR 50 OHM SMD
+K CONSMA001-SMD-G-ND 
+F https://www.linxtechnologies.com/resources/diagrams/consma001-smd-g.pdf
+$ENDCMP
+#
+$CMP 5-1814832-1
+D CONN SMA JACK STR 50 OHM PCB
+K A97594-ND ZDC, Greenpar
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,82 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 5747840-3
+#
+DEF 5747840-3 U 0 40 Y Y 1 F N
+F0 "J" -150 350 60 H V C C N N
+F1 "5747840-3" 0 0 60 V V C C N N
+F2 "digikey-footprints:DSUB-9_Jack_5747840-3" 200 200 60 H I L C N N
+F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
+F4 "A32091-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5747840-3" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "D-Sub Connectors" 200 700 60 H I L CNN "Family"
+F8 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-amp-connectors/5747840-3/A32091-ND/808646" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN D-SUB PLUG 9POS R/A SOLDER" 200 1000 60 H I L CNN "Description"
+F11 "TE Connectivity AMP Connectors" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+A -100 -200 112 -1534 -1166 1 1 0 N -200 -250 -150 -300
+A -100 200 112 1166 1534 1 1 0 N -150 300 -200 250
+A 14 255 85 927 -33 1 1 0 N 10 340 100 250
+A 15 -254 85 27 -933 1 1 0 N 100 -250 10 -340
+P 2 1 1 0 -200 250 -200 -250 f
+P 2 1 1 0 -150 300 10 340 f
+P 2 1 1 0 10 -340 -150 -300 f
+P 2 1 1 0 100 250 100 -250 f
+P 41 1 1 0 -150 300 -160 294 -164 290 -170 288 -176 282 -180 278 -184 272 -188 268 -192 262 -196 256 -200 250 -200 -250 -194 -258 -188 -268 -180 -274 -172 -286 -160 -292 -146 -300 8 -340 18 -340 34 -338 48 -334 64 -324 78 -312 88 -298 94 -286 100 -268 100 -250 100 250 98 266 96 280 90 296 84 306 76 314 68 322 58 328 44 334 30 340 20 340 10 340 -148 300 f
+X ~ 1 -400 200 200 R 50 50 1 1 B
+X ~ 2 -400 100 200 R 50 50 1 1 B
+X ~ 3 -400 0 200 R 50 50 1 1 B
+X ~ 4 -400 -100 200 R 50 50 1 1 B
+X ~ 5 -400 -200 200 R 50 50 1 1 B
+X ~ 6 300 100 200 L 50 50 1 1 B
+X ~ 7 300 0 200 L 50 50 1 1 B
+X ~ 8 300 -100 200 L 50 50 1 1 B
+X ~ 9 300 -200 200 L 50 50 1 1 B
+X ~ 10 300 200 200 L 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+# A-DF_09_A_KG-T2S
+#
+DEF A-DF_09_A_KG-T2S U 0 40 Y Y 1 F N
+F0 "J" -150 350 60 H V C C N N
+F1 "A-DF_09_A_KG-T2S" 0 0 60 V V C C N N
+F2 "digikey-footprints:DSUB-9_Receptical_A-DF_09_A_KG-T2S" 200 200 60 H I L C N N
+F3 "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_4888_CO.pdf" 200 300 60 H I L C N N
+F4 "AE10921-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "A-DF 09 A/KG-T2S" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "D-Sub Connectors" 200 700 60 H I L CNN "Family"
+F8 "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_4888_CO.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/assmann-wsw-components/A-DF-09-A-KG-T2S/AE10921-ND/1241800" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN D-SUB RCPT 9POS R/A SOLDER" 200 1000 60 H I L CNN "Description"
+F11 "Assmann WSW Components" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+A -100 -200 112 -1534 -1166 1 1 0 N -200 -250 -150 -300
+A -100 200 112 1166 1534 1 1 0 N -150 300 -200 250
+A 14 255 85 927 -33 1 1 0 N 10 340 100 250
+A 15 -254 85 27 -933 1 1 0 N 100 -250 10 -340
+P 2 1 1 0 -200 250 -200 -250 f
+P 2 1 1 0 -150 300 10 340 f
+P 2 1 1 0 10 -340 -150 -300 f
+P 2 1 1 0 100 250 100 -250 f
+P 41 1 1 0 -150 300 -160 294 -164 290 -170 288 -176 282 -180 278 -184 272 -188 268 -192 262 -196 256 -200 250 -200 -250 -194 -258 -188 -268 -180 -274 -172 -286 -160 -292 -146 -300 8 -340 18 -340 34 -338 48 -334 64 -324 78 -312 88 -298 94 -286 100 -268 100 -250 100 250 98 266 96 280 90 296 84 306 76 314 68 322 58 328 44 334 30 340 20 340 10 340 -148 300 f
+X ~ 1 -400 200 200 R 50 50 1 1 B
+X ~ 2 -400 100 200 R 50 50 1 1 B
+X ~ 3 -400 0 200 R 50 50 1 1 B
+X ~ 4 -400 -100 200 R 50 50 1 1 B
+X ~ 5 -400 -200 200 R 50 50 1 1 B
+X ~ 6 300 100 200 L 50 50 1 1 B
+X ~ 7 300 0 200 L 50 50 1 1 B
+X ~ 8 300 -100 200 L 50 50 1 1 B
+X ~ 9 300 -200 200 L 50 50 1 1 B
+X ~ 10 300 200 200 L 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+#End Library

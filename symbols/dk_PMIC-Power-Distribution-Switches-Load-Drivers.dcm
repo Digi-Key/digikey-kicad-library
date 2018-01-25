@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC2026-1YM-TR
+D IC SW DISTRIBUTION 2CHAN 8SOIC
+K 576-1059-1-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579448
+$ENDCMP
+#
+$CMP TPS27081ADDCR
+D IC LOAD SW HIGH SIDE 6SOT
+K 296-34970-1-ND 
+F http://www.ti.com/lit/ds/symlink/tps27081a.pdf
+$ENDCMP
+#
+$CMP STMPS2141STR
+D IC PWR SWITCH 1CH 500MA SOT23-5
+K 497-6933-1-ND 
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/e8/d7/48/25/eb/87/45/b3/CD00167470.pdf/files/CD00167470.pdf/jcr:content/translations/en.CD00167470.pdf
+$ENDCMP
+#
+$CMP TPS2051BDBVR
+D IC PWR DIST SWITCH SNGL SOT23-5
+K 296-21265-1-ND 
+F http://www.ti.com/lit/ds/symlink/tps2051b.pdf
+$ENDCMP
+#
+#End Doc Library

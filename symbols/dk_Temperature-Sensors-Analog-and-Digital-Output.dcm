@@ -1,0 +1,111 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMP006AIYZFR_Obsolete
+D SENSOR TEMPERATURE SMBUS 8DSBGA
+K 296-28819-1-ND 
+F http://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/TMP006(B).pdf
+$ENDCMP
+#
+$CMP AMG8833
+D SENSOR GRID-EYE 3.3V HIGH GAIN
+K P19002CT-ND Grid-EYE
+F http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Sensors%20PDFs/Grid-EYE_AMG88.pdf
+$ENDCMP
+#
+$CMP MCP9700AT-E_TT
+D SENSOR TEMP ANLG VOLT SOT-23-3
+K MCP9700AT-E/TTCT-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859
+$ENDCMP
+#
+$CMP MCP9700T-E_TT
+D SENSOR TEMP ANLG VOLT SOT-23-3
+K MCP9700T-E/TTCT-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859
+$ENDCMP
+#
+$CMP MCP9701AT-E_TT
+D SENSOR TEMP ANLG VOLT SOT-23-3
+K MCP9701AT-E/TTCT-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859
+$ENDCMP
+#
+$CMP TC1047AVNBTR
+D SENSOR TEMP ANLG VOLT SOT-23-3
+K TC1047AVNBCT-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011393
+$ENDCMP
+#
+$CMP TMP112AIDRLT
+D SENSOR TEMP I2C/SMBUS SOT563
+K 296-24621-1-ND 
+F http://www.ti.com/lit/ds/symlink/tmp112.pdf
+$ENDCMP
+#
+$CMP TMP102AIDRLR
+D SENSOR TEMPERATURE SMBUS SOT563
+K 296-26834-1-ND 
+F http://www.ti.com/lit/ds/symlink/tmp102.pdf
+$ENDCMP
+#
+$CMP LM35DT_NOPB
+D SENSOR TEMP ANLG VOLT TO-220-3
+K LM35DT/NOPB-ND 
+F http://www.ti.com/lit/ds/symlink/lm35.pdf
+$ENDCMP
+#
+$CMP MLX90614ESF-BAA-000-TU
+D SENSOR TEMP PWM SMBUS TO39
+K MLX90614ESF-BAA-000-TU-ND 
+F https://www.melexis.com/-/media/files/documents/datasheets/mlx90614-datasheet-melexis.pdf
+$ENDCMP
+#
+$CMP LM34DZ_NOPB
+D SENSOR TEMP ANLG VOLT TO-92-3
+K LM34DZ/NOPB-ND 
+F http://www.ti.com/lit/ds/symlink/lm34.pdf
+$ENDCMP
+#
+$CMP LM35DZ_NOPB
+D SENSOR TEMP ANLG VOLT TO-92-3
+K LM35DZ/NOPB-ND 
+F http://www.ti.com/lit/ds/symlink/lm35.pdf
+$ENDCMP
+#
+$CMP MCP9700A-E_TO
+D SENSOR TEMP ANLG VOLT TO-92-3
+K MCP9700A-E/TO-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859
+$ENDCMP
+#
+$CMP MCP9701A-E_TO
+D SENSOR TEMP ANLG VOLT TO-92-3
+K MCP9701A-E/TO-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en022859
+$ENDCMP
+#
+$CMP TMP36GT9Z
+D SENSOR TEMP ANLG VOLT TO-92-3
+K TMP36GT9Z-ND 
+F http://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf
+$ENDCMP
+#
+$CMP DS18B20_
+D SENSOR TEMPERATURE 1-WIRE TO92-3
+K DS18B20+-ND 
+F https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
+$ENDCMP
+#
+$CMP DS18S20_
+D SENSOR TEMPERATURE 1-WIRE TO92-3
+K DS18S20+-ND 
+F http://datasheets.maximintegrated.com/en/ds/DS18S20.pdf
+$ENDCMP
+#
+$CMP MAX31820MCR_
+D SENSOR TEMPERATURE 1-WIRE TO92-3
+K MAX31820MCR+-ND 
+F http://datasheets.maximintegrated.com/en/ds/MAX31820.pdf
+$ENDCMP
+#
+#End Doc Library

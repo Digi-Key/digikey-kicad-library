@@ -1,0 +1,52 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# OH090U
+#
+DEF OH090U U 0 40 Y Y 1 F N
+F0 "Q" -150 350 60 H V C C N N
+F1 "OH090U" 400 -300 60 H V C C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
+F3 "http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_OH090-OHS3100.pdf" 200 300 60 H I L C N N
+F4 "365-1001-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "OH090U" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Magnetic Sensors - Switches (Solid State)" 200 700 60 H I L CNN "Family"
+F8 "http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_OH090-OHS3100.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/tt-electronics-optek-technology/OH090U/365-1001-ND/374779" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "MAGNETIC SWITCH UNIPOLAR TO92-3" 200 1000 60 H I L CNN "Description"
+F11 "TT Electronics/Optek Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 200 200 -100 -200 0 1 0 f
+X VDD 1 0 400 200 D 50 50 1 1 W
+X GND 2 0 -400 200 U 50 50 1 1 W
+X OUT 3 400 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# US5881LUA-AAA-000-BU
+#
+DEF US5881LUA-AAA-000-BU U 0 40 Y Y 1 F N
+F0 "Q" 0 300 60 H V C C N N
+F1 "US5881LUA-AAA-000-BU" 600 -300 60 H V C C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
+F3 "https://www.melexis.com/-/media/files/documents/datasheets/us5881-datasheet-melexis.pdf" 200 300 60 H I L C N N
+F4 "US5881LUA-AAA-000-BU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "US5881LUA-AAA-000-BU" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Magnetic Sensors - Switches (Solid State)" 200 700 60 H I L CNN "Family"
+F8 "https://www.melexis.com/-/media/files/documents/datasheets/us5881-datasheet-melexis.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/melexis-technologies-nv/US5881LUA-AAA-000-BU/US5881LUA-AAA-000-BU-ND/431876" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "MAGNETIC SWITCH UNIPOLAR TO92UA" 200 1000 60 H I L CNN "Description"
+F11 "Melexis Technologies NV" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 100 200 -200 -200 0 1 0 f
+X VDD 1 -100 400 200 D 50 50 1 1 W
+X OUT 2 300 0 200 L 50 50 1 1 O
+X GND 3 -100 -400 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

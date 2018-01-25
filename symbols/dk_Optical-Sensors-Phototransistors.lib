@@ -1,0 +1,128 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# ALS-PT19-315C_L177_TR8
+#
+DEF ~ALS-PT19-315C_L177_TR8 U 0 40 Y Y 1 F N
+F0 "Q" -200 200 60 H V C C N N
+F1 "ALS-PT19-315C_L177_TR8" 0 -250 60 H I C C N N
+F2 "digikey-footprints:LED_2-SMD_No_Lead_1.7x0.8mm" 200 200 60 H I L C N N
+F3 "http://www.everlight.com/file/ProductFile/201407061531031645.pdf" 200 300 60 H I L C N N
+F4 "1080-1244-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "ALS-PT19-315C/L177/TR8" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Phototransistors" 200 700 60 H I L CNN "Family"
+F8 "http://www.everlight.com/file/ProductFile/201407061531031645.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/everlight-electronics-co-ltd/ALS-PT19-315C-L177-TR8/1080-1244-1-ND/2675978" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "LIGHT SENSOR AMBIENT SMD" 200 1000 60 H I L CNN "Description"
+F11 "Everlight Electronics Co Ltd" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 200 0 1 0 f
+P 2 0 1 0 -150 100 150 100 N
+P 2 0 1 0 -50 100 -200 -50 N
+P 2 0 1 0 50 100 200 -50 N
+P 2 0 1 0 50 375 -100 225 N
+P 2 0 1 0 200 375 50 225 N
+P 4 0 1 0 -175 -25 -150 25 -125 0 -175 -25 F
+P 4 0 1 0 -100 225 -75 275 -50 250 -100 225 F
+P 4 0 1 0 50 225 75 275 100 250 50 225 F
+X C 1 400 -50 200 L 50 50 1 1 I
+X E 2 -400 -50 200 R 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LTR-301
+#
+DEF LTR-301 U 0 40 Y Y 1 F N
+F0 "Q" -200 200 60 H V C C N N
+F1 "LTR-301" 0 -250 60 H V C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-50-93-0013/LTR-301.pdf" 200 300 60 H I L C N N
+F4 "160-1065-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTR-301" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Phototransistors" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-50-93-0013/LTR-301.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTR-301/160-1065-ND/153270" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTOTRAN NPN IR CLEAR SIDE LOOK" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 200 0 1 0 f
+P 2 0 1 0 -150 100 150 100 N
+P 2 0 1 0 -50 100 -200 -50 N
+P 2 0 1 0 50 100 200 -50 N
+P 2 0 1 0 50 375 -100 225 N
+P 2 0 1 0 200 375 50 225 N
+P 4 0 1 0 -175 -25 -150 25 -125 0 -175 -25 F
+P 4 0 1 0 -100 225 -75 275 -50 250 -100 225 F
+P 4 0 1 0 50 225 75 275 100 250 50 225 F
+X E 1 -400 -50 200 R 50 50 1 1 O
+X C 2 400 -50 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LTR-4206E
+#
+DEF LTR-4206E U 0 40 Y Y 1 F N
+F0 "Q" -200 200 60 H V C C N N
+F1 "LTR-4206E" 0 -250 60 H V C C N N
+F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
+F3 "http://optoelectronics.liteon.com/upload/download/DS-50-92-0073/R4206E.pdf" 200 300 60 H I L C N N
+F4 "160-1030-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTR-4206E" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Phototransistors" 200 700 60 H I L CNN "Family"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-50-92-0073/R4206E.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTR-4206E/160-1030-ND/121710" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTOTRAN NPN 3MM IR DARK" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 200 0 1 0 f
+P 2 0 1 0 -150 100 150 100 N
+P 2 0 1 0 -50 100 -200 -50 N
+P 2 0 1 0 50 100 200 -50 N
+P 2 0 1 0 50 375 -100 225 N
+P 2 0 1 0 200 375 50 225 N
+P 4 0 1 0 -175 -25 -150 25 -125 0 -175 -25 F
+P 4 0 1 0 -100 225 -75 275 -50 250 -100 225 F
+P 4 0 1 0 50 225 75 275 100 250 50 225 F
+X E 1 -400 -50 200 R 50 50 1 1 O
+X C 2 400 -50 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# TEMT6000X01
+#
+DEF TEMT6000X01 U 0 0 Y Y 1 F N
+F0 "Q" 0 300 60 H V C C N N
+F1 "TEMT6000X01" 0 400 60 H V C C N N
+F2 "digikey-footprints:TEMT6000X01" 200 200 60 H I L C N N
+F3 "http://www.vishay.com/docs/81579/temt6000.pdf" 200 300 60 H I L C N N
+F4 "751-1055-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TEMT6000X01" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Phototransistors" 200 700 60 H I L CNN "Family"
+F8 "http://www.vishay.com/docs/81579/temt6000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/vishay-semiconductor-opto-division/TEMT6000X01/751-1055-1-ND/1681410" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "AMBIENT LIGHT SENSOR 1206 SMD" 200 1000 60 H I L CNN "Description"
+F11 "Vishay Semiconductor Opto Division" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 141 0 1 0 f
+P 2 0 1 0 -60 40 -100 80 N
+P 2 0 1 0 -30 50 -70 90 N
+P 2 0 1 0 0 100 0 -100 N
+P 2 0 1 0 100 -100 0 -50 N
+P 2 0 1 0 100 100 0 50 N
+P 4 0 1 0 -50 30 -60 50 -70 40 -50 30 F
+P 4 0 1 0 -20 40 -30 60 -40 50 -20 40 F
+X C 1 100 300 200 D 50 50 1 1 I
+X E 2 100 -300 200 U 50 50 1 1 O
+X NC 3 -300 0 160 R 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -6,12 +6,6 @@ K MCP130T-300I/TTCT-ND
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011325
 $ENDCMP
 #
-$CMP STWD100NYWY3F
-D IC WATCHDOG TIME CIRCUIT SOT23-5
-K 497-10058-1-ND Automotive, AEC-Q100
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/06/6a/b3/83/9a/c7/4f/22/CD00176077.pdf/files/CD00176077.pdf/jcr:content/translations/en.CD00176077.pdf
-$ENDCMP
-#
 $CMP TPS3808G33DBVR
 D IC VOLT SUPERVISOR 3.3V SOT23-6
 K 296-17195-1-ND 
@@ -28,6 +22,12 @@ $CMP MAX6369KA_T
 D IC WATCHDOG TIMER SOT23-8
 K MAX6369KA+TCT-ND 
 F https://datasheets.maximintegrated.com/en/ds/MAX6369-MAX6374.pdf
+$ENDCMP
+#
+$CMP STWD100NYWY3F
+D IC WATCHDOG TIME CIRCUIT SOT23-5
+K 497-10058-1-ND Automotive, AEC-Q100
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/06/6a/b3/83/9a/c7/4f/22/CD00176077.pdf/files/CD00176077.pdf/jcr:content/translations/en.CD00176077.pdf
 $ENDCMP
 #
 #End Doc Library

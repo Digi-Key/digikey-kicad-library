@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX232N
+D IC DUAL EIA-232 DRVR/RCVR 16-DIP
+K 296-1402-5-ND 
+F http://www.ti.com/lit/ds/symlink/max232.pdf
+$ENDCMP
+#
+$CMP MAX3232CPE_
+D IC TXRX RS-232 LP 16-DIP
+K MAX3232CPE+-ND 
+F http://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf
+$ENDCMP
+#
+$CMP TFP401APZP
+D IC PANELBUS DVI REC 100-HTQFP
+K 296-9991-ND 
+F http://www.ti.com/lit/ds/symlink/tfp401a.pdf
+$ENDCMP
+#
+$CMP MCP2551-I_SN
+D IC TRANSCEIVER CAN HI-SPD 8-SOIC
+K MCP2551-I/SN-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011797
+$ENDCMP
+#
+$CMP SN65HVD230DR
+D IC TXRX CAN 1MBPS 3.3V 8SOIC
+K 296-11654-1-ND 
+F http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf
+$ENDCMP
+#
+$CMP SN75176BDR
+D IC TXRX DIFF BUSS 8SOIC
+K 296-1275-1-ND 
+F http://www.ti.com/lit/ds/symlink/sn65176b.pdf
+$ENDCMP
+#
+$CMP SP3485EN-L_TR
+D IC TXRX RS485 HALF DUPLEX 8SOIC
+K 1016-1817-1-ND 
+F https://www.exar.com/content/document.ashx?id=639
+$ENDCMP
+#
+#End Doc Library

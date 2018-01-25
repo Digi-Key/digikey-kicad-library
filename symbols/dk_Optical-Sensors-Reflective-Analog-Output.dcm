@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QRD1114
+D SENSR OPTO TRANS 1.27MM REFL PCB
+K QRD1114-ND 
+F https://www.fairchildsemi.com/datasheets/QR/QRD1113.pdf
+$ENDCMP
+#
+$CMP QRE1113
+D SENSOR REFL 5MM PHOTOTRANS THRU
+K QRE1113-ND 
+F https://www.fairchildsemi.com/datasheets/QR/QRE1113.pdf
+$ENDCMP
+#
+$CMP QRE1113GR
+D SENSOR OPTO TRANS REFL SMD PHOTO
+K QRE1113GRCT-ND 
+F https://www.fairchildsemi.com/datasheets/QR/QRE1113.pdf
+$ENDCMP
+#
+#End Doc Library

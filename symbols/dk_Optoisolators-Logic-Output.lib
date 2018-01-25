@@ -1,0 +1,100 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# H11L1M
+#
+DEF H11L1M U 0 0 Y Y 1 F N
+F0 "U" -300 400 60 H V C C N N
+F1 "H11L1M" 500 -300 60 H V C C N N
+F2 "digikey-footprints:DIP-6_W7.62mm" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/H1/H11L1M.pdf" 200 300 60 H I L C N N
+F4 "H11L1-MQT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "H11L1M" 200 500 60 H I L CNN "MPN"
+F6 "Isolators" 200 600 60 H I L CNN "Category"
+F7 "Optoisolators - Logic Output" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/H1/H11L1M.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/H11L1M/H11L1-MQT-ND/284866" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISO 4.17KV OPN COLL 6DIP" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+A 50 100 50 -899 899 0 1 0 N 50 50 50 150
+C 100 100 0 0 1 0 N
+C 110 100 11 0 1 0 N
+P 2 0 1 0 -275 50 -175 50 N
+P 2 0 1 0 -50 150 50 150 N
+P 2 0 1 0 0 -200 0 50 N
+P 2 0 1 0 0 300 0 150 N
+P 2 0 1 0 125 100 200 100 N
+P 3 0 1 0 -325 200 -225 200 -225 100 N
+P 3 0 1 0 -225 50 -225 -100 -325 -100 N
+P 3 0 1 0 -50 150 -50 50 50 50 N
+P 4 0 1 0 -225 50 -275 125 -175 125 -225 50 F
+P 5 0 1 0 -175 75 -125 25 -125 50 -125 25 -150 25 N
+P 5 0 1 0 -150 125 -100 75 -100 100 -100 75 -125 75 N
+S -325 300 200 -200 1 1 0 f
+X ~ 1 -500 200 200 R 50 50 1 1 I
+X ~ 2 -500 -100 200 R 50 50 1 1 O
+X NC 3 400 -100 200 L 50 50 1 1 N
+X VO 4 400 100 200 L 50 50 1 1 O
+X GND 5 0 -400 200 U 50 50 1 1 W
+X VCC 6 0 500 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# 6N137
+#
+DEF 6N137 U 0 40 Y Y 1 F N
+F0 "U" -250 350 60 H V C C N N
+F1 "6N137" 300 -300 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 200 300 60 H I L C N N
+F4 "160-1791-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "6N137" 200 500 60 H I L CNN "MPN"
+F6 "Isolators" 200 600 60 H I L CNN "Category"
+F7 "Optoisolators - Logic Output" 200 700 60 H I L CNN "Family"
+F8 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/6N137/160-1791-ND/1969175" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISO 5KV 1CH OPEN COLL 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 200 -200 0 1 0 f
+X NC 1 400 0 200 L 50 50 1 1 N
+X A 2 -400 200 200 R 50 50 1 1 I
+X C 3 400 200 200 L 50 50 1 1 O
+X NC 4 400 -100 200 L 50 50 1 1 N
+X GND 5 -100 -400 200 U 50 50 1 1 W
+X VO 6 400 100 200 L 50 50 1 1 O
+X VE 7 -400 100 200 R 50 50 1 1 I
+X VCC 8 0 500 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# TLP2361_TPL_E
+#
+DEF TLP2361_TPL_E U 0 40 Y Y 1 F N
+F0 "U" -300 300 60 H V C C N N
+F1 "TLP2361_TPL_E" 500 -300 60 H V C C N N
+F2 "digikey-footprints:SOIC-6-5_W4.55mm" 200 200 60 H I L C N N
+F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=14229&prodName=TLP2361" 200 300 60 H I L C N N
+F4 "TLP2361(TPLECT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "TLP2361(TPL,E" 200 500 60 H I L CNN "MPN"
+F6 "Isolators" 200 600 60 H I L CNN "Category"
+F7 "Optoisolators - Logic Output" 200 700 60 H I L CNN "Family"
+F8 "https://toshiba.semicon-storage.com/info/docget.jsp?did=14229&prodName=TLP2361" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/toshiba-semiconductor-and-storage/TLP2361(TPL,E/TLP2361(TPLECT-ND/5189799" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISO 3.75KV PSH PULL SO6-5" 200 1000 60 H I L CNN "Description"
+F11 "Toshiba Semiconductor and Storage" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 100 -200 0 1 0 f
+X A 1 -500 100 200 R 50 50 1 1 I
+X C 3 -500 0 200 R 50 50 1 1 O
+X GND 4 -100 -400 200 U 50 50 1 1 W
+X VO 5 300 0 200 L 50 50 1 1 O
+X VCC 6 -100 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

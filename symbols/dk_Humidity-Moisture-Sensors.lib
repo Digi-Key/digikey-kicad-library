@@ -1,0 +1,118 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# HIH-4030-001
+#
+DEF HIH-4030-001 U 0 40 Y Y 1 F N
+F0 "U" -150 350 60 H V C C N N
+F1 "HIH-4030-001" 600 -200 60 H V C C N N
+F2 "digikey-footprints:Humidity_HIH-4030" 200 200 60 H I L C N N
+F3 "http://sensing.honeywell.com/index.php/ci_id/51625/la_id/1/document/1/re_id/0" 200 300 60 H I L C N N
+F4 "480-3166-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "HIH-4030-001" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://sensing.honeywell.com/index.php/ci_id/51625/la_id/1/document/1/re_id/0" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/honeywell-sensing-and-productivity-solutions/HIH-4030-001/480-3166-1-ND/1886071" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR HUMIDITY 5V ANLG 3.5% SMD" 200 1000 60 H I L CNN "Description"
+F11 "Honeywell Sensing and Productivity Solutions" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 300 300 -100 -100 0 1 0 f
+X GND 1 0 -300 200 U 50 50 1 1 W
+X VOUT 2 500 100 200 L 50 50 1 1 O
+X VCC 3 0 500 200 D 50 50 1 1 W
+X ~ 4 100 -300 200 U 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+# HIH6130-021-001
+#
+DEF HIH6130-021-001 U 0 40 Y Y 1 F N
+F0 "U" -250 350 60 H V C C N N
+F1 "HIH6130-021-001" 500 -200 60 H V C C N N
+F2 "digikey-footprints:Humidity_HIH61xx" 200 200 60 H I L C N N
+F3 "https://sensing.honeywell.com/honeywell-sensing-humidicon-hih6100-series-product-sheet-009059-6-en.pdf" 200 300 60 H I L C N N
+F4 "480-3651-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "HIH6130-021-001" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
+F8 "https://sensing.honeywell.com/honeywell-sensing-humidicon-hih6100-series-product-sheet-009059-6-en.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/honeywell-sensing-and-productivity-solutions/HIH6130-021-001/480-3651-1-ND/2704704" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR HUMID/TEMP 5V I2C 4% SMD" 200 1000 60 H I L CNN "Description"
+F11 "Honeywell Sensing and Productivity Solutions" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 300 -100 0 1 0 f
+X Vcore 1 -100 -300 200 U 50 50 1 1 W
+X Vss 2 0 -300 200 U 50 50 1 1 W
+X SCL 3 -500 200 200 R 50 50 1 1 I
+X SDA 4 -500 100 200 R 50 50 1 1 I
+X AL_H 5 500 200 200 L 50 50 1 1 O
+X AL-L 6 500 100 200 L 50 50 1 1 O
+X NC 7 -500 0 200 R 50 50 1 1 N
+X VDD 8 0 500 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# SHT15_LTB
+#
+DEF SHT15_LTB U 0 40 Y Y 1 F N
+F0 "U" -150 350 60 H V C C N N
+F1 "SHT15_LTB" 450 -450 60 H V C C N N
+F2 "digikey-footprints:Humidity_SHT15" 200 200 60 H I L C N N
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT10_11_15.pdf" 200 300 60 H I L C N N
+F4 "1649-1003-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SHT15" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT10_11_15.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/sensirion-ag/SHT15/1649-1003-1-ND/5872285" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR HUMID/TEMP 5V DTL 2% SMD" 200 1000 60 H I L CNN "Description"
+F11 "Sensirion AG" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 300 -400 0 1 0 f
+X GND 1 0 -600 200 U 50 50 1 1 W
+X DATA 2 -400 0 200 R 50 50 1 1 B
+X SCK 3 -400 -100 200 R 50 50 1 1 I
+X VDD 4 0 500 200 D 50 50 1 1 W
+X NC 5 500 200 200 L 50 50 1 1 N
+X NC 6 500 100 200 L 50 50 1 1 N
+X NC 7 500 0 200 L 50 50 1 1 N
+X NC 8 500 -100 200 L 50 50 1 1 N
+X NC 9 500 -200 200 L 50 50 1 1 N
+X NC 10 500 -300 200 L 50 50 1 1 N
+ENDDRAW
+ENDDEF
+#
+# BME280
+#
+DEF BME280 U 0 40 Y Y 1 F N
+F0 "U" -300 400 60 H V C C N N
+F1 "BME280" 300 -400 60 H V C C N N
+F2 "digikey-footprints:Pressure_Sensor_LGA-8_2.5x2.5mm_BME280" 200 200 60 H I L C N N
+F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-12.pdf" 200 300 60 H I L C N N
+F4 "828-1063-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BME280" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
+F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-12.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/bosch-sensortec/BME280/828-1063-1-ND/6136314" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR PRESSURE HUMIDITY TEMP" 200 1000 60 H I L CNN "Description"
+F11 "Bosch Sensortec" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 200 300 -400 -300 0 1 0 f
+X GND 1 -200 -500 200 U 50 50 1 1 W
+X CSB 2 400 100 200 L 50 50 1 1 O
+X SDO/SDO 3 400 0 200 L 50 50 1 1 B
+X SCK 4 -600 100 200 R 50 50 1 1 I
+X SDO 5 -600 0 200 R 50 50 1 1 B
+X VDDIO 6 -100 500 200 D 50 50 1 1 W
+X GND 7 -100 -500 200 U 50 50 1 1 W
+X VDD 8 0 500 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

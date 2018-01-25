@@ -26,7 +26,7 @@ $ENDCMP
 #
 $CMP B340A-13-F
 D DIODE SCHOTTKY 40V 3A SMA
-K B340A-FDICT-ND 
+K B340A-FDICT-ND Automotive, AEC-Q101
 F https://www.diodes.com/assets/Datasheets/ds30891.pdf
 $ENDCMP
 #
@@ -42,13 +42,13 @@ K 1N914BCT-ND
 F https://www.fairchildsemi.com/datasheets/1N/1N914.pdf
 $ENDCMP
 #
-$CMP 1N4007-T
+$CMP 1N4007-T_NRND
 D DIODE GEN PURP 1KV 1A DO41
 K 1N4007DICT-ND 
 F https://www.diodes.com/assets/Datasheets/ds28002.pdf
 $ENDCMP
 #
-$CMP 1N4004-T
+$CMP 1N4004-T_NRND
 D DIODE GEN PURP 400V 1A DO41
 K 1N4004DICT-ND 
 F https://www.diodes.com/assets/Datasheets/ds28002.pdf

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM5050MK-1_NOPB
+D IC OR CTRLR N+1 6SOT
+K LM5050MK-1/NOPBCT-ND 
+F http://www.ti.com/lit/ds/symlink/lm5050-1.pdf
+$ENDCMP
+#
+$CMP LTC4412ES6_TRMPBF
+D IC OR CTRLR SRC SELECT TSOT23-6
+K LTC4412ES6#TRMPBFCT-ND PowerPath™
+F http://www.linear.com/docs/1527
+$ENDCMP
+#
+$CMP LTC4359IMS8_PBF
+D IC OR CTRLR N+1 8MSOP
+K LTC4359IMS8#PBF-ND 
+F http://www.linear.com/docs/41608
+$ENDCMP
+#
+#End Doc Library

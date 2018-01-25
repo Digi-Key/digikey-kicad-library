@@ -1,0 +1,90 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 54602-908LF
+#
+DEF 54602-908LF U 0 40 Y Y 1 F N
+F0 "J" -50 -50 60 H V C C N N
+F1 "54602-908LF" 50 -550 60 V V C C N N
+F2 "digikey-footprints:Ethernet_Jack_54602-908LF" 200 200 60 H I L C N N
+F3 "http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf" 200 300 60 H I L C N N
+F4 "609-1046-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "54602-908LF" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Modular Connectors - Jacks" 200 700 60 H I L CNN "Family"
+F8 "http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/amphenol-fci/54602-908LF/609-1046-ND/1001360" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN MOD JACK 8P8C R/A UNSHLD" 200 1000 60 H I L CNN "Description"
+F11 "Amphenol FCI" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -100 -100 200 -1000 0 1 0 f
+X ~ 1 -300 -200 200 R 50 50 1 1 B
+X ~ 2 -300 -300 200 R 50 50 1 1 B
+X ~ 3 -300 -400 200 R 50 50 1 1 B
+X ~ 4 -300 -500 200 R 50 50 1 1 B
+X ~ 5 -300 -600 200 R 50 50 1 1 B
+X ~ 6 -300 -700 200 R 50 50 1 1 B
+X ~ 7 -300 -800 200 R 50 50 1 1 B
+X ~ 8 -300 -900 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# RJLSE4208101T
+#
+DEF RJLSE4208101T U 0 40 Y Y 1 F N
+F0 "J" 150 450 60 H V C C N N
+F1 "RJLSE4208101T" 300 -100 60 V V C C N N
+F2 "digikey-footprints:Ethernet_Jack_RJLSE4208101T" 200 200 60 H I L C N N
+F3 "https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJLSE4X0XX01X.pdf" 200 300 60 H I L C N N
+F4 "RJLSE4208101TTR-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "RJLSE4208101T" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Modular Connectors - Jacks" 200 700 60 H I L CNN "Family"
+F8 "https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJLSE4X0XX01X.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/amphenol-commercial-products/RJLSE4208101T/RJLSE4208101TTR-ND/1979555" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN MOD JACK 8P8C R/A UNSHLD" 200 1000 60 H I L CNN "Description"
+F11 "Amphenol Commercial Products" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -100 400 400 -700 0 1 0 f
+X TX+_D1 1 -300 200 200 R 50 50 1 1 I
+X TX-_D1 2 -300 100 200 R 50 50 1 1 I
+X RX+_D2 3 -300 0 200 R 50 50 1 1 I
+X BI+_D3 4 -300 -100 200 R 50 50 1 1 B
+X BI-_D3 5 -300 -200 200 R 50 50 1 1 B
+X RX-_D2 6 -300 -300 200 R 50 50 1 1 I
+X BI+_D4 7 -300 -400 200 R 50 50 1 1 B
+X BI-_D4 8 -300 -500 200 R 50 50 1 1 B
+X ~ 9 -300 -600 200 R 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
+# 87180-062LF
+#
+DEF 87180-062LF U 0 40 Y Y 1 F N
+F0 "J" -50 -50 60 H V C C N N
+F1 "87180-062LF" 50 -450 60 V V C C N N
+F2 "digikey-footprints:Phone_Jack_87180-062LF" 200 200 60 H I L C N N
+F3 "http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/87180.pdf" 200 300 60 H I L C N N
+F4 "609-1055-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "87180-062LF" 200 500 60 H I L CNN "MPN"
+F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
+F7 "Modular Connectors - Jacks" 200 700 60 H I L CNN "Family"
+F8 "http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/87180.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/amphenol-fci/87180-062LF/609-1055-ND/1001369" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "CONN MOD JACK 6P2C R/A UNSHLD" 200 1000 60 H I L CNN "Description"
+F11 "Amphenol FCI" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -100 -100 200 -800 0 1 0 f
+X ~ 1 -300 -200 200 R 50 50 1 1 B
+X ~ 2 -300 -300 200 R 50 50 1 1 B
+X ~ 3 -300 -400 200 R 50 50 1 1 B
+X ~ 4 -300 -500 200 R 50 50 1 1 B
+X ~ 5 -300 -600 200 R 50 50 1 1 B
+X ~ 6 -300 -700 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

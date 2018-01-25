@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 609-1041-ND
+#
+DEF 609-1041-ND U 0 40 Y Y 1 F N
+F0 "J" -250 250 60 H V C C N N
+F1 "609-1041-ND" 0 600 60 H V C C N N
+F2 "digikey-footprints:USB_A_Female_Vertical_RA_73725-0110BLF" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+DRAW
+S -300 200 200 -100 0 1 0 f
+X VCC 1 0 400 200 D 50 50 1 1 W
+X Data- 2 -500 100 200 R 50 50 1 1 B
+X Data+ 3 -500 0 200 R 50 50 1 1 B
+X GND 4 100 -300 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library
