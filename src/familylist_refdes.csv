@@ -1,0 +1,145 @@
+205,Embedded - Microcontrollers,U
+275,Motion Sensors - Accelerometers,U
+1152,"Magnetic Sensors - Linear, Compass (ICs)",U
+69,TVS - Diodes,D
+19,Fixed Inductors,L
+793,Interface - Controllers,U
+1373,PMIC - Battery Chargers,U
+748,"Optical Sensors - Ambient Light, IR, UV Sensors",U
+366,Oscillators,Y
+707,RF Detectors,U
+446,Data Acquisition - Digital Potentiometers,U
+533,"Logic - Translators, Level Shifters",U
+1324,Diodes - Bridge Rectifiers,D
+740,"USB, DVI, HDMI Connectors",J
+1379,Motion Sensors - IMUs (Inertial Measurement Units),U
+1303,Barrel - Audio Connectors,CON
+628,"Humidity, Moisture Sensors",U
+51,Encoders,S
+71,"Alarms, Buzzers, and Sirens",BZ
+94,Tactile Switches,S
+968,Optical Sensors - Photodiodes,PV
+120,Transistors - Bipolar (BJT) - Single,Q
+706,Transistors - Bipolar (BJT) - RF,Q
+386,PMIC - Voltage Regulators - Linear,U
+72,Microphones,MIC
+872,"Signal Relays, Up to 2 Amps",RLY
+1193,Memory Connectors - PC Card Sockets,J
+40,"Infrared, UV, Visible Emitters",D
+655,Gas Sensors,U
+973,Optical Sensors - Photointerrupters - Slot Type - Logic Output,U
+61,Fuses,F
+125,"Transistors - FETs, MOSFETs - Single",Q
+79,Programmable Oscillators,Y
+311,Temperature Sensors - Analog and Digital Output,U
+1398,Automotive Relays,RLY
+1400,Reed Relays,RLY
+421,Logic - Multivibrators,U
+127,Diodes - Rectifiers - Single,D
+778,Diodes - Zener - Single,Z
+758,Diodes - Rectifiers - Arrays,D
+210,Specialized ICs,U
+293,PMIC - Supervisors,U
+319,PMIC - Voltage Reference,VR
+747,"Transistors - FETs, MOSFETs - RF",Q
+1010,"Transistors - Bipolar (BJT) - Single, Pre-Biased",Q
+544,PMIC - Current Regulation/Management,U
+804,PMIC - Power Management - Specialized,U
+1004,RF Transceiver Modules,MOD
+838,"Transistors - FETs, MOSFETs - Arrays",Q
+404,"Logic - Buffers, Drivers, Receivers, Transceivers",U
+711,RF Switches,U
+122,Transistors - Bipolar (BJT) - Arrays,Q
+1281,Slide Switches,S
+413,Logic - Gates and Inverters,U
+502,"PMIC - Power Distribution Switches, Load Drivers",U
+523,PMIC - Gate Drivers,U
+221,"Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps",U
+317,Linear - Comparators,U
+724,PMIC - LED Drivers,U
+388,Data Acquisition - Digital to Analog Converters (DAC),U
+666,PMIC - Voltage Regulators - DC DC Switching Regulators,U
+865,TVS - Mixed Technology,TVS
+700,"RF Evaluation and Development Kits, Boards",A
+1344,"Rotary Potentiometers, Rheostats",POT
+871,"Power Relays, Over 2 Amps",RLY
+948,Modular Connectors - Jacks,J
+1306,Coaxial Connectors (RF),J
+944,Optical Sensors - Photo Detectors - Remote Receiver,U
+683,Ferrite Beads and Chips,FB
+441,LED Indication - Discrete,D
+969,Optical Sensors - Phototransistors,Q
+674,"Image Sensors, Camera",U
+420,"Interface - Drivers, Receivers, Transceivers",U
+100,Toggle Switches,S
+36,Display Modules - LED Character and Numeric,DS
+387,Data Acquisition - Analog to Digital Converters (ADC),U
+517,"Clock/Timing - Clock Generators, PLLs, Frequency Synthesizers",U
+432,PMIC - Battery Management,U
+34,"Battery Holders, Clips, Contacts",BAT
+1127,Surge Suppression ICs,U
+438,PMIC - Voltage Regulators - DC DC Switching Controllers,U
+656,PMIC - Thermal Management,U
+1370,Interface - Analog Switches - Special Purpose,U
+789,PMIC - Voltage Regulators - Special Purpose,U
+728,"PMIC - Full, Half-Bridge Drivers",U
+422,Logic - Shift Registers,U
+515,PMIC - V/F and F/V Converters,U
+414,Logic - Flip Flops,U
+679,Linear - Amplifiers - Audio,U
+722,"PMIC - Motor Drivers, Controllers",U
+767,"Interface - Analog Switches, Multiplexers, Demultiplexers",U
+831,"Optoisolators - Transistor, Photovoltaic Output",U
+786,Interface - I/O Expanders,U
+1002,RF Receivers,U
+1349,RF Transceiver ICs,U
+691,"Logic - Signal Switches, Multiplexers, Decoders",U
+1357,"RFID, RF Access, Monitoring ICs",U
+88,Solid State Relays,RLY
+972,Optical Sensors - Reflective - Analog Output,U
+829,Optoisolators - Logic Output,U
+842,"Optoisolators - Triac, SCR Output",U
+75,Balun,T
+226,Clock/Timing - Programmable Timers and Oscillators,U
+266,Clock/Timing - Real Time Clocks,U
+668,PMIC - RMS to DC Converters,U
+179,"Pressure Sensors, Transducers",U
+552,Digital Isolators,U
+792,Interface - Sensor and Detector Interfaces,U
+1076,Memory,U
+493,Current Transducers,U
+768,"PMIC - AC DC Converters, Offline Switchers",U
+800,"PMIC - OR Controllers, Ideal Diodes",Q
+7,"Resistor Networks, Arrays",RN
+64,"Thyristors - DIACs, SIDACs",D
+97,Pushbutton Switches,S
+1140,"Magnetic Sensors - Compass, Magnetic Field (Modules)",U
+725,"Navigation Switches, Joystick",S
+336,Thermal Cutoffs (Thermal Fuses),F
+448,"LEDs - Circuit Board Indicators, Arrays, Light Bars, Bar Graphs",D
+1315,Specialized Sensors,U
+84,Accessories,NA
+824,Trimmer Potentiometers,POT
+131,Thyristors - SCRs,D
+1325,Thyristors - TRIACs,TRI
+1366,Magnetic Sensors - Switches (Solid State),Q
+837,Transistors - JFETs,Q
+1003,RF Transmitters,U
+1360,"Addressable, Specialty",D
+755,"Rectangular Connectors - Headers, Male Pins",J
+947,Modular Connectors - Jacks With Magnetics,J
+913,Inrush Current Limiters (ICL),ICL
+1230,Data Acquisition - Touch Screen Controllers,U
+1293,"Capacitive Touch Sensors, Proximity Sensor ICs",U
+1176,RF Demodulators,U
+223,DC DC Converters,U
+461,Motion Sensors - Tilt Switches,S
+864,Data Acquisition - ADCs/DACs - Special Purpose,U
+1295,Interface - Modules,U
+703,RF Amplifiers,U
+1078,RF Antennas,ANT
+1180,"Sockets for ICs, Transistors",J
+1308,D-Sub Connectors,J
+794,Interface - Specialized,U
+1117,Evaluation Boards - Sensors,A
+333,"Evaluation Boards - Embedded - MCU, DSP",A
