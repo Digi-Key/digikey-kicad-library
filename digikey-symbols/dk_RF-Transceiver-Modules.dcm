@@ -18,6 +18,12 @@ K 1495-1000-1-ND
 F https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf
 $ENDCMP
 #
+$CMP BL600-SA
+D RF TXRX MOD BLUETOOTH CHIP ANT
+K BL600-SA-ND BL600
+F https://assets.lairdtech.com/home/brandworld/files/Product%20Brief%20-%20Bx600%20Breakout%20Boards%20and%20DVK-BL600.pdf
+$ENDCMP
+#
 $CMP BLE112-A-V1
 D RF TXRX MOD BLUETOOTH CHIP ANT
 K 1446-1017-1-ND 

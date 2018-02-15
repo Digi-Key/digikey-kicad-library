@@ -59,4 +59,33 @@ X G 3 -300 0 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# J175-D26Z
+#
+DEF J175-D26Z Q 0 0 Y Y 1 F N
+F0 "Q" -100 200 60 H V C C N N
+F1 "J175-D26Z" 0 -250 60 H V R B N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/J1/J175.pdf" 200 300 60 H I L C N N
+F4 "J175-D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "J175-D26Z" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Transistors - JFETs" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/J1/J175.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/J175-D26Z/J175-D26ZCT-ND/3504321" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "JFET P-CH 30V 0.35W TO92" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 -25 -100 -25 100 N
+P 2 0 1 0 -25 0 -175 0 N
+P 3 0 1 0 -25 -75 100 -75 100 -150 N
+P 3 0 1 0 -25 75 100 75 100 150 N
+C 0 0 152 1 1 0 f
+P 4 1 1 0 -75 25 -75 -25 -25 0 -75 25 F
+X D 1 100 -300 200 U 50 50 1 1 B
+X G 2 -300 0 200 R 50 50 1 1 I
+X S 3 100 300 200 D 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
 #End Library

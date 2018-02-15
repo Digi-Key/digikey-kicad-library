@@ -138,6 +138,31 @@ X VOUT 4 400 -100 200 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
+# AP2114H-3_3TRG1
+#
+DEF AP2114H-3_3TRG1 U 0 1 Y Y 1 F N
+F0 "U" -250 150 60 H V C C N N
+F1 "AP2114H-3_3TRG1" -300 250 60 H V L B N N
+F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
+F3 "https://www.diodes.com/assets/Datasheets/AP2114.pdf" 200 300 60 H I L C N N
+F4 "AP2114H-3.3TRG1DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AP2114H-3.3TRG1" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "https://www.diodes.com/assets/Datasheets/AP2114.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/diodes-incorporated/AP2114H-3.3TRG1/AP2114H-3.3TRG1DICT-ND/4505142" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 3.3V 1A SOT223" 200 1000 60 H I L CNN "Description"
+F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 100 200 -300 0 1 0 f
+X GND 1 -100 -500 200 U 50 50 1 1 W
+X VOUT 2 400 0 200 L 50 50 1 1 O
+X IN 3 -500 0 200 R 50 50 1 1 I
+X VOUT 4 400 -100 200 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
 # NCP1117ST33T3G
 #
 DEF NCP1117ST33T3G U 0 40 Y Y 1 F N
