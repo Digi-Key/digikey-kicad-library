@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF IAQ-COREP-ND U 0 40 Y Y 1 F N
 F0 "U" -200 200 60 H V C BNN
 F1 "IAQ-COREP-ND" -100 -300 60 H V R BNN
-F2 "" 0 0 60 H I C CNN
+F2 "digikey-footprints:Air_Quality_Module_IAQ-CORE_P" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
 S -300 200 200 -200 0 1 0 f

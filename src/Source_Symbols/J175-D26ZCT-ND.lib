@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF J175-D26ZCT-ND Q 0 0 Y Y 1 F N
 F0 "Q" -100 200 60 H V C CNN
 F1 "J175-D26ZCT-ND" 0 -250 60 H V R BNN
-F2 "" 0 0 60 H I C CNN
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
 P 2 0 1 0 -25 -100 -25 100 N
