@@ -3,13 +3,13 @@ EESchema-DOCLIB  Version 2.0
 $CMP SFH_4550
 D EMITTER IR 860NM 100MA RADIAL
 K 475-1200-ND 
-F http://www.osram-os.com/Graphics/XPic7/00209835_0.pdf
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2496286/SFH%204550.pdf
 $ENDCMP
 #
 $CMP SFH_4545
 D EMITTER IR 950NM 100MA RADIAL
 K 475-2919-ND 
-F http://www.osram-os.com/Graphics/XPic4/00209805_0.pdf
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2496274/SFH%204545.pdf
 $ENDCMP
 #
 $CMP TSAL6100

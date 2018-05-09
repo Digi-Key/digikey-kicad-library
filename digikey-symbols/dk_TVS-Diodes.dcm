@@ -1,129 +1,129 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP PGB1010603MR
-D TVS DIODE 24VWM 150VC 0603
-K F2594CT-ND PulseGuard® PGB
-F http://www.littelfuse.com/data/en/data_sheets/littelfuse_pulseguard-esd_pgb1.pdf
+$CMP PESD1CAN-UX
+D TVS DIODE 24V 50V SOT323-3
+K 1727-1306-1-ND 
+F https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf
 $ENDCMP
 #
 $CMP IP4220CZ6_125
-D IC USB DUAL ESD PROTECT 6TSOP
+D TVS DIODE 5.5V 6TSOP
 K 1727-3578-1-ND 
 F https://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf
 $ENDCMP
 #
-$CMP ESD5Z3_3T1G
-D TVS DIODE 3.3VWM 14.1VC SOD523
-K ESD5Z3.3T1GOSCT-ND Automotive, AEC-Q101
-F http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF
-$ENDCMP
-#
-$CMP SP0503BAHTG
-D TVS DIODE 5.5VWM 8.5VC SOT143
-K F2715CT-ND SP05, SPA®
-F http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf
-$ENDCMP
-#
-$CMP SM712_TCT
-D TVS DIODE 12VWM/7VWM SOT23
-K SM712CT-ND 
-F https://www.semtech.com/uploads/documents/sm712.pdf
-$ENDCMP
-#
-$CMP PESD2CAN_215
-D TVS DIODE 24VWM 41VC SOT23
-K 1727-3891-1-ND Automotive, AEC-Q101
-F https://assets.nexperia.com/documents/data-sheet/PESD2CAN.pdf
-$ENDCMP
-#
-$CMP NUP2105LT1G
-D TVS DIODE 24VWM 44VC SOT23
-K NUP2105LT1GOSCT-ND Automotive, AEC-Q101
-F http://www.onsemi.com/pub/Collateral/NUP2105L-D.PDF
-$ENDCMP
-#
 $CMP PESD1CAN_215
-D TVS DIODE 24VWM 70VC SOT23
+D TVS DIODE 24V 70V SOT23
 K 1727-3817-1-ND 
 F https://assets.nexperia.com/documents/data-sheet/PESD1CAN.pdf
 $ENDCMP
 #
-$CMP CDSOT23-SM712
-D TVS DIODE 7VWM/12VWM SOT23
-K CDSOT23-SM712CT-ND 
-F http://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf
+$CMP PRTR5V0U2X_215
+D TVS DIODE 5.5V SOT143B
+K 1727-3884-1-ND 
+F https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf
 $ENDCMP
 #
-$CMP SRV05-4_TCT
-D TVS DIODE 5VWM 17.5VC SOT23-6
-K SRV05-4CT-ND RailClamp®, SR
-F https://www.semtech.com/uploads/documents/srv05-4.pdf
+$CMP PESD2CAN_215
+D TVS DIODE 24V 41V SOT23
+K 1727-3891-1-ND Automotive, AEC-Q101
+F https://assets.nexperia.com/documents/data-sheet/PESD2CAN.pdf
 $ENDCMP
 #
-$CMP RCLAMP0504S_TCT
-D TVS DIODE 5VWM 25VC SOT23-6
-K RCLAMP0504SCT-ND RailClamp®
-F https://www.semtech.com/uploads/documents/rclamp0504s.pdf
+$CMP TPD2E001DRLR
+D TVS DIODE 5.5V SOT5
+K 296-21883-1-ND 
+F http://www.ti.com/lit/ds/symlink/tpd2e001.pdf
+$ENDCMP
+#
+$CMP TPD4S012DRYR
+D TVS DIODE 5.5V 6SON
+K 296-24244-1-ND 
+F http://www.ti.com/lit/ds/symlink/tpd4s012.pdf
+$ENDCMP
+#
+$CMP TPD2EUSB30DRTR
+D TVS DIODE 5.5V 8V SOT3
+K 296-25509-1-ND 
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
+$ENDCMP
+#
+$CMP TPD1E10B06DPYR
+D TVS DIODE 5.5V 14V 2X1SON
+K 296-30406-1-ND 
+F http://www.ti.com/lit/ds/symlink/tpd1e10b06.pdf
 $ENDCMP
 #
 $CMP USBLC6-4SC6
-D TVS DIODE 5.25VWM 17VC SOT23-6
+D TVS DIODE 5.25V 17V SOT23-6
 K 497-4492-1-ND USB
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr:content/translations/en.CD00047494.pdf
 $ENDCMP
 #
 $CMP USBLC6-2SC6
-D TVS DIODE 5.25VWM 17VC SOT23-6
+D TVS DIODE 5.25V 17V SOT23-6
 K 497-5235-1-ND USB
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/06/1d/48/9c/6c/20/4a/b2/CD00050750.pdf/files/CD00050750.pdf/jcr:content/translations/en.CD00050750.pdf
 $ENDCMP
 #
-$CMP TPD2EUSB30DRTR
-D TVS DIODE 5.5VWM 8VC SOT3
-K 296-25509-1-ND 
-F http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
+$CMP CDSOT23-SM712
+D TVS DIODE 7V/12V 14V/26V SOT23-3
+K CDSOT23-SM712CT-ND 
+F http://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf
 $ENDCMP
 #
-$CMP PESD1CAN-UX
-D TVS DIODE 24VWM 50VC SC70
-K 1727-1306-1-ND 
-F https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf
+$CMP ESD5Z3_3T1G
+D TVS DIODE 3.3V 14.1V SOD523
+K ESD5Z3.3T1GOSCT-ND 
+F http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF
 $ENDCMP
 #
-$CMP TPD2E001DRLR
-D TVS DIODE 5.5VWM 100VC SOT5
-K 296-21883-1-ND 
-F http://www.ti.com/lit/ds/symlink/tpd2e001.pdf
+$CMP PGB1010603MR
+D TVS DIODE 24V 150V 0603
+K F2594CT-ND PulseGuard® PGB
+F http://www.littelfuse.com/data/en/data_sheets/littelfuse_pulseguard-esd_pgb1.pdf
 $ENDCMP
 #
-$CMP PRTR5V0U2X_215
-D TVS DIODE 5.5VWM SOT143B
-K 1727-3884-1-ND 
-F https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf
+$CMP SP0503BAHTG
+D TVS DIODE 5.5V 8.5V SOT143-4
+K F2715CT-ND SP05, SPA®
+F http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf
 $ENDCMP
 #
-$CMP RCLAMP0524P_TCT_NRND
-D TVS DIODE 5VWM 15VC 10SLP
-K RCLAMP0524PCT-ND RailClamp®
-F https://www.semtech.com/uploads/documents/rclamp0522p_0524p.pdf
+$CMP NUP2105LT1G
+D TVS DIODE 24V 44V SOT23-3
+K NUP2105LT1GOSCT-ND 
+F http://www.onsemi.com/pub/Collateral/NUP2105L-D.PDF
+$ENDCMP
+#
+$CMP RCLAMP0504S_TCT
+D TVS DIODE 5V 25V SOT23-6
+K RCLAMP0504SCT-ND RailClamp®
+F https://www.semtech.com/uploads/documents/rclamp0504s.pdf
 $ENDCMP
 #
 $CMP RCLAMP0524PATCT
-D TVS DIODE 5VWM 15VC SLP2510P8
+D TVS DIODE 5V 15V SLP2510P8
 K RCLAMP0524PACT-ND RailClamp®
 F https://www.semtech.com/uploads/documents/rclamp0522pa_0524pa.pdf
 $ENDCMP
 #
-$CMP TPD4S012DRYR
-D IC 4CH ESD SOLUTION W/CLAMP 6SON
-K 296-24244-1-ND 
-F http://www.ti.com/lit/ds/symlink/tpd4s012.pdf
+$CMP RCLAMP0524P_TCT_NRND
+D TVS DIODE 5V 15V SLP2510P8
+K RCLAMP0524PCT-ND RailClamp®
+F https://www.semtech.com/uploads/documents/rclamp0522p_0524p.pdf
 $ENDCMP
 #
-$CMP TPD1E10B06DPYR
-D TVS DIODE 5.5VWM 14VC 2X2SON
-K 296-30406-1-ND 
-F http://www.ti.com/lit/ds/symlink/tpd1e10b06.pdf
+$CMP SM712_TCT
+D TVS DIODE 12V/7V 26V/12V SOT23-3
+K SM712CT-ND 
+F https://www.semtech.com/uploads/documents/sm712.pdf
+$ENDCMP
+#
+$CMP SRV05-4_TCT
+D TVS DIODE 5V 17.5V SOT23-6
+K SRV05-4CT-ND RailClamp®, SR
+F https://www.semtech.com/uploads/documents/srv05-4.pdf
 $ENDCMP
 #
 #End Doc Library

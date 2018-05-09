@@ -3,9 +3,9 @@ EESchema-LIBRARY Version 2.3
 #
 # PRT-13612
 #
-DEF PRT-13612 U 0 40 Y Y 1 F N
-F0 "NA" -100 200 60 H V C C N N
-F1 "PRT-13612" 300 -200 60 H V C C N N
+DEF PRT-13612 NA 0 40 Y Y 1 F N
+F0 "NA" -150 150 60 H V L C N N
+F1 "PRT-13612" 0 -200 60 H V C B N N
 F2 "digikey-footprints:Thermocouple_Connector_PCC-SMP-K" 200 200 60 H I L C N N
 F3 "https://cdn.sparkfun.com/datasheets/Prototyping/PCC-SMP-K-datasheet.pdf" 200 300 60 H I L C N N
 F4 "1568-1306-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -18,10 +18,9 @@ F10 "THERMOCOUPLE CONN - PCC-SMP-K" 200 1000 60 H I L CNN "Description"
 F11 "SparkFun Electronics" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -200 100 100 -100 0 1 0 f
-X ~ + -400 0 200 R 50 50 1 1 I
-X ~ - 300 0 200 L 50 50 1 1 I
-X ~ 1 -100 -300 200 U 50 50 1 1 U
+S -150 100 150 -100 0 1 0 f
+X ~ + -300 0 150 R 50 50 1 1 I
+X ~ - 300 0 150 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #

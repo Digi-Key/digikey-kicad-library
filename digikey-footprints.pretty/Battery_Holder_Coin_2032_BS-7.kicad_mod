@@ -1,6 +1,6 @@
-(module Battery_Holder_Coin_2032_BS-7 (layer F.Cu) (tedit 5A1ECB2C)
+(module Battery_Holder_Coin_2032_BS-7 (layer F.Cu) (tedit 5ACD0859)
   (descr http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf)
-  (fp_text reference REF** (at 7.4676 -13.37) (layer F.SilkS)
+  (fp_text reference REF** (at 7.52856 -12.3063) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value BS-7 (at 7.4676 13.56) (layer F.Fab)

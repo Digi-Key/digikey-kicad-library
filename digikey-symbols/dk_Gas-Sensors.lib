@@ -1,33 +1,6 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# IAQ-CORE_P
-#
-DEF IAQ-CORE_P U 0 40 Y Y 1 F N
-F0 "U" -200 200 60 H V C B N N
-F1 "IAQ-CORE_P" -100 -300 60 H V R B N N
-F2 "digikey-footprints:Air_Quality_Module_IAQ-CORE_P" 200 200 60 H I L C N N
-F3 "http://ams.com/eng/content/download/686523/1787697/348216" 200 300 60 H I L C N N
-F4 "IAQ-COREP-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "IAQ-CORE P" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Gas Sensors" 200 700 60 H I L CNN "Family"
-F8 "http://ams.com/eng/content/download/686523/1787697/348216" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/ams/IAQ-CORE-P/IAQ-COREP-ND/5117222" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "MOD IAQ I2C PULSED MODE" 200 1000 60 H I L CNN "Description"
-F11 "ams" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -300 200 200 -200 0 1 0 f
-X NC 1 400 100 200 L 50 50 1 1 N
-X SCL 2 -500 100 200 R 50 50 1 1 I
-X GND 3 0 -400 200 U 50 50 1 1 W
-X SDA 4 -500 0 200 R 50 50 1 1 B
-X NC 5 400 0 200 L 50 50 1 1 N
-X VCC 6 0 400 200 D 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
 # 110-109
 #
 DEF 110-109 U 0 40 Y Y 1 F N
@@ -86,6 +59,31 @@ X Working 6 -500 0 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
+# AS-MLV-P2
+#
+DEF AS-MLV-P2 U 0 40 Y Y 1 F N
+F0 "U" 0 400 60 H V C C N N
+F1 "AS-MLV-P2" 100 -100 60 H V C C N N
+F2 "digikey-footprints:None" 200 200 60 H I L C N N
+F3 "http://ams.com/eng/content/download/686543/1787717/348218" 200 300 60 H I L C N N
+F4 "AS-MLV-P2CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AS-MLV-P2" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Gas Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://ams.com/eng/content/download/686543/1787717/348218" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/ams/AS-MLV-P2/AS-MLV-P2CT-ND/5117220" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "MOD MEMS GAS SENSOR VOC TO39" 200 1000 60 H I L CNN "Description"
+F11 "ams" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S 200 300 -200 0 0 1 0 f
+X RS1 1 -400 200 200 R 50 50 1 1 U
+X RH1 2 400 200 200 L 50 50 1 1 U
+X RS2 3 -400 100 200 R 50 50 1 1 U
+X RH4 4 400 100 200 L 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
 # CCS811B-JOPD500
 #
 DEF CCS811B-JOPD500 U 0 40 Y Y 1 F N
@@ -115,6 +113,33 @@ X NC 8 600 -200 200 L 50 50 1 1 N
 X SDA 9 600 -100 200 L 50 50 1 1 B
 X SCL 10 600 0 200 L 50 50 1 1 I
 X EP 11 100 -500 200 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# IAQ-CORE_P
+#
+DEF IAQ-CORE_P U 0 40 Y Y 1 F N
+F0 "U" -200 200 60 H V C B N N
+F1 "IAQ-CORE_P" -100 -300 60 H V R B N N
+F2 "digikey-footprints:Air_Quality_Module_IAQ-CORE_P" 200 200 60 H I L C N N
+F3 "http://ams.com/eng/content/download/686523/1787697/348216" 200 300 60 H I L C N N
+F4 "IAQ-COREP-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "IAQ-CORE P" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Gas Sensors" 200 700 60 H I L CNN "Family"
+F8 "http://ams.com/eng/content/download/686523/1787697/348216" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/ams/IAQ-CORE-P/IAQ-COREP-ND/5117222" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "MOD IAQ I2C PULSED MODE" 200 1000 60 H I L CNN "Description"
+F11 "ams" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 200 -200 0 1 0 f
+X NC 1 400 100 200 L 50 50 1 1 N
+X SCL 2 -500 100 200 R 50 50 1 1 I
+X GND 3 0 -400 200 U 50 50 1 1 W
+X SDA 4 -500 0 200 R 50 50 1 1 B
+X NC 5 400 0 200 L 50 50 1 1 N
+X VCC 6 0 400 200 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #

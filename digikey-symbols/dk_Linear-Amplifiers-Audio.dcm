@@ -1,9 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP LM386N-1_NOPB
-D IC AMP AUDIO PWR .325W MONO 8DIP
-K 296-44414-5-ND 
-F http://www.ti.com/lit/ds/symlink/lm386.pdf
+$CMP TPA2005D1DGNRQ1
+D IC AMP AUDIO PWR 1.4W D 8MSOP
+K 296-24831-1-ND Automotive, AEC-Q100
+F http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf
+$ENDCMP
+#
+$CMP TPA2016D2RTJR
+D IC AMP AUDIO PWR 2.8W D 20QFN
+K 296-25430-1-ND 
+F http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf
 $ENDCMP
 #
 $CMP LM386N-3_NOPB
@@ -18,10 +24,10 @@ K 296-43960-5-ND
 F http://www.ti.com/lit/ds/symlink/lm386.pdf
 $ENDCMP
 #
-$CMP TPA2005D1DGNRQ1
-D IC AMP AUDIO PWR 1.4W D 8MSOP
-K 296-24831-1-ND Automotive, AEC-Q100
-F http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf
+$CMP LM386N-1_NOPB
+D IC AMP AUDIO PWR .325W MONO 8DIP
+K 296-44414-5-ND 
+F http://www.ti.com/lit/ds/symlink/lm386.pdf
 $ENDCMP
 #
 $CMP TDA7293V
@@ -36,16 +42,16 @@ K 497-2171-5-ND
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf
 $ENDCMP
 #
+$CMP LM1875T_NOPB
+D IC AMP AUDIO PWR 30W AB TO220-5
+K LM1875T/NOPB-ND 
+F http://www.ti.com/lit/ds/symlink/lm1875.pdf
+$ENDCMP
+#
 $CMP LM386MX-1_NOPB
 D IC AMP AUDIO PWR .325W AB 8SOIC
 K LM386MX-1/NOPBCT-ND 
 F http://www.ti.com/lit/ds/symlink/lm386.pdf
-$ENDCMP
-#
-$CMP MAX4466EXK_T
-D IC PREAMP AUDIO MONO AB SC70-5
-K MAX4466EXK+CT-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf
 $ENDCMP
 #
 $CMP LM3886T_NOPB
@@ -54,10 +60,10 @@ K LM3886T/NOPB-ND Overture™
 F http://www.ti.com/lit/ds/symlink/lm3886.pdf
 $ENDCMP
 #
-$CMP LM1875T_NOPB
-D IC AMP AUDIO PWR 30W AB TO220-5
-K LM1875T/NOPB-ND 
-F http://www.ti.com/lit/ds/symlink/lm1875.pdf
+$CMP MAX4466EXK_T
+D IC PREAMP AUDIO MONO AB SC70-5
+K MAX4466EXK+CT-ND 
+F http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf
 $ENDCMP
 #
 $CMP MAX9744ETH_T
@@ -66,22 +72,16 @@ K MAX9744ETH+TCT-ND
 F http://datasheets.maximintegrated.com/en/ds/MAX9744.pdf
 $ENDCMP
 #
-$CMP MAX98306ETD_T
-D IC AMP AUDIO 3.7W STER D 14TDFN
-K MAX98306ETD+TCT-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf
-$ENDCMP
-#
 $CMP MAX9814ETD_T
 D IC AMP AUDIO MONO AB MIC 14TDFN
 K MAX9814ETD+TCT-ND 
 F http://datasheets.maximintegrated.com/en/ds/MAX9814.pdf
 $ENDCMP
 #
-$CMP TPA2016D2RTJR
-D IC AMP AUDIO PWR 2.8W D 20QFN
-K 296-25430-1-ND 
-F http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf
+$CMP MAX98306ETD_T
+D IC AMP AUDIO 3.7W STER D 14TDFN
+K MAX98306ETD+TCT-ND 
+F http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf
 $ENDCMP
 #
 #End Doc Library

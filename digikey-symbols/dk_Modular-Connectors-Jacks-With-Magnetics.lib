@@ -7,12 +7,12 @@ DEF ARJC02-111008B U 0 1 Y Y 1 F N
 F0 "J" 50 350 60 H V C C N N
 F1 "ARJC02-111008B" 100 -100 60 V V C C N N
 F2 "digikey-footprints:Ethernet_Jack_ARJC02-111008B" 200 200 60 H I L C N N
-F3 "http://www.abracon.com/Magnetics/lan/ARJC02-111008B.PDF" 200 300 60 H I L C N N
+F3 "https://abracon.com/Magnetics/lan/ARJC02-111008B.PDF" 200 300 60 H I L C N N
 F4 "535-12605-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ARJC02-111008B" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "Modular Connectors - Jacks With Magnetics" 200 700 60 H I L CNN "Family"
-F8 "http://www.abracon.com/Magnetics/lan/ARJC02-111008B.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://abracon.com/Magnetics/lan/ARJC02-111008B.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/abracon-llc/ARJC02-111008B/535-12605-ND/4696789" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN MAGJACK 1PORT 100 BASE-TX" 200 1000 60 H I L CNN "Description"
 F11 "Abracon LLC" 200 1100 60 H I L CNN "Manufacturer"

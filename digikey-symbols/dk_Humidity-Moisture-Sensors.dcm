@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SHT15_LTB
+D SENSOR HUMID/TEMP 5V DTL 2% SMD
+K 1649-1003-1-ND SHT1
+F https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT10_11_15.pdf
+$ENDCMP
+#
 $CMP HIH-4030-001
 D SENSOR HUMIDITY 5V ANLG 3.5% SMD
 K 480-3166-1-ND HIH-4030
@@ -10,12 +16,6 @@ $CMP HIH6130-021-001
 D SENSOR HUMID/TEMP 5V I2C 4% SMD
 K 480-3651-1-ND HumidIcon™, HIH-6100
 F https://sensing.honeywell.com/honeywell-sensing-humidicon-hih6100-series-product-sheet-009059-6-en.pdf
-$ENDCMP
-#
-$CMP SHT15_LTB
-D SENSOR HUMID/TEMP 5V DTL 2% SMD
-K 1649-1003-1-ND SHT1
-F http://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT10_11_15.pdf
 $ENDCMP
 #
 $CMP BME280

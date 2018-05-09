@@ -1,32 +1,80 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# L4931CD120-TR
+# LM317DCYR
 #
-DEF L4931CD120-TR U 0 40 Y Y 1 F N
-F0 "U" -200 -50 60 H V C C N N
-F1 "L4931CD120-TR" 0 200 60 H V C C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 300 60 H I L C N N
-F4 "497-7761-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "L4931CD120-TR" 200 500 60 H I L CNN "MPN"
+DEF LM317DCYR U 0 40 Y Y 1 F N
+F0 "U" 0 200 60 H V C C N N
+F1 "LM317DCYR" 0 300 60 H V C C N N
+F2 "digikey-footprints:SOT-223-4" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm317.pdf" 200 300 60 H I L C N N
+F4 "296-12602-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM317DCYR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/L4931CD120-TR/497-7761-1-ND/1883669" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 12V 250MA 8SO" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://www.ti.com/lit/ds/symlink/lm317.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM317DCYR/296-12602-1-ND/443738" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LIN POS ADJ 1.5A SOT223-4" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -300 -100 300 -600 0 1 0 f
-X VOUT 1 500 -300 200 L 50 50 1 1 O
-X GND 2 -100 -800 200 U 50 50 1 1 W
-X GND 3 0 -800 200 U 50 50 1 1 W
-X NC 4 -500 -400 200 R 50 50 1 1 N
-X INHIBIT 5 -500 -300 200 R 50 50 1 1 I
-X GND 6 100 -800 200 U 50 50 1 1 W
-X GND 7 200 -800 200 U 50 50 1 1 W
-X VIN 8 0 100 200 D 50 50 1 1 W
+S -200 100 200 -200 0 1 0 f
+X ADJ 1 -400 0 200 R 50 50 1 1 I
+X OUT 2 400 0 200 L 50 50 1 1 O
+X IN 3 -400 -100 200 R 50 50 1 1 I
+X TAB 4 400 -100 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LP2985-33DBVR
+#
+DEF LP2985-33DBVR U 0 40 Y Y 1 F N
+F0 "U" -200 0 60 H V C C N N
+F1 "LP2985-33DBVR" 600 -600 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lp2985.pdf" 200 300 60 H I L C N N
+F4 "296-18476-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LP2985-33DBVR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lp2985.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LP2985-33DBVR/296-18476-1-ND/809911" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 3.3V 150MA SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 -100 400 -500 0 1 0 f
+X VIN 1 100 100 200 D 50 50 1 1 W
+X GND 2 100 -700 200 U 50 50 1 1 W
+X ON/~OFF 3 -500 -300 200 R 50 50 1 1 I
+X BYPASS 4 -500 -200 200 R 50 50 1 1 B
+X VOUT 5 600 -300 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LP5907MFX-3_3_NOPB
+#
+DEF LP5907MFX-3_3_NOPB U 0 40 Y Y 1 F N
+F0 "U" 0 350 60 H V C C N N
+F1 "LP5907MFX-3_3_NOPB" 0 500 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lp5907.pdf" 200 300 60 H I L C N N
+F4 "296-38557-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LP5907MFX-3.3/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lp5907.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LP5907MFX-3.3-NOPB/296-38557-1-ND/5034443" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 3.3V 250MA SOT23" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 200 0 0 1 0 f
+X IN 1 -400 200 200 R 50 50 1 1 I
+X GND 2 0 -200 200 U 50 50 1 1 W
+X EN 3 -400 100 200 R 50 50 1 1 I
+X NC 4 400 100 200 L 50 50 1 1 N
+X OUT 5 400 200 200 L 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
@@ -113,28 +161,154 @@ X ~ 4 100 -400 200 U 50 50 1 1 U
 ENDDRAW
 ENDDEF
 #
-# AZ1117CH-3_3TRG1
+# L7805CV
 #
-DEF AZ1117CH-3_3TRG1 U 0 40 Y Y 1 F N
-F0 "U" -50 150 60 H V C C N N
-F1 "AZ1117CH-3_3TRG1" 0 400 60 H V C C N N
-F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
-F3 "https://www.diodes.com/assets/Datasheets/AZ1117C.pdf" 200 300 60 H I L C N N
-F4 "AZ1117CH-3.3TRG1DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "AZ1117CH-3.3TRG1" 200 500 60 H I L CNN "MPN"
+DEF L7805CV U 0 40 Y Y 1 F N
+F0 "U" 0 150 60 H V C C N N
+F1 "L7805CV" 0 300 60 H V C C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" 200 300 60 H I L C N N
+F4 "497-1443-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "L7805CV" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "https://www.diodes.com/assets/Datasheets/AZ1117C.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/diodes-incorporated/AZ1117CH-3.3TRG1/AZ1117CH-3.3TRG1DICT-ND/4505206" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LIN POS ADJ 800MA SOT223" 200 1000 60 H I L CNN "Description"
-F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/L7805CV/497-1443-5-ND/585964" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 5V 1.5A TO220AB" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -300 100 200 -300 0 1 0 f
-X ADJ/GND 1 -100 -500 200 U 50 50 1 1 W
+S -200 100 200 -200 1 1 0 f
+X IN 1 -400 0 200 R 50 50 1 1 I
+X GND 2 0 -400 200 U 50 50 1 1 W
+X OUT 3 400 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LD1117V33
+#
+DEF LD1117V33 U 0 40 Y Y 1 F N
+F0 "U" 50 150 60 H V C C N N
+F1 "LD1117V33" 0 300 60 H V C C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf" 200 300 60 H I L C N N
+F4 "497-1491-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LD1117V33" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/LD1117V33/497-1491-5-ND/586012" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 3.3V 800MA TO220AB" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 300 -200 1 1 0 f
+X GND 1 0 -400 200 U 50 50 1 1 W
+X VOUT 2 500 0 200 L 50 50 1 1 O
+X VIN 3 -400 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LM317T
+#
+DEF LM317T U 0 40 Y Y 1 F N
+F0 "U" 0 150 60 H V C C N N
+F1 "LM317T" 0 300 60 H V C C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/a0/db/e6/9b/6f/9c/45/7b/CD00000455/files/CD00000455.pdf/jcr:content/translations/en.CD00000455.pdf" 200 300 60 H I L C N N
+F4 "497-1575-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM317T" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/a0/db/e6/9b/6f/9c/45/7b/CD00000455/files/CD00000455.pdf/jcr:content/translations/en.CD00000455.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/LM317T/497-1575-5-ND/591677" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LIN POS ADJ 1.5A TO220AB" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 200 -200 0 1 0 f
+X ADJ 1 -400 0 200 R 50 50 1 1 I
 X OUT 2 400 0 200 L 50 50 1 1 O
-X IN 3 -500 0 200 R 50 50 1 1 I
-X VOUT 4 400 -100 200 L 50 50 1 1 w
+X IN 3 -400 -100 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# L4931CZ50-AP
+#
+DEF L4931CZ50-AP U 0 40 Y Y 1 F N
+F0 "U" 50 350 60 H V C C N N
+F1 "L4931CZ50-AP" 0 500 60 H V C C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 300 60 H I L C N N
+F4 "497-5838-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "L4931CZ50-AP" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/L4931CZ50-AP/497-5838-1-ND/1506450" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 5V 250MA TO92-3" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 300 0 0 1 0 f
+X VOUT 1 500 200 200 L 50 50 1 1 O
+X GND 2 0 -200 200 U 50 50 1 1 W
+X VIN 3 -400 200 200 R 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# L4931CD120-TR
+#
+DEF L4931CD120-TR U 0 40 Y Y 1 F N
+F0 "U" -200 -50 60 H V C C N N
+F1 "L4931CD120-TR" 0 200 60 H V C C N N
+F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 300 60 H I L C N N
+F4 "497-7761-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "L4931CD120-TR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/L4931CD120-TR/497-7761-1-ND/1883669" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 12V 250MA 8SO" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 -100 300 -600 0 1 0 f
+X VOUT 1 500 -300 200 L 50 50 1 1 O
+X GND 2 -100 -800 200 U 50 50 1 1 W
+X GND 3 0 -800 200 U 50 50 1 1 W
+X NC 4 -500 -400 200 R 50 50 1 1 N
+X INHIBIT 5 -500 -300 200 R 50 50 1 1 I
+X GND 6 100 -800 200 U 50 50 1 1 W
+X GND 7 200 -800 200 U 50 50 1 1 W
+X VIN 8 0 100 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# MIC5219-3_3YM5-TR
+#
+DEF MIC5219-3_3YM5-TR U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C C N N
+F1 "MIC5219-3_3YM5-TR" 0 400 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579712" 200 300 60 H I L C N N
+F4 "576-1281-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MIC5219-3.3YM5-TR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579712" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MIC5219-3.3YM5-TR/576-1281-1-ND/771902" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 3.3V 500MA SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 200 -200 0 1 0 f
+X IN 1 -400 0 200 R 50 50 1 1 I
+X GND 2 0 -400 200 U 50 50 1 1 W
+X EN 3 -400 -100 200 R 50 50 1 1 I
+X ADJ/BYP 4 -400 100 200 R 50 50 1 1 I
+X OUT 5 400 0 200 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
@@ -163,28 +337,28 @@ X VOUT 4 400 -100 200 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# NCP1117ST33T3G
+# AZ1117CH-3_3TRG1
 #
-DEF NCP1117ST33T3G U 0 40 Y Y 1 F N
-F0 "U" 0 300 60 H V C C N N
-F1 "NCP1117ST33T3G" 0 400 60 H V C C N N
+DEF AZ1117CH-3_3TRG1 U 0 40 Y Y 1 F N
+F0 "U" -50 150 60 H V C C N N
+F1 "AZ1117CH-3_3TRG1" 0 400 60 H V C C N N
 F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
-F4 "NCP1117ST33T3GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "NCP1117ST33T3G" 200 500 60 H I L CNN "MPN"
+F3 "https://www.diodes.com/assets/Datasheets/AZ1117C.pdf" 200 300 60 H I L C N N
+F4 "AZ1117CH-3.3TRG1DICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "AZ1117CH-3.3TRG1" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/NCP1117ST33T3G/NCP1117ST33T3GOSCT-ND/660708" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 3.3V 1A SOT223" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F8 "https://www.diodes.com/assets/Datasheets/AZ1117C.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/diodes-incorporated/AZ1117CH-3.3TRG1/AZ1117CH-3.3TRG1DICT-ND/4505206" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 3.3V 800MA SOT223" 200 1000 60 H I L CNN "Description"
+F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -300 200 300 -200 0 1 0 f
-X ADJ/GND 1 -100 -400 200 U 50 50 1 1 W
-X OUT 2 500 100 200 L 50 50 1 1 O
-X IN 3 -500 100 200 R 50 50 1 1 W
-X OUT/TAB 4 500 0 200 L 50 50 1 1 O
+S -300 100 200 -300 0 1 0 f
+X ADJ/GND 1 -100 -500 200 U 50 50 1 1 W
+X OUT 2 400 0 200 L 50 50 1 1 O
+X IN 3 -500 0 200 R 50 50 1 1 I
+X VOUT 4 400 -100 200 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
@@ -213,155 +387,148 @@ X VOUT 4 400 -200 200 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# NCP1117ST50T3G
+# LM317T488_LTB
 #
-DEF NCP1117ST50T3G U 0 40 Y Y 1 F N
-F0 "U" 0 200 60 H V C C N N
-F1 "NCP1117ST50T3G" 0 300 60 H V C C N N
-F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
-F4 "NCP1117ST50T3GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "NCP1117ST50T3G" 200 500 60 H I L CNN "MPN"
+DEF LM317T488_LTB U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C C N N
+F1 "LM317T488_LTB" 0 400 60 H V C C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/LM/LM317T.pdf" 200 300 60 H I L C N N
+F4 "LM317TFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM317T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/NCP1117ST50T3G/NCP1117ST50T3GOSCT-ND/1967217" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 5V 1A SOT223" 200 1000 60 H I L CNN "Description"
+F8 "https://www.fairchildsemi.com/datasheets/LM/LM317T.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/LM317T/LM317TFS-ND/458678" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LIN POS ADJ 1.5A TO220AB" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 200 -100 0 1 0 f
+X ADJ 1 -400 100 200 R 50 50 1 1 I
+X OUT 2 400 100 200 L 50 50 1 1 O
+X IN 3 -400 0 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LM317TG
+#
+DEF LM317TG U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C C N N
+F1 "LM317TG" 0 400 60 H V C C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/LM317-D.PDF" 200 300 60 H I L C N N
+F4 "LM317TGOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM317TG" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.onsemi.com/pub/Collateral/LM317-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/LM317TG/LM317TGOS-ND/918508" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LIN POS ADJ 1.5A TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -200 100 300 -300 0 1 0 f
-X ADJ/GND 1 0 -500 200 U 50 50 1 1 W
-X OUT 2 500 0 200 L 50 50 1 1 O
+S -200 200 200 -100 0 1 0 f
+X ADJ 1 -400 100 200 R 50 50 1 1 I
+X OUT 2 400 100 200 L 50 50 1 1 O
 X IN 3 -400 0 200 R 50 50 1 1 I
-X TAB 4 100 -500 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# LM317DCYR
+# LM337T_NRND
 #
-DEF LM317DCYR U 0 40 Y Y 1 F N
-F0 "U" 0 200 60 H V C C N N
-F1 "LM317DCYR" 0 300 60 H V C C N N
-F2 "digikey-footprints:SOT-223-4" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm317.pdf" 200 300 60 H I L C N N
-F4 "296-12602-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM317DCYR" 200 500 60 H I L CNN "MPN"
+DEF LM337T_NRND U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C C N N
+F1 "LM337T_NRND" 0 400 60 H V C C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm137.pdf" 200 300 60 H I L C N N
+F4 "LM337T-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM337T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm317.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM317DCYR/296-12602-1-ND/443738" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LIN POS ADJ 1.5A SOT223-4" 200 1000 60 H I L CNN "Description"
+F8 "http://www.ti.com/lit/ds/symlink/lm137.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM337T/LM337T-ND/3701336" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LIN NEG ADJ 1.5A TO220-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
 DRAW
-S -200 100 200 -200 0 1 0 f
-X ADJ 1 -400 0 200 R 50 50 1 1 I
-X OUT 2 400 0 200 L 50 50 1 1 O
-X IN 3 -400 -100 200 R 50 50 1 1 I
-X TAB 4 400 -100 200 L 50 50 1 1 O
+S -200 200 200 -200 0 1 0 f
+X ADJ 1 -400 100 200 R 50 50 1 1 I
+X VIN 2 -400 0 200 R 50 50 1 1 W
+X VOUT 3 400 0 200 L 50 50 1 1 w
+X VIN TAB -400 -100 200 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# MCP1700T-3302E_TT
+# LM7805CT_LTB
 #
-DEF MCP1700T-3302E_TT U 0 40 Y Y 1 F N
+DEF LM7805CT_LTB U 0 40 Y Y 1 F N
 F0 "U" 0 200 60 H V C C N N
-F1 "MCP1700T-3302E_TT" 0 300 60 H V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011779" 200 300 60 H I L C N N
-F4 "MCP1700T3302ETTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MCP1700T-3302E/TT" 200 500 60 H I L CNN "MPN"
+F1 "LM7805CT_LTB" 0 300 60 H V C C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 300 60 H I L C N N
+F4 "LM7805CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM7805CT" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011779" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/MCP1700T-3302E-TT/MCP1700T3302ETTCT-ND/652677" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 3.3V 250MA SOT23-3" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F8 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/LM7805CT/LM7805CT-ND/458698" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 5V 1A TO220AB" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 100 -300 0 1 0 f
+X IN 1 -400 0 200 R 50 50 1 1 I
+X GND 2 -100 -500 200 U 50 50 1 1 W
+X OUT 3 300 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# LM7812CT_LTB
+#
+DEF LM7812CT_LTB U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C C N N
+F1 "LM7812CT_LTB" 0 400 60 H V C C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
+F3 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 300 60 H I L C N N
+F4 "LM7812CTFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM7812CT" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/LM7812CT/LM7812CTFS-ND/1923051" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 12V 1A TO220-3" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 200 -200 0 1 0 f
+X GND 1 -100 -400 200 U 50 50 1 1 W
+X VOUT 2 400 0 200 L 50 50 1 1 w
+X VIN 3 -400 100 200 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LM78L05ACZ_NOPB
+#
+DEF LM78L05ACZ_NOPB U 0 40 Y Y 1 F N
+F0 "U" 0 200 60 H V C C N N
+F1 "LM78L05ACZ_NOPB" 0 300 60 H V C C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm78l.pdf" 200 300 60 H I L C N N
+F4 "LM78L05ACZNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM78L05ACZ/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm78l.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM78L05ACZ-NOPB/LM78L05ACZNS-NOPB-ND/6333" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 5V 100MA TO92-3" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 300 -200 0 1 0 f
-X GND 1 0 -400 200 U 50 50 1 1 W
-X VOUT 2 500 0 200 L 50 50 1 1 w
-X VIN 3 -400 0 200 R 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
-# LP2985-33DBVR
-#
-DEF LP2985-33DBVR U 0 40 Y Y 1 F N
-F0 "U" -200 0 60 H V C C N N
-F1 "LP2985-33DBVR" 600 -600 60 H V C C N N
-F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lp2985.pdf" 200 300 60 H I L C N N
-F4 "296-18476-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LP2985-33DBVR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lp2985.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LP2985-33DBVR/296-18476-1-ND/809911" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 3.3V 150MA SOT23-5" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -300 -100 400 -500 0 1 0 f
-X VIN 1 100 100 200 D 50 50 1 1 W
-X GND 2 100 -700 200 U 50 50 1 1 W
-X ON/~OFF 3 -500 -300 200 R 50 50 1 1 I
-X BYPASS 4 -500 -200 200 R 50 50 1 1 B
-X VOUT 5 600 -300 200 L 50 50 1 1 O
-ENDDRAW
-ENDDEF
-#
-# LP5907MFX-3_3_NOPB
-#
-DEF LP5907MFX-3_3_NOPB U 0 40 Y Y 1 F N
-F0 "U" 0 350 60 H V C C N N
-F1 "LP5907MFX-3_3_NOPB" 0 500 60 H V C C N N
-F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lp5907.pdf" 200 300 60 H I L C N N
-F4 "296-38557-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LP5907MFX-3.3/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lp5907.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LP5907MFX-3.3-NOPB/296-38557-1-ND/5034443" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 3.3V 250MA SOT23" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 300 200 0 0 1 0 f
-X IN 1 -400 200 200 R 50 50 1 1 I
-X GND 2 0 -200 200 U 50 50 1 1 W
-X EN 3 -400 100 200 R 50 50 1 1 I
-X NC 4 400 100 200 L 50 50 1 1 N
-X OUT 5 400 200 200 L 50 50 1 1 O
-ENDDRAW
-ENDDEF
-#
-# MIC5219-3_3YM5-TR
-#
-DEF MIC5219-3_3YM5-TR U 0 40 Y Y 1 F N
-F0 "U" 0 300 60 H V C C N N
-F1 "MIC5219-3_3YM5-TR" 0 400 60 H V C C N N
-F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579712" 200 300 60 H I L C N N
-F4 "576-1281-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MIC5219-3.3YM5-TR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579712" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/microchip-technology/MIC5219-3.3YM5-TR/576-1281-1-ND/771902" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 3.3V 500MA SOT23-5" 200 1000 60 H I L CNN "Description"
-F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 200 200 -200 0 1 0 f
-X IN 1 -400 0 200 R 50 50 1 1 I
+X VOUT 1 500 0 200 L 50 50 1 1 w
 X GND 2 0 -400 200 U 50 50 1 1 W
-X EN 3 -400 -100 200 R 50 50 1 1 I
-X ADJ/BYP 4 -400 100 200 R 50 50 1 1 I
-X OUT 5 400 0 200 L 50 50 1 1 I
+X VIN 3 -400 0 200 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
@@ -417,148 +584,27 @@ X OUT 5 400 0 200 L 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# LM337T_NRND
+# MC7805BDTRKG
 #
-DEF LM337T_NRND U 0 40 Y Y 1 F N
-F0 "U" 0 300 60 H V C C N N
-F1 "LM337T_NRND" 0 400 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm137.pdf" 200 300 60 H I L C N N
-F4 "LM337T-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM337T" 200 500 60 H I L CNN "MPN"
+DEF MC7805BDTRKG U 0 40 Y Y 1 F N
+F0 "U" 0 200 60 H V C C N N
+F1 "MC7805BDTRKG" 0 300 60 H V C C N N
+F2 "digikey-footprints:TO-252-3" 200 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/MC7800-D.PDF" 200 300 60 H I L C N N
+F4 "MC7805BDTRKGOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MC7805BDTRKG" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm137.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM337T/LM337T-ND/3701336" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LIN NEG ADJ 1.5A TO220-3" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 200 200 -200 0 1 0 f
-X ADJ 1 -400 100 200 R 50 50 1 1 I
-X VIN 2 -400 0 200 R 50 50 1 1 W
-X VOUT 3 400 0 200 L 50 50 1 1 w
-X VIN TAB -400 -100 200 R 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
-# LM317T
-#
-DEF LM317T U 0 40 Y Y 1 F N
-F0 "U" 0 150 60 H V C C N N
-F1 "LM317T" 0 300 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/a0/db/e6/9b/6f/9c/45/7b/CD00000455/files/CD00000455.pdf/jcr:content/translations/en.CD00000455.pdf" 200 300 60 H I L C N N
-F4 "497-1575-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM317T" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/a0/db/e6/9b/6f/9c/45/7b/CD00000455/files/CD00000455.pdf/jcr:content/translations/en.CD00000455.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/LM317T/497-1575-5-ND/591677" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LIN POS ADJ 1.5A TO220AB" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://www.onsemi.com/pub/Collateral/MC7800-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/MC7805BDTRKG/MC7805BDTRKGOSCT-ND/1139742" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 5V 1A DPAK-3" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 200 -200 0 1 0 f
-X ADJ 1 -400 0 200 R 50 50 1 1 I
-X OUT 2 400 0 200 L 50 50 1 1 O
-X IN 3 -400 -100 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# LM317T488_LTB
-#
-DEF LM317T488_LTB U 0 40 Y Y 1 F N
-F0 "U" 0 300 60 H V C C N N
-F1 "LM317T488_LTB" 0 400 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/LM/LM317T.pdf" 200 300 60 H I L C N N
-F4 "LM317TFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM317T" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/LM/LM317T.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/LM317T/LM317TFS-ND/458678" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LIN POS ADJ 1.5A TO220AB" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 200 200 -100 0 1 0 f
-X ADJ 1 -400 100 200 R 50 50 1 1 I
-X OUT 2 400 100 200 L 50 50 1 1 O
-X IN 3 -400 0 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# LM317TG
-#
-DEF LM317TG U 0 40 Y Y 1 F N
-F0 "U" 0 300 60 H V C C N N
-F1 "LM317TG" 0 400 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/LM317-D.PDF" 200 300 60 H I L C N N
-F4 "LM317TGOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM317TG" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/LM317-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/LM317TG/LM317TGOS-ND/918508" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LIN POS ADJ 1.5A TO220AB" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 200 200 -100 0 1 0 f
-X ADJ 1 -400 100 200 R 50 50 1 1 I
-X OUT 2 400 100 200 L 50 50 1 1 O
-X IN 3 -400 0 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# LM7812CT_LTB
-#
-DEF LM7812CT_LTB U 0 40 Y Y 1 F N
-F0 "U" 0 300 60 H V C C N N
-F1 "LM7812CT_LTB" 0 400 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 300 60 H I L C N N
-F4 "LM7812CTFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM7812CT" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/LM7812CT/LM7812CTFS-ND/1923051" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 12V 1A TO220-3" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 200 200 -200 0 1 0 f
-X GND 1 -100 -400 200 U 50 50 1 1 W
-X VOUT 2 400 0 200 L 50 50 1 1 w
-X VIN 3 -400 100 200 R 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
-# LD1117V33
-#
-DEF LD1117V33 U 0 40 Y Y 1 F N
-F0 "U" 50 150 60 H V C C N N
-F1 "LD1117V33" 0 300 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf" 200 300 60 H I L C N N
-F4 "497-1491-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LD1117V33" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/99/3b/7d/91/91/51/4b/be/CD00000544.pdf/files/CD00000544.pdf/jcr:content/translations/en.CD00000544.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/LD1117V33/497-1491-5-ND/586012" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 3.3V 800MA TO220AB" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 100 300 -200 1 1 0 f
-X GND 1 0 -400 200 U 50 50 1 1 W
-X VOUT 2 500 0 200 L 50 50 1 1 O
-X VIN 3 -400 0 200 R 50 50 1 1 I
+X IN 1 -400 0 200 R 50 50 1 1 I
+X OUT 3 400 0 200 L 50 50 1 1 O
+X TAB 4 0 -400 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
@@ -586,54 +632,6 @@ X OUT 3 400 0 200 L 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# L7805CV
-#
-DEF L7805CV U 0 40 Y Y 1 F N
-F0 "U" 0 150 60 H V C C N N
-F1 "L7805CV" 0 300 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" 200 300 60 H I L C N N
-F4 "497-1443-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "L7805CV" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/L7805CV/497-1443-5-ND/585964" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 5V 1.5A TO220AB" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 100 200 -200 1 1 0 f
-X IN 1 -400 0 200 R 50 50 1 1 I
-X GND 2 0 -400 200 U 50 50 1 1 W
-X OUT 3 400 0 200 L 50 50 1 1 O
-ENDDRAW
-ENDDEF
-#
-# LM7805CT_LTB
-#
-DEF LM7805CT_LTB U 0 40 Y Y 1 F N
-F0 "U" 0 200 60 H V C C N N
-F1 "LM7805CT_LTB" 0 300 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 300 60 H I L C N N
-F4 "LM7805CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM7805CT" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/LM7805CT/LM7805CT-ND/458698" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 5V 1A TO220AB" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 100 100 -300 0 1 0 f
-X IN 1 -400 0 200 R 50 50 1 1 I
-X GND 2 -100 -500 200 U 50 50 1 1 W
-X OUT 3 300 0 200 L 50 50 1 1 O
-ENDDRAW
-ENDDEF
-#
 # MC7805CTG
 #
 DEF MC7805CTG U 0 40 Y Y 1 F N
@@ -655,30 +653,6 @@ S -200 100 200 -200 0 1 0 f
 X IN 1 -400 0 200 R 50 50 1 1 I
 X GND 2 0 -400 200 U 50 50 1 1 W
 X OUT 3 400 0 200 L 50 50 1 1 O
-ENDDRAW
-ENDDEF
-#
-# MC7805BDTRKG
-#
-DEF MC7805BDTRKG U 0 40 Y Y 1 F N
-F0 "U" 0 200 60 H V C C N N
-F1 "MC7805BDTRKG" 0 300 60 H V C C N N
-F2 "digikey-footprints:TO-252-3" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/MC7800-D.PDF" 200 300 60 H I L C N N
-F4 "MC7805BDTRKGOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MC7805BDTRKG" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/MC7800-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/on-semiconductor/MC7805BDTRKG/MC7805BDTRKGOSCT-ND/1139742" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 5V 1A DPAK-3" 200 1000 60 H I L CNN "Description"
-F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 100 200 -200 0 1 0 f
-X IN 1 -400 0 200 R 50 50 1 1 I
-X OUT 3 400 0 200 L 50 50 1 1 O
-X TAB 4 0 -400 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
@@ -706,51 +680,77 @@ X VOUT 3 500 0 200 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# LM78L05ACZ_NOPB
+# MCP1700T-3302E_TT
 #
-DEF LM78L05ACZ_NOPB U 0 40 Y Y 1 F N
+DEF MCP1700T-3302E_TT U 0 40 Y Y 1 F N
 F0 "U" 0 200 60 H V C C N N
-F1 "LM78L05ACZ_NOPB" 0 300 60 H V C C N N
-F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm78l.pdf" 200 300 60 H I L C N N
-F4 "LM78L05ACZNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM78L05ACZ/NOPB" 200 500 60 H I L CNN "MPN"
+F1 "MCP1700T-3302E_TT" 0 300 60 H V C C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011779" 200 300 60 H I L C N N
+F4 "MCP1700T3302ETTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MCP1700T-3302E/TT" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm78l.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM78L05ACZ-NOPB/LM78L05ACZNS-NOPB-ND/6333" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 5V 100MA TO92-3" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011779" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/MCP1700T-3302E-TT/MCP1700T3302ETTCT-ND/652677" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 3.3V 250MA SOT23-3" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 300 -200 0 1 0 f
-X VOUT 1 500 0 200 L 50 50 1 1 w
-X GND 2 0 -400 200 U 50 50 1 1 W
+X GND 1 0 -400 200 U 50 50 1 1 W
+X VOUT 2 500 0 200 L 50 50 1 1 w
 X VIN 3 -400 0 200 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# L4931CZ50-AP
+# NCP1117ST33T3G
 #
-DEF L4931CZ50-AP U 0 40 Y Y 1 F N
-F0 "U" 50 350 60 H V C C N N
-F1 "L4931CZ50-AP" 0 500 60 H V C C N N
-F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 300 60 H I L C N N
-F4 "497-5838-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "L4931CZ50-AP" 200 500 60 H I L CNN "MPN"
+DEF NCP1117ST33T3G U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C C N N
+F1 "NCP1117ST33T3G" 0 400 60 H V C C N N
+F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
+F4 "NCP1117ST33T3GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "NCP1117ST33T3G" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ff/95/2f/6a/75/70/42/49/CD00000971.pdf/files/CD00000971.pdf/jcr:content/translations/en.CD00000971.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/L4931CZ50-AP/497-5838-1-ND/1506450" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 5V 250MA TO92-3" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/NCP1117ST33T3G/NCP1117ST33T3GOSCT-ND/660708" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 3.3V 1A SOT223" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -200 300 300 0 0 1 0 f
-X VOUT 1 500 200 200 L 50 50 1 1 O
-X GND 2 0 -200 200 U 50 50 1 1 W
-X VIN 3 -400 200 200 R 50 50 1 1 O
+S -300 200 300 -200 0 1 0 f
+X ADJ/GND 1 -100 -400 200 U 50 50 1 1 W
+X OUT 2 500 100 200 L 50 50 1 1 O
+X IN 3 -500 100 200 R 50 50 1 1 W
+X OUT/TAB 4 500 0 200 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+# NCP1117ST50T3G
+#
+DEF NCP1117ST50T3G U 0 40 Y Y 1 F N
+F0 "U" 0 200 60 H V C C N N
+F1 "NCP1117ST50T3G" 0 300 60 H V C C N N
+F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
+F4 "NCP1117ST50T3GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "NCP1117ST50T3G" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
+F8 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/NCP1117ST50T3G/NCP1117ST50T3GOSCT-ND/1967217" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG LINEAR 5V 1A SOT223" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 100 300 -300 0 1 0 f
+X ADJ/GND 1 0 -500 200 U 50 50 1 1 W
+X OUT 2 500 0 200 L 50 50 1 1 O
+X IN 3 -400 0 200 R 50 50 1 1 I
+X TAB 4 100 -500 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #

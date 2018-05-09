@@ -4,8 +4,8 @@ EESchema-LIBRARY Version 2.3
 # SI5351A-B-GT
 #
 DEF SI5351A-B-GT U 0 40 Y Y 1 F N
-F0 "U" -300 350 60 H V C C N N
-F1 "SI5351A-B-GT" 500 -400 60 H V C C N N
+F0 "U" -200 350 60 H V R C N N
+F1 "SI5351A-B-GT" 50 -400 60 H V L C N N
 F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
 F3 "http://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf" 200 300 60 H I L C N N
 F4 "336-2399-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"

@@ -1,43 +1,6 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# SG3525AN
-#
-DEF SG3525AN U 0 40 Y Y 1 F N
-F0 "U" -300 250 60 H V C C N N
-F1 "SG3525AN" 100 -400 60 V V C C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c0/12/98/4a/3b/1a/4b/8b/CD00000958.pdf/files/CD00000958.pdf/jcr:content/translations/en.CD00000958.pdf" 200 300 60 H I L C N N
-F4 "497-2041-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SG3525AN" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c0/12/98/4a/3b/1a/4b/8b/CD00000958.pdf/files/CD00000958.pdf/jcr:content/translations/en.CD00000958.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/SG3525AN/497-2041-5-ND/599613" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG CTRLR BCK/PUSH-PULL 16DIP" 200 1000 60 H I L CNN "Description"
-F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -400 200 500 -1000 0 1 0 f
-X INV_IN 1 -600 100 200 R 50 50 1 1 I
-X N_I_IN 2 -600 0 200 R 50 50 1 1 I
-X SYNC 3 -600 -100 200 R 50 50 1 1 I
-X OSC_OUT 4 700 -300 200 L 50 50 1 1 O
-X CT 5 -600 -200 200 R 50 50 1 1 I
-X RT 6 -600 -300 200 R 50 50 1 1 I
-X DIS 7 -600 -400 200 R 50 50 1 1 I
-X SOFT_ST 8 -600 -500 200 R 50 50 1 1 I
-X COMP 9 -600 -600 200 R 50 50 1 1 I
-X SHUTDOWN 10 -600 -700 200 R 50 50 1 1 I
-X OUT_A 11 700 -400 200 L 50 50 1 1 O
-X GND 12 200 -1200 200 U 50 50 1 1 W
-X VC 13 0 400 200 D 50 50 1 1 W
-X OUT_B 14 700 -500 200 L 50 50 1 1 O
-X +V1 15 -600 -800 200 R 50 50 1 1 I
-X VREF 16 -600 -900 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
 # TL494CN
 #
 DEF TL494CN U 0 40 Y Y 1 F N
@@ -75,37 +38,6 @@ X 2IN+ 16 -500 0 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# LM3481MM_NOPB
-#
-DEF LM3481MM_NOPB U 0 40 Y Y 1 F N
-F0 "U" -250 150 60 H V C C N N
-F1 "LM3481MM_NOPB" 0 500 60 H V C C N N
-F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm3481.pdf" 200 300 60 H I L C N N
-F4 "LM3481MM/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM3481MM/NOPB" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm3481.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM3481MM-NOPB/LM3481MM-NOPBCT-ND/1836122" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG CTRLR MULT TOP 10MSOP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -300 100 500 -500 0 1 0 f
-X ISEN 1 -500 0 200 R 50 50 1 1 I
-X UVLO 2 -500 -100 200 R 50 50 1 1 I
-X COMP 3 -500 -200 200 R 50 50 1 1 I
-X FB 4 -500 -300 200 R 50 50 1 1 I
-X AGND 5 300 -700 200 U 50 50 1 1 W
-X FA/SYNC/SD 6 -500 -400 200 R 50 50 1 1 I
-X PGND 7 400 -700 200 U 50 50 1 1 W
-X DR 8 700 -100 200 L 50 50 1 1 O
-X VCC 9 700 -200 200 L 50 50 1 1 O
-X VIN 10 0 300 200 D 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
 # TPS40210DGQR
 #
 DEF TPS40210DGQR U 0 40 Y Y 1 F N
@@ -138,35 +70,100 @@ X PAD 11 100 -700 200 U 50 50 1 1 U
 ENDDRAW
 ENDDEF
 #
-# LT3757EMSE_PBF
+# SG3525AN
 #
-DEF LT3757EMSE_PBF U 0 40 Y Y 1 F N
-F0 "U" -200 150 60 H V C C N N
-F1 "LT3757EMSE_PBF" 0 500 60 H V C C N N
-F2 "digikey-footprints:MSOP-10-1EP_W3mm" 200 200 60 H I L C N N
-F3 "http://www.linear.com/docs/27994" 200 300 60 H I L C N N
-F4 "LT3757EMSE#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LT3757EMSE#PBF" 200 500 60 H I L CNN "MPN"
+DEF SG3525AN U 0 40 Y Y 1 F N
+F0 "U" -300 250 60 H V C C N N
+F1 "SG3525AN" 100 -400 60 V V C C N N
+F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c0/12/98/4a/3b/1a/4b/8b/CD00000958.pdf/files/CD00000958.pdf/jcr:content/translations/en.CD00000958.pdf" 200 300 60 H I L C N N
+F4 "497-2041-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SG3525AN" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.linear.com/docs/27994" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/linear-technology-analog-devices/LT3757EMSE-PBF/LT3757EMSE-PBF-ND/2074417" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG CTRLR MULT TOP 10MSOP" 200 1000 60 H I L CNN "Description"
-F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/c0/12/98/4a/3b/1a/4b/8b/CD00000958.pdf/files/CD00000958.pdf/jcr:content/translations/en.CD00000958.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/SG3525AN/497-2041-5-ND/599613" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG CTRLR BCK/PUSH-PULL 16DIP" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -300 100 400 -800 0 1 0 f
-X VC 1 -500 -100 200 R 50 50 1 1 I
-X FBX 2 -500 -200 200 R 50 50 1 1 I
-X SS 3 -500 -300 200 R 50 50 1 1 I
-X RT 4 -500 -400 200 R 50 50 1 1 I
-X SYNC 5 -500 -500 200 R 50 50 1 1 I
-X SENSE 6 -500 -600 200 R 50 50 1 1 I
-X GATE 7 600 -200 200 L 50 50 1 1 O
-X INTVCC 8 100 300 200 D 50 50 1 1 I
-X ~SHDN 9 -500 -700 200 R 50 50 1 1 I
+S -400 200 500 -1000 0 1 0 f
+X INV_IN 1 -600 100 200 R 50 50 1 1 I
+X N_I_IN 2 -600 0 200 R 50 50 1 1 I
+X SYNC 3 -600 -100 200 R 50 50 1 1 I
+X OSC_OUT 4 700 -300 200 L 50 50 1 1 O
+X CT 5 -600 -200 200 R 50 50 1 1 I
+X RT 6 -600 -300 200 R 50 50 1 1 I
+X DIS 7 -600 -400 200 R 50 50 1 1 I
+X SOFT_ST 8 -600 -500 200 R 50 50 1 1 I
+X COMP 9 -600 -600 200 R 50 50 1 1 I
+X SHUTDOWN 10 -600 -700 200 R 50 50 1 1 I
+X OUT_A 11 700 -400 200 L 50 50 1 1 O
+X GND 12 200 -1200 200 U 50 50 1 1 W
+X VC 13 0 400 200 D 50 50 1 1 W
+X OUT_B 14 700 -500 200 L 50 50 1 1 O
+X +V1 15 -600 -800 200 R 50 50 1 1 I
+X VREF 16 -600 -900 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# LM3478MM_NOPB
+#
+DEF LM3478MM_NOPB U 0 40 Y Y 1 F N
+F0 "U" -200 250 60 H V C C N N
+F1 "LM3478MM_NOPB" 0 600 60 H V C C N N
+F2 "digikey-footprints:TSSOP-8_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm3478.pdf" 200 300 60 H I L C N N
+F4 "LM3478MM/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM3478MM/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm3478.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM3478MM-NOPB/LM3478MM-NOPBCT-ND/355388" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG CTRLR MULT TOP 8VSSOP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 300 -300 0 1 0 f
+X ISEN 1 -500 100 200 R 50 50 1 1 I
+X COMP 2 -500 0 200 R 50 50 1 1 I
+X FB 3 -500 -100 200 R 50 50 1 1 I
+X AGND 4 100 -500 200 U 50 50 1 1 W
+X PGND 5 200 -500 200 U 50 50 1 1 W
+X DR 6 500 0 200 L 50 50 1 1 O
+X FA/SD 7 -500 -200 200 R 50 50 1 1 I
+X VIN 8 0 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# LM3481MM_NOPB
+#
+DEF LM3481MM_NOPB U 0 40 Y Y 1 F N
+F0 "U" -250 150 60 H V C C N N
+F1 "LM3481MM_NOPB" 0 500 60 H V C C N N
+F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/lm3481.pdf" 200 300 60 H I L C N N
+F4 "LM3481MM/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM3481MM/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/lm3481.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM3481MM-NOPB/LM3481MM-NOPBCT-ND/1836122" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG CTRLR MULT TOP 10MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 100 500 -500 0 1 0 f
+X ISEN 1 -500 0 200 R 50 50 1 1 I
+X UVLO 2 -500 -100 200 R 50 50 1 1 I
+X COMP 3 -500 -200 200 R 50 50 1 1 I
+X FB 4 -500 -300 200 R 50 50 1 1 I
+X AGND 5 300 -700 200 U 50 50 1 1 W
+X FA/SYNC/SD 6 -500 -400 200 R 50 50 1 1 I
+X PGND 7 400 -700 200 U 50 50 1 1 W
+X DR 8 700 -100 200 L 50 50 1 1 O
+X VCC 9 700 -200 200 L 50 50 1 1 O
 X VIN 10 0 300 200 D 50 50 1 1 W
-X GND/PAD 11 200 -1000 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
@@ -203,32 +200,35 @@ X RFB 16 -500 -600 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# LM3478MM_NOPB
+# LT3757EMSE_PBF
 #
-DEF LM3478MM_NOPB U 0 40 Y Y 1 F N
-F0 "U" -200 250 60 H V C C N N
-F1 "LM3478MM_NOPB" 0 600 60 H V C C N N
-F2 "digikey-footprints:TSSOP-8_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm3478.pdf" 200 300 60 H I L C N N
-F4 "LM3478MM/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LM3478MM/NOPB" 200 500 60 H I L CNN "MPN"
+DEF LT3757EMSE_PBF U 0 40 Y Y 1 F N
+F0 "U" -200 150 60 H V C C N N
+F1 "LT3757EMSE_PBF" 0 500 60 H V C C N N
+F2 "digikey-footprints:MSOP-10-1EP_W3mm" 200 200 60 H I L C N N
+F3 "http://www.linear.com/docs/27994" 200 300 60 H I L C N N
+F4 "LT3757EMSE#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LT3757EMSE#PBF" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm3478.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/LM3478MM-NOPB/LM3478MM-NOPBCT-ND/355388" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG CTRLR MULT TOP 8VSSOP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F8 "http://www.linear.com/docs/27994" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/linear-technology-analog-devices/LT3757EMSE-PBF/LT3757EMSE-PBF-ND/2074417" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG CTRLR MULT TOP 10MSOP" 200 1000 60 H I L CNN "Description"
+F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -300 200 300 -300 0 1 0 f
-X ISEN 1 -500 100 200 R 50 50 1 1 I
-X COMP 2 -500 0 200 R 50 50 1 1 I
-X FB 3 -500 -100 200 R 50 50 1 1 I
-X AGND 4 100 -500 200 U 50 50 1 1 W
-X PGND 5 200 -500 200 U 50 50 1 1 W
-X DR 6 500 0 200 L 50 50 1 1 O
-X FA/SD 7 -500 -200 200 R 50 50 1 1 I
-X VIN 8 0 400 200 D 50 50 1 1 W
+S -300 100 400 -800 0 1 0 f
+X VC 1 -500 -100 200 R 50 50 1 1 I
+X FBX 2 -500 -200 200 R 50 50 1 1 I
+X SS 3 -500 -300 200 R 50 50 1 1 I
+X RT 4 -500 -400 200 R 50 50 1 1 I
+X SYNC 5 -500 -500 200 R 50 50 1 1 I
+X SENSE 6 -500 -600 200 R 50 50 1 1 I
+X GATE 7 600 -200 200 L 50 50 1 1 O
+X INTVCC 8 100 300 200 D 50 50 1 1 I
+X ~SHDN 9 -500 -700 200 R 50 50 1 1 I
+X VIN 10 0 300 200 D 50 50 1 1 W
+X GND/PAD 11 200 -1000 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #

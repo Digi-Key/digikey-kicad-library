@@ -30,35 +30,6 @@ X SDO 8 500 200 200 L 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# BMP280
-#
-DEF BMP280 U 0 40 Y Y 1 F N
-F0 "U" -200 400 60 H V C C N N
-F1 "BMP280" 500 -400 60 H V C C N N
-F2 "digikey-footprints:LGA-8_2x2.5mm_BMP280" 200 200 60 H I L C N N
-F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-19.pdf" 200 300 60 H I L C N N
-F4 "828-1064-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BMP280" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-19.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/bosch-sensortec/BMP280/828-1064-1-ND/6136315" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR PRESSURE ABS" 200 1000 60 H I L CNN "Description"
-F11 "Bosch Sensortec" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S 400 300 -300 -300 0 1 0 f
-X GND 1 -100 -500 200 U 50 50 1 1 W
-X CSB 2 600 100 200 L 50 50 1 1 O
-X SDO/SDO 3 600 0 200 L 50 50 1 1 B
-X SCK 4 -500 100 200 R 50 50 1 1 I
-X SDO 5 -500 0 200 R 50 50 1 1 B
-X VDDIO 6 0 500 200 D 50 50 1 1 W
-X GND 7 0 -500 200 U 50 50 1 1 W
-X VDD 8 100 500 200 D 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
 # LPS25HBTR
 #
 DEF LPS25HBTR U 0 40 Y Y 1 F N
@@ -90,61 +61,32 @@ X VDD 10 200 500 200 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# MPL3115A2
+# BMP280
 #
-DEF MPL3115A2 U 0 40 Y Y 1 F N
-F0 "U" -200 50 60 H V C C N N
-F1 "MPL3115A2" 0 400 60 H V C C N N
-F2 "digikey-footprints:TLGA-8_3x5" 200 200 60 H I L C N N
-F3 "http://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 300 60 H I L C N N
-F4 "MPL3115A2-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MPL3115A2" 200 500 60 H I L CNN "MPN"
+DEF BMP280 U 0 40 Y Y 1 F N
+F0 "U" -200 400 60 H V C C N N
+F1 "BMP280" 500 -400 60 H V C C N N
+F2 "digikey-footprints:LGA-8_2x2.5mm_BMP280" 200 200 60 H I L C N N
+F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-19.pdf" 200 300 60 H I L C N N
+F4 "828-1064-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BMP280" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "http://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nxp-usa-inc/MPL3115A2/MPL3115A2-ND/2817529" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC ALTIMETER I2C VERSION 8LGA" 200 1000 60 H I L CNN "Description"
-F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"
+F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-19.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/bosch-sensortec/BMP280/828-1064-1-ND/6136315" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR PRESSURE ABS" 200 1000 60 H I L CNN "Description"
+F11 "Bosch Sensortec" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -300 0 400 -500 0 1 0 f
-X VDD 1 0 200 200 D 50 50 1 1 W
-X CAP 2 -500 -200 200 R 50 50 1 1 U
-X GND 3 100 -700 200 U 50 50 1 1 W
-X VDDIO 4 100 200 200 D 50 50 1 1 W
-X INT2 5 600 -300 200 L 50 50 1 1 O
-X INT1 6 600 -400 200 L 50 50 1 1 O
-X SDL 7 -500 -300 200 R 50 50 1 1 B
-X SCL 8 -500 -400 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# MPL3115A2R1
-#
-DEF MPL3115A2R1 U 0 40 Y Y 1 F N
-F0 "U" -200 50 60 H V C C N N
-F1 "MPL3115A2R1" 0 400 60 H V C C N N
-F2 "digikey-footprints:TLGA-8_3x5" 200 200 60 H I L C N N
-F3 "http://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 300 60 H I L C N N
-F4 "MPL3115A2R1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MPL3115A2R1" 200 500 60 H I L CNN "MPN"
-F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
-F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "http://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/nxp-usa-inc/MPL3115A2R1/MPL3115A2R1CT-ND/4754470" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC ALTIMETER I2C VERSION 8LGA" 200 1000 60 H I L CNN "Description"
-F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -300 0 400 -500 0 1 0 f
-X VDD 1 0 200 200 D 50 50 1 1 W
-X CAP 2 -500 -200 200 R 50 50 1 1 U
-X GND 3 100 -700 200 U 50 50 1 1 W
-X VDDIO 4 100 200 200 D 50 50 1 1 W
-X INT2 5 600 -300 200 L 50 50 1 1 O
-X INT1 6 600 -400 200 L 50 50 1 1 O
-X SDL 7 -500 -300 200 R 50 50 1 1 B
-X SCL 8 -500 -400 200 R 50 50 1 1 I
+S 400 300 -300 -300 0 1 0 f
+X GND 1 -100 -500 200 U 50 50 1 1 W
+X CSB 2 600 100 200 L 50 50 1 1 O
+X SDO/SDO 3 600 0 200 L 50 50 1 1 B
+X SCK 4 -500 100 200 R 50 50 1 1 I
+X SDO 5 -500 0 200 R 50 50 1 1 B
+X VDDIO 6 0 500 200 D 50 50 1 1 W
+X GND 7 0 -500 200 U 50 50 1 1 W
+X VDD 8 100 500 200 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
@@ -174,6 +116,64 @@ X ~CS 5 -400 -100 200 R 50 50 1 1 I
 X DOUT 6 500 -200 200 L 50 50 1 1 O
 X DIN 7 -400 -200 200 R 50 50 1 1 I
 X SCLK 8 -400 -300 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MPL3115A2
+#
+DEF MPL3115A2 U 0 40 Y Y 1 F N
+F0 "U" -200 50 60 H V C C N N
+F1 "MPL3115A2" 0 400 60 H V C C N N
+F2 "digikey-footprints:TLGA-8_3x5" 200 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 300 60 H I L C N N
+F4 "MPL3115A2-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MPL3115A2" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nxp-usa-inc/MPL3115A2/MPL3115A2-ND/2817529" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC ALTIMETER I2C VERSION 8LGA" 200 1000 60 H I L CNN "Description"
+F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 0 400 -500 0 1 0 f
+X VDD 1 0 200 200 D 50 50 1 1 W
+X CAP 2 -500 -200 200 R 50 50 1 1 U
+X GND 3 100 -700 200 U 50 50 1 1 W
+X VDDIO 4 100 200 200 D 50 50 1 1 W
+X INT2 5 600 -300 200 L 50 50 1 1 O
+X INT1 6 600 -400 200 L 50 50 1 1 O
+X SDL 7 -500 -300 200 R 50 50 1 1 B
+X SCL 8 -500 -400 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MPL3115A2R1
+#
+DEF MPL3115A2R1 U 0 40 Y Y 1 F N
+F0 "U" -200 50 60 H V C C N N
+F1 "MPL3115A2R1" 0 400 60 H V C C N N
+F2 "digikey-footprints:TLGA-8_3x5" 200 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 300 60 H I L C N N
+F4 "MPL3115A2R1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MPL3115A2R1" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MPL3115A2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/nxp-usa-inc/MPL3115A2R1/MPL3115A2R1CT-ND/4754470" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC ALTIMETER I2C VERSION 8LGA" 200 1000 60 H I L CNN "Description"
+F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 0 400 -500 0 1 0 f
+X VDD 1 0 200 200 D 50 50 1 1 W
+X CAP 2 -500 -200 200 R 50 50 1 1 U
+X GND 3 100 -700 200 U 50 50 1 1 W
+X VDDIO 4 100 200 200 D 50 50 1 1 W
+X INT2 5 600 -300 200 L 50 50 1 1 O
+X INT1 6 600 -400 200 L 50 50 1 1 O
+X SDL 7 -500 -300 200 R 50 50 1 1 B
+X SCL 8 -500 -400 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #

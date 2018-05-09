@@ -31,20 +31,20 @@ X G 3 -400 -100 200 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BTA16-600BWRG
+# BTA41-600BRG
 #
-DEF BTA16-600BWRG U 0 0 Y Y 1 F N
+DEF BTA41-600BRG U 0 0 Y Y 1 F N
 F0 "TRI" -250 125 60 H V C C N N
-F1 "BTA16-600BWRG" 500 -175 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/67/06/bc/c9/35/8e/4f/ea/CD00002265.pdf/files/CD00002265.pdf/jcr:content/translations/en.CD00002265.pdf" 200 300 60 H I L C N N
-F4 "497-3122-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BTA16-600BWRG" 200 500 60 H I L CNN "MPN"
+F1 "BTA41-600BRG" 500 -175 60 H V C C N N
+F2 "digikey-footprints:TOP-3_Vertical_Insulated" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bc/c6/38/ee/88/59/49/0d/CD00002263.pdf/files/CD00002263.pdf/jcr:content/translations/en.CD00002263.pdf" 200 300 60 H I L C N N
+F4 "497-2431-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BTA41-600BRG" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Thyristors - TRIACs" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/67/06/bc/c9/35/8e/4f/ea/CD00002265.pdf/files/CD00002265.pdf/jcr:content/translations/en.CD00002265.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/BTA16-600BWRG/497-3122-5-ND/654430" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TRIAC ALTERNISTOR 600V TO220AB" 200 1000 60 H I L CNN "Description"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bc/c6/38/ee/88/59/49/0d/CD00002263.pdf/files/CD00002263.pdf/jcr:content/translations/en.CD00002263.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/BTA41-600BRG/497-2431-5-ND/603456" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "TRIAC 600V 40A TOP3" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -61,20 +61,20 @@ X G 3 -400 -100 200 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BTA41-600BRG
+# BTA16-600BWRG
 #
-DEF BTA41-600BRG U 0 0 Y Y 1 F N
+DEF BTA16-600BWRG U 0 0 Y Y 1 F N
 F0 "TRI" -250 125 60 H V C C N N
-F1 "BTA41-600BRG" 500 -175 60 H V C C N N
-F2 "digikey-footprints:TOP-3_Vertical_Insulated" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bc/c6/38/ee/88/59/49/0d/CD00002263.pdf/files/CD00002263.pdf/jcr:content/translations/en.CD00002263.pdf" 200 300 60 H I L C N N
-F4 "497-2431-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "BTA41-600BRG" 200 500 60 H I L CNN "MPN"
+F1 "BTA16-600BWRG" 500 -175 60 H V C C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/67/06/bc/c9/35/8e/4f/ea/CD00002265.pdf/files/CD00002265.pdf/jcr:content/translations/en.CD00002265.pdf" 200 300 60 H I L C N N
+F4 "497-3122-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BTA16-600BWRG" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Thyristors - TRIACs" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/bc/c6/38/ee/88/59/49/0d/CD00002263.pdf/files/CD00002263.pdf/jcr:content/translations/en.CD00002263.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/stmicroelectronics/BTA41-600BRG/497-2431-5-ND/603456" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TRIAC 600V 40A TOP3" 200 1000 60 H I L CNN "Description"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/67/06/bc/c9/35/8e/4f/ea/CD00002265.pdf/files/CD00002265.pdf/jcr:content/translations/en.CD00002265.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/BTA16-600BWRG/497-3122-5-ND/654430" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "TRIAC ALTERNISTOR 600V TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

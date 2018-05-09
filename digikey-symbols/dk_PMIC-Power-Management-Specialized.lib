@@ -1,6 +1,32 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# SN6501DBVR
+#
+DEF SN6501DBVR U 0 40 Y Y 1 F N
+F0 "U" -150 50 60 H V C C N N
+F1 "SN6501DBVR" 500 -500 60 H V C C N N
+F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/sn6501.pdf" 200 300 60 H I L C N N
+F4 "296-37700-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN6501DBVR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Power Management - Specialized" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/sn6501.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN6501DBVR/296-37700-1-ND/4833928" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG CONV PWR SUPPLIES SOT23-5" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 0 200 -400 0 1 0 f
+X D1 1 400 -200 200 L 50 50 1 1 O
+X VCC 2 0 200 200 D 50 50 1 1 W
+X D2 3 400 -300 200 L 50 50 1 1 O
+X GND 4 -100 -600 200 U 50 50 1 1 W
+X GND 5 0 -600 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 # LTC3588EMSE-1_PBF
 #
 DEF LTC3588EMSE-1_PBF U 0 40 Y Y 1 F N
@@ -59,32 +85,6 @@ X ~SHDN 5 -600 -100 200 R 50 50 1 1 I
 X ~FAULT 6 400 100 200 L 50 50 1 1 O
 X VOUT 7 400 -100 200 L 50 50 1 1 w
 X GATE 8 400 0 200 L 50 50 1 1 O
-ENDDRAW
-ENDDEF
-#
-# SN6501DBVR
-#
-DEF SN6501DBVR U 0 40 Y Y 1 F N
-F0 "U" -150 50 60 H V C C N N
-F1 "SN6501DBVR" 500 -500 60 H V C C N N
-F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn6501.pdf" 200 300 60 H I L C N N
-F4 "296-37700-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN6501DBVR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "PMIC - Power Management - Specialized" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn6501.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN6501DBVR/296-37700-1-ND/4833928" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG CONV PWR SUPPLIES SOT23-5" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 0 200 -400 0 1 0 f
-X D1 1 400 -200 200 L 50 50 1 1 O
-X VCC 2 0 200 200 D 50 50 1 1 W
-X D2 3 400 -300 200 L 50 50 1 1 O
-X GND 4 -100 -600 200 U 50 50 1 1 W
-X GND 5 0 -600 200 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
