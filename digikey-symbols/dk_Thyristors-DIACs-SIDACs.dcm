@@ -1,11 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP DB3-TP
-D DIAC 28-36V 2A DO35
-K DB3-TPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/DB3,DC34,DB4,DB6(DO-35G).PDF
-$ENDCMP
-#
 $CMP DB3
 D DIAC 28-36V 2A DO35
 K 497-3099-1-ND 
@@ -16,6 +10,12 @@ $CMP BS08D-T112
 D SIDAC 7-9V 1A TO92
 K 835-1126-1-ND 
 F http://www.pwrx.com/pwrx/docs/bs08d.pdf
+$ENDCMP
+#
+$CMP DB3-TP
+D DIAC 28-36V 2A DO35
+K DB3-TPMSCT-ND 
+F http://www.mccsemi.com/up_pdf/DB3,DC34,DB4,DB6(DO-35G).PDF
 $ENDCMP
 #
 #End Doc Library

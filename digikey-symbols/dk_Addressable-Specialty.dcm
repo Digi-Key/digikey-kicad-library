@@ -1,9 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP COM-12999
+D LED RGB ADDRESSABLE WS2812 5PC
+K 1568-1214-ND 
+F https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf
+$ENDCMP
+#
 $CMP 28086
 D WS2812B LED MODULE 10-PACK
 K 28086-ND 
-F http://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf
+F https://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf
 $ENDCMP
 #
 #End Doc Library

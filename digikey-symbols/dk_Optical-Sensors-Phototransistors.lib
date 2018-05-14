@@ -32,20 +32,20 @@ X E 2 -400 -50 200 R 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# LTR-301
+# LTR-4206E
 #
-DEF LTR-301 U 0 40 Y Y 1 F N
+DEF LTR-4206E U 0 40 Y Y 1 F N
 F0 "Q" -200 200 60 H V C C N N
-F1 "LTR-301" 0 -250 60 H V C C N N
+F1 "LTR-4206E" 0 -250 60 H V C C N N
 F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
-F3 "http://optoelectronics.liteon.com/upload/download/DS-50-93-0013/LTR-301.pdf" 200 300 60 H I L C N N
-F4 "160-1065-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTR-301" 200 500 60 H I L CNN "MPN"
+F3 "http://optoelectronics.liteon.com/upload/download/DS-50-92-0073/R4206E.pdf" 200 300 60 H I L C N N
+F4 "160-1030-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTR-4206E" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Phototransistors" 200 700 60 H I L CNN "Family"
-F8 "http://optoelectronics.liteon.com/upload/download/DS-50-93-0013/LTR-301.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/LTR-301/160-1065-ND/153270" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "PHOTOTRAN NPN IR CLEAR SIDE LOOK" 200 1000 60 H I L CNN "Description"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-50-92-0073/R4206E.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTR-4206E/160-1030-ND/121710" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTOTRAN NPN 3MM IR DARK" 200 1000 60 H I L CNN "Description"
 F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -63,20 +63,20 @@ X C 2 400 -50 200 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# LTR-4206E
+# LTR-301
 #
-DEF LTR-4206E U 0 40 Y Y 1 F N
+DEF LTR-301 U 0 40 Y Y 1 F N
 F0 "Q" -200 200 60 H V C C N N
-F1 "LTR-4206E" 0 -250 60 H V C C N N
+F1 "LTR-301" 0 -250 60 H V C C N N
 F2 "digikey-footprints:LED_3mm_Radial" 200 200 60 H I L C N N
-F3 "http://optoelectronics.liteon.com/upload/download/DS-50-92-0073/R4206E.pdf" 200 300 60 H I L C N N
-F4 "160-1030-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "LTR-4206E" 200 500 60 H I L CNN "MPN"
+F3 "http://optoelectronics.liteon.com/upload/download/DS-50-93-0013/LTR-301.pdf" 200 300 60 H I L C N N
+F4 "160-1065-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LTR-301" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Phototransistors" 200 700 60 H I L CNN "Family"
-F8 "http://optoelectronics.liteon.com/upload/download/DS-50-92-0073/R4206E.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/LTR-4206E/160-1030-ND/121710" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "PHOTOTRAN NPN 3MM IR DARK" 200 1000 60 H I L CNN "Description"
+F8 "http://optoelectronics.liteon.com/upload/download/DS-50-93-0013/LTR-301.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/LTR-301/160-1065-ND/153270" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PHOTOTRAN NPN IR CLEAR SIDE LOOK" 200 1000 60 H I L CNN "Description"
 F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

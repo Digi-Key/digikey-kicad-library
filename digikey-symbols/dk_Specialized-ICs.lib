@@ -1,33 +1,6 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# DS2413P_
-#
-DEF DS2413P_ U 0 40 Y Y 1 F N
-F0 "U" 0 300 60 H V C C N N
-F1 "DS2413P_" 0 400 60 H V C C N N
-F2 "digikey-footprints:LSOJ-6_W3.76mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/DS2413.pdf" 200 300 60 H I L C N N
-F4 "DS2413P+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "DS2413P+" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Specialized ICs" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/DS2413.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/DS2413P-/DS2413P--ND/1197421" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC SWITCH DL ADDRESS 6-TSOC" 200 1000 60 H I L CNN "Description"
-F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 200 300 -300 0 1 0 f
-X GND1 1 100 -500 200 U 50 50 1 1 I
-X IO 2 -400 100 200 R 50 50 1 1 B
-X NC 3 -400 -200 200 R 50 50 1 1 N
-X PIOB 4 -400 -100 200 R 50 50 1 1 B
-X GND2 5 200 -500 200 U 50 50 1 1 I
-X PIOA 6 -400 0 200 R 50 50 1 1 B
-ENDDRAW
-ENDDEF
-#
 # ATSHA204A-STUCZ-T
 #
 DEF ATSHA204A-STUCZ-T U 0 1 Y Y 1 F N
@@ -73,6 +46,33 @@ S -200 200 100 -200 0 1 0 f
 X I/O 1 -400 0 200 R 50 50 1 1 B
 X VCC 2 0 400 200 D 50 50 1 1 W
 X GND 3 0 -400 200 U 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# DS2413P_
+#
+DEF DS2413P_ U 0 40 Y Y 1 F N
+F0 "U" 0 300 60 H V C C N N
+F1 "DS2413P_" 0 400 60 H V C C N N
+F2 "digikey-footprints:LSOJ-6_W3.76mm" 200 200 60 H I L C N N
+F3 "http://datasheets.maximintegrated.com/en/ds/DS2413.pdf" 200 300 60 H I L C N N
+F4 "DS2413P+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "DS2413P+" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Specialized ICs" 200 700 60 H I L CNN "Family"
+F8 "http://datasheets.maximintegrated.com/en/ds/DS2413.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/DS2413P-/DS2413P--ND/1197421" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC SWITCH DL ADDRESS 6-TSOC" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 200 300 -300 0 1 0 f
+X GND1 1 100 -500 200 U 50 50 1 1 I
+X IO 2 -400 100 200 R 50 50 1 1 B
+X NC 3 -400 -200 200 R 50 50 1 1 N
+X PIOB 4 -400 -100 200 R 50 50 1 1 B
+X GND2 5 200 -500 200 U 50 50 1 1 I
+X PIOA 6 -400 0 200 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #

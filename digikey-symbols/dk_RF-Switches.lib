@@ -13,9 +13,9 @@ F5 "4259-63" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Switches" 200 700 60 H I L CNN "Family"
 F8 "http://www.psemi.com/pdf/datasheets/pe4259ds.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/peregrine-semiconductor/4259-63/1046-1011-1-ND/2614515" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/psemi/4259-63/1046-1011-1-ND/2614515" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF SWITCH SPDT 50 OHM SC70-6" 200 1000 60 H I L CNN "Description"
-F11 "Peregrine Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F11 "pSemi" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 300 -400 0 1 0 f
@@ -40,9 +40,9 @@ F5 "PE42423MLBA-Z" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Switches" 200 700 60 H I L CNN "Family"
 F8 "http://www.psemi.com/pdf/datasheets/pe42423ds.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/peregrine-semiconductor/PE42423MLBA-Z/1046-1103-1-ND/4807899" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/psemi/PE42423MLBA-Z/1046-1103-1-ND/4807899" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF SWITCH SPDT 50 OHM 16QFN" 200 1000 60 H I L CNN "Description"
-F11 "Peregrine Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F11 "pSemi" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -400 400 800 -400 0 1 0 f

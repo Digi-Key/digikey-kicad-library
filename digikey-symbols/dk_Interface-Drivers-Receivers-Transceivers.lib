@@ -1,6 +1,144 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# SP3485EN-L_TR
+#
+DEF SP3485EN-L_TR U 0 0 Y Y 1 F N
+F0 "U" -250 50 60 H V C C N N
+F1 "SP3485EN-L_TR" 500 -600 60 H V C C N N
+F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "https://www.exar.com/content/document.ashx?id=639" 200 300 60 H I L C N N
+F4 "1016-1817-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SP3485EN-L/TR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
+F8 "https://www.exar.com/content/document.ashx?id=639" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/exar-corporation/SP3485EN-L-TR/1016-1817-1-ND/3586534" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TXRX RS485 HALF DUPLEX 8SOIC" 200 1000 60 H I L CNN "Description"
+F11 "Exar Corporation" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C -50 -140 10 0 1 0 N
+C 10 -125 10 0 1 0 N
+C 25 -325 10 0 1 0 N
+C 100 -200 10 0 1 0 F
+C 150 -300 10 0 1 0 F
+S -200 0 200 -500 0 1 0 f
+P 2 0 1 0 -200 -400 -150 -400 N
+P 2 0 1 0 -100 -100 -200 -100 N
+P 2 0 1 0 -25 -300 -25 -310 N
+P 2 0 1 0 0 -400 0 -375 N
+P 2 0 1 0 50 -125 20 -125 N
+P 2 0 1 0 200 -300 150 -300 N
+P 2 0 1 0 200 -200 100 -200 N
+P 3 0 1 0 -200 -200 -50 -200 -50 -150 N
+P 3 0 1 0 -50 -250 -25 -250 -25 -300 N
+P 3 0 1 0 0 -400 150 -400 150 -100 N
+P 3 0 1 0 50 -300 25 -300 25 -315 N
+P 3 0 1 0 50 -300 100 -300 100 -150 N
+P 3 0 1 0 100 -150 100 -125 50 -125 N
+P 3 0 1 0 150 -100 150 -75 0 -75 N
+P 4 0 1 0 -200 -300 -100 -300 -100 -250 -50 -250 N
+P 4 0 1 0 -50 -375 -100 -375 -100 -400 -150 -400 N
+P 4 0 1 0 -50 -300 -50 -400 50 -350 -50 -300 N
+P 4 0 1 0 0 -50 0 -150 -100 -100 0 -50 N
+X RO 1 -400 -100 200 R 50 50 1 1 I
+X ~RE 2 -400 -200 200 R 50 50 1 1 I
+X DE 3 -400 -300 200 R 50 50 1 1 I
+X DI 4 -400 -400 200 R 50 50 1 1 I
+X GND 5 -100 -700 200 U 50 50 1 1 W
+X A 6 400 -300 200 L 50 50 1 1 B
+X B 7 400 -200 200 L 50 50 1 1 B
+X VCC 8 -100 200 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# SN65HVD230DR
+#
+DEF SN65HVD230DR U 0 40 Y Y 1 F N
+F0 "U" -100 50 60 H V C C N N
+F1 "SN65HVD230DR" 600 -700 60 H V C C N N
+F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf" 200 300 60 H I L C N N
+F4 "296-11654-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN65HVD230DR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN65HVD230DR/296-11654-1-ND/404366" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TXRX CAN 1MBPS 3.3V 8SOIC" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 0 300 -600 0 1 0 f
+X D 1 -400 -100 200 R 50 50 1 1 I
+X GND 2 100 -800 200 U 50 50 1 1 W
+X VCC 3 100 200 200 D 50 50 1 1 W
+X R 4 500 -200 200 L 50 50 1 1 O
+X VREF 5 500 -300 200 L 50 50 1 1 O
+X CANL 6 -400 -200 200 R 50 50 1 1 B
+X CANH 7 -400 -300 200 R 50 50 1 1 B
+X RS 8 -400 -400 200 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# SN75176BDR
+#
+DEF SN75176BDR U 0 0 Y Y 1 F N
+F0 "U" -150 -50 60 H V C C N N
+F1 "SN75176BDR" 500 -700 60 H V C C N N
+F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/sn65176b.pdf" 200 300 60 H I L C N N
+F4 "296-1275-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SN75176BDR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/sn65176b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/SN75176BDR/296-1275-1-ND/404925" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TXRX DIFF BUSS 8SOIC" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C -50 -460 10 0 1 0 N
+C 10 -525 10 0 1 0 N
+C 10 -325 10 0 1 0 N
+C 50 -525 10 0 1 0 F
+C 75 -300 10 0 1 0 F
+S -200 -100 200 -600 0 1 0 f
+P 2 0 1 0 -200 -300 -100 -300 N
+P 2 0 1 0 -100 -500 -200 -500 N
+P 2 0 1 0 -50 -250 -50 -275 N
+P 2 0 1 0 0 -250 0 -350 N
+P 2 0 1 0 50 -500 50 -525 N
+P 2 0 1 0 125 -490 125 -515 F
+P 2 0 1 0 125 -290 125 -315 F
+P 2 0 1 0 150 -500 125 -500 N
+P 2 0 1 0 150 -490 150 -515 F
+P 2 0 1 0 150 -290 150 -315 F
+P 2 0 1 0 200 -500 175 -500 N
+P 3 0 1 0 -200 -400 -50 -400 -50 -450 N
+P 3 0 1 0 -50 -250 -50 -200 -200 -200 N
+P 3 0 1 0 0 -275 75 -275 75 -300 N
+P 3 0 1 0 50 -500 50 -325 25 -325 N
+P 3 0 1 0 125 -490 100 -500 125 -515 F
+P 3 0 1 0 125 -290 100 -300 125 -315 F
+P 3 0 1 0 150 -490 175 -500 150 -515 F
+P 3 0 1 0 150 -290 175 -300 150 -315 F
+P 4 0 1 0 -100 -250 -100 -350 0 -300 -100 -250 N
+P 4 0 1 0 0 -450 0 -550 -100 -500 0 -450 N
+P 4 0 1 0 100 -500 75 -500 75 -525 25 -525 N
+P 4 0 1 0 200 -300 75 -300 75 -475 0 -475 N
+X R 1 -400 -500 200 R 50 50 1 1 O
+X ~RE 2 -400 -400 200 R 50 50 1 1 I
+X DE 3 -400 -200 200 R 50 50 1 1 I
+X D 4 -400 -300 200 R 50 50 1 1 I
+X GND 5 0 -800 200 U 50 50 1 1 W
+X A 6 400 -300 200 L 50 50 1 1 B
+X B 7 400 -500 200 L 50 50 1 1 B
+X VCC 8 0 100 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 # MAX232N
 #
 DEF MAX232N U 0 40 Y Y 1 F N
@@ -35,43 +173,6 @@ X R1IN 13 -600 -300 200 R 50 50 1 1 I
 X T1OUT 14 600 -200 200 L 50 50 1 1 O
 X GND 15 -100 -900 200 U 50 50 1 1 W
 X VCC 16 -100 500 200 D 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
-# MAX3232CPE_
-#
-DEF MAX3232CPE_ U 0 40 Y Y 1 F N
-F0 "U" -200 250 60 H V C C N N
-F1 "MAX3232CPE_" 0 -300 60 V V C C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" 200 300 60 H I L C N N
-F4 "MAX3232CPE+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "MAX3232CPE+" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/maxim-integrated/MAX3232CPE-/MAX3232CPE--ND/1513011" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TXRX RS-232 LP 16-DIP" 200 1000 60 H I L CNN "Description"
-F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -300 200 400 -800 0 1 0 f
-X C1+ 1 -500 -400 200 R 50 50 1 1 U
-X V+ 2 100 400 200 D 50 50 1 1 W
-X C1- 3 -500 -500 200 R 50 50 1 1 U
-X C2+ 4 -500 -600 200 R 50 50 1 1 U
-X C2- 5 -500 -700 200 R 50 50 1 1 U
-X V- 6 100 -1000 200 U 50 50 1 1 W
-X T1OUT 7 600 -100 200 L 50 50 1 1 O
-X R1IN 8 -500 0 200 R 50 50 1 1 I
-X R1OUT 9 600 -300 200 L 50 50 1 1 O
-X T1IN 10 -500 -200 200 R 50 50 1 1 I
-X T2IN 11 -500 -300 200 R 50 50 1 1 I
-X R2OUT 12 600 -400 200 L 50 50 1 1 O
-X R2IN 13 -500 -100 200 R 50 50 1 1 I
-X T2OUT 14 600 -200 200 L 50 50 1 1 O
-X GND 15 200 -1000 200 U 50 50 1 1 W
-X VCC 16 200 400 200 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
@@ -198,6 +299,43 @@ X AGND 89 600 -500 200 L 50 50 2 1 I
 ENDDRAW
 ENDDEF
 #
+# MAX3232CPE_
+#
+DEF MAX3232CPE_ U 0 40 Y Y 1 F N
+F0 "U" -200 250 60 H V C C N N
+F1 "MAX3232CPE_" 0 -300 60 V V C C N N
+F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
+F3 "http://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" 200 300 60 H I L C N N
+F4 "MAX3232CPE+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MAX3232CPE+" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
+F8 "http://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/MAX3232CPE-/MAX3232CPE--ND/1513011" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC TXRX RS-232 LP 16-DIP" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 400 -800 0 1 0 f
+X C1+ 1 -500 -400 200 R 50 50 1 1 U
+X V+ 2 100 400 200 D 50 50 1 1 W
+X C1- 3 -500 -500 200 R 50 50 1 1 U
+X C2+ 4 -500 -600 200 R 50 50 1 1 U
+X C2- 5 -500 -700 200 R 50 50 1 1 U
+X V- 6 100 -1000 200 U 50 50 1 1 W
+X T1OUT 7 600 -100 200 L 50 50 1 1 O
+X R1IN 8 -500 0 200 R 50 50 1 1 I
+X R1OUT 9 600 -300 200 L 50 50 1 1 O
+X T1IN 10 -500 -200 200 R 50 50 1 1 I
+X T2IN 11 -500 -300 200 R 50 50 1 1 I
+X R2OUT 12 600 -400 200 L 50 50 1 1 O
+X R2IN 13 -500 -100 200 R 50 50 1 1 I
+X T2OUT 14 600 -200 200 L 50 50 1 1 O
+X GND 15 200 -1000 200 U 50 50 1 1 W
+X VCC 16 200 400 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 # MCP2551-I_SN
 #
 DEF MCP2551-I_SN U 0 40 Y Y 1 F N
@@ -224,144 +362,6 @@ X VREF 5 500 0 200 L 50 50 1 1 O
 X CANL 6 -500 100 200 R 50 50 1 1 B
 X CANH 7 -500 0 200 R 50 50 1 1 B
 X RS 8 -500 -100 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# SN65HVD230DR
-#
-DEF SN65HVD230DR U 0 40 Y Y 1 F N
-F0 "U" -100 50 60 H V C C N N
-F1 "SN65HVD230DR" 600 -700 60 H V C C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf" 200 300 60 H I L C N N
-F4 "296-11654-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN65HVD230DR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN65HVD230DR/296-11654-1-ND/404366" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TXRX CAN 1MBPS 3.3V 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 0 300 -600 0 1 0 f
-X D 1 -400 -100 200 R 50 50 1 1 I
-X GND 2 100 -800 200 U 50 50 1 1 W
-X VCC 3 100 200 200 D 50 50 1 1 W
-X R 4 500 -200 200 L 50 50 1 1 O
-X VREF 5 500 -300 200 L 50 50 1 1 O
-X CANL 6 -400 -200 200 R 50 50 1 1 B
-X CANH 7 -400 -300 200 R 50 50 1 1 B
-X RS 8 -400 -400 200 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
-#
-# SN75176BDR
-#
-DEF SN75176BDR U 0 0 Y Y 1 F N
-F0 "U" -150 -50 60 H V C C N N
-F1 "SN75176BDR" 500 -700 60 H V C C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn65176b.pdf" 200 300 60 H I L C N N
-F4 "296-1275-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SN75176BDR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn65176b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN75176BDR/296-1275-1-ND/404925" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TXRX DIFF BUSS 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-C -50 -460 10 0 1 0 N
-C 10 -525 10 0 1 0 N
-C 10 -325 10 0 1 0 N
-C 50 -525 10 0 1 0 F
-C 75 -300 10 0 1 0 F
-S -200 -100 200 -600 0 1 0 f
-P 2 0 1 0 -200 -300 -100 -300 N
-P 2 0 1 0 -100 -500 -200 -500 N
-P 2 0 1 0 -50 -250 -50 -275 N
-P 2 0 1 0 0 -250 0 -350 N
-P 2 0 1 0 50 -500 50 -525 N
-P 2 0 1 0 125 -490 125 -515 F
-P 2 0 1 0 125 -290 125 -315 F
-P 2 0 1 0 150 -500 125 -500 N
-P 2 0 1 0 150 -490 150 -515 F
-P 2 0 1 0 150 -290 150 -315 F
-P 2 0 1 0 200 -500 175 -500 N
-P 3 0 1 0 -200 -400 -50 -400 -50 -450 N
-P 3 0 1 0 -50 -250 -50 -200 -200 -200 N
-P 3 0 1 0 0 -275 75 -275 75 -300 N
-P 3 0 1 0 50 -500 50 -325 25 -325 N
-P 3 0 1 0 125 -490 100 -500 125 -515 F
-P 3 0 1 0 125 -290 100 -300 125 -315 F
-P 3 0 1 0 150 -490 175 -500 150 -515 F
-P 3 0 1 0 150 -290 175 -300 150 -315 F
-P 4 0 1 0 -100 -250 -100 -350 0 -300 -100 -250 N
-P 4 0 1 0 0 -450 0 -550 -100 -500 0 -450 N
-P 4 0 1 0 100 -500 75 -500 75 -525 25 -525 N
-P 4 0 1 0 200 -300 75 -300 75 -475 0 -475 N
-X R 1 -400 -500 200 R 50 50 1 1 O
-X ~RE 2 -400 -400 200 R 50 50 1 1 I
-X DE 3 -400 -200 200 R 50 50 1 1 I
-X D 4 -400 -300 200 R 50 50 1 1 I
-X GND 5 0 -800 200 U 50 50 1 1 W
-X A 6 400 -300 200 L 50 50 1 1 B
-X B 7 400 -500 200 L 50 50 1 1 B
-X VCC 8 0 100 200 D 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
-# SP3485EN-L_TR
-#
-DEF SP3485EN-L_TR U 0 0 Y Y 1 F N
-F0 "U" -250 50 60 H V C C N N
-F1 "SP3485EN-L_TR" 500 -600 60 H V C C N N
-F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "https://www.exar.com/content/document.ashx?id=639" 200 300 60 H I L C N N
-F4 "1016-1817-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "SP3485EN-L/TR" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "https://www.exar.com/content/document.ashx?id=639" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/exar-corporation/SP3485EN-L-TR/1016-1817-1-ND/3586534" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC TXRX RS485 HALF DUPLEX 8SOIC" 200 1000 60 H I L CNN "Description"
-F11 "Exar Corporation" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-C -50 -140 10 0 1 0 N
-C 10 -125 10 0 1 0 N
-C 25 -325 10 0 1 0 N
-C 100 -200 10 0 1 0 F
-C 150 -300 10 0 1 0 F
-S -200 0 200 -500 0 1 0 f
-P 2 0 1 0 -200 -400 -150 -400 N
-P 2 0 1 0 -100 -100 -200 -100 N
-P 2 0 1 0 -25 -300 -25 -310 N
-P 2 0 1 0 0 -400 0 -375 N
-P 2 0 1 0 50 -125 20 -125 N
-P 2 0 1 0 200 -300 150 -300 N
-P 2 0 1 0 200 -200 100 -200 N
-P 3 0 1 0 -200 -200 -50 -200 -50 -150 N
-P 3 0 1 0 -50 -250 -25 -250 -25 -300 N
-P 3 0 1 0 0 -400 150 -400 150 -100 N
-P 3 0 1 0 50 -300 25 -300 25 -315 N
-P 3 0 1 0 50 -300 100 -300 100 -150 N
-P 3 0 1 0 100 -150 100 -125 50 -125 N
-P 3 0 1 0 150 -100 150 -75 0 -75 N
-P 4 0 1 0 -200 -300 -100 -300 -100 -250 -50 -250 N
-P 4 0 1 0 -50 -375 -100 -375 -100 -400 -150 -400 N
-P 4 0 1 0 -50 -300 -50 -400 50 -350 -50 -300 N
-P 4 0 1 0 0 -50 0 -150 -100 -100 0 -50 N
-X RO 1 -400 -100 200 R 50 50 1 1 I
-X ~RE 2 -400 -200 200 R 50 50 1 1 I
-X DE 3 -400 -300 200 R 50 50 1 1 I
-X DI 4 -400 -400 200 R 50 50 1 1 I
-X GND 5 -100 -700 200 U 50 50 1 1 W
-X A 6 400 -300 200 L 50 50 1 1 B
-X B 7 400 -200 200 L 50 50 1 1 B
-X VCC 8 -100 200 200 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #

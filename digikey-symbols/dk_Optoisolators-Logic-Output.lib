@@ -1,6 +1,35 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# 6N137
+#
+DEF 6N137 U 0 40 Y Y 1 F N
+F0 "U" -250 350 60 H V C C N N
+F1 "6N137" 300 -300 60 H V C C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 200 300 60 H I L C N N
+F4 "160-1791-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "6N137" 200 500 60 H I L CNN "MPN"
+F6 "Isolators" 200 600 60 H I L CNN "Category"
+F7 "Optoisolators - Logic Output" 200 700 60 H I L CNN "Family"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/lite-on-inc/6N137/160-1791-ND/1969175" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "OPTOISO 5KV 1CH OPEN COLL 8DIP" 200 1000 60 H I L CNN "Description"
+F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 200 -200 0 1 0 f
+X NC 1 400 0 200 L 50 50 1 1 N
+X A 2 -400 200 200 R 50 50 1 1 I
+X C 3 400 200 200 L 50 50 1 1 O
+X NC 4 400 -100 200 L 50 50 1 1 N
+X GND 5 -100 -400 200 U 50 50 1 1 W
+X VO 6 400 100 200 L 50 50 1 1 O
+X VE 7 -400 100 200 R 50 50 1 1 I
+X VCC 8 0 500 200 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 # H11L1M
 #
 DEF H11L1M U 0 0 Y Y 1 F N
@@ -39,35 +68,6 @@ X NC 3 400 -100 200 L 50 50 1 1 N
 X VO 4 400 100 200 L 50 50 1 1 O
 X GND 5 0 -400 200 U 50 50 1 1 W
 X VCC 6 0 500 200 D 50 50 1 1 W
-ENDDRAW
-ENDDEF
-#
-# 6N137
-#
-DEF 6N137 U 0 40 Y Y 1 F N
-F0 "U" -250 350 60 H V C C N N
-F1 "6N137" 300 -300 60 H V C C N N
-F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 200 300 60 H I L C N N
-F4 "160-1791-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "6N137" 200 500 60 H I L CNN "MPN"
-F6 "Isolators" 200 600 60 H I L CNN "Category"
-F7 "Optoisolators - Logic Output" 200 700 60 H I L CNN "Family"
-F8 "http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/lite-on-inc/6N137/160-1791-ND/1969175" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OPTOISO 5KV 1CH OPEN COLL 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Lite-On Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -200 300 200 -200 0 1 0 f
-X NC 1 400 0 200 L 50 50 1 1 N
-X A 2 -400 200 200 R 50 50 1 1 I
-X C 3 400 200 200 L 50 50 1 1 O
-X NC 4 400 -100 200 L 50 50 1 1 N
-X GND 5 -100 -400 200 U 50 50 1 1 W
-X VO 6 400 100 200 L 50 50 1 1 O
-X VE 7 -400 100 200 R 50 50 1 1 I
-X VCC 8 0 500 200 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #

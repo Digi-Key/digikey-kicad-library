@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP CMA-4544PF-W
 D MIC COND ANALOG OMNI -44DB
 K 102-1721-ND 
-F http://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf
+F https://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf
 $ENDCMP
 #
 $CMP SPH0645LM4H-B

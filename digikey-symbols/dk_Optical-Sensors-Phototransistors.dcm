@@ -6,16 +6,16 @@ K 1080-1244-1-ND
 F http://www.everlight.com/file/ProductFile/201407061531031645.pdf
 $ENDCMP
 #
-$CMP LTR-301
-D PHOTOTRAN NPN IR CLEAR SIDE LOOK
-K 160-1065-ND 
-F http://optoelectronics.liteon.com/upload/download/DS-50-93-0013/LTR-301.pdf
-$ENDCMP
-#
 $CMP LTR-4206E
 D PHOTOTRAN NPN 3MM IR DARK
 K 160-1030-ND 
 F http://optoelectronics.liteon.com/upload/download/DS-50-92-0073/R4206E.pdf
+$ENDCMP
+#
+$CMP LTR-301
+D PHOTOTRAN NPN IR CLEAR SIDE LOOK
+K 160-1065-ND 
+F http://optoelectronics.liteon.com/upload/download/DS-50-93-0013/LTR-301.pdf
 $ENDCMP
 #
 $CMP TEMT6000X01

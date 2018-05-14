@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 28086-ND D 0 40 Y Y 1 F N
 F0 "D" -250 200 60 H V L CNN
 F1 "28086-ND" 150 -350 60 H V L BNN
-F2 "digikey-footprints:WS2812B_LED_MODULE" 350 300 60 H I L CNN
+F2 "digikey-footprints:LED_Breakout_Parallax_WS2812B" 350 300 60 H I L CNN
 F3 "" 350 300 60 H I L CNN
 DRAW
 S -250 150 350 -250 0 1 0 f
