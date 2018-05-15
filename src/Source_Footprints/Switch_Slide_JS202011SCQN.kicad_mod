@@ -1,4 +1,4 @@
-(module Switch_Slide_JS202011SCQN (layer F.Cu) (tedit 5A1ECC1E)
+(module Switch_Slide_JS202011SCQN (layer F.Cu) (tedit 5AFB2660)
   (fp_text reference REF** (at 0 -5.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
