@@ -19,7 +19,7 @@ This is an early release to help refine what this library to going be and solici
 
 The usable libraries are located in the `digikey-footprints.pretty/` and `digikey-symbol/` folders.  There is also a `src/` folder which is where all part changes and pull requests should be focused.
 
-The current organization of the library follows Digi-Key's [family taxonomy](http://www.eewiki.net/display/Resources/Become+a+Digi-Key+Master#BecomeaDigi-KeyMaster-Digi-KeyTerminology), but this is subject to change based on feedback.  The intention is not to offer a complete library that includes all of Digi-Key's parts, but to offer a useful subset which will grow over time.  At this time capacitors and resistors have been excluded, but we are looking at a sane way to make this happen.
+The current organization of the library follows Digi-Key's [family taxonomy](http://www.eewiki.net/display/Resources/Become+a+Digi-Key+Master#BecomeaDigi-KeyMaster-Digi-KeyTerminology), but this is subject to change based on feedback.  The intention is not to offer a complete library that includes all of Digi-Key's parts, but to offer a useful subset which will grow over time.  At this time capacitors and resistors have been excluded, but we are looking at a sane way to make this happen. 
 
 Library metadata will be updated regularly and symbols for parts which may not be readily available will have its corresponding status appended to each symbol name.
 
