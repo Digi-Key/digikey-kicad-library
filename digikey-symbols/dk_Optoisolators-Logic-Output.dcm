@@ -9,7 +9,7 @@ $ENDCMP
 $CMP H11L1M
 D OPTOISO 4.17KV OPN COLL 6DIP
 K H11L1-MQT-ND 
-F https://www.fairchildsemi.com/datasheets/H1/H11L1M.pdf
+F http://www.onsemi.com/pub/Collateral/H11L3M-D.pdf
 $ENDCMP
 #
 $CMP TLP2361_TPL_E

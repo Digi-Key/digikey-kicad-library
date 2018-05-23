@@ -3,10 +3,10 @@ EESchema-LIBRARY Version 2.3
 #
 # 2N5060
 #
-DEF 2N5060 U 0 0 Y Y 1 F N
-F0 "D" -250 250 60 H V C C N N
-F1 "2N5060" 0 -250 60 H V C C N N
-F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
+DEF 2N5060 D 0 0 Y N 1 F N
+F0 "D" -100 75 50 H V C C N N
+F1 "2N5060" 50 -100 50 H V L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 50 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5060_SERIES.PDF" 200 300 60 H I L C N N
 F4 "2N5060-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5060" 200 500 60 H I L CNN "MPN"
@@ -18,22 +18,25 @@ F10 "SCR 0.8A 30V TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-P 2 0 1 0 0 50 0 -50 N
-P 2 0 1 0 100 100 0 0 N
-P 4 0 1 0 -100 50 -100 -50 0 0 -100 50 F
-X C 1 200 0 200 L 50 50 1 1 O
-X G 2 100 300 200 D 50 50 1 1 I
-X A 3 -300 0 200 R 50 50 1 1 I
+P 2 0 1 0 -50 -40 50 -40 N
+P 2 0 1 0 0 -125 0 -150 N
+P 2 0 1 0 0 -125 0 -25 N
+P 2 0 1 0 0 25 0 100 N
+P 3 0 1 0 -10 -40 -50 -100 -100 -100 N
+P 4 0 1 0 0 -40 -50 40 50 40 0 -40 F
+X C 1 0 -200 100 U 50 50 1 1 P
+X A 2 0 200 100 D 50 50 1 1 P
+X G 3 -200 -100 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
 # MCR218-4G
 #
-DEF MCR218-4G U 0 0 Y Y 1 F N
-F0 "D" -275 225 60 H V C C N N
-F1 "MCR218-4G" -75 -200 60 H V C C N N
-F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.littelfuse.com/~/media/electronics/datasheets/switching_thyristors/littelfuse_thyristor_mcr218_d_datasheet.pdf.pdf" 200 300 60 H I L C N N
+DEF MCR218-4G D 0 0 Y N 1 F N
+F0 "D" -125 80 50 H V C C N N
+F1 "MCR218-4G" 50 -100 50 H V L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 50 H I L C N N
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/switching_thyristors/littelfuse_thyristor_mcr218_d_datasheet.pdf.pdf" 200 300 60 V I L C N N
 F4 "MCR218-4GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCR218-4G" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
@@ -44,19 +47,15 @@ F10 "THYRISTOR SCR 8A 200V TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "Littelfuse Inc." 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-S -300 175 100 -150 0 1 0 f
-P 2 0 1 0 -300 200 -300 200 N
-P 2 0 1 0 -175 0 -300 0 N
-P 2 0 1 0 -125 25 -125 -25 N
-P 2 0 1 0 -125 50 -125 -50 N
-P 2 0 1 0 -25 0 -125 0 N
-P 2 0 1 0 -25 0 0 0 N
-P 2 0 1 0 100 0 0 0 N
-P 3 0 1 0 -125 0 -100 25 -100 225 N
-P 4 0 1 0 -125 0 -175 50 -175 -50 -125 0 F
-X C 1 300 0 200 L 50 50 1 1 O
-X A 2 -500 0 200 R 50 50 1 1 O
-X G 3 -100 400 200 D 50 50 1 1 O
+P 2 0 1 0 -50 -40 50 -40 N
+P 2 0 1 0 0 -125 0 -150 N
+P 2 0 1 0 0 -125 0 -25 N
+P 2 0 1 0 0 25 0 100 N
+P 3 0 1 0 -10 -40 -50 -100 -100 -100 N
+P 4 0 1 0 0 -40 -50 40 50 40 0 -40 F
+X C 1 0 -200 100 U 50 50 1 1 P
+X A 2 0 200 100 D 50 50 1 1 P
+X G 3 -200 -100 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #

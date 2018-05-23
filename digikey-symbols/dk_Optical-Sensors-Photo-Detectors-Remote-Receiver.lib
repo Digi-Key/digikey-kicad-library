@@ -4,8 +4,8 @@ EESchema-LIBRARY Version 2.3
 # TSOP38238
 #
 DEF TSOP38238 U 0 40 Y Y 1 F N
-F0 "U" 100 150 60 H V C C N N
-F1 "TSOP38238" 0 500 60 H V C C N N
+F0 "U" -95 140 60 H V L C N N
+F1 "TSOP38238" 30 -350 60 H V L C N N
 F2 "digikey-footprints:IR_Receiver_TSOP38238" 200 200 60 H I L C N N
 F3 "http://www.vishay.com/docs/82491/tsop382.pdf" 200 300 60 H I L C N N
 F4 "751-1227-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -19,9 +19,9 @@ F11 "Vishay Semiconductor Opto Division" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -100 100 200 -300 0 1 0 f
-X OUT 1 400 -100 200 L 50 50 1 1 O
-X GND 2 0 -500 200 U 50 50 1 1 W
-X VS 3 0 300 200 D 50 50 1 1 W
+X OUT 1 300 -100 100 L 50 50 1 1 O
+X GND 2 0 -400 100 U 50 50 1 1 W
+X VS 3 0 200 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #

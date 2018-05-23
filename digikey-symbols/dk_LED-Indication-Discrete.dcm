@@ -168,6 +168,12 @@ K 475-2709-1-ND SMARTLED® 0603
 F https://dammedia.osram.info/media/resource/hires/osram-dam-2493945/LG%20L29K.pdf
 $ENDCMP
 #
+$CMP ASMB-TTB0-0A3A2
+D LED RGB DIFFUSED 6SMD
+K 516-3281-1-ND 
+F https://docs.broadcom.com/docs/AV02-4415EN
+$ENDCMP
+#
 $CMP SSL-LX5093PC
 D LED PINK CLEAR 5MM ROUND T/H
 K 67-2062-ND 

@@ -15,19 +15,19 @@ $ENDCMP
 $CMP AS-MLV-P2
 D MOD MEMS GAS SENSOR VOC TO39
 K AS-MLV-P2CT-ND 
-F http://ams.com/eng/content/download/686543/1787717/348218
+F http://ams.com/documents/20143/36005/AS-MLV-P2_DS000359_1-00.pdf
 $ENDCMP
 #
 $CMP CCS811B-JOPD500
 D LOW POWER DIGITAL SENSOR FOR IND
 K CCS811B-JOPD500CT-ND 
-F http://ams.com/eng/content/download/951091/2269479/471718
+F http://ams.com/documents/20143/36005/CCS811_DS000459_5-00.pdf
 $ENDCMP
 #
 $CMP IAQ-CORE_P
 D MOD IAQ I2C PULSED MODE
 K IAQ-COREP-ND 
-F http://ams.com/eng/content/download/686523/1787697/348216
+F http://ams.com/documents/20143/36005/iAQ-core_DS000334_1-00.pdf
 $ENDCMP
 #
 #End Doc Library

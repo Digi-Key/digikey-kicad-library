@@ -7,12 +7,12 @@ DEF 1N5231BTR Z 0 0 N N 1 F N
 F0 "Z" 0 100 60 H V C B N N
 F1 "1N5231BTR" 0 -100 60 H V C C N N
 F2 "digikey-footprints:DO-35" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/1N/1N5231B.pdf" 200 300 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/1N5263B-D.PDF" 200 300 60 H I L C N N
 F4 "1N5231BFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N5231BTR" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Zener - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/1N/1N5231B.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.onsemi.com/pub/Collateral/1N5263B-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/1N5231BTR/1N5231BFSCT-ND/1532765" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE ZENER 5.1V 500MW DO35" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

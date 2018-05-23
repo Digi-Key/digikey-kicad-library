@@ -105,7 +105,7 @@ $ENDCMP
 $CMP RCLAMP0524PATCT
 D TVS DIODE 5V 15V SLP2510P8
 K RCLAMP0524PACT-ND RailClamp®
-F https://www.semtech.com/uploads/documents/rclamp0522pa_0524pa.pdf
+F https://www.semtech.com/uploads/documents/rclamp0522p_0524pa.pdf
 $ENDCMP
 #
 $CMP RCLAMP0524P_TCT_NRND

@@ -18,6 +18,12 @@ K 336-2622-1-ND
 F https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf
 $ENDCMP
 #
+$CMP SFH_5711-2_3-Z
+D LIGHT SENSOR AMBIENT SMD
+K 475-1259-1-ND 
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2496447/SFH%205711.pdf
+$ENDCMP
+#
 $CMP VL6180XV0NR_1
 D MOD TIME-OF-FLIGHT 3IN1 12LGA
 K 497-14702-1-ND FlightSense™

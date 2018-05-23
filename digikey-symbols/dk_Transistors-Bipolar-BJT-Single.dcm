@@ -462,7 +462,7 @@ K MMBT2222A-FDICT-ND Automotive, AEC-Q101
 F https://www.diodes.com/assets/Datasheets/ds30041.pdf
 $ENDCMP
 #
-$CMP MMBT2222A_LTB
+$CMP MMBT2222A_Discontinued
 D TRANS NPN 40V 1A SOT-23
 K MMBT2222AFSCT-ND 
 F https://www.fairchildsemi.com/datasheets/MM/MMBT2222A.pdf
@@ -522,7 +522,7 @@ K MMBT3904-FDICT-ND
 F https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/MMBT3904.pdf
 $ENDCMP
 #
-$CMP MMBT3904_LTB
+$CMP MMBT3904_Discontinued
 D TRANS NPN 40V 0.2A SOT-23
 K MMBT3904FSCT-ND 
 F https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf
@@ -564,7 +564,7 @@ K MMBT3906-TPCT-ND
 F http://www.mccsemi.com/up_pdf/MMBT3906(SOT-23).pdf
 $ENDCMP
 #
-$CMP MMBT3906_LTB
+$CMP MMBT3906_Discontinued
 D TRANS PNP 40V 0.2A SOT-23
 K MMBT3906FSCT-ND 
 F https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf
@@ -594,7 +594,7 @@ K MMBT4401LT1GOSCT-ND
 F http://www.onsemi.com/pub/Collateral/MMBT4401LT1-D.PDF
 $ENDCMP
 #
-$CMP MMBT4403_LTB
+$CMP MMBT4403_Discontinued
 D TRANS PNP 40V 0.6A SOT-23
 K MMBT4403FSCT-ND 
 F https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf

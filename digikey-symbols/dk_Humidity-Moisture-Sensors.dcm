@@ -6,6 +6,12 @@ K 1649-1003-1-ND SHT1
 F https://media.digikey.com/pdf/Data%20Sheets/Sensirion%20PDFs/SHT10_11_15.pdf
 $ENDCMP
 #
+$CMP HPP845E131R5
+D SENSOR HUMID/TEMP 3V I2C 3% SMD
+K 223-1595-1-ND HTU
+F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English
+$ENDCMP
+#
 $CMP HIH-4030-001
 D SENSOR HUMIDITY 5V ANLG 3.5% SMD
 K 480-3166-1-ND HIH-4030

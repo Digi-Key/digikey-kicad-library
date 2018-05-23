@@ -811,10 +811,10 @@ ENDDEF
 #
 # 3320
 #
-DEF 3320 WifiBLEModule 0 40 Y Y 1 F N
+DEF 3320 U 0 40 Y Y 1 F N
 F0 "MOD" 0 250 60 H V C C N N
 F1 "3320" 0 350 60 H V C C N N
-F2 "digikey-footprints:""" 200 200 60 H I L C N N
+F2 "digikey-footprints:None" 200 200 60 H I L C N N
 F3 "https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/3320_Web.pdf" 200 300 60 H I L C N N
 F4 "1528-1801-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "3320" 200 500 60 H I L CNN "MPN"
