@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 2N4403D26ZCT-ND Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C CNN
 F1 "2N4403D26ZCT-ND" 200 0 60 V V C CNN
-F2 "digikey-footprints:TO-3P-5" 300 300 60 H I L CNN
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 300 300 60 H I L CNN
 F3 "" 200 300 60 H I L CNN
 DRAW
 C 0 0 118 0 1 0 f
