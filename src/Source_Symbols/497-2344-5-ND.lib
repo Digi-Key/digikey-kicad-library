@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 497-2344-5-ND Q 0 0 Y Y 7 L N
 F0 "Q" -151 213 60 H V L CNN
 F1 "497-2344-5-ND" 47 -202 60 H V L CNN
-F2 "digikey-footprints:DIP-18_W7.62mm" 341 251 60 H I L CNN
+F2 "digikey-footprints:DIP-16_W7.62mm" 341 251 60 H I L CNN
 F3 "" 652 -399 60 H I L CNN
 DRAW
 C -12 101 10 0 1 0 N
