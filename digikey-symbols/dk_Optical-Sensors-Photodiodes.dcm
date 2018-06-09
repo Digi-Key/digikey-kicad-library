@@ -63,7 +63,7 @@ $ENDCMP
 $CMP PDB-C142
 D PHOTODIODE BLUE 5MM T1 3/4
 K PDB-C142-ND 
-F 
+F https://media.digikey.com/pdf/Data%20Sheets/Photonic%20Detetectors%20Inc%20PDFs/PDB-C142.pdf
 $ENDCMP
 #
 $CMP PDB-C156

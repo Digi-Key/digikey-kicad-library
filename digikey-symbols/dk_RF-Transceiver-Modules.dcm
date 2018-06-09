@@ -96,7 +96,7 @@ K 1528-1801-ND WE-KI HC
 F https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/3320_Web.pdf
 $ENDCMP
 #
-$CMP RFD22301_LTB
+$CMP RFD22301_Obsolete
 D RF TXRX MOD BLUETOOTH CHIP ANT
 K 1562-1016-ND 
 F http://www.rfdigital.com/wp-content/uploads/2014/03/RFD22301.Data_.Sheet_.11.24.13_11.38PM.pdf
@@ -246,7 +246,7 @@ K 740-1042-ND
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en558063
 $ENDCMP
 #
-$CMP ATWINC1500-MR210PB_NonStock
+$CMP ATWINC1500-MR210PB
 D RF TXRX MODULE WIFI TRACE ANT
 K ATWINC1500-MR210PB-ND 
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en594386

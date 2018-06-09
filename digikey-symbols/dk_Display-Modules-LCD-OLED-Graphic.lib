@@ -4,7 +4,7 @@ EESchema-LIBRARY Version 2.3
 # O128O032DLPP3N0000
 #
 DEF O128O032DLPP3N0000 U 0 40 Y Y 1 F N
-F0 "U?" -700 750 60 H V L C N N
+F0 "DS" -700 750 60 H V L C N N
 F1 "O128O032DLPP3N0000" 150 0 60 V V C C N N
 F2 "digikey-footprints:OLED_128x32_Folded" 200 200 60 H I L C N N
 F3 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128x032_Graphic_OLED_Series.pdf" 200 300 60 V I L C N N
@@ -43,7 +43,7 @@ ENDDEF
 # O128O032DSPP3N0000
 #
 DEF O128O032DSPP3N0000 U 0 40 Y Y 1 F N
-F0 "U?" -700 750 60 H V L C N N
+F0 "DS" -700 750 60 H V L C N N
 F1 "O128O032DSPP3N0000" 150 0 60 V V C C N N
 F2 "digikey-footprints:OLED_128x32_Folded" 200 200 60 H I L C N N
 F3 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128x032_Graphic_OLED_Series.pdf" 200 300 60 V I L C N N
@@ -82,7 +82,7 @@ ENDDEF
 # O128O032DWPP3N0000
 #
 DEF O128O032DWPP3N0000 U 0 40 Y Y 1 F N
-F0 "U?" -700 750 60 H V L C N N
+F0 "DS" -700 750 60 H V L C N N
 F1 "O128O032DWPP3N0000" 150 0 60 V V C C N N
 F2 "digikey-footprints:OLED_128x32_Folded" 200 200 60 H I L C N N
 F3 "https://media.digikey.com/pdf/Data%20Sheets/Vishay%20Dale%20PDFs/O128x032_Graphic_OLED_Series.pdf" 200 300 60 V I L C N N

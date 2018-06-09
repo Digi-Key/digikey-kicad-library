@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF BC807-40_215 Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "BC807-40_215" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://assets.nexperia.com/documents/data-sheet/BC807_BC807W_BC327.pdf" 200 300 60 H I L C N N
 F4 "1727-2917-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC807-40,215" 200 500 60 H I L CNN "MPN"
@@ -186,7 +186,7 @@ ENDDEF
 DEF PMBT3906_215 Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "PMBT3906_215" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://assets.nexperia.com/documents/data-sheet/PMBT3906.pdf" 200 300 60 H I L C N N
 F4 "1727-2960-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PMBT3906,215" 200 500 60 H I L CNN "MPN"
@@ -246,7 +246,7 @@ ENDDEF
 DEF 2N2219A Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N2219A" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-39-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2219-19A.PDF" 200 300 60 H I L C N N
 F4 "2N2219ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2219A" 200 500 60 H I L CNN "MPN"
@@ -276,7 +276,7 @@ ENDDEF
 DEF 2N2222A Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N2222A" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-18-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF" 200 300 60 H I L C N N
 F4 "2N2222ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2222A" 200 500 60 H I L CNN "MPN"
@@ -306,7 +306,7 @@ ENDDEF
 DEF 2N2222 Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N2222" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-18-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221.PDF" 200 300 60 H I L C N N
 F4 "2N2222CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2222" 200 500 60 H I L CNN "MPN"
@@ -336,7 +336,7 @@ ENDDEF
 DEF 2N2905A Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N2905A" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-39-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2904-5A.PDF" 200 300 60 H I L C N N
 F4 "2N2905ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2905A" 200 500 60 H I L CNN "MPN"
@@ -366,7 +366,7 @@ ENDDEF
 DEF 2N2907A Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N2907A" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-18-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2906.PDF" 200 300 60 H I L C N N
 F4 "2N2907ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2907A" 200 500 60 H I L CNN "MPN"
@@ -396,7 +396,7 @@ ENDDEF
 DEF 2N3055G Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3055G" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-204AA" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/2N3055-D.PDF" 200 300 60 H I L C N N
 F4 "2N3055GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3055G" 200 500 60 H I L CNN "MPN"
@@ -416,8 +416,8 @@ P 2 0 1 0 0 50 100 100 N
 P 2 0 1 0 0 100 0 -100 N
 P 4 0 1 0 60 -50 80 -90 40 -100 60 -50 F
 X B 1 -200 0 100 R 50 50 1 1 I
-X E 2 100 200 100 D 50 50 1 1 P
-X E C 100 -200 100 U 50 50 1 1 P
+X E 2 100 -200 100 U 50 50 1 1 P
+X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -426,7 +426,7 @@ ENDDEF
 DEF 2N3904-AP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904-AP" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/2N3904(TO-92).pdf" 200 300 60 H I L C N N
 F4 "2N3904-APCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904-AP" 200 500 60 H I L CNN "MPN"
@@ -456,7 +456,7 @@ ENDDEF
 DEF 2N3904 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 300 60 H I L C N N
 F4 "2N3904CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904" 200 500 60 H I L CNN "MPN"
@@ -486,7 +486,7 @@ ENDDEF
 DEF 2N3904TFR Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904TFR" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
 F4 "2N3904D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904TFR" 200 500 60 H I L CNN "MPN"
@@ -516,7 +516,7 @@ ENDDEF
 DEF 2N3904BU Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904BU" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
 F4 "2N3904FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904BU" 200 500 60 H I L CNN "MPN"
@@ -546,7 +546,7 @@ ENDDEF
 DEF 2N3904TA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904TA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
 F4 "2N3904TAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904TA" 200 500 60 H I L CNN "MPN"
@@ -576,7 +576,7 @@ ENDDEF
 DEF 2N3904TF Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904TF" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
 F4 "2N3904TFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904TF" 200 500 60 H I L CNN "MPN"
@@ -606,7 +606,7 @@ ENDDEF
 DEF 2N3906-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N3906-AP" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/2N3906(TO-92).pdf" 200 300 60 H I L C N N
 F4 "2N3906-APCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3906-AP" 200 500 60 H I L CNN "MPN"
@@ -636,7 +636,7 @@ ENDDEF
 DEF 2N3906 Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N3906" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 300 60 H I L C N N
 F4 "2N3906CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3906" 200 500 60 H I L CNN "MPN"
@@ -666,7 +666,7 @@ ENDDEF
 DEF 2N3906TFR Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N3906TFR" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 300 60 H I L C N N
 F4 "2N3906D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3906TFR" 200 500 60 H I L CNN "MPN"
@@ -726,7 +726,7 @@ ENDDEF
 DEF 2N3906TA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N3906TA" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 300 60 H I L C N N
 F4 "2N3906TAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3906TA" 200 500 60 H I L CNN "MPN"
@@ -786,7 +786,7 @@ ENDDEF
 DEF 2N4401BU Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N4401BU" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 300 60 H I L C N N
 F4 "2N4401-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4401BU" 200 500 60 H I L CNN "MPN"
@@ -816,7 +816,7 @@ ENDDEF
 DEF 2N4401TFR Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N4401TFR" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 300 60 H I L C N N
 F4 "2N4401D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4401TFR" 200 500 60 H I L CNN "MPN"
@@ -846,7 +846,7 @@ ENDDEF
 DEF 2N4403-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N4403-AP" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/2N4403(TO-92).pdf" 200 300 60 H I L C N N
 F4 "2N4403-APCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4403-AP" 200 500 60 H I L CNN "MPN"
@@ -876,7 +876,7 @@ ENDDEF
 DEF 2N4403BU Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N4403BU" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 300 60 H I L C N N
 F4 "2N4403-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4403BU" 200 500 60 H I L CNN "MPN"
@@ -906,7 +906,7 @@ ENDDEF
 DEF 2N4403TFR Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N4403TFR" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 300 60 H I L C N N
 F4 "2N4403D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4403TFR" 200 500 60 H I L CNN "MPN"
@@ -936,7 +936,7 @@ ENDDEF
 DEF 2N5087 Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N5087" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5086.PDF" 200 300 60 H I L C N N
 F4 "2N5087CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5087" 200 500 60 H I L CNN "MPN"
@@ -966,7 +966,7 @@ ENDDEF
 DEF 2N5088BU_LTB Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N5088BU_LTB" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N5088.pdf" 200 300 60 H I L C N N
 F4 "2N5088BU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5088BU" 200 500 60 H I L CNN "MPN"
@@ -996,7 +996,7 @@ ENDDEF
 DEF 2N5401_NonStock Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N5401_NonStock" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5400_5401.PDF" 200 300 60 H I L C N N
 F4 "2N5401CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5401" 200 500 60 H I L CNN "MPN"
@@ -1026,7 +1026,7 @@ ENDDEF
 DEF 2N5551TA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N5551TA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N5551.pdf" 200 300 60 H I L C N N
 F4 "2N5551TAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5551TA" 200 500 60 H I L CNN "MPN"
@@ -1086,7 +1086,7 @@ ENDDEF
 DEF 2SA1837_F_M__Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2SA1837_F_M__Obsolete" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SA1837.pdf" 200 300 60 H I L C N N
 F4 "2SA1837FM-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2SA1837(F,M)" 200 500 60 H I L CNN "MPN"
@@ -1176,7 +1176,7 @@ ENDDEF
 DEF 2SC3856 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2SC3856" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
 F3 "http://www.semicon.sanken-ele.co.jp/sk_content/2sc3856_ds_en.pdf" 200 300 60 H I L C N N
 F4 "2SC3856-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2SC3856" 200 500 60 H I L CNN "MPN"
@@ -1206,7 +1206,7 @@ ENDDEF
 DEF 2SC5200-O_Q__NonStock Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2SC5200-O_Q__NonStock" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
 F3 "http://toshiba.semicon-storage.com/info/docget.jsp?did=20668&prodName=2SC5200" 200 300 60 H I L C N N
 F4 "2SC5200-OQ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2SC5200-O(Q)" 200 500 60 H I L CNN "MPN"
@@ -1236,7 +1236,7 @@ ENDDEF
 DEF 2SD2390 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2SD2390" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
 F3 "http://www.semicon.sanken-ele.co.jp/sk_content/2sd2390_ds_en.pdf" 200 300 60 H I L C N N
 F4 "2SD2390-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2SD2390" 200 500 60 H I L CNN "MPN"
@@ -1266,7 +1266,7 @@ ENDDEF
 DEF TIP120 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "TIP120" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/f9/ed/f5/44/26/b9/43/a4/CD00000911.pdf/files/CD00000911.pdf/jcr:content/translations/en.CD00000911.pdf" 200 300 60 H I L C N N
 F4 "497-2539-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP120" 200 500 60 H I L CNN "MPN"
@@ -1293,10 +1293,10 @@ ENDDEF
 #
 # TIP142
 #
-DEF TIP142 Q 0 0 Y Y 1 F N
-F0 "Q" -126 166 60 H V L C N N
-F1 "TIP142" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+DEF TIP142 U 0 0 Y Y 1 F N
+F0 "Q" -100 200 60 H V C C N N
+F1 "TIP142" 550 -100 60 H V C C N N
+F2 "digikey-footprints:TO-247-3" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ec/61/1c/fd/4c/fe/48/b5/CD00000914.pdf/files/CD00000914.pdf/jcr:content/translations/en.CD00000914.pdf" 200 300 60 H I L C N N
 F4 "497-2541-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP142" 200 500 60 H I L CNN "MPN"
@@ -1308,16 +1308,16 @@ F10 "TRANS NPN DARL 100V 10A TO-247" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-C 0 0 128 0 1 0 f
+C 0 0 141 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
 P 2 0 1 0 -140 0 0 0 N
 P 2 0 1 0 0 -50 100 -100 N
 P 2 0 1 0 0 50 100 100 N
 P 2 0 1 0 0 100 0 -100 N
 P 4 0 1 0 60 -50 80 -90 40 -100 60 -50 F
-X B 1 -200 0 100 R 50 50 1 1 I
-X C 2 100 200 100 D 50 50 1 1 P
-X E 3 100 -200 100 U 50 50 1 1 P
+X E 1 100 -300 200 U 50 50 1 1 I
+X B 2 -350 0 200 R 50 50 1 1 I
+X C 3 100 300 200 D 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
@@ -1326,7 +1326,7 @@ ENDDEF
 DEF TIP102 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "TIP102" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/26/ce/01/f7/11/e9/46/92/CD00001234.pdf/files/CD00001234.pdf/jcr:content/translations/en.CD00001234.pdf" 200 300 60 H I L C N N
 F4 "497-2546-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP102" 200 500 60 H I L CNN "MPN"
@@ -1356,7 +1356,7 @@ ENDDEF
 DEF MJE3055T Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MJE3055T" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/b1/e0/c6/77/e6/54/4c/16/CD00000929.pdf/files/CD00000929.pdf/jcr:content/translations/en.CD00000929.pdf" 200 300 60 H I L C N N
 F4 "497-2573-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MJE3055T" 200 500 60 H I L CNN "MPN"
@@ -1386,7 +1386,7 @@ ENDDEF
 DEF D45H11 Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "D45H11" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/ca/ed/25/8e/25/67/40/cf/CD00000942.pdf/files/CD00000942.pdf/jcr:content/translations/en.CD00000942.pdf" 200 300 60 H I L C N N
 F4 "497-2578-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "D45H11" 200 500 60 H I L CNN "MPN"
@@ -1416,7 +1416,7 @@ ENDDEF
 DEF TIP36C Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "TIP36C" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-247-3" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/81/78/4f/8c/28/81/4d/c1/CD00001165.pdf/files/CD00001165.pdf/jcr:content/translations/en.CD00001165.pdf" 200 300 60 H I L C N N
 F4 "497-2604-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP36C" 200 500 60 H I L CNN "MPN"
@@ -1446,7 +1446,7 @@ ENDDEF
 DEF BC32725TA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "BC32725TA" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC327.pdf" 200 300 60 H I L C N N
 F4 "BC32725TACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC32725TA" 200 500 60 H I L CNN "MPN"
@@ -1476,7 +1476,7 @@ ENDDEF
 DEF BC33725TA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC33725TA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC337.pdf" 200 300 60 H I L C N N
 F4 "BC33725TACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC33725TA" 200 500 60 H I L CNN "MPN"
@@ -1506,7 +1506,7 @@ ENDDEF
 DEF BC33740TA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC33740TA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC337.pdf" 200 300 60 H I L C N N
 F4 "BC33740TACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC33740TA" 200 500 60 H I L CNN "MPN"
@@ -1536,7 +1536,7 @@ ENDDEF
 DEF BC546BTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC546BTA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:BC546BTACT-ND" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
 F4 "BC546BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC546BTA" 200 500 60 H I L CNN "MPN"
@@ -1566,7 +1566,7 @@ ENDDEF
 DEF BC547BTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC547BTA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
 F4 "BC547BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC547BTA" 200 500 60 H I L CNN "MPN"
@@ -1596,7 +1596,7 @@ ENDDEF
 DEF BC548BTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC548BTA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
 F4 "BC548BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC548BTA" 200 500 60 H I L CNN "MPN"
@@ -1626,7 +1626,7 @@ ENDDEF
 DEF BC548CTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC548CTA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
 F4 "BC548CTAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC548CTA" 200 500 60 H I L CNN "MPN"
@@ -1686,7 +1686,7 @@ ENDDEF
 DEF BC556BTA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "BC556BTA" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC556.pdf" 200 300 60 H I L C N N
 F4 "BC556BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC556BTA" 200 500 60 H I L CNN "MPN"
@@ -1716,7 +1716,7 @@ ENDDEF
 DEF BC557BTA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "BC557BTA" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC556.pdf" 200 300 60 H I L C N N
 F4 "BC557BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC557BTA" 200 500 60 H I L CNN "MPN"
@@ -1746,7 +1746,7 @@ ENDDEF
 DEF BC560CTA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "BC560CTA" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC556.pdf" 200 300 60 H I L C N N
 F4 "BC560CTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC560CTA" 200 500 60 H I L CNN "MPN"
@@ -1926,7 +1926,7 @@ ENDDEF
 DEF KSA1220AYS Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "KSA1220AYS" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-225AA" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/KS/KSA1220A.pdf" 200 300 60 H I L C N N
 F4 "KSA1220AYSFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KSA1220AYS" 200 500 60 H I L CNN "MPN"
@@ -1956,7 +1956,7 @@ ENDDEF
 DEF KSC1815YTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "KSC1815YTA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/KS/KSC1815.pdf" 200 300 60 H I L C N N
 F4 "KSC1815YTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KSC1815YTA" 200 500 60 H I L CNN "MPN"
@@ -1986,7 +1986,7 @@ ENDDEF
 DEF KSC1845FTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "KSC1845FTA" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/KS/KSC1845.pdf" 200 300 60 H I L C N N
 F4 "KSC1845FTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KSC1845FTA" 200 500 60 H I L CNN "MPN"
@@ -2016,7 +2016,7 @@ ENDDEF
 DEF KSP2222ABU Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "KSP2222ABU" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/KS/KSP2222A.pdf" 200 300 60 H I L C N N
 F4 "KSP2222ABUFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KSP2222ABU" 200 500 60 H I L CNN "MPN"
@@ -2046,7 +2046,7 @@ ENDDEF
 DEF MJ15003G Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MJ15003G" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-204AA" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MJ15003-D.PDF" 200 300 60 H I L C N N
 F4 "MJ15003GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MJ15003G" 200 500 60 H I L CNN "MPN"
@@ -2076,7 +2076,7 @@ ENDDEF
 DEF MJ15024G Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MJ15024G" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-204AA" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MJ15022-D.PDF" 200 300 60 H I L C N N
 F4 "MJ15024GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MJ15024G" 200 500 60 H I L CNN "MPN"
@@ -2106,7 +2106,7 @@ ENDDEF
 DEF MJ21193G Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MJ21193G" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-204AA" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MJ21193-D.PDF" 200 300 60 H I L C N N
 F4 "MJ21193GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MJ21193G" 200 500 60 H I L CNN "MPN"
@@ -2136,7 +2136,7 @@ ENDDEF
 DEF MJE15030G Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MJE15030G" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MJE15028-D.PDF" 200 300 60 H I L C N N
 F4 "MJE15030GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MJE15030G" 200 500 60 H I L CNN "MPN"
@@ -2166,7 +2166,7 @@ ENDDEF
 DEF MJE15031G Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MJE15031G" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MJE15028-D.PDF" 200 300 60 H I L C N N
 F4 "MJE15031GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MJE15031G" 200 500 60 H I L CNN "MPN"
@@ -2226,7 +2226,7 @@ ENDDEF
 DEF MJE15033G Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MJE15033G" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MJE15032-D.PDF" 200 300 60 H I L C N N
 F4 "MJE15033GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MJE15033G" 200 500 60 H I L CNN "MPN"
@@ -2256,7 +2256,7 @@ ENDDEF
 DEF MJE2955TTU Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MJE2955TTU" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MJ/MJE2955T.pdf" 200 300 60 H I L C N N
 F4 "MJE2955TTUFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MJE2955TTU" 200 500 60 H I L CNN "MPN"
@@ -2311,11 +2311,11 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT2222A_Discontinued
+# MMBT2222A_LTB
 #
-DEF MMBT2222A_Discontinued Q 0 0 Y Y 1 F N
+DEF MMBT2222A_LTB Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
-F1 "MMBT2222A_Discontinued" 206 0 60 V V C C N N
+F1 "MMBT2222A_LTB" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT2222A.pdf" 200 300 60 H I L C N N
 F4 "MMBT2222AFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -2326,7 +2326,7 @@ F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT2222A.pdf" 200 800 60 H I L 
 F9 "/product-detail/en/on-semiconductor/MMBT2222A/MMBT2222AFSCT-ND/458969" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 1A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Discontinued at Digi-Key NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 128 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -2466,7 +2466,7 @@ ENDDEF
 DEF MMBT2907A-7-F Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT2907A-7-F" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/MMBT2907A_Rev2016.pdf" 200 300 60 H I L C N N
 F4 "MMBT2907A-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT2907A-7-F" 200 500 60 H I L CNN "MPN"
@@ -2496,7 +2496,7 @@ ENDDEF
 DEF MMBT2907A-TP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT2907A-TP" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/MMBT2907A(SOT-23).pdf" 200 300 60 H I L C N N
 F4 "MMBT2907A-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT2907A-TP" 200 500 60 H I L CNN "MPN"
@@ -2526,7 +2526,7 @@ ENDDEF
 DEF MMBT2907A Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT2907A" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf" 200 300 60 H I L C N N
 F4 "MMBT2907AFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT2907A" 200 500 60 H I L CNN "MPN"
@@ -2556,7 +2556,7 @@ ENDDEF
 DEF MMBT2907ALT1G Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT2907ALT1G" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MMBT2907ALT1-D.PDF" 200 300 60 H I L C N N
 F4 "MMBT2907ALT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT2907ALT1G" 200 500 60 H I L CNN "MPN"
@@ -2611,11 +2611,11 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT3904_Discontinued
+# MMBT3904_LTB
 #
-DEF MMBT3904_Discontinued Q 0 0 Y Y 1 F N
+DEF MMBT3904_LTB Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
-F1 "MMBT3904_Discontinued" 206 0 60 V V C C N N
+F1 "MMBT3904_LTB" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
 F4 "MMBT3904FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -2626,7 +2626,7 @@ F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 800 60 H I L C
 F9 "/product-detail/en/on-semiconductor/MMBT3904/MMBT3904FSCT-ND/458971" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Discontinued at Digi-Key NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 128 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -2736,7 +2736,7 @@ ENDDEF
 DEF MMBT3904WT1G Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MMBT3904WT1G" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-323" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MMBT3904WT1-D.PDF" 200 300 60 H I L C N N
 F4 "MMBT3904WT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT3904WT1G" 200 500 60 H I L CNN "MPN"
@@ -2796,7 +2796,7 @@ ENDDEF
 DEF MMBT3906-TP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT3906-TP" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/MMBT3906(SOT-23).pdf" 200 300 60 H I L C N N
 F4 "MMBT3906-TPCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT3906-TP" 200 500 60 H I L CNN "MPN"
@@ -2821,12 +2821,12 @@ X E 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT3906_Discontinued
+# MMBT3906_LTB
 #
-DEF MMBT3906_Discontinued Q 0 0 Y Y 1 F N
+DEF MMBT3906_LTB Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
-F1 "MMBT3906_Discontinued" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F1 "MMBT3906_LTB" 200 0 60 V V C C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 300 60 H I L C N N
 F4 "MMBT3906FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT3906" 200 500 60 H I L CNN "MPN"
@@ -2836,7 +2836,7 @@ F8 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 800 60 H I L CNN
 F9 "/product-detail/en/on-semiconductor/MMBT3906/MMBT3906FSCT-ND/458972" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.2A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Discontinued at Digi-Key NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 118 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -2856,7 +2856,7 @@ ENDDEF
 DEF MMBT3906LT1G Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT3906LT1G" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MMBT3906LT1-D.PDF" 200 300 60 H I L C N N
 F4 "MMBT3906LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT3906LT1G" 200 500 60 H I L CNN "MPN"
@@ -2971,12 +2971,12 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT4403_Discontinued
+# MMBT4403_LTB
 #
-DEF MMBT4403_Discontinued Q 0 0 Y Y 1 F N
+DEF MMBT4403_LTB Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
-F1 "MMBT4403_Discontinued" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F1 "MMBT4403_LTB" 200 0 60 V V C C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 300 60 H I L C N N
 F4 "MMBT4403FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT4403" 200 500 60 H I L CNN "MPN"
@@ -2986,7 +2986,7 @@ F8 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 800 60 H I L CNN
 F9 "/product-detail/en/on-semiconductor/MMBT4403/MMBT4403FSCT-ND/458975" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.6A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Discontinued at Digi-Key NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 118 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -3006,7 +3006,7 @@ ENDDEF
 DEF MMBT4403LT1G Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT4403LT1G" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MMBT4403LT1-D.PDF" 200 300 60 H I L C N N
 F4 "MMBT4403LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT4403LT1G" 200 500 60 H I L CNN "MPN"
@@ -3033,9 +3033,9 @@ ENDDEF
 #
 # MMBT5551LT1G
 #
-DEF MMBT5551LT1G U 0 0 Y Y 1 F N
-F0 "Q" -200 200 60 H V C C N N
-F1 "MMBT5551LT1G" 700 -100 60 H V C C N N
+DEF MMBT5551LT1G Q 0 0 Y Y 1 F N
+F0 "Q" -126 166 60 H V L C N N
+F1 "MMBT5551LT1G" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/MMBT5550LT1-D.PDF" 200 300 60 H I L C N N
 F4 "MMBT5551LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -3048,16 +3048,16 @@ F10 "TRANS NPN 160V 0.6A SOT23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-C 0 0 141 0 1 0 f
+C 0 0 128 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
 P 2 0 1 0 -140 0 0 0 N
 P 2 0 1 0 0 -50 100 -100 N
 P 2 0 1 0 0 50 100 100 N
 P 2 0 1 0 0 100 0 -100 N
 P 4 0 1 0 60 -50 80 -90 40 -100 60 -50 F
-X E 1 100 -300 200 U 50 50 1 1 I
-X B 2 -350 0 200 R 50 50 1 1 I
-X C 3 100 300 200 D 50 50 1 1 I
+X B 1 -200 0 100 R 50 50 1 1 I
+X E 2 100 -200 100 U 50 50 1 1 P
+X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -3186,7 +3186,7 @@ ENDDEF
 DEF MPSA06-AP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MPSA06-AP" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/MPSA06(TO-92).pdf" 200 300 60 H I L C N N
 F4 "MPSA06-APMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA06-AP" 200 500 60 H I L CNN "MPN"
@@ -3216,7 +3216,7 @@ ENDDEF
 DEF MPSA06 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MPSA06" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MP/MPSA06.pdf" 200 300 60 H I L C N N
 F4 "MPSA06-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA06" 200 500 60 H I L CNN "MPN"
@@ -3246,7 +3246,7 @@ ENDDEF
 DEF MPSA42-AP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MPSA42-AP" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/MPSA42~MPSA43(TO-92).pdf" 200 300 60 H I L C N N
 F4 "MPSA42-APMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA42-AP" 200 500 60 H I L CNN "MPN"
@@ -3276,7 +3276,7 @@ ENDDEF
 DEF MPSA42 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MPSA42" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBTA42.pdf" 200 300 60 H I L C N N
 F4 "MPSA42FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA42" 200 500 60 H I L CNN "MPN"
@@ -3306,7 +3306,7 @@ ENDDEF
 DEF MPSA56-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MPSA56-AP" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/MPSA55-MPSA56(TO-92).pdf" 200 300 60 H I L C N N
 F4 "MPSA56-APMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA56-AP" 200 500 60 H I L CNN "MPN"
@@ -3336,7 +3336,7 @@ ENDDEF
 DEF MPSA92-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MPSA92-AP" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/MPSA92(TO-92).pdf" 200 300 60 H I L C N N
 F4 "MPSA92-APMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA92-AP" 200 500 60 H I L CNN "MPN"
@@ -3366,7 +3366,7 @@ ENDDEF
 DEF PN2222A Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "PN2222A" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=PN2221-2222A.PDF" 200 300 60 H I L C N N
 F4 "PN2222ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2222A" 200 500 60 H I L CNN "MPN"
@@ -3396,7 +3396,7 @@ ENDDEF
 DEF PN2222ATFR Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "PN2222ATFR" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" 200 300 60 H I L C N N
 F4 "PN2222AD26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2222ATFR" 200 500 60 H I L CNN "MPN"
@@ -3426,7 +3426,7 @@ ENDDEF
 DEF PN2222ABU Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "PN2222ABU" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" 200 300 60 H I L C N N
 F4 "PN2222AFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2222ABU" 200 500 60 H I L CNN "MPN"
@@ -3456,7 +3456,7 @@ ENDDEF
 DEF PN2222ATF Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "PN2222ATF" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" 200 300 60 H I L C N N
 F4 "PN2222ATFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2222ATF" 200 500 60 H I L CNN "MPN"
@@ -3486,7 +3486,7 @@ ENDDEF
 DEF PN2907A-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "PN2907A-AP" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/PN2907A(TO-92).pdf" 200 300 60 H I L C N N
 F4 "PN2907A-APCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2907A-AP" 200 500 60 H I L CNN "MPN"
@@ -3516,7 +3516,7 @@ ENDDEF
 DEF PN2907ABU Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "PN2907ABU" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf" 200 300 60 H I L C N N
 F4 "PN2907ABUFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2907ABU" 200 500 60 H I L CNN "MPN"
@@ -3544,9 +3544,9 @@ ENDDEF
 # PZT2222A_LTB
 #
 DEF PZT2222A_LTB Q 0 0 Y Y 1 F N
-F0 "Q" -350 250 60 H V C C N N
-F1 "PZT2222A_LTB" 600 -200 60 H V C C N N
-F2 "digikey-footprints:SOT-223-4" 200 200 60 H I L C N N
+F0 "Q" -126 166 60 H V L C N N
+F1 "PZT2222A_LTB" 206 0 60 V V C C N N
+F2 "digikey-footprints:Trans_SOT-223-4" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/PZ/PZT2222A.pdf" 200 300 60 H I L C N N
 F4 "PZT2222ACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PZT2222A" 200 500 60 H I L CNN "MPN"
@@ -3558,17 +3558,16 @@ F10 "TRANS NPN 40V 1A SOT-223" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
-C 0 0 141 0 1 0 f
+C 0 0 128 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
 P 2 0 1 0 -140 0 0 0 N
 P 2 0 1 0 0 -50 100 -100 N
 P 2 0 1 0 0 50 100 100 N
 P 2 0 1 0 0 100 0 -100 N
 P 4 0 1 0 60 -50 80 -90 40 -100 60 -50 F
-X E 1 100 -300 200 U 50 50 1 1 I
-X B 2 -350 0 200 R 50 50 1 1 I
-X C 3 100 300 200 D 50 50 1 1 I
-X ~ 4 -100 -300 200 U 50 50 1 1 I
+X B 1 -200 0 100 R 50 50 1 1 I
+X C 2 100 200 100 D 50 50 1 1 P
+X E 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -3577,7 +3576,7 @@ ENDDEF
 DEF TIP120488_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "TIP120488_Obsolete" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/TI/TIP122.pdf" 200 300 60 H I L C N N
 F4 "TIP120-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP120" 200 500 60 H I L CNN "MPN"
@@ -3607,7 +3606,7 @@ ENDDEF
 DEF TIP120G Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "TIP120G" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 300 60 H I L C N N
 F4 "TIP120GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP120G" 200 500 60 H I L CNN "MPN"
@@ -3637,7 +3636,7 @@ ENDDEF
 DEF TIP122G Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "TIP122G" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 300 60 H I L C N N
 F4 "TIP122GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP122G" 200 500 60 H I L CNN "MPN"
@@ -3667,7 +3666,7 @@ ENDDEF
 DEF TIP30C_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "TIP30C_Obsolete" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/TI/TIP30C.pdf" 200 300 60 H I L C N N
 F4 "TIP30C-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP30C" 200 500 60 H I L CNN "MPN"
@@ -3697,7 +3696,7 @@ ENDDEF
 DEF TIP41C_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "TIP41C_Obsolete" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/TI/TIP41B.pdf" 200 300 60 H I L C N N
 F4 "TIP41C-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP41C" 200 500 60 H I L CNN "MPN"
@@ -3727,7 +3726,7 @@ ENDDEF
 DEF TIP42C_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "TIP42C_Obsolete" 200 0 60 V V C C N N
-F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/TI/TIP42.pdf" 200 300 60 H I L C N N
 F4 "TIP42C-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP42C" 200 500 60 H I L CNN "MPN"
@@ -3757,7 +3756,7 @@ ENDDEF
 DEF ZTX450 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "ZTX450" 206 0 60 V V C C N N
-F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.diodes.com/assets/Datasheets/ZTX450.pdf" 200 300 60 H I L C N N
 F4 "ZTX450-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ZTX450" 200 500 60 H I L CNN "MPN"

@@ -96,7 +96,7 @@ K ADXL377BCPZ-RL7CT-ND
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf
 $ENDCMP
 #
-$CMP MMA7660FCR1_LTB
+$CMP MMA7660FCR1_Obsolete
 D ACCELEROMETER 1.5G I2C 10DFN
 K MMA7660FCR1CT-ND 
 F http://cache.freescale.com/files/sensors/doc/data_sheet/MMA7660FC.pdf

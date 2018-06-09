@@ -1,4 +1,4 @@
-(module Cellular_Breakout_2542 (layer F.Cu) (tedit 59E8DA6D)
+(module Cellular_Breakout_2542 (layer F.Cu) (tedit 5B17EB4F)
   (fp_text reference REF** (at 19.7 -41.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
