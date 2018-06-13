@@ -90,12 +90,6 @@ K 1528-1438-ND
 F https://www.adafruit.com/images/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf
 $ENDCMP
 #
-$CMP 3320
-D TXRX MOD BLE WIFI ESP-WROOM-32
-K 1528-1801-ND WE-KI HC
-F https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/3320_Web.pdf
-$ENDCMP
-#
 $CMP RFD22301_Obsolete
 D RF TXRX MOD BLUETOOTH CHIP ANT
 K 1562-1016-ND 

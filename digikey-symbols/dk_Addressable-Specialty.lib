@@ -3,10 +3,10 @@ EESchema-LIBRARY Version 2.3
 #
 # COM-12999
 #
-DEF COM-12999 U 0 40 Y Y 1 F N
+DEF COM-12999 D 0 40 Y Y 1 F N
 F0 "D" -300 300 60 H V C C N N
 F1 "COM-12999" 300 -300 60 H V C C N N
-F2 "digikey-footprints:None" 200 200 60 H I L C N N
+F2 "digikey-footprints:LED_RGB_WP154A4SUREQBFZGC" 200 200 60 H I L C N N
 F3 "https://cdn.sparkfun.com/datasheets/Components/LED/COM-12877.pdf" 200 300 60 H I L C N N
 F4 "1568-1214-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "COM-12999" 200 500 60 H I L CNN "MPN"

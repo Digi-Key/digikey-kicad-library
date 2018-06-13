@@ -6,12 +6,6 @@ K 1528-1428-ND FONA 800
 F https://learn.adafruit.com/downloads/pdf/adafruit-fona-808-cellular-plus-gps-breakout.pdf
 $ENDCMP
 #
-$CMP 114990286_NonStock
-D PARTICLE PHOTON
-K 1597-1150-ND WICED
-F https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/
-$ENDCMP
-#
 $CMP PHOTONH
 D PHOTON WITH HEADERS
 K 1878-1000-ND WICED

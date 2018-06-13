@@ -38,51 +38,6 @@ X SPK- 16 400 -200 100 L 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# 114990286_NonStock
-#
-DEF 114990286_NonStock A 0 20 Y Y 1 F N
-F0 "A" -250 550 60 H V C C N N
-F1 "114990286_NonStock" -200 650 60 H V R C N N
-F2 "digikey-footprints:Particle_Photon" 200 200 60 H I L C N N
-F3 "https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/" 200 300 60 H I L C N N
-F4 "1597-1150-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "114990286" 200 500 60 H I L CNN "MPN"
-F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
-F7 "RF Evaluation and Development Kits, Boards" 200 700 60 H I L CNN "Family"
-F8 "https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/seeed-technology-co-ltd/114990286/1597-1150-ND/5774941" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "PARTICLE PHOTON" 200 1000 60 H I L CNN "Description"
-F11 "Seeed Technology Co., Ltd" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
-DRAW
-S -300 500 300 -700 0 1 0 f
-X VIN 1 -100 600 100 D 50 50 1 1 W
-X GND 2 100 -800 100 U 50 50 1 1 W
-X TX 3 -400 400 100 R 50 50 1 1 B
-X RX 4 -400 300 100 R 50 50 1 1 B
-X WKP 5 -400 200 100 R 50 50 1 1 B
-X DAC 6 -400 100 100 R 50 50 1 1 B
-X A5 7 -400 0 100 R 50 50 1 1 B
-X A4 8 -400 -100 100 R 50 50 1 1 B
-X A3 9 -400 -200 100 R 50 50 1 1 B
-X A2 10 -400 -300 100 R 50 50 1 1 B
-X D7 20 400 300 100 L 50 50 1 1 B
-X A1 11 -400 -400 100 R 50 50 1 1 B
-X GND 21 0 -800 100 U 50 50 1 1 W
-X A0 12 -400 -500 100 R 50 50 1 1 B
-X VBAT 22 100 600 100 D 50 50 1 1 W
-X D0 13 400 -400 100 L 50 50 1 1 B
-X RST 23 -400 -600 100 R 50 50 1 1 I
-X D1 14 400 -300 100 L 50 50 1 1 B
-X 3V3 24 0 600 100 D 50 50 1 1 W
-X D2 15 400 -200 100 L 50 50 1 1 B
-X D3 16 400 -100 100 L 50 50 1 1 B
-X D4 17 400 0 100 L 50 50 1 1 B
-X D5 18 400 100 100 L 50 50 1 1 B
-X D6 19 400 200 100 L 50 50 1 1 B
-ENDDRAW
-ENDDEF
-#
 # PHOTONH
 #
 DEF PHOTONH A 0 20 Y Y 1 F N

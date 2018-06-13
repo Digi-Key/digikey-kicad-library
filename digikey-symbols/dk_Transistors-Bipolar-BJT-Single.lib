@@ -1536,7 +1536,7 @@ ENDDEF
 DEF BC546BTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC546BTA" 206 0 60 V V C C N N
-F2 "digikey-footprints:BC546BTACT-ND" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
 F4 "BC546BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC546BTA" 200 500 60 H I L CNN "MPN"
