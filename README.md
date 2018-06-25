@@ -1,4 +1,4 @@
-# digikey-kicad-library (Beta)
+# digikey-kicad-library
 An atomic parts library for KiCad.
 
 The goal of the digikey-kicad-library library is to offer a collection of visually consistent and well defined parts that include assigned footprints.  The library is intended to augment KiCad's default library and give users another choice in library paradigm (meaning that it is *One Solution*, not *The Solution*).  It contains 1-to-1 symbol to footprint assignments to meet the needs of those who prefer that style.  It does not currently include the idea of a one symbol to many footprints as that defeats the purpose of having an orderable part number ready for the Bill of Materials.  
