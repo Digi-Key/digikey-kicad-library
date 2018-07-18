@@ -9,19 +9,19 @@ $ENDCMP
 $CMP DS1307_
 D IC RTC CLK/CALENDAR I2C 8-DIP
 K DS1307+-ND 
-F http://datasheets.maximintegrated.com/en/ds/DS1307.pdf
+F https://datasheets.maximintegrated.com/en/ds/DS1307.pdf
 $ENDCMP
 #
 $CMP DS3231MZ_V__NRND
 D IC RTC CLK/CALENDAR I2C 8-SOIC
 K DS3231MZ/V+-ND Automotive, AEC-Q100
-F http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf
+F https://datasheets.maximintegrated.com/en/ds/DS3231M.pdf
 $ENDCMP
 #
 $CMP DS3234SN_
 D IC RTC CLK/CALENDAR SPI 20-SOIC
 K DS3234SN#-ND 
-F http://datasheets.maximintegrated.com/en/ds/DS3234.pdf
+F https://datasheets.maximintegrated.com/en/ds/DS3234.pdf
 $ENDCMP
 #
 #End Doc Library

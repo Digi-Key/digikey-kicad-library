@@ -59,11 +59,11 @@ X ~ C7 -200 -300 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# 0473080001_LTB
+# 0473080001_Obsolete
 #
-DEF 0473080001_LTB J 0 40 Y Y 1 F N
+DEF 0473080001_Obsolete J 0 40 Y Y 1 F N
 F0 "J" 0 250 60 H V C C N N
-F1 "0473080001_LTB" 300 -500 60 V V L C N N
+F1 "0473080001_Obsolete" 300 -500 60 V V L C N N
 F2 "digikey-footprints:SIM_473080001" 200 200 60 H I L C N N
 F3 "https://www.molex.com/pdm_docs/sd/473080001_sd.pdf" 200 300 60 H I L C N N
 F4 "WM6699CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -74,7 +74,7 @@ F8 "https://www.molex.com/pdm_docs/sd/473080001_sd.pdf" 200 800 60 H I L CNN "DK
 F9 "/product-detail/en/molex-llc/0473080001/WM6699CT-ND/3044148" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN SIM CARD PUSH-PULL R/A SMD" 200 1000 60 H I L CNN "Description"
 F11 "Molex, LLC" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 P 8 0 1 0 -200 100 -100 200 400 200 400 -100 400 -300 400 -600 -200 -600 -200 100 f
 X C1 1 -300 100 100 R 50 50 1 1 B

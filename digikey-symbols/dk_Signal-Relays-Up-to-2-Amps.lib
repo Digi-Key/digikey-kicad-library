@@ -7,12 +7,12 @@ DEF EC2-12NU RLY 0 40 Y N 1 F N
 F0 "RLY" -590 250 50 H V C C N N
 F1 "EC2-12NU" -560 190 50 V V R C N N
 F2 "digikey-footprints:Relay_THT_EC2" 200 200 50 H I L C N N
-F3 "https://search.kemet.com/component-edge/download/datasheet/EC2-12NU.pdf" 200 300 60 H I L C N N
+F3 "https://api.kemet.com/component-edge/download/datasheet/EC2-12NU.pdf" 200 300 60 H I L C N N
 F4 "399-11029-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "EC2-12NU" 200 500 60 H I L CNN "MPN"
 F6 "Relays" 200 600 60 H I L CNN "Category"
 F7 "Signal Relays, Up to 2 Amps" 200 700 60 H I L CNN "Family"
-F8 "https://search.kemet.com/component-edge/download/datasheet/EC2-12NU.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://api.kemet.com/component-edge/download/datasheet/EC2-12NU.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/kemet/EC2-12NU/399-11029-5-ND/4291095" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RELAY GEN PURPOSE DPDT 2A 12V" 200 1000 60 H I L CNN "Description"
 F11 "KEMET" 200 1100 60 H I L CNN "Manufacturer"
@@ -57,12 +57,12 @@ DEF EC2-5NU RLY 0 40 Y N 1 F N
 F0 "RLY" -570 250 50 H V C C N N
 F1 "EC2-5NU" -555 185 50 V V R C N N
 F2 "digikey-footprints:Relay_THT_EC2" 200 200 50 H I L C N N
-F3 "https://search.kemet.com/component-edge/download/datasheet/EC2-5NU.pdf" 200 300 60 H I L C N N
+F3 "https://api.kemet.com/component-edge/download/datasheet/EC2-5NU.pdf" 200 300 60 H I L C N N
 F4 "399-11052-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "EC2-5NU" 200 500 60 H I L CNN "MPN"
 F6 "Relays" 200 600 60 H I L CNN "Category"
 F7 "Signal Relays, Up to 2 Amps" 200 700 60 H I L CNN "Family"
-F8 "https://search.kemet.com/component-edge/download/datasheet/EC2-5NU.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://api.kemet.com/component-edge/download/datasheet/EC2-5NU.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/kemet/EC2-5NU/399-11052-5-ND/4291118" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RELAY GEN PURPOSE DPDT 2A 5V" 200 1000 60 H I L CNN "Description"
 F11 "KEMET" 200 1100 60 H I L CNN "Manufacturer"

@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP CD2320-B11000_Obsolete
 D DIODE BRIDGE RECTIFIER 1000V 232
 K CD2320-B11000CT-ND 
-F http://www.bourns.com/docs/Product-Datasheets/CD2320-B.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/Bourns%20PDFs/CD2320-B1.pdf
 $ENDCMP
 #
 $CMP DF04M

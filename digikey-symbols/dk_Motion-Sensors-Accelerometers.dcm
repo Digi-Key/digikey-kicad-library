@@ -99,7 +99,7 @@ $ENDCMP
 $CMP MMA7660FCR1_Obsolete
 D ACCELEROMETER 1.5G I2C 10DFN
 K MMA7660FCR1CT-ND 
-F http://cache.freescale.com/files/sensors/doc/data_sheet/MMA7660FC.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MMA7660FC.pdf
 $ENDCMP
 #
 $CMP MMA8451QR1

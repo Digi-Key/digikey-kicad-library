@@ -344,12 +344,12 @@ DEF MAX4466EXK_T U 0 0 Y Y 1 F N
 F0 "U" -200 300 60 H V C C N N
 F1 "MAX4466EXK_T" 100 -200 60 H V L C N N
 F2 "digikey-footprints:SOT-353" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 300 60 H I L C N N
 F4 "MAX4466EXK+CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX4466EXK+T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/MAX4466EXK-T/MAX4466EXK-CT-ND/5405773" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC PREAMP AUDIO MONO AB SC70-5" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
@@ -373,12 +373,12 @@ DEF MAX9744ETH_T U 0 40 Y Y 1 F N
 F0 "U" -600 950 60 H V C C N N
 F1 "MAX9744ETH_T" -100 -600 60 V V L C N N
 F2 "digikey-footprints:TQFN-44-1EP_7x7mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 200 300 60 H I L C N N
 F4 "MAX9744ETH+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX9744ETH+T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX9744.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/MAX9744ETH-T/MAX9744ETH-TCT-ND/2708799" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR 22.5W D 44TQFN" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
@@ -439,12 +439,12 @@ DEF MAX9814ETD_T U 0 40 Y Y 1 F N
 F0 "U" -300 150 60 H V C C N N
 F1 "MAX9814ETD_T" 100 -900 60 H V L C N N
 F2 "digikey-footprints:WFDFN-14-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 300 60 H I L C N N
 F4 "MAX9814ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX9814ETD+T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/MAX9814ETD-T/MAX9814ETD-TCT-ND/2037128" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO MONO AB MIC 14TDFN" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
@@ -475,12 +475,12 @@ DEF MAX98306ETD_T U 0 0 Y Y 1 F N
 F0 "U" -250 450 60 H V C C N N
 F1 "MAX98306ETD_T" 300 -500 60 H V L C N N
 F2 "digikey-footprints:WFDFN-14-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 300 60 H I L C N N
 F4 "MAX98306ETD+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX98306ETD+T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX98306.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/MAX98306ETD-T/MAX98306ETD-TCT-ND/2708785" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO 3.7W STER D 14TDFN" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"

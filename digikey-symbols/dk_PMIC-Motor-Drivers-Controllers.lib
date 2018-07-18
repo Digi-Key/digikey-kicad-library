@@ -7,12 +7,12 @@ DEF TMC2208-LA-T U 0 40 Y Y 1 F N
 F0 "U" -50 750 60 H V C C N N
 F1 "TMC2208-LA-T" 200 -500 60 V V L C N N
 F2 "digikey-footprints:VFQFN-28-1EP_5x5mm" 200 200 60 H I L C N N
-F3 "http://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_Datasheet.pdf" 200 300 60 H I L C N N
+F3 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_Datasheet.pdf" 200 300 60 H I L C N N
 F4 "1460-1184-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMC2208-LA-T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_Datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_Datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/trinamic-motion-control-gmbh/TMC2208-LA-T/1460-1184-1-ND/6572871" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC STEPPER MOTOR DRIVER 28QFN" 200 1000 60 H I L CNN "Description"
 F11 "Trinamic Motion Control GmbH" 200 1100 60 H I L CNN "Manufacturer"

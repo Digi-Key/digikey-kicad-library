@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP TMC2208-LA-T
 D IC STEPPER MOTOR DRIVER 28QFN
 K 1460-1184-1-ND 
-F http://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_Datasheet.pdf
+F https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC220x_TMC222x_Datasheet.pdf
 $ENDCMP
 #
 $CMP DRV8825PWPR

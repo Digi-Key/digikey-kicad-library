@@ -27,7 +27,7 @@ $ENDCMP
 $CMP DS18S20_
 D SENSOR TEMPERATURE 1-WIRE TO92-3
 K DS18S20+-ND 
-F http://datasheets.maximintegrated.com/en/ds/DS18S20.pdf
+F https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf
 $ENDCMP
 #
 $CMP LM34DZ_NOPB
@@ -51,7 +51,7 @@ $ENDCMP
 $CMP MAX31820MCR_
 D SENSOR TEMPERATURE 1-WIRE TO92-3
 K MAX31820MCR+-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX31820.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX31820.pdf
 $ENDCMP
 #
 $CMP MCP9700A-E_TO

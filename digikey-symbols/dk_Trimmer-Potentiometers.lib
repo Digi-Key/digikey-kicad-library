@@ -7,14 +7,14 @@ DEF TC33X-2-103E POT 0 0 Y Y 1 F N
 F0 "POT" -210 170 60 H V C C N N
 F1 "TC33X-2-103E" 10 -110 60 H V C C N N
 F2 "digikey-footprints:Trimpot_3.8mmx3.6mm_TC33X-2-103E" 200 200 60 H I L C N N
-F3 "http://www.bourns.com/docs/Product-Datasheets/TC33.pdf" 200 300 60 H I L C N N
+F3 "https://www.bourns.com/docs/Product-Datasheets/TC33.pdf" 200 300 60 H I L C N N
 F4 "TC33X-103ETR-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TC33X-2-103E" 200 500 60 H I L CNN "MPN"
 F6 "Potentiometers, Variable Resistors" 200 600 60 H I L CNN "Category"
 F7 "Trimmer Potentiometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.bourns.com/docs/Product-Datasheets/TC33.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.bourns.com/docs/Product-Datasheets/TC33.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/bourns-inc/TC33X-2-103E/TC33X-103ETR-ND/612858" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TRIMMER 10K OHM 0.1W SMD" 200 1000 60 H I L CNN "Description"
+F10 "TRIMMER 10K OHM 0.1W J LEAD TOP" 200 1000 60 H I L CNN "Description"
 F11 "Bourns Inc." 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

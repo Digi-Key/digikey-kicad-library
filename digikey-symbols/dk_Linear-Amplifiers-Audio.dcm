@@ -63,25 +63,25 @@ $ENDCMP
 $CMP MAX4466EXK_T
 D IC PREAMP AUDIO MONO AB SC70-5
 K MAX4466EXK+CT-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX4465-MAX4469.pdf
 $ENDCMP
 #
 $CMP MAX9744ETH_T
 D IC AMP AUDIO PWR 22.5W D 44TQFN
 K MAX9744ETH+TCT-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX9744.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX9744.pdf
 $ENDCMP
 #
 $CMP MAX9814ETD_T
 D IC AMP AUDIO MONO AB MIC 14TDFN
 K MAX9814ETD+TCT-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX9814.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf
 $ENDCMP
 #
 $CMP MAX98306ETD_T
 D IC AMP AUDIO 3.7W STER D 14TDFN
 K MAX98306ETD+TCT-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX98306.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX98306.pdf
 $ENDCMP
 #
 #End Doc Library

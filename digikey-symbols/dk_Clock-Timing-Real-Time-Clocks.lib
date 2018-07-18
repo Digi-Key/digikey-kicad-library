@@ -36,12 +36,12 @@ DEF DS1307_ U 0 40 Y Y 1 F N
 F0 "U" -350 300 60 H V L C N N
 F1 "DS1307_" -50 -350 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/DS1307.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/DS1307.pdf" 200 300 60 H I L C N N
 F4 "DS1307+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS1307+" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Real Time Clocks" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/DS1307.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/DS1307.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/DS1307-/DS1307--ND/956883" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RTC CLK/CALENDAR I2C 8-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
@@ -65,12 +65,12 @@ DEF DS3231MZ_V__NRND U 0 40 Y Y 1 F N
 F0 "U" -350 300 60 H V L C N N
 F1 "DS3231MZ_V__NRND" 50 -300 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/DS3231M.pdf" 200 300 60 H I L C N N
 F4 "DS3231MZ/V+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS3231MZ/V+" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Real Time Clocks" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/DS3231M.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/DS3231M.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/DS3231MZ-V-/DS3231MZ-V--ND/3133910" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RTC CLK/CALENDAR I2C 8-SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
@@ -94,12 +94,12 @@ DEF DS3234SN_ U 0 40 Y Y 1 F N
 F0 "U" -350 400 60 H V L C N N
 F1 "DS3234SN_" 50 -500 60 H V L C N N
 F2 "digikey-footprints:SOIC-20_W7.5mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/DS3234.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/DS3234.pdf" 200 300 60 H I L C N N
 F4 "DS3234SN#-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS3234SN#" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Real Time Clocks" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/DS3234.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/DS3234.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/DS3234SN-/DS3234SN--ND/1197584" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RTC CLK/CALENDAR SPI 20-SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"

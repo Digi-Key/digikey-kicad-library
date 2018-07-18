@@ -7,12 +7,12 @@ DEF 4609X-101-103LF RN 0 40 Y Y 1 F N
 F0 "RN" -270 810 60 H V L C N N
 F1 "4609X-101-103LF" 0 -820 60 H V C C N N
 F2 "digikey-footprints:SIP-9_P2.54mm" 200 200 60 H I L C N N
-F3 "http://www.bourns.com/docs/Product-Datasheets/4600x.pdf" 200 300 60 V I L C N N
+F3 "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf" 200 300 60 V I L C N N
 F4 "4609X-101-103LF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "4609X-101-103LF" 200 500 60 H I L CNN "MPN"
 F6 "Resistors" 200 600 60 H I L CNN "Category"
 F7 "Resistor Networks, Arrays" 200 700 60 H I L CNN "Family"
-F8 "http://www.bourns.com/docs/Product-Datasheets/4600x.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/bourns-inc/4609X-101-103LF/4609X-101-103LF-ND/2634616" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RES ARRAY 8 RES 10K OHM 9SIP" 200 1000 60 H I L CNN "Description"
 F11 "Bourns Inc." 200 1100 60 H I L CNN "Manufacturer"

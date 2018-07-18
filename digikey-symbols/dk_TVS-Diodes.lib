@@ -591,12 +591,12 @@ DEF CDSOT23-SM712 D 0 0 Y Y 1 F N
 F0 "D" -195 235 60 H V C C N N
 F1 "CDSOT23-SM712" 0 -250 60 H V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf" 200 300 60 H I L C N N
+F3 "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf" 200 300 60 H I L C N N
 F4 "CDSOT23-SM712CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CDSOT23-SM712" 200 500 60 H I L CNN "MPN"
 F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
 F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/bourns-inc/CDSOT23-SM712/CDSOT23-SM712CT-ND/1630607" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TVS DIODE 7V/12V 14V/26V SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Bourns Inc." 200 1100 60 H I L CNN "Manufacturer"

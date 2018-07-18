@@ -13,7 +13,7 @@ F http://www.ti.com/lit/ds/symlink/lp2985.pdf
 $ENDCMP
 #
 $CMP LP5907MFX-3_3_NOPB
-D IC REG LINEAR 3.3V 250MA SOT23
+D IC REG LINEAR 3.3V 250MA SOT23-5
 K 296-38557-1-ND 
 F http://www.ti.com/lit/ds/symlink/lp5907.pdf
 $ENDCMP
@@ -85,15 +85,15 @@ F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
 $ENDCMP
 #
 $CMP LM1117MPX-3_3_NOPB
-D IC REG LINEAR 3.3V 800MA SOT223
+D IC REG LIN 3.3V 800MA SOT223-4
 K LM1117MPX-3.3/NOPBCT-ND LM1117-3.3
 F http://www.ti.com/lit/ds/symlink/lm1117.pdf
 $ENDCMP
 #
-$CMP LM317T488_LTB
+$CMP LM317T488_Obsolete
 D IC REG LIN POS ADJ 1.5A TO220AB
 K LM317TFS-ND 
-F https://www.fairchildsemi.com/datasheets/LM/LM317T.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/KA317,LM317.pdf
 $ENDCMP
 #
 $CMP LM317TG
@@ -108,16 +108,16 @@ K LM337T-ND
 F http://www.ti.com/lit/ds/symlink/lm137.pdf
 $ENDCMP
 #
-$CMP LM7805CT_LTB
+$CMP LM7805CT_Obsolete
 D IC REG LINEAR 5V 1A TO220AB
 K LM7805CT-ND 
-F https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/MC7800(A,AE),NCV7800.pdf
 $ENDCMP
 #
-$CMP LM7812CT_LTB
+$CMP LM7812CT_Obsolete
 D IC REG LINEAR 12V 1A TO220-3
 K LM7812CTFS-ND 
-F https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/MC7800(A,AE),NCV7800.pdf
 $ENDCMP
 #
 $CMP LM78L05ACZ_NOPB
@@ -139,7 +139,7 @@ F http://www.linear.com/docs/1258
 $ENDCMP
 #
 $CMP MC7805BDTRKG
-D IC REG LINEAR 5V 1A DPAK-3
+D IC REG LINEAR 5V 1A DPAK
 K MC7805BDTRKGOSCT-ND 
 F http://www.onsemi.com/pub/Collateral/MC7800-D.PDF
 $ENDCMP

@@ -9,7 +9,7 @@ $ENDCMP
 $CMP BC817-40_215
 D TRANS NPN 45V 0.5A SOT23
 K 1727-2919-1-ND 
-F https://assets.nexperia.com/documents/data-sheet/BC817_BC817W_BC337.pdf
+F https://assets.nexperia.com/documents/data-sheet/BC817_SER.pdf
 $ENDCMP
 #
 $CMP BC846B_215
@@ -192,10 +192,10 @@ K 2N5087CS-ND
 F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5086.PDF
 $ENDCMP
 #
-$CMP 2N5088BU_LTB
+$CMP 2N5088BU_Obsolete
 D TRANS NPN 30V 0.1A TO92
 K 2N5088BU-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N5088.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/2N5088,89,MMBT5088,89.pdf
 $ENDCMP
 #
 $CMP 2N5401_NonStock
@@ -494,7 +494,7 @@ $ENDCMP
 #
 $CMP MMBT2907A-7-F
 D TRANS PNP 60V 0.6A SOT23-3
-K MMBT2907A-FDICT-ND 
+K MMBT2907A-FDICT-ND Automotive, AEC-Q101
 F https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/MMBT2907A_Rev2016.pdf
 $ENDCMP
 #
@@ -518,7 +518,7 @@ $ENDCMP
 #
 $CMP MMBT3904-7-F
 D TRANS NPN 40V 0.2A SMD SOT23-3
-K MMBT3904-FDICT-ND 
+K MMBT3904-FDICT-ND Automotive, AEC-Q101
 F https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/MMBT3904.pdf
 $ENDCMP
 #
@@ -554,7 +554,7 @@ $ENDCMP
 #
 $CMP MMBT3906-7-F
 D TRANS PNP 40V 0.2A SOT23-3
-K MMBT3906-FDICT-ND 
+K MMBT3906-FDICT-ND Automotive, AEC-Q101
 F https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/MMBT3906.pdf
 $ENDCMP
 #
@@ -578,7 +578,7 @@ $ENDCMP
 #
 $CMP MMBT4401-7-F
 D TRANS NPN 40V 0.6A SMD SOT23-3
-K MMBT4401-FDICT-ND 
+K MMBT4401-FDICT-ND Automotive, AEC-Q101
 F https://www.diodes.com/assets/Datasheets/ds30039.pdf
 $ENDCMP
 #

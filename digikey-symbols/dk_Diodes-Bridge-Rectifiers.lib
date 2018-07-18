@@ -7,12 +7,12 @@ DEF CD2320-B11000_Obsolete D 0 30 Y Y 1 F N
 F0 "D" -300 250 60 H V L C N N
 F1 "CD2320-B11000_Obsolete" 50 -300 60 H V L C N N
 F2 "digikey-footprints:2320" 200 200 60 H I L C N N
-F3 "http://www.bourns.com/docs/Product-Datasheets/CD2320-B.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Bourns%20PDFs/CD2320-B1.pdf" 200 300 60 H I L C N N
 F4 "CD2320-B11000CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD2320-B11000" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
-F8 "http://www.bourns.com/docs/Product-Datasheets/CD2320-B.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Bourns%20PDFs/CD2320-B1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/bourns-inc/CD2320-B11000/CD2320-B11000CT-ND/3741943" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE BRIDGE RECTIFIER 1000V 232" 200 1000 60 H I L CNN "Description"
 F11 "Bourns Inc." 200 1100 60 H I L CNN "Manufacturer"

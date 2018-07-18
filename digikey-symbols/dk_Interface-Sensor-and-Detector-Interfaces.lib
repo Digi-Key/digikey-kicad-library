@@ -36,12 +36,12 @@ DEF MAX31855KASA_ U 0 40 Y Y 1 F N
 F0 "U" -201 40 60 H V L C N N
 F1 "MAX31855KASA_" 223 -646 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf" 200 300 60 H I L C N N
 F4 "MAX31855KASA+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX31855KASA+" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Sensor and Detector Interfaces" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/MAX31855KASA-/MAX31855KASA--ND/2591564" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC CONV THERMOCOUPLE-DGTL SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"

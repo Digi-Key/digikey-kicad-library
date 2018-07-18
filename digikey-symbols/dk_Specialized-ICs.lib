@@ -14,7 +14,7 @@ F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Specialized ICs" 200 700 60 H I L CNN "Family"
 F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590027" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/ATSHA204A-STUCZ-T/ATSHA204A-STUCZ-TCT-ND/4814557" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC CRYPTO 4.5KB SWI" 200 1000 60 H I L CNN "Description"
+F10 "IC AUTHENTICATION CHIP SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -31,14 +31,14 @@ DEF DS2411R_T_R U 0 20 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "DS2411R_T_R" -50 350 60 H V R C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/DS2411.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/DS2411.pdf" 200 300 60 H I L C N N
 F4 "DS2411R+CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS2411R+T&R" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Specialized ICs" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/DS2411.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/DS2411.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/DS2411R-T-R/DS2411R-CT-ND/2045729" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC SILICON SERIAL NUMBER SOT-23" 200 1000 60 H I L CNN "Description"
+F10 "IC SILICON SERIAL NUMBER SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -55,14 +55,14 @@ DEF DS2413P_ U 0 40 Y Y 1 F N
 F0 "U" 50 250 60 H V C C N N
 F1 "DS2413P_" 50 350 60 H V C C N N
 F2 "digikey-footprints:LSOJ-6_W3.76mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/DS2413.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/DS2413.pdf" 200 300 60 H I L C N N
 F4 "DS2413P+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS2413P+" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Specialized ICs" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/DS2413.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/DS2413.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/DS2413P-/DS2413P--ND/1197421" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC SWITCH DL ADDRESS 6-TSOC" 200 1000 60 H I L CNN "Description"
+F10 "IC ADDRESSABLE SWITCH 6TSOC" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -82,12 +82,12 @@ DEF DS28CM00R-A00_T U 0 40 Y Y 1 F N
 F0 "U" -250 150 60 H V C C N N
 F1 "DS28CM00R-A00_T" -100 250 60 H V R C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/DS28CM00.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/DS28CM00.pdf" 200 300 60 H I L C N N
 F4 "DS28CM00R-A00+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS28CM00R-A00+T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Specialized ICs" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/DS28CM00.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/DS28CM00.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/DS28CM00R-A00-T/DS28CM00R-A00-TCT-ND/2699348" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC SILICON SERIAL NUMBER SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"

@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP MAX5481EUD_
 D IC DGTL POT 10BIT NV 14-TSSOP
 K MAX5481EUD+-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX5481-MAX5484.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX5481-MAX5484.pdf
 $ENDCMP
 #
 $CMP MCP4017T-103E_LT

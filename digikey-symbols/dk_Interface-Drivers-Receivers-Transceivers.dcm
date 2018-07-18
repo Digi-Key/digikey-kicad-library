@@ -33,7 +33,7 @@ $ENDCMP
 $CMP MAX3232CPE_
 D IC TXRX RS-232 LP 16-DIP
 K MAX3232CPE+-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf
 $ENDCMP
 #
 $CMP MCP2551-I_SN

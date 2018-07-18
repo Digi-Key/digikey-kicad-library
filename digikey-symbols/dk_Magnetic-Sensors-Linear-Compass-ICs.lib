@@ -130,11 +130,11 @@ X VOUT 3 400 0 100 L 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# MAG3110FCR1_LTB
+# MAG3110FCR1_Obsolete
 #
-DEF MAG3110FCR1_LTB U 0 40 Y Y 1 F N
+DEF MAG3110FCR1_Obsolete U 0 40 Y Y 1 F N
 F0 "U" -300 400 60 H V C C N N
-F1 "MAG3110FCR1_LTB" 100 -400 60 H V L C N N
+F1 "MAG3110FCR1_Obsolete" 100 -400 60 H V L C N N
 F2 "digikey-footprints:DFN-10_2x2mm" 200 200 60 H I L C N N
 F3 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MAG3110.pdf" 200 300 60 H I L C N N
 F4 "MAG3110FCR1CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -145,7 +145,7 @@ F8 "https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MAG3110.pdf" 200 800 
 F9 "/product-detail/en/nxp-usa-inc/MAG3110FCR1/MAG3110FCR1CT-ND/3524267" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR MAGMTR I2C 10DFN" 200 1000 60 H I L CNN "Description"
 F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S 300 300 -300 -300 0 1 0 f
 X CAP-A 1 400 0 100 L 50 50 1 1 P

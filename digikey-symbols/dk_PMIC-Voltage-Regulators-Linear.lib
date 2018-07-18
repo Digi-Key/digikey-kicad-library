@@ -65,7 +65,7 @@ F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/lit/ds/symlink/lp5907.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LP5907MFX-3.3-NOPB/296-38557-1-ND/5034443" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 3.3V 250MA SOT23" 200 1000 60 H I L CNN "Description"
+F10 "IC REG LINEAR 3.3V 250MA SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -375,7 +375,7 @@ F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM1117MPX-3.3-NOPB/LM1117MPX-3.3-NOPBCT-ND/1010516" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 3.3V 800MA SOT223" 200 1000 60 H I L CNN "Description"
+F10 "IC REG LIN 3.3V 800MA SOT223-4" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -387,22 +387,22 @@ X VOUT 4 300 -100 100 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# LM317T488_LTB
+# LM317T488_Obsolete
 #
-DEF LM317T488_LTB U 0 40 Y Y 1 F N
+DEF LM317T488_Obsolete U 0 40 Y Y 1 F N
 F0 "U" 0 150 60 H V C C N N
-F1 "LM317T488_LTB" 0 250 60 H V C C N N
+F1 "LM317T488_Obsolete" 0 250 60 H V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/LM/LM317T.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/KA317,LM317.pdf" 200 300 60 H I L C N N
 F4 "LM317TFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM317T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/LM/LM317T.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/KA317,LM317.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/LM317T/LM317TFS-ND/458678" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LIN POS ADJ 1.5A TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 200 -200 0 1 0 f
 X ADJ 1 0 -300 100 U 50 50 1 1 I
@@ -459,22 +459,22 @@ X VOUT 3 300 0 100 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# LM7805CT_LTB
+# LM7805CT_Obsolete
 #
-DEF LM7805CT_LTB U 0 20 Y Y 1 F N
+DEF LM7805CT_Obsolete U 0 20 Y Y 1 F N
 F0 "U" 0 150 60 H V C C N N
-F1 "LM7805CT_LTB" 0 250 60 H V C C N N
+F1 "LM7805CT_Obsolete" 0 250 60 H V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/MC7800(A,AE),NCV7800.pdf" 200 300 60 H I L C N N
 F4 "LM7805CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM7805CT" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/MC7800(A,AE),NCV7800.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/LM7805CT/LM7805CT-ND/458698" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LINEAR 5V 1A TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 200 -200 0 1 0 f
 X IN 1 -300 0 100 R 50 50 1 1 W
@@ -483,22 +483,22 @@ X OUT 3 300 0 100 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# LM7812CT_LTB
+# LM7812CT_Obsolete
 #
-DEF LM7812CT_LTB U 0 20 Y Y 1 F N
+DEF LM7812CT_Obsolete U 0 20 Y Y 1 F N
 F0 "U" 0 150 60 H V C C N N
-F1 "LM7812CT_LTB" 0 250 60 H V C C N N
+F1 "LM7812CT_Obsolete" 0 250 60 H V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/MC7800(A,AE),NCV7800.pdf" 200 300 60 H I L C N N
 F4 "LM7812CTFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM7812CT" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/LM/LM7805.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/MC7800(A,AE),NCV7800.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/LM7812CT/LM7812CTFS-ND/1923051" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LINEAR 12V 1A TO220-3" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 100 200 -200 0 1 0 f
 X IN 1 -300 0 100 R 50 50 1 1 W
@@ -596,7 +596,7 @@ F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
 F8 "http://www.onsemi.com/pub/Collateral/MC7800-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MC7805BDTRKG/MC7805BDTRKGOSCT-ND/1139742" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC REG LINEAR 5V 1A DPAK-3" 200 1000 60 H I L CNN "Description"
+F10 "IC REG LINEAR 5V 1A DPAK" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

@@ -30,7 +30,7 @@ K 620-1433-ND
 F http://www.allegromicro.com/~/media/Files/Datasheets/A1324-5-6-Datasheet.ashx
 $ENDCMP
 #
-$CMP MAG3110FCR1_LTB
+$CMP MAG3110FCR1_Obsolete
 D SENSOR MAGMTR I2C 10DFN
 K MAG3110FCR1CT-ND 
 F https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MAG3110.pdf

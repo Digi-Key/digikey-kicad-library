@@ -9,7 +9,7 @@ $ENDCMP
 $CMP MAX31855KASA_
 D IC CONV THERMOCOUPLE-DGTL SOIC
 K MAX31855KASA+-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
 $ENDCMP
 #
 #End Doc Library

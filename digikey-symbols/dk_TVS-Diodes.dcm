@@ -69,7 +69,7 @@ $ENDCMP
 $CMP CDSOT23-SM712
 D TVS DIODE 7V/12V 14V/26V SOT23-3
 K CDSOT23-SM712CT-ND 
-F http://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf
+F https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf
 $ENDCMP
 #
 $CMP ESD5Z3_3T1G

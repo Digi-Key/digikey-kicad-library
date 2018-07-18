@@ -39,7 +39,7 @@ $ENDCMP
 $CMP MAX44009EDT_T
 D SENSOR AMBIENT LIGHT 6UTDFN
 K MAX44009EDT+TCT-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX44009.pdf
 $ENDCMP
 #
 $CMP TSL235R-LF

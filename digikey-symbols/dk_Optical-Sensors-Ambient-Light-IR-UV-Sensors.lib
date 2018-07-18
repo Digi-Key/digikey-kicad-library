@@ -193,12 +193,12 @@ DEF MAX44009EDT_T U 0 20 Y Y 1 F N
 F0 "U" -150 350 60 H V C C N N
 F1 "MAX44009EDT_T" 100 -300 60 H V L C N N
 F2 "digikey-footprints:UDFN-6-1EP_2x2mm" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 300 60 H I L C N N
 F4 "MAX44009EDT+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX44009EDT+T" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/MAX44009EDT-T/MAX44009EDT-TCT-ND/2606396" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR AMBIENT LIGHT 6UTDFN" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"

@@ -114,12 +114,12 @@ DEF DS18S20_ U 0 40 Y Y 1 F N
 F0 "U" -200 250 60 H V C C N N
 F1 "DS18S20_" 150 -300 60 V V L C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/DS18S20.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf" 200 300 60 H I L C N N
 F4 "DS18S20+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DS18S20+" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Temperature Sensors - Analog and Digital Output" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/DS18S20.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/DS18S20-/DS18S20--ND/1017697" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR TEMPERATURE 1-WIRE TO92-3" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
@@ -210,12 +210,12 @@ DEF MAX31820MCR_ U 0 40 Y Y 1 F N
 F0 "U" -200 300 60 H V C C N N
 F1 "MAX31820MCR_" 500 -300 60 H V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "http://datasheets.maximintegrated.com/en/ds/MAX31820.pdf" 200 300 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX31820.pdf" 200 300 60 H I L C N N
 F4 "MAX31820MCR+-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX31820MCR+" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Temperature Sensors - Analog and Digital Output" 200 700 60 H I L CNN "Family"
-F8 "http://datasheets.maximintegrated.com/en/ds/MAX31820.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://datasheets.maximintegrated.com/en/ds/MAX31820.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxim-integrated/MAX31820MCR-/MAX31820MCR--ND/4271348" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR TEMPERATURE 1-WIRE TO92-3" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"

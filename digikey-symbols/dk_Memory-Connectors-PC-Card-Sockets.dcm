@@ -12,7 +12,7 @@ K WM12731CT-ND 504520
 F https://www.molex.com/pdm_docs/sd/5045200691_sd.pdf
 $ENDCMP
 #
-$CMP 0473080001_LTB
+$CMP 0473080001_Obsolete
 D CONN SIM CARD PUSH-PULL R/A SMD
 K WM6699CT-ND 47308
 F https://www.molex.com/pdm_docs/sd/473080001_sd.pdf

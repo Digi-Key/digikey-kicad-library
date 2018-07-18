@@ -21,7 +21,7 @@ $ENDCMP
 $CMP MAX31865ATP_
 D IC RTD TO DIGITAL CONVERT 20QFN
 K MAX31865ATP+-ND 
-F http://datasheets.maximintegrated.com/en/ds/MAX31865.pdf
+F https://datasheets.maximintegrated.com/en/ds/MAX31865.pdf
 $ENDCMP
 #
 #End Doc Library
