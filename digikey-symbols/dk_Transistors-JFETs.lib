@@ -5,7 +5,7 @@ EESchema-LIBRARY Version 2.3
 #
 DEF 2N5457_NonStock Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
-F1 "2N5457_NonStock" 136 0 60 V V C C N N
+F1 "2N5457_NonStock" -252 -244 60 H V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5457-5459.PDF" 200 300 60 H I L C N N
 F4 "2N5457-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -18,34 +18,23 @@ F10 "JFET N-CH 25V 0.31W TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
-C -50 0 130 0 1 0 f
-C 0 -75 5 0 1 0 N
-C 0 -55 5 0 1 0 N
-C 0 75 5 0 1 0 N
-P 2 0 1 0 0 -55 -100 -55 N
-P 3 0 1 0 -200 -100 -120 -100 -120 55 N
-P 3 0 1 0 0 -100 0 0 -100 0 N
-P 3 0 1 0 0 100 0 55 -100 55 N
-P 5 0 1 0 -5 -75 40 -75 40 55 40 75 -5 75 N
-P 2 1 1 0 -100 -55 -100 -75 N
-P 2 1 1 0 -100 -55 -100 -35 N
-P 2 1 1 0 -100 0 -100 -20 N
-P 2 1 1 0 -100 0 -100 20 N
-P 2 1 1 0 -100 75 -100 35 N
-P 2 1 1 0 60 20 20 20 N
-P 4 1 1 0 -100 0 -70 20 -70 -20 -100 0 F
-P 4 1 1 0 40 20 20 -10 60 -10 40 20 F
-X D 1 0 200 100 D 50 50 1 1 B
-X S 2 0 -200 100 U 50 50 1 1 B
-X G 3 -300 -100 100 R 50 50 1 1 B
+P 2 0 1 0 -25 -100 -25 100 N
+P 2 0 1 0 -25 0 -175 0 N
+P 3 0 1 0 -25 -75 100 -75 100 -150 N
+P 3 0 1 0 -25 75 100 75 100 150 N
+C 0 0 152 1 1 0 f
+P 4 1 1 0 -75 25 -75 -25 -25 0 -75 25 F
+X D 1 100 -300 200 U 50 50 1 1 P
+X S 2 100 300 200 D 50 50 1 1 P
+X G 3 -300 0 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
 # J113
 #
 DEF J113 Q 0 0 Y Y 1 F N
-F0 "Q" -106 143 60 H V R C N N
-F1 "J113" 136 0 60 V V C C N N
+F0 "Q" 16 195 60 H V R C N N
+F1 "J113" 23 -208 60 H V R C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/J1/J111.pdf" 200 300 60 H I L C N N
 F4 "J113FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -58,26 +47,15 @@ F10 "JFET N-CH 35V 625MW TO92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
-C -50 0 130 0 1 0 f
-C 0 -75 5 0 1 0 N
-C 0 -55 5 0 1 0 N
-C 0 75 5 0 1 0 N
-P 2 0 1 0 0 -55 -100 -55 N
-P 3 0 1 0 -200 -100 -120 -100 -120 55 N
-P 3 0 1 0 0 -100 0 0 -100 0 N
-P 3 0 1 0 0 100 0 55 -100 55 N
-P 5 0 1 0 -5 -75 40 -75 40 55 40 75 -5 75 N
-P 2 1 1 0 -100 -55 -100 -75 N
-P 2 1 1 0 -100 -55 -100 -35 N
-P 2 1 1 0 -100 0 -100 -20 N
-P 2 1 1 0 -100 0 -100 20 N
-P 2 1 1 0 -100 75 -100 35 N
-P 2 1 1 0 60 20 20 20 N
-P 4 1 1 0 -100 0 -70 20 -70 -20 -100 0 F
-P 4 1 1 0 40 20 20 -10 60 -10 40 20 F
-X G 1 -300 -100 100 R 50 50 1 1 B
-X S 2 0 -200 100 U 50 50 1 1 B
-X D 3 0 200 100 D 50 50 1 1 B
+P 2 0 1 0 -25 -100 -25 100 N
+P 2 0 1 0 -25 0 -175 0 N
+P 3 0 1 0 -25 -75 100 -75 100 -150 N
+P 3 0 1 0 -25 75 100 75 100 150 N
+C 0 0 152 1 1 0 f
+P 4 1 1 0 -75 25 -75 -25 -25 0 -75 25 F
+X D 1 100 -300 200 U 50 50 1 1 P
+X S 2 100 300 200 D 50 50 1 1 P
+X G 3 -300 0 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
