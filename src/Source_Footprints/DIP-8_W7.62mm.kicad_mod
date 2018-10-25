@@ -1,4 +1,4 @@
-(module DIP-8_W7.62mm (layer F.Cu) (tedit 59930689)
+(module DIP-8_W7.62mm (layer F.Cu) (tedit 5B86B3A2)
   (descr http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf)
   (fp_text reference REF** (at 4.05 -2.52) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -33,4 +33,9 @@
   (pad 6 thru_hole circle (at 7.62 5.08) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 7 thru_hole circle (at 7.62 2.54) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 7.62 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
+  (model ${KISYS3DMOD}/Housings_DIP.3dshapes/DIP-8_W7.62mm.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
