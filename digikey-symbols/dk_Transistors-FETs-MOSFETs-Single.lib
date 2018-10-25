@@ -766,7 +766,7 @@ ENDDEF
 DEF IRF510PBF Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "IRF510PBF" 136 0 60 V V C C N N
-F2 "digikey-footprints: TO-220-3" 200 200 60 H I L C N N
+F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
 F3 "http://www.vishay.com/docs/91015/sihf510.pdf" 200 300 60 H I L C N N
 F4 "IRF510PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "IRF510PBF" 200 500 60 H I L CNN "MPN"
