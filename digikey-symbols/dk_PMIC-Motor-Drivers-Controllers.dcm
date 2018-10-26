@@ -12,6 +12,12 @@ K 296-29503-1-ND
 F http://www.ti.com/lit/ds/symlink/drv8825.pdf
 $ENDCMP
 #
+$CMP DRV8871DDA
+D IC DRIVER DC MOTOR 3.6A
+K 296-44509-5-ND 
+F http://www.ti.com/lit/ds/symlink/drv8871.pdf
+$ENDCMP
+#
 $CMP L293DNE
 D IC MOTOR DRIVER PAR 16-DIP
 K 296-9518-5-ND 

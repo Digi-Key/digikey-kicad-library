@@ -21,7 +21,7 @@ $ENDCMP
 $CMP PCA9306D_118
 D IC TRNSLTR BIDIRECTIONAL 8SO
 K 568-4215-1-ND 
-F http://www.nxp.com/documents/data_sheet/PCA9306.pdf
+F https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf
 $ENDCMP
 #
 #End Doc Library

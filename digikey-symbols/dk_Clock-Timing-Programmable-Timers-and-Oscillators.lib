@@ -156,9 +156,9 @@ F5 "ICM7555IPAZ" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Programmable Timers and Oscillators" 200 700 60 H I L CNN "Family"
 F8 "http://www.intersil.com/content/dam/Intersil/documents/icm7/icm7555-56.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/intersil/ICM7555IPAZ/ICM7555IPAZ-ND/821488" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/renesas-electronics-america-inc/ICM7555IPAZ/ICM7555IPAZ-ND/821488" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OSC SINGLE TIMER 1MHZ 8DIP" 200 1000 60 H I L CNN "Description"
-F11 "Intersil" 200 1100 60 H I L CNN "Manufacturer"
+F11 "Renesas Electronics America Inc." 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -350 250 350 -350 1 1 0 f

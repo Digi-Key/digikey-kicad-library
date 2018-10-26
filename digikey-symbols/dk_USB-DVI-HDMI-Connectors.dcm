@@ -33,7 +33,7 @@ $ENDCMP
 $CMP 12401610E4_2A
 D USB TYPE-C, RA RCPT, PCB MOUNT,
 K 12401610E4#2ACT-ND 
-F https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401610E4%232A_Dwg.pdf
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/12401610e4x2a.pdf
 $ENDCMP
 #
 $CMP 690-005-299-043
@@ -42,34 +42,34 @@ K 151-1206-1-ND 690
 F http://files.edac.net/690-005-299-043.pdf
 $ENDCMP
 #
-$CMP E8199-001-01
+$CMP E8199-001-01_Obsolete
 D CONN USB 3.0 TYPE A RCPT
 K 553-2273-ND 
-F http://productfinder.pulseeng.com/products/datasheets/E8199-001-01.pdf
+F https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/E8199-001-01/doc_part/E8199-001-01.pdf
 $ENDCMP
 #
 $CMP 73725-0110BLF
 D CONN RCPT USB TYPE A FLAG PCB
 K 609-1041-ND 73725
-F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/73725.pdf
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/73725.pdf
 $ENDCMP
 #
 $CMP 10118192-0001LF
 D CONN USB MICRO B RECPT SMT R/A
 K 609-4613-1-ND 
-F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118192.pdf
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118192.pdf
 $ENDCMP
 #
 $CMP 10118193-0001LF
 D CONN USB MICRO B RECPT SMT R/A
 K 609-4616-1-ND 
-F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118193.pdf
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118193.pdf
 $ENDCMP
 #
 $CMP 10118194-0001LF
 D CONN USB MICRO B RECPT SMT R/A
 K 609-4618-1-ND 
-F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
 $ENDCMP
 #
 $CMP DC3RX19JA3R1700
@@ -81,13 +81,13 @@ $ENDCMP
 $CMP 2129320-3
 D MINI DISPLAYPORT REVERSE OFFSET
 K A120537TR-ND 
-F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2129320&DocType=Customer+Drawing&DocLang=English
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2129320&DocType=Customer+Drawing&DocLang=English
 $ENDCMP
 #
 $CMP 2040210-1
 D CONN RCPT DISPLAYPRT 1.1A 20POS
 K A99344-ND 
-F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2040210&DocType=Customer+Drawing&DocLang=Japanese
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2040210&DocType=Customer+Drawing&DocLang=Japanese
 $ENDCMP
 #
 $CMP AU-Y1006-3
@@ -99,7 +99,7 @@ $ENDCMP
 $CMP GSB443T33HR
 D USB3.1 MCRO B R/A SMT H-S
 K GSB443T33HRCT-ND GSB4
-F https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/GSB443T33HR_Dwg.pdf
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/gsb443t33hr.pdf
 $ENDCMP
 #
 $CMP UX60-MB-5ST
@@ -122,13 +122,13 @@ $ENDCMP
 #
 $CMP 74320-9004
 D CONN RCPT R/A ANALOG DGTL DVI
-K WM6095-ND MicroCross™ 74320
+K WM6095-ND MicroCross 74320
 F https://www.molex.com/pdm_docs/sd/743209004_sd.pdf
 $ENDCMP
 #
 $CMP 74320-9010
 D CONN RCPT R/A ANALOG DGTL DVI
-K WM6096-ND MicroCross™ 74320
+K WM6096-ND MicroCross 74320
 F https://www.molex.com/pdm_docs/sd/743209010_sd.pdf
 $ENDCMP
 #

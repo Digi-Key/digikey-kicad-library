@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP LIS331DLHTR
 D ACCELEROMETER 2-8G I2C/SPI 16LGA
 K 497-10397-1-ND 
-F https://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/LIS331DLH(TR).pdf
+F https://www.digikey.com/api/videos/videoplayer/smallplayer/1646398637001
 $ENDCMP
 #
 $CMP LIS3DHTR

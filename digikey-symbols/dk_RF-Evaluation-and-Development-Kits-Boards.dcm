@@ -9,7 +9,7 @@ $ENDCMP
 $CMP PHOTONH
 D PHOTON WITH HEADERS
 K 1878-1000-ND WICED
-F https://media.digikey.com/pdf/Data%20Sheets/Particle%20PDFs/Photon_v015_Web.pdf
+F https://docs.particle.io/datasheets/photon-(wifi)/photon-datasheet/
 $ENDCMP
 #
 #End Doc Library

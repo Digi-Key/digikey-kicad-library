@@ -59,11 +59,11 @@ X T1 3 0 -300 200 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# DB3-TP
+# DB3-TP_LTB
 #
-DEF DB3-TP D 0 0 Y Y 1 F N
+DEF DB3-TP_LTB D 0 0 Y Y 1 F N
 F0 "D" 0 100 50 H V C C N N
-F1 "DB3-TP" 0 -150 50 H V C C N N
+F1 "DB3-TP_LTB" 0 -150 50 H V C C N N
 F2 "digikey-footprints:DO-35_NK" 200 200 50 H I L C N N
 F3 "http://www.mccsemi.com/up_pdf/DB3,DC34,DB4,DB6(DO-35G).PDF" 200 300 60 H I L C N N
 F4 "DB3-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -74,7 +74,7 @@ F8 "http://www.mccsemi.com/up_pdf/DB3,DC34,DB4,DB6(DO-35G).PDF" 200 800 60 H I L
 F9 "/product-detail/en/micro-commercial-co/DB3-TP/DB3-TPMSCT-ND/2513488" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIAC 28-36V 2A DO35" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -25 0 -50 0 N
 P 2 0 1 0 -25 50 -25 0 N

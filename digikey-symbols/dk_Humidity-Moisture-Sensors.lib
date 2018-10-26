@@ -36,12 +36,12 @@ DEF HPP845E131R5 U 0 40 Y Y 1 F N
 F0 "U" -400 550 50 H V L C N N
 F1 "HPP845E131R5" 150 200 50 V V C C N N
 F2 "digikey-footprints:6-DFN_3x3mm" 200 200 50 H I L C N N
-F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 300 50 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 300 50 H I L C N N
 F4 "223-1595-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "HPP845E131R5" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
-F8 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/te-connectivity-measurement-specialties/HPP845E131R5/223-1595-1-ND/5438039" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR HUMID/TEMP 3V I2C 3% SMD" 200 1000 60 H I L CNN "Description"
 F11 "TE Connectivity Measurement Specialties" 200 1100 60 H I L CNN "Manufacturer"
@@ -136,12 +136,12 @@ DEF BME280 U 0 40 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "BME280" -100 450 60 H V R C N N
 F2 "digikey-footprints:Pressure_Sensor_LGA-8_2.5x2.5mm_BME280" 200 200 60 H I L C N N
-F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-12.pdf" 200 300 60 H I L C N N
+F3 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS002.pdf" 200 300 60 H I L C N N
 F4 "828-1063-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BME280" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
-F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS001-12.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS002.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/bosch-sensortec/BME280/828-1063-1-ND/6136314" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR PRESSURE HUMIDITY TEMP" 200 1000 60 H I L CNN "Description"
 F11 "Bosch Sensortec" 200 1100 60 H I L CNN "Manufacturer"

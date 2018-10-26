@@ -190,12 +190,12 @@ DEF PCA9306D_118 U 0 20 Y Y 1 F N
 F0 "U" -200 450 60 H V C C N N
 F1 "PCA9306D_118" -100 550 60 H V R C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.nxp.com/documents/data_sheet/PCA9306.pdf" 200 300 60 H I L C N N
+F3 "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf" 200 300 60 H I L C N N
 F4 "568-4215-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PCA9306D,118" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Translators, Level Shifters" 200 700 60 H I L CNN "Family"
-F8 "http://www.nxp.com/documents/data_sheet/PCA9306.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nxp-usa-inc/PCA9306D,118/568-4215-1-ND/1638362" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC TRNSLTR BIDIRECTIONAL 8SO" 200 1000 60 H I L CNN "Description"
 F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"

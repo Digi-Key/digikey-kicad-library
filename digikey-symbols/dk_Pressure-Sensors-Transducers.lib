@@ -7,12 +7,12 @@ DEF MS580314BA01-00 U 0 30 Y Y 1 F N
 F0 "U" -250 350 60 H V C C N N
 F1 "MS580314BA01-00" 100 -300 60 H V R C N N
 F2 "digikey-footprints:Altimeter_MS580314BA" 200 200 60 H I L C N N
-F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English" 200 300 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English" 200 300 60 H I L C N N
 F4 "223-1626-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MS580314BA01-00" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/te-connectivity-measurement-specialties/MS580314BA01-00/223-1626-5-ND/5277631" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MINIATURE ALTIMETER MODULE" 200 1000 60 H I L CNN "Description"
 F11 "TE Connectivity Measurement Specialties" 200 1100 60 H I L CNN "Manufacturer"
@@ -96,12 +96,12 @@ DEF MPL115A1 U 0 40 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "MPL115A1" 100 -400 60 H V L C N N
 F2 "digikey-footprints:TLGA-8_3x5" 200 200 60 H I L C N N
-F3 "http://www.nxp.com/assets/documents/data/en/data-sheets/MPL115A1.pdf" 200 300 60 H I L C N N
+F3 "https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf" 200 300 60 H I L C N N
 F4 "MPL115A1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPL115A1" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
-F8 "http://www.nxp.com/assets/documents/data/en/data-sheets/MPL115A1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nxp-usa-inc/MPL115A1/MPL115A1-ND/2508974" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BAROMETER SPI DGTL MINI 8LGA" 200 1000 60 H I L CNN "Description"
 F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"

@@ -812,12 +812,12 @@ DEF ATMEGA32U4-AU U 0 40 Y Y 1 F N
 F0 "U" -400 1400 60 H V L C N N
 F1 "ATMEGA32U4-AU" 250 -150 60 V V C C N N
 F2 "digikey-footprints:TQFP-44_10x10mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590739" 200 300 60 H I L C N N
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf" 200 300 60 H I L C N N
 F4 "ATMEGA32U4-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA32U4-AU" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590739" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/ATMEGA32U4-AU/ATMEGA32U4-AU-ND/1914602" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MCU 8BIT 32KB FLASH 44TQFP" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
@@ -877,12 +877,12 @@ DEF ATSAMD21G18A-AUT U 0 40 Y Y 1 F N
 F0 "U" -400 1550 60 H V L C N N
 F1 "ATSAMD21G18A-AUT" 0 0 60 V V C C N N
 F2 "digikey-footprints:TQFP-48_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590209" 200 300 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en605782" 200 300 60 H I L C N N
 F4 "ATSAMD21G18A-AUTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATSAMD21G18A-AUT" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590209" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en605782" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/ATSAMD21G18A-AUT/ATSAMD21G18A-AUTCT-ND/4878879" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MCU 32BIT 256KB FLASH 48TQFP" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"

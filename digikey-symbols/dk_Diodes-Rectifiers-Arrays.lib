@@ -29,11 +29,11 @@ X ~ 3 300 0 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BAT54C_LTB
+# BAT54C_Obsolete
 #
-DEF BAT54C_LTB D 0 1 Y Y 1 F N
+DEF BAT54C_Obsolete D 0 1 Y Y 1 F N
 F0 "D" 0 200 60 H V C B N N
-F1 "BAT54C_LTB" 0 -200 60 H V C C N N
+F1 "BAT54C_Obsolete" 0 -200 60 H V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 300 60 H I L C N N
 F4 "BAT54CFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -44,7 +44,7 @@ F8 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 800 60 H I L CNN 
 F9 "/product-detail/en/on-semiconductor/BAT54C/BAT54CFSCT-ND/458929" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE ARRAY SCHOTTKY 30V SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 50 -50 50 -150 N
 P 2 0 1 0 50 50 50 150 N
@@ -85,11 +85,11 @@ X ~ 3 300 0 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BAV99_LTB
+# BAV99_Obsolete
 #
-DEF BAV99_LTB D 0 40 Y Y 1 F N
+DEF BAV99_Obsolete D 0 40 Y Y 1 F N
 F0 "D" 50 200 60 H V C B N N
-F1 "BAV99_LTB" 50 -200 60 H V C C N N
+F1 "BAV99_Obsolete" 50 -200 60 H V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BA/BAV99.pdf" 200 300 60 H I L C N N
 F4 "BAV99FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -100,7 +100,7 @@ F8 "https://www.fairchildsemi.com/datasheets/BA/BAV99.pdf" 200 800 60 H I L CNN 
 F9 "/product-detail/en/on-semiconductor/BAV99/BAV99FSCT-ND/458933" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE ARRAY GP 70V 200MA SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -50 -50 -50 -150 N
 P 2 0 1 0 50 150 50 50 N

@@ -195,7 +195,7 @@ $ENDCMP
 $CMP 151033RS03000
 D LED RED CLEAR 3MM ROUND T/H
 K 732-5013-ND WL-TMRW
-F http://katalog.we-online.de/led/datasheet/151033RS03000.pdf
+F https://katalog.we-online.de/led/datasheet/151033RS03000.pdf
 $ENDCMP
 #
 $CMP WP7113QBC_D

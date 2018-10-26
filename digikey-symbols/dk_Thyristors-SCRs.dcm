@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP 2N5060
 D SCR 0.8A 30V TO-92
 K 2N5060-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5060_SERIES.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5060_SERIES.PDF
 $ENDCMP
 #
 $CMP MCR218-4G

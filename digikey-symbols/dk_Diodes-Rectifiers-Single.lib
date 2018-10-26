@@ -323,12 +323,12 @@ DEF 1N4001-G D 0 0 N N 1 F N
 F0 "D" 0 100 60 H V C B N N
 F1 "1N4001-G" 0 -100 60 H V C C N N
 F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
-F3 "http://www.comchiptech.com/cms/UserFiles/QW-BG013 1N4001 Thru456224. 1N4007 REV.A.pdf" 200 300 60 H I L C N N
+F3 "http://www.comchiptech.com/admin/files/product/1N4001-G%20Thru.%201N4007-G%20RevB.pdf" 200 300 60 H I L C N N
 F4 "641-1310-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4001-G" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Rectifiers - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.comchiptech.com/cms/UserFiles/QW-BG013 1N4001 Thru456224. 1N4007 REV.A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.comchiptech.com/admin/files/product/1N4001-G%20Thru.%201N4007-G%20RevB.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/comchip-technology/1N4001-G/641-1310-1-ND/1979675" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 50V 1A DO41" 200 1000 60 H I L CNN "Description"
 F11 "Comchip Technology" 200 1100 60 H I L CNN "Manufacturer"
@@ -445,11 +445,11 @@ X ~ K 200 0 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# BAT54_LTB
+# BAT54_Obsolete
 #
-DEF BAT54_LTB D 0 0 Y Y 1 F N
+DEF BAT54_Obsolete D 0 0 Y Y 1 F N
 F0 "D" 0 100 60 H V C B N N
-F1 "BAT54_LTB" 50 -150 60 H V C C N N
+F1 "BAT54_Obsolete" 50 -150 60 H V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 300 60 H I L C N N
 F4 "BAT54FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -460,7 +460,7 @@ F8 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 800 60 H I L CNN 
 F9 "/product-detail/en/on-semiconductor/BAT54/BAT54FSCT-ND/458928" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE SCHOTTKY 30V 200MA SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 50 50 50 -50 N
 P 4 0 1 0 -50 50 -50 -50 50 0 -50 50 F

@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP MS580314BA01-00
 D MINIATURE ALTIMETER MODULE
 K 223-1626-5-ND 
-F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English
 $ENDCMP
 #
 $CMP LPS25HBTR
@@ -21,7 +21,7 @@ $ENDCMP
 $CMP MPL115A1
 D IC BAROMETER SPI DGTL MINI 8LGA
 K MPL115A1-ND 
-F http://www.nxp.com/assets/documents/data/en/data-sheets/MPL115A1.pdf
+F https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf
 $ENDCMP
 #
 $CMP MPL3115A2

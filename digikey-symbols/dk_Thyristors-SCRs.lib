@@ -7,12 +7,12 @@ DEF 2N5060 D 0 0 Y N 1 F N
 F0 "D" -100 75 50 H V C C N N
 F1 "2N5060" 50 -100 50 H V L C N N
 F2 "digikey-footprints:TO-92-3" 200 200 50 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5060_SERIES.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5060_SERIES.PDF" 200 300 60 H I L C N N
 F4 "2N5060-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5060" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Thyristors - SCRs" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5060_SERIES.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5060_SERIES.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N5060/2N5060-ND/4806901" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SCR 0.8A 30V TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"

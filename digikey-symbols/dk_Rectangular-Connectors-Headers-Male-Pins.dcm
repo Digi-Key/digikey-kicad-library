@@ -14,7 +14,7 @@ $ENDCMP
 #
 $CMP 0015912120
 D CONN HEADER 12POS .100" VERT TIN
-K WM17452-ND C-Grid® 71308
+K WM17452-ND C-Grid 71308
 F https://www.molex.com/pdm_docs/sd/015912120_sd.pdf
 $ENDCMP
 #

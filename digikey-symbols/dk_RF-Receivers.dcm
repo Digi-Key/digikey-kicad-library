@@ -9,7 +9,7 @@ $ENDCMP
 $CMP SI4703-C19-GM
 D IC FM RADIO TUNER 20-QFN
 K 336-1739-ND 
-F http://www.silabs.com/documents/public/data-sheets/Si4702-03-C19.pdf
+F https://www.silabs.com/documents/public/data-sheets/Si4702-03-C19.pdf
 $ENDCMP
 #
 $CMP CAM-M8C-0

@@ -247,12 +247,12 @@ DEF 2N2219A Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N2219A" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-39-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2219-19A.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2219-19A.PDF" 200 300 60 H I L C N N
 F4 "2N2219ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2219A" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2219-19A.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2219-19A.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N2219A/2N2219ACS-ND/5118734" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.8A TO-39" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -277,12 +277,12 @@ DEF 2N2222A Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N2222A" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-18-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF" 200 300 60 H I L C N N
 F4 "2N2222ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2222A" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N2222A/2N2222ACS-ND/4806845" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.8A TO-18" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -307,12 +307,12 @@ DEF 2N2222 Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N2222" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-18-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221.PDF" 200 300 60 H I L C N N
 F4 "2N2222CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2222" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N2222/2N2222CS-ND/4806844" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 30V 0.8A TO-18" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -337,12 +337,12 @@ DEF 2N2905A Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N2905A" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-39-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2904-5A.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2904-5A.PDF" 200 300 60 H I L C N N
 F4 "2N2905ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2905A" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2904-5A.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2904-5A.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N2905A/2N2905ACS-ND/4806852" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 60V 0.6A TO-39" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -367,12 +367,12 @@ DEF 2N2907A Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N2907A" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-18-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2906.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2906.PDF" 200 300 60 H I L C N N
 F4 "2N2907ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N2907A" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2906.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2906.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N2907A/2N2907ACS-ND/4806853" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 60V 0.6A TO-18" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -457,12 +457,12 @@ DEF 2N3904 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 300 60 H I L C N N
 F4 "2N3904CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N3904/2N3904CS-ND/4806876" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -637,12 +637,12 @@ DEF 2N3906 Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N3906" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 300 60 H I L C N N
 F4 "2N3906CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3906" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N3906/2N3906CS-ND/4806878" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -937,12 +937,12 @@ DEF 2N5087 Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N5087" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5086.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5086.PDF" 200 300 60 H I L C N N
 F4 "2N5087CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5087" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5086.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5086.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N5087/2N5087CS-ND/4806906" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 50V 0.05A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -997,12 +997,12 @@ DEF 2N5401_NonStock Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N5401_NonStock" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5400_5401.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5400_5401.PDF" 200 300 60 H I L C N N
 F4 "2N5401CS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5401" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5400_5401.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5400_5401.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N5401/2N5401CS-ND/5047975" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 150V 0.6A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -2311,11 +2311,11 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT2222A_LTB
+# MMBT2222A_Obsolete
 #
-DEF MMBT2222A_LTB Q 0 0 Y Y 1 F N
+DEF MMBT2222A_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
-F1 "MMBT2222A_LTB" 206 0 60 V V C C N N
+F1 "MMBT2222A_Obsolete" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT2222A.pdf" 200 300 60 H I L C N N
 F4 "MMBT2222AFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -2326,7 +2326,7 @@ F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT2222A.pdf" 200 800 60 H I L 
 F9 "/product-detail/en/on-semiconductor/MMBT2222A/MMBT2222AFSCT-ND/458969" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 1A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 128 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -2521,11 +2521,11 @@ X E 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT2907A
+# MMBT2907A_LTB
 #
-DEF MMBT2907A Q 0 0 Y Y 1 F N
+DEF MMBT2907A_LTB Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
-F1 "MMBT2907A" 200 0 60 V V C C N N
+F1 "MMBT2907A_LTB" 200 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf" 200 300 60 H I L C N N
 F4 "MMBT2907AFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -2536,7 +2536,7 @@ F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf" 200 800 60 H I L 
 F9 "/product-detail/en/on-semiconductor/MMBT2907A/MMBT2907AFSCT-ND/458970" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 60V 0.8A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 118 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -2611,11 +2611,11 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT3904_LTB
+# MMBT3904_Obsolete
 #
-DEF MMBT3904_LTB Q 0 0 Y Y 1 F N
+DEF MMBT3904_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
-F1 "MMBT3904_LTB" 206 0 60 V V C C N N
+F1 "MMBT3904_Obsolete" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
 F4 "MMBT3904FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -2626,7 +2626,7 @@ F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 800 60 H I L C
 F9 "/product-detail/en/on-semiconductor/MMBT3904/MMBT3904FSCT-ND/458971" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 128 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -2821,11 +2821,11 @@ X E 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT3906_LTB
+# MMBT3906_Obsolete
 #
-DEF MMBT3906_LTB Q 0 0 Y Y 1 F N
+DEF MMBT3906_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
-F1 "MMBT3906_LTB" 200 0 60 V V C C N N
+F1 "MMBT3906_Obsolete" 200 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 300 60 H I L C N N
 F4 "MMBT3906FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -2836,7 +2836,7 @@ F8 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 800 60 H I L CNN
 F9 "/product-detail/en/on-semiconductor/MMBT3906/MMBT3906FSCT-ND/458972" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.2A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 118 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -2911,11 +2911,11 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT4401
+# MMBT4401_LTB
 #
-DEF MMBT4401 Q 0 0 Y Y 1 F N
+DEF MMBT4401_LTB Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
-F1 "MMBT4401" 206 0 60 V V C C N N
+F1 "MMBT4401_LTB" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 300 60 H I L C N N
 F4 "MMBT4401FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -2926,7 +2926,7 @@ F8 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 800 60 H I L CNN
 F9 "/product-detail/en/on-semiconductor/MMBT4401/MMBT4401FSCT-ND/458974" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.6A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 128 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -2971,11 +2971,11 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT4403_LTB
+# MMBT4403_Obsolete
 #
-DEF MMBT4403_LTB Q 0 0 Y Y 1 F N
+DEF MMBT4403_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
-F1 "MMBT4403_LTB" 200 0 60 V V C C N N
+F1 "MMBT4403_Obsolete" 200 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 300 60 H I L C N N
 F4 "MMBT4403FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -2986,7 +2986,7 @@ F8 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 800 60 H I L CNN
 F9 "/product-detail/en/on-semiconductor/MMBT4403/MMBT4403FSCT-ND/458975" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.6A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 118 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -3367,12 +3367,12 @@ DEF PN2222A Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "PN2222A" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=PN2221-2222A.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=PN2221-2222A.PDF" 200 300 60 H I L C N N
 F4 "PN2222ACS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2222A" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=PN2221-2222A.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=PN2221-2222A.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/PN2222A/PN2222ACS-ND/4806937" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.8A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"
@@ -3541,11 +3541,11 @@ X C 3 100 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# PZT2222A_LTB
+# PZT2222A_Obsolete
 #
-DEF PZT2222A_LTB Q 0 0 Y Y 1 F N
+DEF PZT2222A_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
-F1 "PZT2222A_LTB" 206 0 60 V V C C N N
+F1 "PZT2222A_Obsolete" 206 0 60 V V C C N N
 F2 "digikey-footprints:Trans_SOT-223-4" 200 200 60 H I L C N N
 F3 "https://www.fairchildsemi.com/datasheets/PZ/PZT2222A.pdf" 200 300 60 H I L C N N
 F4 "PZT2222ACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -3556,7 +3556,7 @@ F8 "https://www.fairchildsemi.com/datasheets/PZ/PZT2222A.pdf" 200 800 60 H I L C
 F9 "/product-detail/en/on-semiconductor/PZT2222A/PZT2222ACT-ND/459005" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 1A SOT-223" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 128 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N

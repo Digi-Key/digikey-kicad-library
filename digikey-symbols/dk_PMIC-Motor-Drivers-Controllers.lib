@@ -101,6 +101,36 @@ X GND_PAD 29 300 -1200 100 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
+# DRV8871DDA
+#
+DEF DRV8871DDA U 0 20 Y Y 1 F N
+F0 "U" -250 150 60 H V C C N N
+F1 "DRV8871DDA" -100 250 60 H V R C N N
+F2 "digikey-footprints:PowerSOIC-8_W3.9mm" 200 200 60 H I L C N N
+F3 "http://www.ti.com/lit/ds/symlink/drv8871.pdf" 200 300 60 H I L C N N
+F4 "296-44509-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "DRV8871DDA" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/lit/ds/symlink/drv8871.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/DRV8871DDA/296-44509-5-ND/6110574" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC DRIVER DC MOTOR 3.6A" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 100 300 -300 0 1 0 f
+X GND 1 -100 -400 100 U 50 50 1 1 W
+X IN2 2 -400 -100 100 R 50 50 1 1 I
+X IN1 3 -400 0 100 R 50 50 1 1 I
+X ILIM 4 -400 -200 100 R 50 50 1 1 I
+X VM 5 0 200 100 D 50 50 1 1 W
+X OUT1 6 400 0 100 L 50 50 1 1 O
+X PGND 7 0 -400 100 U 50 50 1 1 W
+X OUT2 8 400 -100 100 L 50 50 1 1 O
+X ~ 9 100 -400 100 U 50 50 1 1 U
+ENDDRAW
+ENDDEF
+#
 # L293DNE
 #
 DEF L293DNE U 0 0 Y Y 2 L N

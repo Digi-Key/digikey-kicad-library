@@ -7,12 +7,12 @@ DEF 2N5457_NonStock Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "2N5457_NonStock" -252 -244 60 H V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5457-5459.PDF" 200 300 60 H I L C N N
+F3 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5457-5459.PDF" 200 300 60 H I L C N N
 F4 "2N5457-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5457" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - JFETs" 200 700 60 H I L CNN "Family"
-F8 "https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5457-5459.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5457-5459.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/central-semiconductor-corp/2N5457/2N5457-ND/4806918" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "JFET N-CH 25V 0.31W TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Central Semiconductor Corp" 200 1100 60 H I L CNN "Manufacturer"

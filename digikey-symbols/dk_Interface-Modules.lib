@@ -7,12 +7,12 @@ DEF WIZ810MJ U 0 40 Y Y 2 L N
 F0 "U" -390 850 60 H V L C N N
 F1 "WIZ810MJ" 0 0 60 V V C C N N
 F2 "digikey-footprints:WizNet_Module_WIZ810MJ" 200 200 60 H I L C N N
-F3 "http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf" 200 300 60 H I L C N N
+F3 "https://www.wiznet.io/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf" 200 300 60 H I L C N N
 F4 "1278-1020-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WIZ810MJ" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Modules" 200 700 60 H I L CNN "Family"
-F8 "http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.wiznet.io/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/wiznet/WIZ810MJ/1278-1020-ND/3829652" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MODULE W5100 + MAG JACK" 200 1000 60 H I L CNN "Description"
 F11 "WIZnet" 200 1100 60 H I L CNN "Manufacturer"

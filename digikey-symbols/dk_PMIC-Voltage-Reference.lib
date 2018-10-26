@@ -7,12 +7,12 @@ DEF TL431AQDBZR_215 VR 0 0 Y N 1 F N
 F0 "VR" -100 125 50 H V C C N N
 F1 "TL431AQDBZR_215" -225 0 50 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 50 H I L C N N
-F3 "https://assets.nexperia.com/documents/data-sheet/TL431_FAM.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Nexperia/TL431_Family.pdf" 200 300 60 H I L C N N
 F4 "1727-4259-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL431AQDBZR,215" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Reference" 200 700 60 H I L CNN "Family"
-F8 "https://assets.nexperia.com/documents/data-sheet/TL431_FAM.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Nexperia/TL431_Family.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nexperia-usa-inc/TL431AQDBZR,215/1727-4259-1-ND/2122611" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC VREF SHUNT ADJ SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Nexperia USA Inc." 200 1100 60 H I L CNN "Manufacturer"

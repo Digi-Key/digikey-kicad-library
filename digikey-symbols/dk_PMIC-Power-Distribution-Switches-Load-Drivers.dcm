@@ -19,7 +19,7 @@ F http://www.st.com/content/ccc/resource/technical/document/datasheet/e8/d7/48/2
 $ENDCMP
 #
 $CMP MIC2026-1YM-TR
-D IC SW DISTRIBUTION 2CHAN 8SOIC
+D IC PW DIST SW DUAL 8SOIC
 K 576-1059-1-ND 
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579448
 $ENDCMP

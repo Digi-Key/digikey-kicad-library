@@ -81,7 +81,7 @@ $ENDCMP
 $CMP 1N4001-G
 D DIODE GEN PURP 50V 1A DO41
 K 641-1310-1-ND 
-F http://www.comchiptech.com/cms/UserFiles/QW-BG013 1N4001 Thru456224. 1N4007 REV.A.pdf
+F http://www.comchiptech.com/admin/files/product/1N4001-G%20Thru.%201N4007-G%20RevB.pdf
 $ENDCMP
 #
 $CMP B240A-13-F
@@ -108,7 +108,7 @@ K B560C-FDICT-ND
 F https://www.diodes.com/assets/Datasheets/ds13012.pdf
 $ENDCMP
 #
-$CMP BAT54_LTB
+$CMP BAT54_Obsolete
 D DIODE SCHOTTKY 30V 200MA SOT23-3
 K BAT54FSCT-ND 
 F https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf

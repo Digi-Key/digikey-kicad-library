@@ -3,19 +3,19 @@ EESchema-DOCLIB  Version 2.0
 $CMP WIZ820IO
 D IC MODULE W5200+MAG JACK
 K 1278-1015-ND 
-F http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ820io/Document/WIZ820io_User_Manual_V1.0.pdf
+F https://www.wiznet.io/wp-content/uploads/wiznethome/Network%20Module/WIZ820io/Document/WIZ820io_User_Manual_V1.0.pdf
 $ENDCMP
 #
 $CMP W5500
 D IC CTLR 3-1 ETH TCP/IP 48LQFP
 K 1278-1021-ND 
-F http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v106e_141230.pdf
+F http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v108e.pdf
 $ENDCMP
 #
 $CMP CP2102-GMR_NRND
 D IC USB-TO-UART BRIDGE 28VQFN
 K 336-1160-1-ND 
-F http://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf
+F https://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf
 $ENDCMP
 #
 $CMP CP2104-F03-GM_NRND
@@ -33,13 +33,13 @@ $ENDCMP
 $CMP FT232RL-REEL
 D IC USB FS SERIAL UART 28-SSOP
 K 768-1007-1-ND USBmadeEZ-UART
-F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
 $ENDCMP
 #
 $CMP FT232RQ-REEL
 D IC USB FS SERIAL UART 32-QFN
 K 768-1008-1-ND USBmadeEZ-UART
-F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf
 $ENDCMP
 #
 $CMP FT2232D-REEL

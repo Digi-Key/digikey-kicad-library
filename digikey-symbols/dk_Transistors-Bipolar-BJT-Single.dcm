@@ -51,31 +51,31 @@ $ENDCMP
 $CMP 2N2219A
 D TRANS NPN 40V 0.8A TO-39
 K 2N2219ACS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2219-19A.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2219-19A.PDF
 $ENDCMP
 #
 $CMP 2N2222A
 D TRANS NPN 40V 0.8A TO-18
 K 2N2222ACS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221A.PDF
 $ENDCMP
 #
 $CMP 2N2222
 D TRANS NPN 30V 0.8A TO-18
 K 2N2222CS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2221.PDF
 $ENDCMP
 #
 $CMP 2N2905A
 D TRANS PNP 60V 0.6A TO-39
 K 2N2905ACS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2904-5A.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2904-5A.PDF
 $ENDCMP
 #
 $CMP 2N2907A
 D TRANS PNP 60V 0.6A TO-18
 K 2N2907ACS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2906.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N2906.PDF
 $ENDCMP
 #
 $CMP 2N3055G
@@ -93,7 +93,7 @@ $ENDCMP
 $CMP 2N3904
 D TRANS NPN 40V TO-92
 K 2N3904CS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF
 $ENDCMP
 #
 $CMP 2N3904TFR
@@ -129,7 +129,7 @@ $ENDCMP
 $CMP 2N3906
 D TRANS PNP 40V TO-92
 K 2N3906CS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=LSSGP072.PDF
 $ENDCMP
 #
 $CMP 2N3906TFR
@@ -189,7 +189,7 @@ $ENDCMP
 $CMP 2N5087
 D TRANS PNP 50V 0.05A TO-92
 K 2N5087CS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5086.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5086.PDF
 $ENDCMP
 #
 $CMP 2N5088BU_Obsolete
@@ -201,7 +201,7 @@ $ENDCMP
 $CMP 2N5401_NonStock
 D TRANS PNP 150V 0.6A TO-92
 K 2N5401CS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5400_5401.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=2N5400_5401.PDF
 $ENDCMP
 #
 $CMP 2N5551TA
@@ -462,7 +462,7 @@ K MMBT2222A-FDICT-ND Automotive, AEC-Q101
 F https://www.diodes.com/assets/Datasheets/ds30041.pdf
 $ENDCMP
 #
-$CMP MMBT2222A_LTB
+$CMP MMBT2222A_Obsolete
 D TRANS NPN 40V 1A SOT-23
 K MMBT2222AFSCT-ND 
 F https://www.fairchildsemi.com/datasheets/MM/MMBT2222A.pdf
@@ -504,7 +504,7 @@ K MMBT2907A-TPMSCT-ND
 F http://www.mccsemi.com/up_pdf/MMBT2907A(SOT-23).pdf
 $ENDCMP
 #
-$CMP MMBT2907A
+$CMP MMBT2907A_LTB
 D TRANS PNP 60V 0.8A SOT-23
 K MMBT2907AFSCT-ND 
 F https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf
@@ -522,7 +522,7 @@ K MMBT3904-FDICT-ND Automotive, AEC-Q101
 F https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/MMBT3904.pdf
 $ENDCMP
 #
-$CMP MMBT3904_LTB
+$CMP MMBT3904_Obsolete
 D TRANS NPN 40V 0.2A SOT-23
 K MMBT3904FSCT-ND 
 F https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf
@@ -564,7 +564,7 @@ K MMBT3906-TPCT-ND
 F http://www.mccsemi.com/up_pdf/MMBT3906(SOT-23).pdf
 $ENDCMP
 #
-$CMP MMBT3906_LTB
+$CMP MMBT3906_Obsolete
 D TRANS PNP 40V 0.2A SOT-23
 K MMBT3906FSCT-ND 
 F https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf
@@ -582,7 +582,7 @@ K MMBT4401-FDICT-ND Automotive, AEC-Q101
 F https://www.diodes.com/assets/Datasheets/ds30039.pdf
 $ENDCMP
 #
-$CMP MMBT4401
+$CMP MMBT4401_LTB
 D TRANS NPN 40V 0.6A SOT-23
 K MMBT4401FSCT-ND 
 F https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf
@@ -594,7 +594,7 @@ K MMBT4401LT1GOSCT-ND
 F http://www.onsemi.com/pub/Collateral/MMBT4401LT1-D.PDF
 $ENDCMP
 #
-$CMP MMBT4403_LTB
+$CMP MMBT4403_Obsolete
 D TRANS PNP 40V 0.6A SOT-23
 K MMBT4403FSCT-ND 
 F https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf
@@ -675,7 +675,7 @@ $ENDCMP
 $CMP PN2222A
 D TRANS NPN 40V 0.8A TO-92
 K PN2222ACS-ND 
-F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=PN2221-2222A.PDF
+F https://my.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=PN2221-2222A.PDF
 $ENDCMP
 #
 $CMP PN2222ATFR
@@ -708,7 +708,7 @@ K PN2907ABUFS-ND
 F https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf
 $ENDCMP
 #
-$CMP PZT2222A_LTB
+$CMP PZT2222A_Obsolete
 D TRANS NPN 40V 1A SOT-223
 K PZT2222ACT-ND 
 F https://www.fairchildsemi.com/datasheets/PZ/PZT2222A.pdf

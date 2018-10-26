@@ -138,13 +138,13 @@ K LF356N/NOPB-ND BI-FET™
 F http://www.ti.com/lit/ds/symlink/lf356.pdf
 $ENDCMP
 #
-$CMP LM324N488
+$CMP LM324N488_NonStock
 D IC OPAMP GP 14DIP
 K LM324NFS-ND 
 F https://www.fairchildsemi.com/datasheets/LM/LM2902.pdf
 $ENDCMP
 #
-$CMP LM358AN
+$CMP LM358AN_NonStock
 D IC OPAMP GP 8DIP
 K LM358ANFS-ND 
 F https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf

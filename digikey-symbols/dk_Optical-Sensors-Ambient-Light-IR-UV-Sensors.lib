@@ -221,12 +221,12 @@ DEF TSL235R-LF U 0 20 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "TSL235R-LF" 100 -300 60 H V L C N N
 F2 "digikey-footprints:Light_to_Freq_TSL235R-LF" 200 200 60 H I L C N N
-F3 "http://ams.com/documents/20143/36005/TSL235R_DS000120_2-00.pdf" 200 300 60 H I L C N N
+F3 "https://ams.com/documents/20143/36005/TSL235R_DS000120_3-00.pdf" 200 300 60 H I L C N N
 F4 "TSL235-R-LF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TSL235R-LF" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
-F8 "http://ams.com/documents/20143/36005/TSL235R_DS000120_2-00.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://ams.com/documents/20143/36005/TSL235R_DS000120_3-00.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/ams/TSL235R-LF/TSL235-R-LF-ND/3095040" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LIGHT TO FREQUENCY CONV 3PIN" 200 1000 60 H I L CNN "Description"
 F11 "ams" 200 1100 60 H I L CNN "Manufacturer"

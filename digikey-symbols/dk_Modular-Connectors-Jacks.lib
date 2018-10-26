@@ -53,12 +53,12 @@ DEF 87180-062LF J 0 40 Y Y 1 F N
 F0 "J" -450 340 50 H V R C N N
 F1 "87180-062LF" -50 -445 50 H V C C N N
 F2 "digikey-footprints:Phone_Jack_87180-062LF" 200 200 50 H I L C N N
-F3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/87180.pdf" 200 300 60 H I L C N N
+F3 "http://www.amphenol-icc.com/media/wysiwyg/files/drawing/87180.pdf" 200 300 60 H I L C N N
 F4 "609-1055-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "87180-062LF" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "Modular Connectors - Jacks" 200 700 60 H I L CNN "Family"
-F8 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/87180.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.amphenol-icc.com/media/wysiwyg/files/drawing/87180.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/amphenol-fci/87180-062LF/609-1055-ND/1001369" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN MOD JACK 6P2C R/A UNSHLD" 200 1000 60 H I L CNN "Description"
 F11 "Amphenol FCI" 200 1100 60 H I L CNN "Manufacturer"
@@ -93,12 +93,12 @@ DEF RJLSE4208101T J 0 40 Y Y 1 F N
 F0 "J" -400 350 50 H V R C N N
 F1 "RJLSE4208101T" 50 -120 50 H V C C N N
 F2 "digikey-footprints:Ethernet_Jack_RJLSE4208101T" 200 200 50 H I L C N N
-F3 "https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJLSE4X0XX01X.pdf" 200 300 60 H I L C N N
+F3 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/rjlse4x0xx01x.pdf" 200 300 60 H I L C N N
 F4 "RJLSE4208101TTR-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RJLSE4208101T" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "Modular Connectors - Jacks" 200 700 60 H I L CNN "Family"
-F8 "https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJLSE4X0XX01X.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/rjlse4x0xx01x.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/amphenol-commercial-products/RJLSE4208101T/RJLSE4208101TTR-ND/1979555" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN MOD JACK 8P8C R/A UNSHLD" 200 1000 60 H I L CNN "Description"
 F11 "Amphenol Commercial Products" 200 1100 60 H I L CNN "Manufacturer"

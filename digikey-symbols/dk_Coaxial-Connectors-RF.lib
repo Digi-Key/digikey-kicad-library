@@ -7,12 +7,12 @@ DEF 5-1814832-1 J 0 40 Y Y 1 F N
 F0 "J" -100 50 60 H V C C N N
 F1 "5-1814832-1" 50 -100 60 H V L C N N
 F2 "digikey-footprints:RF_SMA_Vertical_5-1814832-1" 200 200 60 H I L C N N
-F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
 F4 "A97594-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "5-1814832-1" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "Coaxial Connectors (RF)" 200 700 60 H I L CNN "Family"
-F8 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/te-connectivity-amp-connectors/5-1814832-1/A97594-ND/1755982" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN SMA JACK STR 50 OHM PCB" 200 1000 60 H I L CNN "Description"
 F11 "TE Connectivity AMP Connectors" 200 1100 60 H I L CNN "Manufacturer"

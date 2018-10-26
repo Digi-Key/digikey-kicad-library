@@ -9,7 +9,7 @@ $ENDCMP
 $CMP LTC4359IMS8_PBF
 D IC OR CTRLR N+1 8MSOP
 K LTC4359IMS8#PBF-ND 
-F http://www.linear.com/docs/41608
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ltc4359.pdf
 $ENDCMP
 #
 $CMP LTC4412ES6_TRMPBF

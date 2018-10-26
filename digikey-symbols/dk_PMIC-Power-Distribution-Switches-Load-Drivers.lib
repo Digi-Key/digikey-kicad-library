@@ -93,7 +93,7 @@ F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Power Distribution Switches, Load Drivers" 200 700 60 H I L CNN "Family"
 F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579448" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/MIC2026-1YM-TR/576-1059-1-ND/771825" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC SW DISTRIBUTION 2CHAN 8SOIC" 200 1000 60 H I L CNN "Description"
+F10 "IC PW DIST SW DUAL 8SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP TL431AQDBZR_215
 D IC VREF SHUNT ADJ SOT23-3
 K 1727-4259-1-ND 
-F https://assets.nexperia.com/documents/data-sheet/TL431_FAM.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/Nexperia/TL431_Family.pdf
 $ENDCMP
 #
 $CMP TL431AIDBZR

@@ -558,11 +558,11 @@ X ADC1 19 -500 -200 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# NL-SW-LTE-GELS3-C
+# NL-SW-LTE-GELS3-C_Discontinued
 #
-DEF NL-SW-LTE-GELS3-C MOD 0 40 Y Y 1 F N
+DEF NL-SW-LTE-GELS3-C_Discontinued MOD 0 40 Y Y 1 F N
 F0 "MOD" -350 850 60 H V C C N N
-F1 "NL-SW-LTE-GELS3-C" 0 200 60 V V C C N N
+F1 "NL-SW-LTE-GELS3-C_Discontinued" 0 200 60 V V C C N N
 F2 "digikey-footprints:Cellular_Modem_NL-SW-LTE-GELS3-C" 200 200 60 H I L C N N
 F3 "https://nimbelink.com/Documentation/Skywire/4G_LTE_Cat_1/30122_NL-SW-LTE-GELS3_Datasheet.pdf" 200 300 60 H I L C N N
 F4 "1477-1048-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -571,9 +571,9 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
 F8 "https://nimbelink.com/Documentation/Skywire/4G_LTE_Cat_1/30122_NL-SW-LTE-GELS3_Datasheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nimbelink-llc/NL-SW-LTE-GELS3-C/1477-1048-ND/6928212" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "RF TXRX MODULE CELLULAR U.FL ANT" 200 1000 60 H I L CNN "Description"
+F10 "RF TXRX CELL 4G LTE CAT1 VERIZON" 200 1000 60 H I L CNN "Description"
 F11 "NimbeLink, LLC" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Discontinued at Digi-Key NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S -500 800 300 -400 0 1 0 f
 X VCC 1 0 900 100 D 50 50 1 1 W
@@ -656,9 +656,9 @@ F5 "BC127-1103383" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
 F8 "https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/bluecreation/BC127-1103383/1495-1000-1-ND/4733175" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/sierra-wireless/BC127-1103383/1495-1000-1-ND/4733175" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MOD BLUETOOTH CHIP ANT" 200 1000 60 H I L CNN "Description"
-F11 "BlueCreation" 200 1100 60 H I L CNN "Manufacturer"
+F11 "Sierra Wireless" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -600 600 800 -1500 0 1 0 f
@@ -728,9 +728,9 @@ F5 "BC118-1103394" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
 F8 "https://media.digikey.com/pdf/Data%20Sheets/BlueCreation%20PDFs/BC118_DS.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/bluecreation/BC118-1103394/1495-1003-1-ND/4860037" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/sierra-wireless/BC118-1103394/1495-1003-1-ND/4860037" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MOD BLUETOOTH CHIP ANT" 200 1000 60 H I L CNN "Description"
-F11 "BlueCreation" 200 1100 60 H I L CNN "Manufacturer"
+F11 "Sierra Wireless" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -800 500 700 -800 0 1 0 f
@@ -1460,12 +1460,12 @@ DEF XBP9B-DMST-002 MOD 0 40 Y Y 1 F N
 F0 "MOD" -709 646 60 H V L C N N
 F1 "XBP9B-DMST-002" 38 -549 60 H V L C N N
 F2 "digikey-footprints:XBEE_PRO-20_THT" 200 200 60 H I L C N N
-F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 H I L C N N
+F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 300 60 H I L C N N
 F4 "602-1299-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DMST-002" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/digi-international/XBP9B-DMST-002/602-1299-ND/3594157" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MODULE ISM<1GHZ RP-SMA" 200 1000 60 H I L CNN "Description"
 F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"
@@ -1501,12 +1501,12 @@ DEF XBP9B-DMUT-002 MOD 0 40 Y Y 1 F N
 F0 "MOD" -500 400 60 H V C C N N
 F1 "XBP9B-DMUT-002" 33 -854 60 H V L C N N
 F2 "digikey-footprints:XBEE_PRO-20_THT" 200 200 60 H I L C N N
-F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 H I L C N N
+F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 300 60 H I L C N N
 F4 "602-1300-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DMUT-002" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/digi-international/XBP9B-DMUT-002/602-1300-ND/3594158" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MODULE ISM<1GHZ U.FL ANT" 200 1000 60 H I L CNN "Description"
 F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"
@@ -1542,12 +1542,12 @@ DEF XBP9B-DMWT-002 MOD 0 40 Y Y 1 F N
 F0 "MOD" -500 1148 60 H V L C N N
 F1 "XBP9B-DMWT-002" 36 -150 60 H V L C N N
 F2 "digikey-footprints:XBEE_PRO-20_THT" 200 200 60 H I L C N N
-F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 H I L C N N
+F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 300 60 H I L C N N
 F4 "602-1301-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DMWT-002" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/digi-international/XBP9B-DMWT-002/602-1301-ND/3594159" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MODULE ISM<1GHZ WIRE ANT" 200 1000 60 H I L CNN "Description"
 F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"
@@ -1583,12 +1583,12 @@ DEF XBP9B-DMSTB002 MOD 0 40 Y Y 1 F N
 F0 "MOD" -709 746 60 H V L C N N
 F1 "XBP9B-DMSTB002" -77 -444 60 H V L C N N
 F2 "digikey-footprints:XBEE_PRO-20_THT" 200 200 60 H I L C N N
-F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 H I L C N N
+F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 300 60 H I L C N N
 F4 "602-1346-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DMSTB002" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/digi-international/XBP9B-DMSTB002/602-1346-ND/3863548" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MODULE ISM<1GHZ RP-SMA" 200 1000 60 H I L CNN "Description"
 F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"
@@ -1624,12 +1624,12 @@ DEF XBP9B-DPST-001 MOD 0 40 Y Y 1 F N
 F0 "MOD" -709 646 60 H V L C N N
 F1 "XBP9B-DPST-001" 38 -549 60 H V L C N N
 F2 "digikey-footprints:XBEE_PRO-20_THT" 200 200 60 H I L C N N
-F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 H I L C N N
+F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 300 60 H I L C N N
 F4 "602-1349-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XBP9B-DPST-001" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/digi-international/XBP9B-DPST-001/602-1349-ND/3594160" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MODULE ISM<1GHZ RP-SMA" 200 1000 60 H I L CNN "Description"
 F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"
@@ -1665,12 +1665,12 @@ DEF XB2B-WFWT-001 MOD 0 40 Y Y 1 F N
 F0 "MOD" -609 646 60 H V L C N N
 F1 "XB2B-WFWT-001" -83 -448 60 H V L C N N
 F2 "digikey-footprints:XBEE_PRO-20_THT" 200 200 60 H I L C N N
-F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 H I L C N N
+F3 "https://www.digi.com/pdf/ds_xbeewifis6b.pdf" 200 300 60 H I L C N N
 F4 "602-1377-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XB2B-WFWT-001" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.digi.com/pdf/ds_xbeewifis6b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/digi-international/XB2B-WFWT-001/602-1377-ND/3946451" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MODULE WIFI WIRE ANT" 200 1000 60 H I L CNN "Description"
 F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"
@@ -1706,12 +1706,12 @@ DEF XB2B-WFST-001 MOD 0 40 Y Y 1 F N
 F0 "MOD" -704 746 60 H V L C N N
 F1 "XB2B-WFST-001" 32 -446 60 H V L C N N
 F2 "digikey-footprints:XBEE-20_THT" 200 200 60 H I L C N N
-F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 H I L C N N
+F3 "https://www.digi.com/pdf/ds_xbeewifis6b.pdf" 200 300 60 H I L C N N
 F4 "602-1380-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XB2B-WFST-001" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.digi.com/pdf/ds_xbeewifis6b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/digi-international/XB2B-WFST-001/602-1380-ND/3946448" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MODULE WIFI RP-SMA ANT" 200 1000 60 H I L CNN "Description"
 F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"

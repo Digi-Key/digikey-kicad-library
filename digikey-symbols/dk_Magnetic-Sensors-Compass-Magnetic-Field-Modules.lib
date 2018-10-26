@@ -13,9 +13,9 @@ F5 "HMC6343" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Magnetic Sensors - Compass, Magnetic Field (Modules)" 200 700 60 H I L CNN "Family"
 F8 "https://aerocontent.honeywell.com/aero/common/documents/myaerospacecatalog-documents/Missiles-Munitions/HMC6343.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/honeywell-microelectronics-precision-sensors/HMC6343/342-1056-ND/1692480" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/honeywell-aerospace/HMC6343/342-1056-ND/1692480" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "3-AXIS DIGITAL COMPASS SOLUTION" 200 1000 60 H I L CNN "Description"
-F11 "Honeywell Microelectronics & Precision Sensors" 200 1100 60 H I L CNN "Manufacturer"
+F11 "Honeywell Aerospace" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -400 700 400 -1000 0 1 0 f

@@ -14,7 +14,7 @@ F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
 F7 "Oscillators" 200 700 60 H I L CNN "Family"
 F8 "https://www.sitime.com/datasheet/SiT1533" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/sitime/SIT1533AI-H4-DCC-32.768E/1473-1239-1-ND/4898151" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OSC MEMS 32.768KHZ LVCMOS SMD" 200 1000 60 H I L CNN "Description"
+F10 "MEMS OSC XO 32.7680KHZ LVCMOS" 200 1000 60 H I L CNN "Description"
 F11 "SiTIME" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -39,7 +39,7 @@ F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
 F7 "Oscillators" 200 700 60 H I L CNN "Family"
 F8 "https://media.digikey.com/pdf/Data%20Sheets/SiTime%20PDFs/SIT9102A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/sitime/SIT9102AI-243N25E200.00000Y/1473-1521-1-ND/6166268" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OSC MEMS 200.000MHZ LVDS SMD" 200 1000 60 H I L CNN "Description"
+F10 "MEMS OSC XO 200.0000MHZ LVDS SMD" 200 1000 60 H I L CNN "Description"
 F11 "SiTIME" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -50,6 +50,35 @@ X GND 3 -100 -300 100 U 50 50 1 1 W
 X OUT+ 4 300 0 100 L 50 50 1 1 O
 X OUT- 5 300 -100 100 L 50 50 1 1 O
 X VDD 6 -100 300 100 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# 570CAC000141DG
+#
+DEF 570CAC000141DG Y 0 1 Y Y 1 F N
+F0 "Y" -300 240 60 H V L C N N
+F1 "570CAC000141DG" -90 -350 60 H V L C N N
+F2 "digikey-footprints:SMD-8_7x5mm" 200 200 60 H I L C N N
+F3 "https://www.silabs.com/documents/public/data-sheets/si570.pdf" 200 300 60 H I L C N N
+F4 "336-2518-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "570CAC000141DG" 200 500 60 H I L CNN "MPN"
+F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
+F7 "Oscillators" 200 700 60 H I L CNN "Family"
+F8 "https://www.silabs.com/documents/public/data-sheets/si570.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/silicon-labs/570CAC000141DG/336-2518-ND/3991067" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "XTAL OSC XO 56.3200MHZ CMOS SMD" 200 1000 60 H I L CNN "Description"
+F11 "Silicon Labs" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 200 -300 0 1 0 f
+X NC 1 -300 0 100 R 50 50 1 1 N N
+X OE 2 -400 100 100 R 50 50 1 1 I
+X GND 3 -100 -400 100 U 50 50 1 1 W
+X Out+ 4 300 100 100 L 50 50 1 1 O
+X Out- 5 300 0 100 L 50 50 1 1 O
+X VDD 6 -100 300 100 D 50 50 1 1 W
+X SDA 7 -400 -200 100 R 50 50 1 1 B
+X SCL 8 -400 -100 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
@@ -66,7 +95,7 @@ F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
 F7 "Oscillators" 200 700 60 H I L CNN "Family"
 F8 "http://www.foxonline.com/pdfs/FXO_HC53.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/idt-integrated-device-technology-inc/XLH536025.000000I/631-1156-1-ND/2074684" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OSC XO 25.000MHZ HCMOS SMD" 200 1000 60 H I L CNN "Description"
+F10 "XTAL OSC XO 25.0000MHZ HCMOS SMD" 200 1000 60 H I L CNN "Description"
 F11 "IDT, Integrated Device Technology Inc" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -91,7 +120,7 @@ F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
 F7 "Oscillators" 200 700 60 H I L CNN "Family"
 F8 "http://www.foxonline.com/pdfs/FXO_HC73.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/idt-integrated-device-technology-inc/XLH736022.579200I/631-1277-ND/3189602" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OSC XO 22.5792MHZ HCMOS SMD" 200 1000 60 H I L CNN "Description"
+F10 "XTAL OSC XO 22.5792MHZ HCMOS SMD" 200 1000 60 H I L CNN "Description"
 F11 "IDT, Integrated Device Technology Inc" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -116,7 +145,7 @@ F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
 F7 "Oscillators" 200 700 60 H I L CNN "Family"
 F8 "http://www.foxonline.com/pdfs/FXO_LC73.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/idt-integrated-device-technology-inc/XLL736200.000000I/631-1362-ND/2157622" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "OSC XO 200.000MHZ LVDS SMD" 200 1000 60 H I L CNN "Description"
+F10 "XTAL OSC XO 200.0000MHZ LVDS SMD" 200 1000 60 H I L CNN "Description"
 F11 "IDT, Integrated Device Technology Inc" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

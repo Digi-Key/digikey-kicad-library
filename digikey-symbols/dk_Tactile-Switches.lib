@@ -7,12 +7,12 @@ DEF 1825910-6 S 0 40 Y Y 1 F N
 F0 "S" 0 180 60 H V C C N N
 F1 "1825910-6" 5 -200 60 H V C C N N
 F2 "digikey-footprints:Switch_Tactile_THT_6x6mm" 200 200 60 H I L C N N
-F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
 F4 "450-1650-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1825910-6" 200 500 60 H I L CNN "MPN"
 F6 "Switches" 200 600 60 H I L CNN "Category"
 F7 "Tactile Switches" 200 700 60 H I L CNN "Family"
-F8 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SWITCH TACTILE SPST-NO 0.05A 24V" 200 1000 60 H I L CNN "Description"
 F11 "TE Connectivity ALCOSWITCH Switches" 200 1100 60 H I L CNN "Manufacturer"
@@ -40,12 +40,12 @@ DEF FSM4JSMATR S 0 40 Y Y 1 F N
 F0 "S" 0 200 60 H V C C N N
 F1 "FSM4JSMATR" 0 -200 60 H V C C N N
 F2 "digikey-footprints:Switch_Tactile_SMD_6x6mm" 200 200 60 H I L C N N
-F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2-1437565-7&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2-1437565-7&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
 F4 "450-1759-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FSM4JSMATR" 200 500 60 H I L CNN "MPN"
 F6 "Switches" 200 600 60 H I L CNN "Category"
 F7 "Tactile Switches" 200 700 60 H I L CNN "Family"
-F8 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2-1437565-7&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2-1437565-7&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/te-connectivity-alcoswitch-switches/FSM4JSMATR/450-1759-1-ND/2271638" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SWITCH TACTILE SPST-NO 0.05A 24V" 200 1000 60 H I L CNN "Description"
 F11 "TE Connectivity ALCOSWITCH Switches" 200 1100 60 H I L CNN "Manufacturer"
@@ -73,12 +73,12 @@ DEF 1825910-7 S 0 40 Y Y 1 F N
 F0 "S" 0 180 60 H V C C N N
 F1 "1825910-7" 0 -225 60 H V C C N N
 F2 "digikey-footprints:Switch_Tactile_THT_6x6mm" 200 200 60 H I L C N N
-F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
 F4 "450-1804-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1825910-7" 200 500 60 H I L CNN "MPN"
 F6 "Switches" 200 600 60 H I L CNN "Category"
 F7 "Tactile Switches" 200 700 60 H I L CNN "Family"
-F8 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-7/450-1804-ND/1731414" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SWITCH TACTILE SPST-NO 0.05A 24V" 200 1000 60 H I L CNN "Description"
 F11 "TE Connectivity ALCOSWITCH Switches" 200 1100 60 H I L CNN "Manufacturer"
@@ -205,12 +205,12 @@ DEF B3U-1000P S 0 40 Y Y 1 F N
 F0 "S" 0 160 60 H V C C N N
 F1 "B3U-1000P" 0 -100 60 H V C C N N
 F2 "digikey-footprints:Switch_Tactile_SMD_B3U-1000P" 200 200 60 H I L C N N
-F3 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf" 200 300 60 H I L C N N
+F3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf" 200 300 60 H I L C N N
 F4 "SW1020CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "B3U-1000P" 200 500 60 H I L CNN "MPN"
 F6 "Switches" 200 600 60 H I L CNN "Category"
 F7 "Tactile Switches" 200 700 60 H I L CNN "Family"
-F8 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/omron-electronics-inc-emc-div/B3U-1000P/SW1020CT-ND/1534357" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SWITCH TACTILE SPST-NO 0.05A 12V" 200 1000 60 H I L CNN "Description"
 F11 "Omron Electronics Inc-EMC Div" 200 1100 60 H I L CNN "Manufacturer"
@@ -234,12 +234,12 @@ DEF B3F-1000 S 0 40 Y Y 1 F N
 F0 "S" 0 200 60 H V C C N N
 F1 "B3F-1000" 0 -200 60 H V C C N N
 F2 "digikey-footprints:Switch_Tactile_THT_B3F-1xxx" 200 200 60 H I L C N N
-F3 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 300 60 H I L C N N
+F3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 300 60 H I L C N N
 F4 "SW400-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "B3F-1000" 200 500 60 H I L CNN "MPN"
 F6 "Switches" 200 600 60 H I L CNN "Category"
 F7 "Tactile Switches" 200 700 60 H I L CNN "Family"
-F8 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/omron-electronics-inc-emc-div/B3F-1000/SW400-ND/33150" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SWITCH TACTILE SPST-NO 0.05A 24V" 200 1000 60 H I L CNN "Description"
 F11 "Omron Electronics Inc-EMC Div" 200 1100 60 H I L CNN "Manufacturer"
@@ -267,12 +267,12 @@ DEF B3F-1052 S 0 40 Y Y 1 F N
 F0 "S" 0 200 60 H V C C N N
 F1 "B3F-1052" 0 -200 60 H V C C N N
 F2 "digikey-footprints:Switch_Tactile_THT_B3F-1xxx" 200 200 60 H I L C N N
-F3 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 300 60 H I L C N N
+F3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 300 60 H I L C N N
 F4 "SW405-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "B3F-1052" 200 500 60 H I L CNN "MPN"
 F6 "Switches" 200 600 60 H I L CNN "Category"
 F7 "Tactile Switches" 200 700 60 H I L CNN "Family"
-F8 "http://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/omron-electronics-inc-emc-div/B3F-1052/SW405-ND/44068" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SWITCH TACTILE SPST-NO 0.05A 24V" 200 1000 60 H I L CNN "Description"
 F11 "Omron Electronics Inc-EMC Div" 200 1100 60 H I L CNN "Manufacturer"

@@ -60,8 +60,8 @@ K 1477-1011-ND Skywire™
 F https://nimbelink.com/Documentation/Skywire/4G_LTE_Cat_3/30012_NL-SW-LTE_Datasheet.pdf
 $ENDCMP
 #
-$CMP NL-SW-LTE-GELS3-C
-D RF TXRX MODULE CELLULAR U.FL ANT
+$CMP NL-SW-LTE-GELS3-C_Discontinued
+D RF TXRX CELL 4G LTE CAT1 VERIZON
 K 1477-1048-ND Skywire™
 F https://nimbelink.com/Documentation/Skywire/4G_LTE_Cat_1/30122_NL-SW-LTE-GELS3_Datasheet.pdf
 $ENDCMP
@@ -171,43 +171,43 @@ $ENDCMP
 $CMP XBP9B-DMST-002
 D RF TXRX MODULE ISM<1GHZ RP-SMA
 K 602-1299-ND XBee-Pro® 900HP
-F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
+F https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf
 $ENDCMP
 #
 $CMP XBP9B-DMUT-002
 D RF TXRX MODULE ISM<1GHZ U.FL ANT
 K 602-1300-ND XBee-Pro® 900HP
-F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
+F https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf
 $ENDCMP
 #
 $CMP XBP9B-DMWT-002
 D RF TXRX MODULE ISM<1GHZ WIRE ANT
 K 602-1301-ND XBee-Pro® 900HP
-F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
+F https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf
 $ENDCMP
 #
 $CMP XBP9B-DMSTB002
 D RF TXRX MODULE ISM<1GHZ RP-SMA
 K 602-1346-ND XBee-Pro® 900HP
-F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
+F https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf
 $ENDCMP
 #
 $CMP XBP9B-DPST-001
 D RF TXRX MODULE ISM<1GHZ RP-SMA
 K 602-1349-ND XBee-Pro® 900HP
-F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
+F https://www.digi.com/resources/documentation/digidocs/pdfs/90002173.pdf
 $ENDCMP
 #
 $CMP XB2B-WFWT-001
 D RF TXRX MODULE WIFI WIRE ANT
 K 602-1377-ND XBee® Wi-Fi
-F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
+F https://www.digi.com/pdf/ds_xbeewifis6b.pdf
 $ENDCMP
 #
 $CMP XB2B-WFST-001
 D RF TXRX MODULE WIFI RP-SMA ANT
 K 602-1380-ND XBee® Wi-Fi
-F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
+F https://www.digi.com/pdf/ds_xbeewifis6b.pdf
 $ENDCMP
 #
 $CMP XB24CZ7PIT-004

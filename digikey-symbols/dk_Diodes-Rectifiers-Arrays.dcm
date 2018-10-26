@@ -6,7 +6,7 @@ K BAT54C-FDICT-ND
 F https://www.diodes.com/assets/Datasheets/ds11005.pdf
 $ENDCMP
 #
-$CMP BAT54C_LTB
+$CMP BAT54C_Obsolete
 D DIODE ARRAY SCHOTTKY 30V SOT23-3
 K BAT54CFSCT-ND 
 F https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf
@@ -18,7 +18,7 @@ K BAT54S-FDICT-ND
 F https://www.diodes.com/assets/Datasheets/ds11005.pdf
 $ENDCMP
 #
-$CMP BAV99_LTB
+$CMP BAV99_Obsolete
 D DIODE ARRAY GP 70V 200MA SOT23-3
 K BAV99FSCT-ND 
 F https://www.fairchildsemi.com/datasheets/BA/BAV99.pdf

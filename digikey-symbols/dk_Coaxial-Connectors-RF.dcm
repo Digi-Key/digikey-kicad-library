@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP 5-1814832-1
 D CONN SMA JACK STR 50 OHM PCB
 K A97594-ND ZDC, Greenpar
-F http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814832&DocType=Customer+Drawing&DocLang=English
 $ENDCMP
 #
 $CMP CONSMA001-SMD-G

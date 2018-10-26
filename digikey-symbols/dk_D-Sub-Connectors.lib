@@ -7,12 +7,12 @@ DEF 5747840-3 J 0 40 Y Y 1 F N
 F0 "J" -150 350 60 H V L C N N
 F1 "5747840-3" 50 -400 60 H V L C N N
 F2 "digikey-footprints:DSUB-9_Jack_5747840-3" 200 200 60 H I L C N N
-F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L C N N
 F4 "A32091-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "5747840-3" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "D-Sub Connectors" 200 700 60 H I L CNN "Family"
-F8 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/te-connectivity-amp-connectors/5747840-3/A32091-ND/808646" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN D-SUB PLUG 9POS R/A SOLDER" 200 1000 60 H I L CNN "Description"
 F11 "TE Connectivity AMP Connectors" 200 1100 60 H I L CNN "Manufacturer"

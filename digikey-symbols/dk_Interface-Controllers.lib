@@ -7,12 +7,12 @@ DEF WIZ820IO U 0 40 Y Y 1 F N
 F0 "U" -300 300 60 H V C C N N
 F1 "WIZ820IO" 300 -500 60 H V L C N N
 F2 "digikey-footprints:Mag_Jack_Module_WIZ820IO" 200 200 60 H I L C N N
-F3 "http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ820io/Document/WIZ820io_User_Manual_V1.0.pdf" 200 300 60 H I L C N N
+F3 "https://www.wiznet.io/wp-content/uploads/wiznethome/Network%20Module/WIZ820io/Document/WIZ820io_User_Manual_V1.0.pdf" 200 300 60 H I L C N N
 F4 "1278-1015-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "WIZ820IO" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ820io/Document/WIZ820io_User_Manual_V1.0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.wiznet.io/wp-content/uploads/wiznethome/Network%20Module/WIZ820io/Document/WIZ820io_User_Manual_V1.0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/wiznet/WIZ820IO/1278-1015-ND/3829655" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MODULE W5200+MAG JACK" 200 1000 60 H I L CNN "Description"
 F11 "WIZnet" 200 1100 60 H I L CNN "Manufacturer"
@@ -40,12 +40,12 @@ DEF W5500 U 0 40 Y Y 1 F N
 F0 "U" -600 200 60 H V C C N N
 F1 "W5500" -200 -1500 60 V V L C N N
 F2 "digikey-footprints:LQFP-48_7x7mm" 200 200 60 H I L C N N
-F3 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v106e_141230.pdf" 200 300 60 H I L C N N
+F3 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v108e.pdf" 200 300 60 H I L C N N
 F4 "1278-1021-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "W5500" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v106e_141230.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v108e.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/wiznet/W5500/1278-1021-ND/4425702" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC CTLR 3-1 ETH TCP/IP 48LQFP" 200 1000 60 H I L CNN "Description"
 F11 "WIZnet" 200 1100 60 H I L CNN "Manufacturer"
@@ -109,12 +109,12 @@ DEF CP2102-GMR_NRND U 0 40 Y Y 1 F N
 F0 "U" -100 750 60 H V C C N N
 F1 "CP2102-GMR_NRND" 100 -200 60 V V C C N N
 F2 "digikey-footprints:VFQFN-28-1EP_5x5mm" 200 200 60 H I L C N N
-F3 "http://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf" 200 300 60 H I L C N N
+F3 "https://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf" 200 300 60 H I L C N N
 F4 "336-1160-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CP2102-GMR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.silabs.com/documents/public/data-sheets/CP2102-9.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/silicon-labs/CP2102-GMR/336-1160-1-ND/3672615" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC USB-TO-UART BRIDGE 28VQFN" 200 1000 60 H I L CNN "Description"
 F11 "Silicon Labs" 200 1100 60 H I L CNN "Manufacturer"
@@ -255,12 +255,12 @@ DEF FT232RL-REEL U 0 40 Y Y 1 F N
 F0 "U" -500 450 60 H V C C N N
 F1 "FT232RL-REEL" -100 -800 60 V V L C N N
 F2 "digikey-footprints:SSOP-28_W5.30mm" 200 200 60 H I L C N N
-F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 300 60 H I L C N N
+F3 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 300 60 H I L C N N
 F4 "768-1007-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT232RL-REEL" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/ftdi-future-technology-devices-international-ltd/FT232RL-REEL/768-1007-1-ND/1836402" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC USB FS SERIAL UART 28-SSOP" 200 1000 60 H I L CNN "Description"
 F11 "FTDI, Future Technology Devices International Ltd" 200 1100 60 H I L CNN "Manufacturer"
@@ -304,12 +304,12 @@ DEF FT232RQ-REEL U 0 40 Y Y 1 F N
 F0 "U" -600 50 60 H V L C N N
 F1 "FT232RQ-REEL" -200 -1300 60 V V L C N N
 F2 "digikey-footprints:QFN-32-1EP_5x5mm" 200 200 60 H I L C N N
-F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 300 60 H I L C N N
+F3 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 300 60 H I L C N N
 F4 "768-1008-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT232RQ-REEL" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/ftdi-future-technology-devices-international-ltd/FT232RQ-REEL/768-1008-1-ND/1836403" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC USB FS SERIAL UART 32-QFN" 200 1000 60 H I L CNN "Description"
 F11 "FTDI, Future Technology Devices International Ltd" 200 1100 60 H I L CNN "Manufacturer"

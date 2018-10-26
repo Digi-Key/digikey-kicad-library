@@ -6,10 +6,10 @@ K 1428-1007-1-ND
 F https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf
 $ENDCMP
 #
-$CMP MPU-9250
+$CMP MPU-9250_LTB
 D IMU ACCEL/GYRO/MAG I2C/SPI 24QFN
 K 1428-1019-1-ND MotionTracking™
-F https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf
+F http://www.invensense.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf
 $ENDCMP
 #
 $CMP LSM303CTR

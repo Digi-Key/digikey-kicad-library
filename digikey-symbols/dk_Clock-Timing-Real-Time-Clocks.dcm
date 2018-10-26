@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP PCF8523T_1_118
 D IC RTC CLK/CALENDAR I2C 8-SOIC
 K 568-5306-1-ND 
-F http://www.nxp.com/documents/data_sheet/PCF8523.pdf
+F https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf
 $ENDCMP
 #
 $CMP DS1307_

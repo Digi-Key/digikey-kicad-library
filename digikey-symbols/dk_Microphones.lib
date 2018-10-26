@@ -43,12 +43,12 @@ DEF SPH0645LM4H-B MIC 0 40 Y Y 1 F N
 F0 "MIC" -275 375 60 H V C C N N
 F1 "SPH0645LM4H-B" 415 -355 60 H V C C N N
 F2 "digikey-footprints:SPH0645LM4H-B" 200 200 60 H I L C N N
-F3 "http://www.knowles.com/eng/content/download/5988/105771/version/4/file/SPH0645LM4H-BRevB.PDF" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Knowles%20Acoustics%20PDFs/SPH0645LM4H-B.pdf" 200 300 60 H I L C N N
 F4 "423-1405-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SPH0645LM4H-B" 200 500 60 H I L CNN "MPN"
 F6 "Audio Products" 200 600 60 H I L CNN "Category"
 F7 "Microphones" 200 700 60 H I L CNN "Family"
-F8 "http://www.knowles.com/eng/content/download/5988/105771/version/4/file/SPH0645LM4H-BRevB.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Knowles%20Acoustics%20PDFs/SPH0645LM4H-B.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/knowles/SPH0645LM4H-B/423-1405-1-ND/5332432" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MIC MEMS DIGITAL I2S OMNI -26DB" 200 1000 60 H I L CNN "Description"
 F11 "Knowles" 200 1100 60 H I L CNN "Manufacturer"

@@ -75,13 +75,13 @@ $ENDCMP
 $CMP ATMEGA32U4-AU
 D IC MCU 8BIT 32KB FLASH 44TQFP
 K ATMEGA32U4-AU-ND AVR® ATmega
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590739
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf
 $ENDCMP
 #
 $CMP ATSAMD21G18A-AUT
 D IC MCU 32BIT 256KB FLASH 48TQFP
 K ATSAMD21G18A-AUTCT-ND SAM D21G
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590209
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en605782
 $ENDCMP
 #
 $CMP ATTINY45-20PU

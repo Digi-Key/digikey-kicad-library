@@ -7,12 +7,12 @@ DEF PCF8523T_1_118 U 0 40 Y Y 1 F N
 F0 "U" -350 300 60 H V L C N N
 F1 "PCF8523T_1_118" -50 -350 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.nxp.com/documents/data_sheet/PCF8523.pdf" 200 300 60 H I L C N N
+F3 "https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf" 200 300 60 H I L C N N
 F4 "568-5306-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PCF8523T/1,118" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Real Time Clocks" 200 700 60 H I L CNN "Family"
-F8 "http://www.nxp.com/documents/data_sheet/PCF8523.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nxp-usa-inc/PCF8523T-1,118/568-5306-1-ND/2530784" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RTC CLK/CALENDAR I2C 8-SOIC" 200 1000 60 H I L CNN "Description"
 F11 "NXP USA Inc." 200 1100 60 H I L CNN "Manufacturer"

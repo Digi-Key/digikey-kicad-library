@@ -34,12 +34,12 @@ DEF LTC4359IMS8_PBF Q 0 40 Y Y 1 F N
 F0 "Q" -305 337 60 H V L C N N
 F1 "LTC4359IMS8_PBF" 1 -251 60 H V C C N N
 F2 "digikey-footprints:TSSOP-8_W3mm" 200 200 60 H I L C N N
-F3 "http://www.linear.com/docs/41608" 200 300 60 H I L C N N
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ltc4359.pdf" 200 300 60 H I L C N N
 F4 "LTC4359IMS8#PBF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LTC4359IMS8#PBF" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - OR Controllers, Ideal Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.linear.com/docs/41608" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ltc4359.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/linear-technology-analog-devices/LTC4359IMS8-PBF/LTC4359IMS8-PBF-ND/3306829" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OR CTRLR N+1 8MSOP" 200 1000 60 H I L CNN "Description"
 F11 "Linear Technology/Analog Devices" 200 1100 60 H I L CNN "Manufacturer"
