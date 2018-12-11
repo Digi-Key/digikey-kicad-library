@@ -9,7 +9,7 @@ $ENDCMP
 $CMP TL431AIDBZR
 D IC VREF SHUNT ADJ SOT23-3
 K 296-17329-1-ND 
-F http://www.ti.com/lit/ds/symlink/tl431a.pdf
+F http://www.ti.com/lit/gpn/tl431
 $ENDCMP
 #
 $CMP REF3025AIDBZR
@@ -27,7 +27,7 @@ $ENDCMP
 $CMP TL431CLPM
 D IC VREF SHUNT ADJ TO92-3
 K 296-26717-1-ND 
-F http://www.ti.com/lit/ds/symlink/tl431a.pdf
+F http://www.ti.com/lit/gpn/tl431
 $ENDCMP
 #
 $CMP REF3012AIDBZR
@@ -39,7 +39,7 @@ $ENDCMP
 $CMP ADR510ARTZ-REEL7
 D IC VREF SHUNT 1V SOT23-3
 K ADR510ARTZ-REEL7CT-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADR510.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADR510.pdf
 $ENDCMP
 #
 $CMP LM4040D25FTA

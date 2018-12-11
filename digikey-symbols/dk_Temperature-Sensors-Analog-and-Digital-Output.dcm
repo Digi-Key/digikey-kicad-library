@@ -105,7 +105,7 @@ $ENDCMP
 $CMP TMP36GT9Z
 D SENSOR ANALOG -40C-125C TO92-3
 K TMP36GT9Z-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -15,19 +15,19 @@ $ENDCMP
 $CMP A1324LLHLT-T
 D SENSOR LINEAR ANALOG SOT23W
 K 620-1402-1-ND 
-F http://www.allegromicro.com/~/media/Files/Datasheets/A1324-5-6-Datasheet.ashx
+F https://www.allegromicro.com/~/media/Files/Datasheets/A1324-5-6-Datasheet.ashx
 $ENDCMP
 #
 $CMP A1324LUA-T
 D SENSOR LINEAR ANALOG 3SIP
 K 620-1432-ND 
-F http://www.allegromicro.com/~/media/Files/Datasheets/A1324-5-6-Datasheet.ashx
+F https://www.allegromicro.com/~/media/Files/Datasheets/A1324-5-6-Datasheet.ashx
 $ENDCMP
 #
 $CMP A1326LUA-T
 D SENSOR LINEAR ANALOG 3SIP
 K 620-1433-ND 
-F http://www.allegromicro.com/~/media/Files/Datasheets/A1324-5-6-Datasheet.ashx
+F https://www.allegromicro.com/~/media/Files/Datasheets/A1324-5-6-Datasheet.ashx
 $ENDCMP
 #
 $CMP MAG3110FCR1_Obsolete

@@ -67,7 +67,7 @@ F http://www.ti.com/lit/ds/symlink/tl081a.pdf
 $ENDCMP
 #
 $CMP TLV2462CP
-D IC OPAMP GP 6.4MHZ RRO 8DIP
+D IC GEN PURP 2 CIRCUIT 8DIP
 K 296-1892-5-ND 
 F http://www.ti.com/lit/ds/symlink/tlv2462a.pdf
 $ENDCMP
@@ -111,25 +111,25 @@ $ENDCMP
 $CMP AD620ANZ
 D IC OPAMP INSTR 1MHZ 8DIP
 K AD620ANZ-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf
 $ENDCMP
 #
 $CMP AD623ANZ
 D IC OPAMP INSTR 800KHZ RRO 8DIP
 K AD623ANZ-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf
 $ENDCMP
 #
 $CMP AD8032BRZ-REEL7
 D IC OPAMP VFB 80MHZ RRO 8SOIC
 K AD8032BRZ-REEL7CT-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf
 $ENDCMP
 #
 $CMP AD8605ARTZ-REEL7
 D IC OPAMP GP 10MHZ RRO SOT23-5
 K AD8605ARTZREEL7CT-ND DigiTrim®
-F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf
 $ENDCMP
 #
 $CMP LF356N_NOPB

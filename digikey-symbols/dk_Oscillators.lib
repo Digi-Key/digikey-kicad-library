@@ -88,12 +88,12 @@ DEF XLH536025_000000I Y 0 1 Y Y 1 F N
 F0 "Y" -110 140 60 H V L C N N
 F1 "XLH536025_000000I" 20 -350 60 H V L C N N
 F2 "digikey-footprints:Oscillator_XLH536025.000000I" 200 200 60 H I L C N N
-F3 "http://www.foxonline.com/pdfs/FXO_HC53.pdf" 200 300 60 H I L C N N
+F3 "https://www.idt.com/document/dst/xl-family-low-phase-noise-quartz-based-pll-oscillators-datasheet" 200 300 60 H I L C N N
 F4 "631-1156-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XLH536025.000000I" 200 500 60 H I L CNN "MPN"
 F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
 F7 "Oscillators" 200 700 60 H I L CNN "Family"
-F8 "http://www.foxonline.com/pdfs/FXO_HC53.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.idt.com/document/dst/xl-family-low-phase-noise-quartz-based-pll-oscillators-datasheet" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/idt-integrated-device-technology-inc/XLH536025.000000I/631-1156-1-ND/2074684" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "XTAL OSC XO 25.0000MHZ HCMOS SMD" 200 1000 60 H I L CNN "Description"
 F11 "IDT, Integrated Device Technology Inc" 200 1100 60 H I L CNN "Manufacturer"
@@ -113,12 +113,12 @@ DEF XLH736022_579200I Y 0 1 Y Y 1 F N
 F0 "Y" -70 240 60 H V R C N N
 F1 "XLH736022_579200I" 20 -240 60 H V L C N N
 F2 "digikey-footprints:Oscillator_XLH736022.579200I" 200 200 60 H I L C N N
-F3 "http://www.foxonline.com/pdfs/FXO_HC73.pdf" 200 300 60 H I L C N N
+F3 "https://www.idt.com/document/dst/xl-family-low-phase-noise-quartz-based-pll-oscillators-datasheet" 200 300 60 H I L C N N
 F4 "631-1277-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XLH736022.579200I" 200 500 60 H I L CNN "MPN"
 F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
 F7 "Oscillators" 200 700 60 H I L CNN "Family"
-F8 "http://www.foxonline.com/pdfs/FXO_HC73.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.idt.com/document/dst/xl-family-low-phase-noise-quartz-based-pll-oscillators-datasheet" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/idt-integrated-device-technology-inc/XLH736022.579200I/631-1277-ND/3189602" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "XTAL OSC XO 22.5792MHZ HCMOS SMD" 200 1000 60 H I L CNN "Description"
 F11 "IDT, Integrated Device Technology Inc" 200 1100 60 H I L CNN "Manufacturer"
@@ -138,12 +138,12 @@ DEF XLL736200_000000I Y 0 1 Y Y 1 F N
 F0 "Y" -210 135 60 H V L C N N
 F1 "XLL736200_000000I" 15 -245 60 H V L C N N
 F2 "digikey-footprints:Oscillator_FXO-LC73" 200 200 60 H I L C N N
-F3 "http://www.foxonline.com/pdfs/FXO_LC73.pdf" 200 300 60 H I L C N N
+F3 "https://www.idt.com/document/dst/xl-family-low-phase-noise-quartz-based-pll-oscillators-datasheet" 200 300 60 H I L C N N
 F4 "631-1362-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XLL736200.000000I" 200 500 60 H I L CNN "MPN"
 F6 "Crystals, Oscillators, Resonators" 200 600 60 H I L CNN "Category"
 F7 "Oscillators" 200 700 60 H I L CNN "Family"
-F8 "http://www.foxonline.com/pdfs/FXO_LC73.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.idt.com/document/dst/xl-family-low-phase-noise-quartz-based-pll-oscillators-datasheet" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/idt-integrated-device-technology-inc/XLL736200.000000I/631-1362-ND/2157622" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "XTAL OSC XO 200.0000MHZ LVDS SMD" 200 1000 60 H I L CNN "Description"
 F11 "IDT, Integrated Device Technology Inc" 200 1100 60 H I L CNN "Manufacturer"

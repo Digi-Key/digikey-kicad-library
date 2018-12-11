@@ -612,10 +612,10 @@ K MMBT5551LT1GOSCT-ND
 F http://www.onsemi.com/pub/Collateral/MMBT5550LT1-D.PDF
 $ENDCMP
 #
-$CMP MMBTA06_LTB
+$CMP MMBTA06_Obsolete
 D TRANS NPN 80V 0.5A SOT-23
 K MMBTA06FSCT-ND 
-F https://www.fairchildsemi.com/datasheets/MP/MPSA06.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/MPSA06,MMBTA06,PZTA06.pdf
 $ENDCMP
 #
 $CMP MMBTA06LT1G

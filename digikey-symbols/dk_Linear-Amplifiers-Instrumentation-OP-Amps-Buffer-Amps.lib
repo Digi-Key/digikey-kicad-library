@@ -442,7 +442,7 @@ F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/lit/ds/symlink/tlv2462a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TLV2462CP/296-1892-5-ND/277537" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC OPAMP GP 6.4MHZ RRO 8DIP" 200 1000 60 H I L CNN "Description"
+F10 "IC GEN PURP 2 CIRCUIT 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -720,12 +720,12 @@ DEF AD620ANZ U 0 0 Y Y 1 F N
 F0 "U" -350 250 60 H V C C N N
 F1 "AD620ANZ" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf" 200 300 60 H I L C N N
 F4 "AD620ANZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD620ANZ" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD620.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/AD620ANZ/AD620ANZ-ND/750967" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP INSTR 1MHZ 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -753,12 +753,12 @@ DEF AD623ANZ U 0 0 Y Y 1 F N
 F0 "U" -350 250 60 H V C C N N
 F1 "AD623ANZ" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf" 200 300 60 H I L C N N
 F4 "AD623ANZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD623ANZ" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/AD623ANZ/AD623ANZ-ND/750974" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP INSTR 800KHZ RRO 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -786,12 +786,12 @@ DEF AD8032BRZ-REEL7 U 0 0 Y Y 2 L N
 F0 "U" -300 250 60 H V C C N N
 F1 "AD8032BRZ-REEL7" 100 -200 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf" 200 300 60 H I L C N N
 F4 "AD8032BRZ-REEL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD8032BRZ-REEL7" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/AD8032BRZ-REEL7/AD8032BRZ-REEL7CT-ND/820414" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP VFB 80MHZ RRO 8SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -822,12 +822,12 @@ DEF AD8605ARTZ-REEL7 U 0 0 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "AD8605ARTZ-REEL7" 100 -200 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf" 200 300 60 H I L C N N
 F4 "AD8605ARTZREEL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD8605ARTZ-REEL7" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8605_8606_8608.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/AD8605ARTZ-REEL7/AD8605ARTZREEL7CT-ND/751314" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP GP 10MHZ RRO SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"

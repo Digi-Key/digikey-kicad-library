@@ -15,7 +15,7 @@ $ENDCMP
 $CMP BMP280
 D SENSOR PRESSURE ABS
 K 828-1064-1-ND 
-F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-19.pdf
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001.pdf
 $ENDCMP
 #
 $CMP MPL115A1

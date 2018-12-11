@@ -230,12 +230,12 @@ DEF A3967SLBTR-T U 0 40 Y Y 1 F N
 F0 "U" -300 750 60 H V C C N N
 F1 "A3967SLBTR-T" 0 -400 60 V V L C N N
 F2 "digikey-footprints:SOIC-24_W7.50mm" 200 200 60 H I L C N N
-F3 "http://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx" 200 300 60 H I L C N N
+F3 "https://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx" 200 300 60 H I L C N N
 F4 "620-1140-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "A3967SLBTR-T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.allegromicro.com/~/media/Files/Datasheets/A3967-Datasheet.ashx" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/allegro-microsystems-llc/A3967SLBTR-T/620-1140-1-ND/1090383" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MOTOR DRIVER PAR 24SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Allegro MicroSystems, LLC" 200 1100 60 H I L CNN "Manufacturer"
@@ -275,12 +275,12 @@ DEF A4988SETTR-T U 0 40 Y Y 1 F N
 F0 "U" -300 850 60 H V C C N N
 F1 "A4988SETTR-T" 0 -100 60 V V C C N N
 F2 "digikey-footprints:VFQFN-28-1EP_5x5mm" 200 200 60 H I L C N N
-F3 "http://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" 200 300 60 H I L C N N
+F3 "https://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" 200 300 60 H I L C N N
 F4 "620-1343-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "A4988SETTR-T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/allegro-microsystems-llc/A4988SETTR-T/620-1343-1-ND/2238004" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MOTOR DRIVER PAR 28QFN" 200 1000 60 H I L CNN "Description"
 F11 "Allegro MicroSystems, LLC" 200 1100 60 H I L CNN "Manufacturer"

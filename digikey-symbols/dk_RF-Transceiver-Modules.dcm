@@ -78,7 +78,7 @@ K 1495-1000-1-ND
 F https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf
 $ENDCMP
 #
-$CMP BC118-1103394
+$CMP BC118_1103394
 D RF TXRX MOD BLUETOOTH CHIP ANT
 K 1495-1003-1-ND 
 F https://media.digikey.com/pdf/Data%20Sheets/BlueCreation%20PDFs/BC118_DS.pdf
@@ -115,7 +115,7 @@ F https://cdn.sparkfun.com/datasheets/Wireless/General/RFM69HCW-V1.1.pdf
 $ENDCMP
 #
 $CMP BMD-300-A-R
-D MOD BLE 4.2 NORDIC NRF52832 SOC
+D MOD BLE 5.0 NORDIC NRF52832 SOC
 K 1604-1006-1-ND BMD-300
 F http://www.rigado.com/?wpdmdl=1441
 $ENDCMP
@@ -162,7 +162,7 @@ K 602-1273-ND XBee® 802.15.4
 F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
 $ENDCMP
 #
-$CMP XBP24-DMSIT-250_LTB
+$CMP XBP24-DMSIT-250_Obsolete
 D RF TXRX MODULE ISM>1GHZ RP-SMA
 K 602-1281-ND XBee-Pro® DigiMesh® 2.4
 F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
@@ -234,7 +234,7 @@ K 602-1891-ND XBee®
 F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
 $ENDCMP
 #
-$CMP RN42-I_RM
+$CMP RN42-I_RM_Obsolete
 D RF TXRX MOD BLUETOOTH TRACE ANT
 K 740-1038-ND 
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572993

@@ -130,11 +130,11 @@ X VCC 5 0 200 100 D 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# SN74LVC2G17DBVR
+# SN74LVC2G17DBVR_Discontinued
 #
-DEF SN74LVC2G17DBVR U 0 0 Y Y 1 F N
+DEF SN74LVC2G17DBVR_Discontinued U 0 0 Y Y 1 F N
 F0 "U" -210 338 60 H V L C N N
-F1 "SN74LVC2G17DBVR" 68 -412 60 H V L C N N
+F1 "SN74LVC2G17DBVR_Discontinued" 68 -412 60 H V L C N N
 F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn74lvc2g17.pdf" 200 300 60 H I L C N N
 F4 "296-13012-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -145,7 +145,7 @@ F8 "http://www.ti.com/lit/ds/symlink/sn74lvc2g17.pdf" 200 800 60 H I L CNN "DK_D
 F9 "/product-detail/en/texas-instruments/SN74LVC2G17DBVR/296-13012-1-ND/479734" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SOT23-6" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Discontinued at Digi-Key NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S -200 269 200 -370 0 1 0 f
 P 2 0 1 0 -200 100 -100 100 N

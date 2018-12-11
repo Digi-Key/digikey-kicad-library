@@ -3,19 +3,19 @@ EESchema-DOCLIB  Version 2.0
 $CMP 500-0643-00
 D THERMAL IMAGE SENSOR 80HX60V
 K 500-0643-00-ND Lepton®
-F https://www.flir.com/globalassets/imported-assets/document/lepton-engineering-datasheet---without-radiometry.pdf
+F https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf
 $ENDCMP
 #
 $CMP 500-0659-01
 D THERMAL IMAGE SENSOR 80HX60V
 K 500-0659-01-ND Lepton®
-F https://www.flir.com/globalassets/imported-assets/document/lepton-engineering-datasheet---without-radiometry.pdf
+F https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf
 $ENDCMP
 #
 $CMP 500-0690-00
 D THERMAL IMAGE SENSOR 80HX60V
 K 500-0690-00-ND Lepton®
-F https://www.flir.com/globalassets/imported-assets/document/lepton-engineering-datasheet---without-radiometry.pdf
+F https://www.flir.com/globalassets/imported-assets/document/flir-lepton-engineering-datasheet.pdf
 $ENDCMP
 #
 #End Doc Library

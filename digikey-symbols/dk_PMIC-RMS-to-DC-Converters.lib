@@ -7,12 +7,12 @@ DEF AD736JNZ U 0 40 Y Y 1 F N
 F0 "U" -305 236 60 H V L C N N
 F1 "AD736JNZ" 7 -342 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf" 200 300 60 H I L C N N
 F4 "AD736JNZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD736JNZ" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - RMS to DC Converters" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/AD736JNZ/AD736JNZ-ND/751028" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC TRUE RMS/DC CONV LP 8-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"

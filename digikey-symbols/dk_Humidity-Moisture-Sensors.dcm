@@ -27,7 +27,7 @@ $ENDCMP
 $CMP BME280
 D SENSOR PRESSURE HUMIDITY TEMP
 K 828-1063-1-ND 
-F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280_DS002.pdf
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf
 $ENDCMP
 #
 #End Doc Library

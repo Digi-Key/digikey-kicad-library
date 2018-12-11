@@ -63,7 +63,7 @@ $ENDCMP
 $CMP A6211GLJTR-T
 D IC LED DRIVER RGLTR DIM 3A 8SOIC
 K 620-1477-1-ND 
-F http://www.allegromicro.com/~/media/Files/Datasheets/A6211-Datasheet.ashx
+F https://www.allegromicro.com/~/media/Files/Datasheets/A6211-Datasheet.ashx
 $ENDCMP
 #
 $CMP IS31FL3731-SALS2

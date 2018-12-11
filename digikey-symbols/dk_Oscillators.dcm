@@ -21,19 +21,19 @@ $ENDCMP
 $CMP XLH536025_000000I
 D XTAL OSC XO 25.0000MHZ HCMOS SMD
 K 631-1156-1-ND XPRESSO™ FXO-HC53
-F http://www.foxonline.com/pdfs/FXO_HC53.pdf
+F https://www.idt.com/document/dst/xl-family-low-phase-noise-quartz-based-pll-oscillators-datasheet
 $ENDCMP
 #
 $CMP XLH736022_579200I
 D XTAL OSC XO 22.5792MHZ HCMOS SMD
 K 631-1277-ND XPRESSO™ FXO-HC73
-F http://www.foxonline.com/pdfs/FXO_HC73.pdf
+F https://www.idt.com/document/dst/xl-family-low-phase-noise-quartz-based-pll-oscillators-datasheet
 $ENDCMP
 #
 $CMP XLL736200_000000I
 D XTAL OSC XO 200.0000MHZ LVDS SMD
 K 631-1362-ND XPRESSO™ FXO-LC73
-F http://www.foxonline.com/pdfs/FXO_LC73.pdf
+F https://www.idt.com/document/dst/xl-family-low-phase-noise-quartz-based-pll-oscillators-datasheet
 $ENDCMP
 #
 #End Doc Library

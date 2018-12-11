@@ -45,55 +45,55 @@ $ENDCMP
 $CMP ADXL326BCPZ-RL7
 D ACCELEROMETER 16G ANALOG 16LFCSP
 K ADXL326BCPZ-RL7CT-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf
 $ENDCMP
 #
 $CMP ADXL335BCPZ-RL7
 D ACCELEROMETER 3G ANALOG 16LFCSP
 K ADXL335BCPZ-RL7CT-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf
 $ENDCMP
 #
 $CMP ADXL337BCPZ-RL7
 D ACCELEROMETER 3G ANALOG 16LFCSP
 K ADXL337BCPZ-RL7CT-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL337.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL337.pdf
 $ENDCMP
 #
 $CMP ADXL343BCCZ
 D ACCEL 2-16G I2C/SPI 14LGA
 K ADXL343BCCZ-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf
 $ENDCMP
 #
 $CMP ADXL345BCCZ
 D ACCEL 2-16G I2C/SPI 14LGA
 K ADXL345BCCZ-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf
 $ENDCMP
 #
 $CMP ADXL345BCCZ-RL7
 D ACCEL 2-16G I2C/SPI 14LGA
 K ADXL345BCCZ-RL7CT-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf
 $ENDCMP
 #
 $CMP ADXL345BCCZ-RL
 D ACCEL 2-16G I2C/SPI 14LGA
 K ADXL345BCCZ-RLCT-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf
 $ENDCMP
 #
 $CMP ADXL362BCCZ-RL7
 D ACCELEROMETER 2-8G SPI 16LGA
 K ADXL362BCCZ-RL7CT-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf
 $ENDCMP
 #
 $CMP ADXL377BCPZ-RL7
 D ACCELEROMETER 200G ANAL 16LFCSP
 K ADXL377BCPZ-RL7CT-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf
 $ENDCMP
 #
 $CMP MMA7660FCR1_Obsolete

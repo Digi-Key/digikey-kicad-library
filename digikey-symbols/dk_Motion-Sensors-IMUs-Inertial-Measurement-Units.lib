@@ -52,12 +52,12 @@ DEF MPU-9250_LTB U 0 40 Y Y 1 F N
 F0 "U" -704 446 60 H V L C N N
 F1 "MPU-9250_LTB" -174 -846 60 H V L C N N
 F2 "digikey-footprints:QFN-24-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "http://www.invensense.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/MPU-9250_Rev_1.1.pdf" 200 300 60 H I L C N N
 F4 "1428-1019-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPU-9250" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - IMUs (Inertial Measurement Units)" 200 700 60 H I L CNN "Family"
-F8 "http://www.invensense.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/MPU-9250_Rev_1.1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/tdk-invensense/MPU-9250/1428-1019-1-ND/4626450" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IMU ACCEL/GYRO/MAG I2C/SPI 24QFN" 200 1000 60 H I L CNN "Description"
 F11 "TDK InvenSense" 200 1100 60 H I L CNN "Manufacturer"

@@ -9,7 +9,7 @@ $ENDCMP
 $CMP ADM3251EARWZ
 D DGTL ISO 2.5KV 2CH RS232 20SOIC
 K ADM3251EARWZ-ND IsoPower®, iCoupler®
-F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADM3251E.pdf
 $ENDCMP
 #
 #End Doc Library

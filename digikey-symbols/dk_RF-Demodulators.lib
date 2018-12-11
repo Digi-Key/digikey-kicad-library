@@ -7,12 +7,12 @@ DEF ADL5380ACPZ-R7 U 0 40 Y Y 1 F N
 F0 "U" -700 350 60 H V C C N N
 F1 "ADL5380ACPZ-R7" -550 0 60 H V L C N N
 F2 "digikey-footprints:WQFN-24-1EP_4x4mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5380.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5380.pdf" 200 300 60 H I L C N N
 F4 "ADL5380ACPZ-R7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADL5380ACPZ-R7" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Demodulators" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5380.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5380.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADL5380ACPZ-R7/ADL5380ACPZ-R7CT-ND/2115794" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF DEMOD IC 400MHZ-6GHZ 24LFCSP" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"

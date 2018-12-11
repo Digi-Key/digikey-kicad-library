@@ -9,7 +9,7 @@ $ENDCMP
 $CMP BAT54C_Obsolete
 D DIODE ARRAY SCHOTTKY 30V SOT23-3
 K BAT54CFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAT54(A,C,S).pdf
 $ENDCMP
 #
 $CMP BAT54S-7-F

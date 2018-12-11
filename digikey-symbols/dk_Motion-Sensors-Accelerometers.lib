@@ -256,12 +256,12 @@ DEF ADXL326BCPZ-RL7 U 0 40 Y Y 1 F N
 F0 "U" -350 650 60 H V C C N N
 F1 "ADXL326BCPZ-RL7" 0 -450 60 H V C C N N
 F2 "digikey-footprints:LFQFN-16-1EP_4x4mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf" 200 300 60 H I L C N N
 F4 "ADXL326BCPZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL326BCPZ-RL7" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADXL326BCPZ-RL7/ADXL326BCPZ-RL7CT-ND/2043352" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ACCELEROMETER 16G ANALOG 16LFCSP" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -294,12 +294,12 @@ DEF ADXL335BCPZ-RL7 U 0 40 Y Y 1 F N
 F0 "U" -250 450 60 H V C C N N
 F1 "ADXL335BCPZ-RL7" 700 -600 60 H V C C N N
 F2 "digikey-footprints:LFQFN-16-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf" 200 300 60 H I L C N N
 F4 "ADXL335BCPZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL335BCPZ-RL7" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADXL335BCPZ-RL7/ADXL335BCPZ-RL7CT-ND/1995485" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ACCELEROMETER 3G ANALOG 16LFCSP" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -332,12 +332,12 @@ DEF ADXL337BCPZ-RL7 U 0 40 Y Y 1 F N
 F0 "U" -200 550 60 H V C C N N
 F1 "ADXL337BCPZ-RL7" 800 -800 60 H V C C N N
 F2 "digikey-footprints:LFQFN-16-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL337.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL337.pdf" 200 300 60 H I L C N N
 F4 "ADXL337BCPZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL337BCPZ-RL7" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL337.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL337.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADXL337BCPZ-RL7/ADXL337BCPZ-RL7CT-ND/3042473" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ACCELEROMETER 3G ANALOG 16LFCSP" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -370,12 +370,12 @@ DEF ADXL343BCCZ U 0 40 Y Y 1 F N
 F0 "U" -300 550 60 H V C C N N
 F1 "ADXL343BCCZ" 800 -700 60 H V C C N N
 F2 "digikey-footprints:LGA-14_3x5mm_RevA" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf" 200 300 60 H I L C N N
 F4 "ADXL343BCCZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL343BCCZ" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADXL343BCCZ/ADXL343BCCZ-ND/3542918" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ACCEL 2-16G I2C/SPI 14LGA" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -405,12 +405,12 @@ DEF ADXL345BCCZ U 0 40 Y Y 1 F N
 F0 "U" -300 450 60 H V C C N N
 F1 "ADXL345BCCZ" 800 -800 60 H V C C N N
 F2 "digikey-footprints:LGA-14_3x5mm_RevA" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 300 60 H I L C N N
 F4 "ADXL345BCCZ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL345BCCZ" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADXL345BCCZ/ADXL345BCCZ-ND/2034829" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ACCEL 2-16G I2C/SPI 14LGA" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -440,12 +440,12 @@ DEF ADXL345BCCZ-RL7 U 0 40 Y Y 1 F N
 F0 "U" -300 450 60 H V C C N N
 F1 "ADXL345BCCZ-RL7" 900 -800 60 H V C C N N
 F2 "digikey-footprints:LGA-14_3x5mm_RevA" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 300 60 H I L C N N
 F4 "ADXL345BCCZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL345BCCZ-RL7" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADXL345BCCZ-RL7/ADXL345BCCZ-RL7CT-ND/2038984" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ACCEL 2-16G I2C/SPI 14LGA" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -475,12 +475,12 @@ DEF ADXL345BCCZ-RL U 0 40 Y Y 1 F N
 F0 "U" -400 550 60 H V C C N N
 F1 "ADXL345BCCZ-RL" 900 -700 60 H V C C N N
 F2 "digikey-footprints:LGA-14_3x5mm_RevA" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 300 60 H I L C N N
 F4 "ADXL345BCCZ-RLCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL345BCCZ-RL" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADXL345BCCZ-RL/ADXL345BCCZ-RLCT-ND/2237841" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ACCEL 2-16G I2C/SPI 14LGA" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -510,12 +510,12 @@ DEF ADXL362BCCZ-RL7 U 0 40 Y Y 1 F N
 F0 "U" -300 550 60 H V C C N N
 F1 "ADXL362BCCZ-RL7" 900 -800 60 H V C C N N
 F2 "digikey-footprints:TFLGA-16_3x3.25mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf" 200 300 60 H I L C N N
 F4 "ADXL362BCCZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL362BCCZ-RL7" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADXL362BCCZ-RL7/ADXL362BCCZ-RL7CT-ND/3758437" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ACCELEROMETER 2-8G SPI 16LGA" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -547,12 +547,12 @@ DEF ADXL377BCPZ-RL7 U 0 40 Y Y 1 F N
 F0 "U" -250 550 60 H V C C N N
 F1 "ADXL377BCPZ-RL7" 800 -800 60 H V C C N N
 F2 "digikey-footprints:LFQFN-16-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf" 200 300 60 H I L C N N
 F4 "ADXL377BCPZ-RL7CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADXL377BCPZ-RL7" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Motion Sensors - Accelerometers" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/ADXL377BCPZ-RL7/ADXL377BCPZ-RL7CT-ND/3678489" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ACCELEROMETER 200G ANAL 16LFCSP" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"

@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP AD736JNZ
 D IC TRUE RMS/DC CONV LP 8-DIP
 K AD736JNZ-ND 
-F http://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD736.pdf
 $ENDCMP
 #
 $CMP LTC1966CMS8_PBF

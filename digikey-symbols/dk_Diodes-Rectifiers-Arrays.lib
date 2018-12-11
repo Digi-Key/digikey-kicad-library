@@ -35,12 +35,12 @@ DEF BAT54C_Obsolete D 0 1 Y Y 1 F N
 F0 "D" 0 200 60 H V C B N N
 F1 "BAT54C_Obsolete" 0 -200 60 H V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAT54(A,C,S).pdf" 200 300 60 H I L C N N
 F4 "BAT54CFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BAT54C" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Rectifiers - Arrays" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BA/BAT54.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAT54(A,C,S).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BAT54C/BAT54CFSCT-ND/458929" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE ARRAY SCHOTTKY 30V SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

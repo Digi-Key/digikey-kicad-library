@@ -7,12 +7,12 @@ DEF AD595AQ U 0 40 Y Y 1 F N
 F0 "U" -350 350 60 H V C C N N
 F1 "AD595AQ" -100 -600 60 V V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD594_595.pdf" 200 300 60 H I L C N N
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD594_595.pdf" 200 300 60 H I L C N N
 F4 "AD595AQ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AD595AQ" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Thermal Management" 200 700 60 H I L CNN "Family"
-F8 "http://www.analog.com/media/en/technical-documentation/data-sheets/AD594_595.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD594_595.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/analog-devices-inc/AD595AQ/AD595AQ-ND/612045" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC THERMOCOUPLE A W/COMP 14CDIP" 200 1000 60 H I L CNN "Description"
 F11 "Analog Devices Inc." 200 1100 60 H I L CNN "Manufacturer"

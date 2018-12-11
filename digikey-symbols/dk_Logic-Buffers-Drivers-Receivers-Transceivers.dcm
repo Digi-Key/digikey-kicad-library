@@ -24,7 +24,7 @@ K 296-11934-1-ND 74LVC
 F http://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf
 $ENDCMP
 #
-$CMP SN74LVC2G17DBVR
+$CMP SN74LVC2G17DBVR_Discontinued
 D IC BUF NON-INVERT 5.5V SOT23-6
 K 296-13012-1-ND 74LVC
 F http://www.ti.com/lit/ds/symlink/sn74lvc2g17.pdf
