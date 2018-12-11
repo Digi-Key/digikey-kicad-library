@@ -1319,7 +1319,7 @@ ENDDEF
 DEF XB24CZ7UIS-004 MOD 0 40 Y Y 1 F N
 F0 "MOD" -800 50 60 H V L C N N
 F1 "XB24CZ7UIS-004" 100 -1000 60 V V C C N N
-F2 "digikey-footprints:XBEE_&_XBEE-PRO_37_SMD" 200 200 60 H I L C N N
+F2 "digikey-footprints:XBEE_and_XBEE-PRO_37_SMD" 200 200 60 H I L C N N
 F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 V I L C N N
 F4 "602-1192-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "XB24CZ7UIS-004" 200 500 60 H I L CNN "MPN"
