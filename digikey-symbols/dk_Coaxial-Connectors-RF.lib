@@ -63,9 +63,9 @@ F5 "0734120114" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "Coaxial Connectors (RF)" 200 700 60 H I L CNN "Family"
 F8 "https://www.molex.com/pdm_docs/sd/734120110_sd.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/molex-llc/0734120114/WM3894CT-ND/2421931" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/molex/0734120114/WM3894CT-ND/2421931" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN UMC RCPT STR 50 OHM SMD" 200 1000 60 H I L CNN "Description"
-F11 "Molex, LLC" 200 1100 60 H I L CNN "Manufacturer"
+F11 "Molex" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 A 2 -1 52 1789 -266 0 1 0 N -50 0 50 -25

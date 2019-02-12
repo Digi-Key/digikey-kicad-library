@@ -36,12 +36,12 @@ DEF MCR218-4G D 0 0 Y N 1 F N
 F0 "D" -125 80 50 H V C C N N
 F1 "MCR218-4G" 50 -100 50 H V L C N N
 F2 "digikey-footprints:TO-220-3" 200 200 50 H I L C N N
-F3 "http://www.littelfuse.com/~/media/electronics/datasheets/switching_thyristors/littelfuse_thyristor_mcr218_d_datasheet.pdf.pdf" 200 300 60 V I L C N N
+F3 "https://www.littelfuse.com/~/media/electronics/datasheets/switching_thyristors/littelfuse_thyristor_mcr218_d_datasheet.pdf.pdf" 200 300 60 V I L C N N
 F4 "MCR218-4GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCR218-4G" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Thyristors - SCRs" 200 700 60 H I L CNN "Family"
-F8 "http://www.littelfuse.com/~/media/electronics/datasheets/switching_thyristors/littelfuse_thyristor_mcr218_d_datasheet.pdf.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.littelfuse.com/~/media/electronics/datasheets/switching_thyristors/littelfuse_thyristor_mcr218_d_datasheet.pdf.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/littelfuse-inc/MCR218-4G/MCR218-4GOS-ND/919423" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "THYRISTOR SCR 8A 200V TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "Littelfuse Inc." 200 1100 60 H I L CNN "Manufacturer"

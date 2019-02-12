@@ -1,15 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP DW1000-I-TR13
-D IC RF TXRX 802.15.4 48-QFN
+D IC RF TXRX 802.15.4 48QFN
 K 1479-1001-1-ND 
 F https://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf
 $ENDCMP
 #
 $CMP NRF24L01P-T
-D IC RF TXRX ISM>1GHZ 20-VFQFN
+D IC RF TXRX ISM>1GHZ 20VFQFN
 K 1490-1019-ND 
-F http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf
+F https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf
 $ENDCMP
 #
 $CMP NRF51822-QFAA-T
@@ -19,9 +19,9 @@ F http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf
 $ENDCMP
 #
 $CMP NRF8001-R2Q32-T
-D IC RF TXRX BLUETOOTH 32-VFQFN
+D IC RF TXRX BLUETOOTH 32VFQFN
 K 1490-1026-ND 
-F http://www.nordicsemi.com/eng/content/download/2981/38488/file/nRF8001_PS_v1.2.pdf
+F https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF8001PSv13.pdf
 $ENDCMP
 #
 $CMP NRF51822-QFAA-R7
@@ -37,19 +37,19 @@ F http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf
 $ENDCMP
 #
 $CMP NRF24L01P-R7
-D IC RF TXRX ISM>1GHZ 20-VFQFN
+D IC RF TXRX ISM>1GHZ 20VFQFN
 K 1490-1033-1-ND 
-F http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf
+F https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf
 $ENDCMP
 #
 $CMP NRF51422-QFAC-R
 D IC RF TXRX+MCU BLUETOOTH 48VFQFN
 K 1490-1040-1-ND 
-F http://www.nordicsemi.com/eng/content/download/13359/215006/file/nRF51422_PS%20v3.1.pdf
+F https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF51422PSv32.pdf
 $ENDCMP
 #
 $CMP NRF51822-CFAC-R
-D IC RF TXRX+MCU BLUETOOTH 62WLCSP
+D IC RF TXRX+MCU BLUETOOTH 62UFBGA
 K 1490-1041-1-ND 
 F http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf
 $ENDCMP
@@ -67,19 +67,19 @@ F http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf
 $ENDCMP
 #
 $CMP NRF52832-QFAA-R
-D IC RF TXRX+MCU BLUETOOTH 48QFN
+D IC RF TXRX+MCU BLUETOOTH 48VFQFN
 K 1490-1052-1-ND 
 F http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.4.pdf
 $ENDCMP
 #
 $CMP CC1101RGPR
-D IC RF TXRX ISM<1GHZ 20-VFQFN
+D IC RF TXRX ISM<1GHZ 20VFQFN
 K 296-35718-1-ND 
 F https://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/CC1101.pdf
 $ENDCMP
 #
 $CMP CC1200RHBT
-D IC RF TXRX+MCU ISM<1GHZ 32-VFQFN
+D IC RF TXRX+MCU ISM<1GHZ 32VFQFN
 K 296-36396-1-ND 
 F http://www.ti.com/lit/ds/symlink/cc1200.pdf
 $ENDCMP
@@ -91,13 +91,13 @@ F http://www.ti.com/lit/ds/symlink/cc2541.pdf
 $ENDCMP
 #
 $CMP CC3200R1M2RGCR
-D IC RF TXRX+MCU WIFI 64-VFQFN
+D IC RF TXRX+MCU WIFI 64VFQFN
 K 296-38902-1-ND SimpleLink™
 F http://www.ti.com/lit/ds/symlink/cc3200.pdf
 $ENDCMP
 #
 $CMP CC2650F128RGZT
-D IC RF TXRX+MCU 802.15.4/BT 48QFN
+D IC RF TXRX+MCU 802.15.4 48VFQFN
 K 296-39656-1-ND SimpleLink™
 F http://www.ti.com/lit/ds/symlink/cc2650.pdf
 $ENDCMP

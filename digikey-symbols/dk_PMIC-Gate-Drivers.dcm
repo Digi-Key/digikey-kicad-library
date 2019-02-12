@@ -9,7 +9,7 @@ $ENDCMP
 $CMP FAN3111ESX
 D IC GATE DVR SGL 1A EXTER SOT23-5
 K FAN3111ESXCT-ND 
-F https://www.fairchildsemi.com/datasheets/FA/FAN3111E.pdf
+F https://www.onsemi.com/pub/Collateral/FAN3111E-D.pdf
 $ENDCMP
 #
 $CMP IR2110PBF

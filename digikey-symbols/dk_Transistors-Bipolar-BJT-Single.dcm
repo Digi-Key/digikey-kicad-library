@@ -99,25 +99,25 @@ $ENDCMP
 $CMP 2N3904TFR
 D TRANS NPN 40V 0.2A TO-92
 K 2N3904D26ZCT-ND 
-F https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf
+F https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf
 $ENDCMP
 #
 $CMP 2N3904BU
 D TRANS NPN 40V 0.2A TO-92
 K 2N3904FS-ND 
-F https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf
+F https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf
 $ENDCMP
 #
 $CMP 2N3904TA
 D TRANS NPN 40V 0.2A TO-92
 K 2N3904TAFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf
+F https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf
 $ENDCMP
 #
 $CMP 2N3904TF
 D TRANS NPN 40V 0.2A TO-92
 K 2N3904TFCT-ND 
-F https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf
+F https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf
 $ENDCMP
 #
 $CMP 2N3906-AP
@@ -135,19 +135,19 @@ $ENDCMP
 $CMP 2N3906TFR
 D TRANS PNP 40V 0.2A TO-92
 K 2N3906D26ZCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf
+F https://www.onsemi.com/pub/Collateral/2N3906-D.pdf
 $ENDCMP
 #
 $CMP 2N3906BU
 D TRANS PNP 40V 0.2A TO-92
 K 2N3906FS-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf
+F https://www.onsemi.com/pub/Collateral/2N3906-D.pdf
 $ENDCMP
 #
 $CMP 2N3906TA
 D TRANS PNP 40V 0.2A TO-92
 K 2N3906TAFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf
+F https://www.onsemi.com/pub/Collateral/2N3906-D.pdf
 $ENDCMP
 #
 $CMP 2N4401-AP
@@ -159,13 +159,13 @@ $ENDCMP
 $CMP 2N4401BU
 D TRANS NPN 40V 0.6A TO-92
 K 2N4401-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf
+F https://www.onsemi.com/pub/Collateral/MMBT4401-D.PDF
 $ENDCMP
 #
 $CMP 2N4401TFR
 D TRANS NPN 40V 0.6A TO-92
 K 2N4401D26ZCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf
+F https://www.onsemi.com/pub/Collateral/MMBT4401-D.PDF
 $ENDCMP
 #
 $CMP 2N4403-AP
@@ -177,13 +177,13 @@ $ENDCMP
 $CMP 2N4403BU
 D TRANS PNP 40V 0.6A TO-92
 K 2N4403-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf
+F https://www.onsemi.com/pub/Collateral/2N4403-D.pdf
 $ENDCMP
 #
 $CMP 2N4403TFR
 D TRANS PNP 40V 0.6A TO-92
 K 2N4403D26ZCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf
+F https://www.onsemi.com/pub/Collateral/2N4403-D.pdf
 $ENDCMP
 #
 $CMP 2N5087
@@ -207,7 +207,7 @@ $ENDCMP
 $CMP 2N5551TA
 D TRANS NPN 160V 0.6A TO-92
 K 2N5551TAFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N5551.pdf
+F https://www.onsemi.com/pub/Collateral/2N5551-D.PDF
 $ENDCMP
 #
 $CMP 2SA1492
@@ -222,7 +222,7 @@ K 2SA1837FM-ND
 F https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SA1837.pdf
 $ENDCMP
 #
-$CMP 2SA1943-O_Q__NonStock
+$CMP 2SA1943-O_Q_
 D TRANS PNP 230V 15A TO-3PL
 K 2SA1943-OQ-ND 
 F https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SA1943.pdf
@@ -291,67 +291,67 @@ $ENDCMP
 $CMP BC32725TA
 D TRANS PNP 45V 0.8A TO-92
 K BC32725TACT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC327.pdf
+F 
 $ENDCMP
 #
 $CMP BC33725TA
 D TRANS NPN 45V 0.8A TO-92
 K BC33725TACT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC337.pdf
+F https://www.onsemi.com/pub/Collateral/BC338-D.pdf
 $ENDCMP
 #
 $CMP BC33740TA
 D TRANS NPN 45V 0.8A TO-92
 K BC33740TACT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC337.pdf
+F https://www.onsemi.com/pub/Collateral/BC338-D.pdf
 $ENDCMP
 #
 $CMP BC546BTA
 D TRANS NPN 65V 0.1A TO-92
 K BC546BTACT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC546.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf
 $ENDCMP
 #
 $CMP BC547BTA
 D TRANS NPN 45V 0.1A TO-92
 K BC547BTACT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC546.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf
 $ENDCMP
 #
 $CMP BC548BTA
 D TRANS NPN 30V 0.1A TO-92
 K BC548BTACT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC546.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf
 $ENDCMP
 #
 $CMP BC548CTA
 D TRANS NPN 30V 0.1A TO-92
 K BC548CTAFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC546.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf
 $ENDCMP
 #
 $CMP BC549CTA
 D TRANS NPN 30V 0.1A TO-92
 K BC549CTAFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC546.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf
 $ENDCMP
 #
 $CMP BC556BTA
 D TRANS PNP 65V 0.1A TO-92
 K BC556BTACT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC556.pdf
+F https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf
 $ENDCMP
 #
 $CMP BC557BTA
 D TRANS PNP 45V 0.1A TO-92
 K BC557BTACT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC556.pdf
+F https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf
 $ENDCMP
 #
 $CMP BC560CTA
 D TRANS PNP 45V 0.1A TO-92
 K BC560CTACT-ND 
-F https://www.fairchildsemi.com/datasheets/BC/BC556.pdf
+F https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf
 $ENDCMP
 #
 $CMP BC817-25-TP
@@ -387,25 +387,25 @@ $ENDCMP
 $CMP KSA1220AYS
 D TRANS PNP 160V 1.2A TO-126
 K KSA1220AYSFS-ND 
-F https://www.fairchildsemi.com/datasheets/KS/KSA1220A.pdf
+F https://www.onsemi.com/pub/Collateral/KSA1220A-D.pdf
 $ENDCMP
 #
 $CMP KSC1815YTA
 D TRANS NPN 50V 0.15A TO-92
 K KSC1815YTACT-ND 
-F https://www.fairchildsemi.com/datasheets/KS/KSC1815.pdf
+F https://www.onsemi.com/pub/Collateral/KSC1815-D.pdf
 $ENDCMP
 #
 $CMP KSC1845FTA
 D TRANS NPN 120V 0.05A TO-92
 K KSC1845FTACT-ND 
-F https://www.fairchildsemi.com/datasheets/KS/KSC1845.pdf
+F https://www.onsemi.com/pub/Collateral/KSC1845-D.pdf
 $ENDCMP
 #
 $CMP KSP2222ABU
 D TRANS NPN 40V 0.6A TO-92
 K KSP2222ABUFS-ND 
-F https://www.fairchildsemi.com/datasheets/KS/KSP2222A.pdf
+F https://www.onsemi.com/pub/Collateral/KSP2222A-D.pdf
 $ENDCMP
 #
 $CMP MJ15003G
@@ -453,7 +453,7 @@ $ENDCMP
 $CMP MJE2955TTU
 D TRANS PNP 60V 10A TO-220
 K MJE2955TTUFS-ND 
-F https://www.fairchildsemi.com/datasheets/MJ/MJE2955T.pdf
+F https://www.onsemi.com/pub/Collateral/MJE2955T-D.pdf
 $ENDCMP
 #
 $CMP MMBT2222A-7-F
@@ -465,7 +465,7 @@ $ENDCMP
 $CMP MMBT2222A_Obsolete
 D TRANS NPN 40V 1A SOT-23
 K MMBT2222AFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/MM/MMBT2222A.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/MMBT2222A.pdf
 $ENDCMP
 #
 $CMP MMBT2222ALT1G
@@ -507,7 +507,7 @@ $ENDCMP
 $CMP MMBT2907A_LTB
 D TRANS PNP 60V 0.8A SOT-23
 K MMBT2907AFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf
+F https://www.onsemi.com/pub/Collateral/PZT2907A-D.PDF
 $ENDCMP
 #
 $CMP MMBT2907ALT1G
@@ -519,13 +519,13 @@ $ENDCMP
 $CMP MMBT3904-7-F
 D TRANS NPN 40V 0.2A SMD SOT23-3
 K MMBT3904-FDICT-ND Automotive, AEC-Q101
-F https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/MMBT3904.pdf
+F https://www.diodes.com/assets/Datasheets/ds30036.pdf
 $ENDCMP
 #
 $CMP MMBT3904_Obsolete
 D TRANS NPN 40V 0.2A SOT-23
 K MMBT3904FSCT-ND 
-F https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf
+F https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf
 $ENDCMP
 #
 $CMP MMBT3904LT1G
@@ -567,7 +567,7 @@ $ENDCMP
 $CMP MMBT3906_Obsolete
 D TRANS PNP 40V 0.2A SOT-23
 K MMBT3906FSCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf
+F https://www.onsemi.com/pub/Collateral/2N3906-D.pdf
 $ENDCMP
 #
 $CMP MMBT3906LT1G
@@ -582,10 +582,10 @@ K MMBT4401-FDICT-ND Automotive, AEC-Q101
 F https://www.diodes.com/assets/Datasheets/ds30039.pdf
 $ENDCMP
 #
-$CMP MMBT4401_LTB
+$CMP MMBT4401_Obsolete
 D TRANS NPN 40V 0.6A SOT-23
 K MMBT4401FSCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/2N4401_MMBT4401.pdf
 $ENDCMP
 #
 $CMP MMBT4401LT1G
@@ -597,7 +597,7 @@ $ENDCMP
 $CMP MMBT4403_Obsolete
 D TRANS PNP 40V 0.6A SOT-23
 K MMBT4403FSCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/MMBT4403.pdf
 $ENDCMP
 #
 $CMP MMBT4403LT1G
@@ -645,7 +645,7 @@ $ENDCMP
 $CMP MPSA06
 D TRANS NPN 80V 0.5A TO-92
 K MPSA06-ND 
-F https://www.fairchildsemi.com/datasheets/MP/MPSA06.pdf
+F https://www.onsemi.com/pub/Collateral/MPSA05-D.PDF
 $ENDCMP
 #
 $CMP MPSA42-AP
@@ -657,7 +657,7 @@ $ENDCMP
 $CMP MPSA42
 D TRANS NPN 300V 0.5A TO-92
 K MPSA42FS-ND 
-F https://www.fairchildsemi.com/datasheets/MM/MMBTA42.pdf
+F https://www.onsemi.com/pub/Collateral/MPSA42-D.PDF
 $ENDCMP
 #
 $CMP MPSA56-AP
@@ -681,19 +681,19 @@ $ENDCMP
 $CMP PN2222ATFR
 D TRANS NPN 40V 1A TO-92 CASE
 K PN2222AD26ZCT-ND 
-F https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf
+F https://www.onsemi.com/pub/Collateral/PN2222A-D.pdf
 $ENDCMP
 #
 $CMP PN2222ABU
 D TRANS NPN 40V 1A TO-92 CASE
 K PN2222AFS-ND 
-F https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf
+F https://www.onsemi.com/pub/Collateral/PN2222A-D.pdf
 $ENDCMP
 #
 $CMP PN2222ATF
 D TRANS NPN 40V 1A TO-92
 K PN2222ATFCT-ND 
-F https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf
+F https://www.onsemi.com/pub/Collateral/PN2222A-D.pdf
 $ENDCMP
 #
 $CMP PN2907A-AP
@@ -705,19 +705,19 @@ $ENDCMP
 $CMP PN2907ABU
 D TRANS PNP 60V 0.8A TO-92
 K PN2907ABUFS-ND 
-F https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf
+F https://www.onsemi.com/pub/Collateral/PZT2907A-D.PDF
 $ENDCMP
 #
 $CMP PZT2222A_Obsolete
 D TRANS NPN 40V 1A SOT-223
 K PZT2222ACT-ND 
-F https://www.fairchildsemi.com/datasheets/PZ/PZT2222A.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/PN2222A,MMBT2222A,PZT2222A.pdf
 $ENDCMP
 #
 $CMP TIP120488_Obsolete
 D TRANS NPN DARL 60V 5A TO-220
 K TIP120-ND 
-F https://www.fairchildsemi.com/datasheets/TI/TIP122.pdf
+F https://www.onsemi.com/pub/Collateral/TIP122-D.PDF
 $ENDCMP
 #
 $CMP TIP120G
@@ -735,19 +735,19 @@ $ENDCMP
 $CMP TIP30C_Obsolete
 D TRANS PNP 100V 1A TO-220
 K TIP30C-ND 
-F https://www.fairchildsemi.com/datasheets/TI/TIP30C.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/TIP30(A,B,C).pdf
 $ENDCMP
 #
 $CMP TIP41C_Obsolete
 D TRANS NPN 100V 6A TO-220
 K TIP41C-ND 
-F https://www.fairchildsemi.com/datasheets/TI/TIP41B.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/TIP41A-D.pdf
 $ENDCMP
 #
 $CMP TIP42C_Obsolete
 D TRANS PNP 100V 6A TO-220
 K TIP42C-ND 
-F https://www.fairchildsemi.com/datasheets/TI/TIP42.pdf
+F https://www.onsemi.com/pub/Collateral/TIP42C-D.PDF
 $ENDCMP
 #
 $CMP ZTX450

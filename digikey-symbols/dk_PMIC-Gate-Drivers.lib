@@ -43,12 +43,12 @@ DEF FAN3111ESX U 0 0 Y Y 1 F N
 F0 "U" -200 300 60 H V C C N N
 F1 "FAN3111ESX" 100 -250 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/FA/FAN3111E.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/FAN3111E-D.pdf" 200 300 60 H I L C N N
 F4 "FAN3111ESXCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FAN3111ESX" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Gate Drivers" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/FA/FAN3111E.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/FAN3111E-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/FAN3111ESX/FAN3111ESXCT-ND/2036919" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE DVR SGL 1A EXTER SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

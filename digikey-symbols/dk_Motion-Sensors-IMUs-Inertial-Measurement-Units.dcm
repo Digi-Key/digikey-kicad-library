@@ -6,7 +6,7 @@ K 1428-1007-1-ND
 F https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf
 $ENDCMP
 #
-$CMP MPU-9250_LTB
+$CMP MPU-9250_Obsolete
 D IMU ACCEL/GYRO/MAG I2C/SPI 24QFN
 K 1428-1019-1-ND MotionTracking™
 F https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/MPU-9250_Rev_1.1.pdf

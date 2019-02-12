@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP 1N5231BTR
 D DIODE ZENER 5.1V 500MW DO35
 K 1N5231BFSCT-ND 
-F http://www.onsemi.com/pub/Collateral/1N5263B-D.PDF
+F https://www.onsemi.com/pub/Collateral/1N5221B-D.PDF
 $ENDCMP
 #
 $CMP MMSZ5231B-7-F

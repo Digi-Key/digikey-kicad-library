@@ -69,13 +69,13 @@ $ENDCMP
 $CMP DWM1000
 D RF TXRX MODULE 802.15.4 CHIP ANT
 K 1479-1002-1-ND 
-F https://www.decawave.com/sites/default/files/resources/DWM1000-Datasheet-V1.6.pdf
+F https://www.decawave.com/wp-content/uploads/2018/09/dwm1000-datasheet-1.pdf
 $ENDCMP
 #
 $CMP BC127-1103383
 D RF TXRX MOD BLUETOOTH CHIP ANT
 K 1495-1000-1-ND 
-F https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf
+F 
 $ENDCMP
 #
 $CMP BC118_1103394
@@ -156,7 +156,7 @@ K 602-1192-ND XBee® ZigBee®
 F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
 $ENDCMP
 #
-$CMP XB24-API-001
+$CMP XB24-API-001_LTB
 D RF TXRX MOD 802.15.4 TRACE ANT
 K 602-1273-ND XBee® 802.15.4
 F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf

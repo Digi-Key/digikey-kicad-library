@@ -63,7 +63,7 @@ $ENDCMP
 $CMP MCP73833-AMI_UN
 D IC LI-ION/LI-POLY CTRLR 10MSOP
 K MCP73833-AMI/UN-ND 
-F http://ww1.microchip.com/downloads/en/DeviceDoc/22005b.pdf
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en027983
 $ENDCMP
 #
 $CMP MCP73871-2CCI_ML

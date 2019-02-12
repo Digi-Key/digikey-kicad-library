@@ -7,12 +7,12 @@ DEF P120PK-Y25BR10K POT 0 0 Y Y 1 F N
 F0 "POT" -75 250 60 H V R C N N
 F1 "P120PK-Y25BR10K" 275 -200 60 H V R C N N
 F2 "digikey-footprints:Potentiometer_P120PK-Y25BR10K" 200 200 60 H I L C N N
-F3 "http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_RotaryPanelPot_P120series.pdf" 200 300 60 H I L C N N
+F3 "https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Potentiometers/Datasheets/P120.pdf" 200 300 60 H I L C N N
 F4 "987-1710-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "P120PK-Y25BR10K" 200 500 60 H I L CNN "MPN"
 F6 "Potentiometers, Variable Resistors" 200 600 60 H I L CNN "Category"
 F7 "Rotary Potentiometers, Rheostats" 200 700 60 H I L CNN "Family"
-F8 "http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_RotaryPanelPot_P120series.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Potentiometers/Datasheets/P120.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/tt-electronics-bi/P120PK-Y25BR10K/987-1710-ND/5957454" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "POT 10K OHM 1/20W PLASTIC LINEAR" 200 1000 60 H I L CNN "Description"
 F11 "TT Electronics/BI" 200 1100 60 H I L CNN "Manufacturer"

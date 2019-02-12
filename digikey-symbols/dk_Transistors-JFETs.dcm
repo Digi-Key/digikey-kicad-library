@@ -9,13 +9,13 @@ $ENDCMP
 $CMP J113
 D JFET N-CH 35V 625MW TO92
 K J113FS-ND 
-F https://www.fairchildsemi.com/datasheets/J1/J111.pdf
+F 
 $ENDCMP
 #
 $CMP J175-D26Z
 D JFET P-CH 30V 0.35W TO92
 K J175-D26ZCT-ND 
-F https://www.fairchildsemi.com/datasheets/J1/J175.pdf
+F https://www.onsemi.com/pub/Collateral/J175-D.PDF
 $ENDCMP
 #
 #End Doc Library

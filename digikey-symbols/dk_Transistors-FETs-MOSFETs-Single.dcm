@@ -9,13 +9,13 @@ $ENDCMP
 $CMP 2N7000
 D MOSFET N-CH 60V 200MA TO-92
 K 2N7000FS-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
+F https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
 $ENDCMP
 #
 $CMP 2N7000TA
 D MOSFET N-CH 60V 0.2A TO-92
 K 2N7000TACT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
+F https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
 $ENDCMP
 #
 $CMP 2N7002-7-F
@@ -39,7 +39,7 @@ $ENDCMP
 $CMP 2N7002
 D MOSFET N-CH 60V 115MA SOT-23
 K 2N7002NCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
+F https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
 $ENDCMP
 #
 $CMP AO3401A
@@ -51,13 +51,13 @@ $ENDCMP
 $CMP BS170
 D MOSFET N-CH 60V 500MA TO-92
 K BS170-ND 
-F https://www.fairchildsemi.com/datasheets/BS/BS170.pdf
+F https://www.onsemi.com/pub/Collateral/BS170-D.PDF
 $ENDCMP
 #
 $CMP BSS123
 D MOSFET N-CH 100V 170MA SOT-23
 K BSS123NCT-ND 
-F https://www.fairchildsemi.com/datasheets/BS/BSS123.pdf
+F https://www.onsemi.com/pub/Collateral/BSS123-D.PDF
 $ENDCMP
 #
 $CMP BSS138-7-F
@@ -69,13 +69,13 @@ $ENDCMP
 $CMP BSS138
 D MOSFET N-CH 50V 220MA SOT-23
 K BSS138CT-ND 
-F https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf
+F https://www.onsemi.com/pub/Collateral/BSS138-D.PDF
 $ENDCMP
 #
 $CMP BSS84
 D MOSFET P-CH 50V 130MA SOT-23
 K BSS84CT-ND 
-F https://www.fairchildsemi.com/datasheets/BS/BSS84.pdf
+F https://www.onsemi.com/pub/Collateral/BSS84-D.PDF
 $ENDCMP
 #
 $CMP DMG1012T-7
@@ -105,13 +105,13 @@ $ENDCMP
 $CMP FQP27P06
 D MOSFET P-CH 60V 27A TO-220
 K FQP27P06-ND QFET®
-F https://www.fairchildsemi.com/datasheets/FQ/FQP27P06.pdf
+F https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF
 $ENDCMP
 #
 $CMP FQP30N06L
 D MOSFET N-CH 60V 32A TO-220
 K FQP30N06L-ND QFET®
-F https://www.fairchildsemi.com/datasheets/FQ/FQP30N06L.pdf
+F https://www.onsemi.com/pub/Collateral/FQP30N06L-D.pdf
 $ENDCMP
 #
 $CMP IRF510PBF

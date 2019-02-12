@@ -60,12 +60,12 @@ DEF 2N7002DW Q 0 0 Y Y 1 F N
 F0 "Q" -200 400 60 H V C C N N
 F1 "2N7002DW" -200 -600 60 H V L C N N
 F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N7002DW.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/2N7002DW-D.PDF" 200 300 60 H I L C N N
 F4 "2N7002DWCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7002DW" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Arrays" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N7002DW.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/2N7002DW-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N7002DW/2N7002DWCT-ND/1785790" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET 2N-CH 60V 0.115A SC70-6" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -205,12 +205,12 @@ DEF FDG6303N Q 0 0 Y Y 1 F N
 F0 "Q" -200 400 60 H V C C N N
 F1 "FDG6303N" -100 -400 60 H V L C N N
 F2 "digikey-footprints:SOT-363" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/FD/FDG6303N.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/FDG6303N-D.PDF" 200 300 60 H I L C N N
 F4 "FDG6303NCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FDG6303N" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Arrays" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/FD/FDG6303N.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/FDG6303N-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/FDG6303N/FDG6303NCT-ND/965594" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET 2N-CH 25V 0.5A SC70-6" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

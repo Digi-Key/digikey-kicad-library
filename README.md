@@ -19,12 +19,14 @@ This is an early release to help refine what this library to going be and solici
 
 The usable libraries are located in the `digikey-footprints.pretty/` and `digikey-symbols/` folders.  
 
-
+## Organization
 The current organization of the library follows Digi-Key's [family taxonomy](http://www.eewiki.net/display/Resources/Become+a+Digi-Key+Master#BecomeaDigi-KeyMaster-Digi-KeyTerminology), but this is subject to change based on feedback.  The intention is not to offer a complete library that includes all of Digi-Key's parts, but to offer a useful subset which will grow over time.  At this time capacitors and resistors have been excluded, but we are looking at a sane way to make this happen. 
 
 Library metadata will be updated regularly and symbols for parts which may not be readily available will have its corresponding status appended to each symbol name.
 
 ## Contributing
 Please make pull requests against the footprints and symbols in the `src/` folder.  There is one part per .lib and it should be named with the Digi-Key PN.  ex `123-2245-ND.lib`
+
+## Licensing
 
 The digikey-kicad-library is licensed under a CC-BY-SA 4.0 license (with an exception) so please see the LICENSE.md for more information.

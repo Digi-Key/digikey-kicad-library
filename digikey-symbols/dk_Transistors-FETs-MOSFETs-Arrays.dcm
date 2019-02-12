@@ -9,7 +9,7 @@ $ENDCMP
 $CMP 2N7002DW
 D MOSFET 2N-CH 60V 0.115A SC70-6
 K 2N7002DWCT-ND 
-F https://www.fairchildsemi.com/datasheets/2N/2N7002DW.pdf
+F https://www.onsemi.com/pub/Collateral/2N7002DW-D.PDF
 $ENDCMP
 #
 $CMP BSS138DW-7-F
@@ -27,7 +27,7 @@ $ENDCMP
 $CMP FDG6303N
 D MOSFET 2N-CH 25V 0.5A SC70-6
 K FDG6303NCT-ND 
-F https://www.fairchildsemi.com/datasheets/FD/FDG6303N.pdf
+F https://www.onsemi.com/pub/Collateral/FDG6303N-D.PDF
 $ENDCMP
 #
 #End Doc Library

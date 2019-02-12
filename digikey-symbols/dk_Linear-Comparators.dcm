@@ -66,16 +66,16 @@ K LM311NNS/NOPB-ND
 F http://www.ti.com/lit/ds/symlink/lm311-n.pdf
 $ENDCMP
 #
-$CMP LM339N488
+$CMP LM339N488_NonStock
 D IC COMPARATOR QUAD 14-DIP
 K LM339NFS-ND 
-F https://www.fairchildsemi.com/datasheets/LM/LM239A.pdf
+F https://www.onsemi.com/pub/Collateral/LM339A-D.pdf
 $ENDCMP
 #
-$CMP LM393N
+$CMP LM393N_NonStock
 D IC COMP DUAL LOW PWR 8DIP
 K LM393NFS-ND 
-F https://www.fairchildsemi.com/datasheets/LM/LM2903.pdf
+F https://www.onsemi.com/pub/Collateral/LM393-D.PDF
 $ENDCMP
 #
 $CMP LT1716CS5_TRMPBF

@@ -605,12 +605,12 @@ DEF DWM1000 MOD 0 40 Y Y 1 F N
 F0 "MOD" -509 855 60 H V L C N N
 F1 "DWM1000" 225 -249 60 H V L C N N
 F2 "digikey-footprints:RF_Location_Tracking_DWM1000" 200 200 60 H I L C N N
-F3 "https://www.decawave.com/sites/default/files/resources/DWM1000-Datasheet-V1.6.pdf" 200 300 60 H I L C N N
+F3 "https://www.decawave.com/wp-content/uploads/2018/09/dwm1000-datasheet-1.pdf" 200 300 60 H I L C N N
 F4 "1479-1002-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DWM1000" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.decawave.com/sites/default/files/resources/DWM1000-Datasheet-V1.6.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.decawave.com/wp-content/uploads/2018/09/dwm1000-datasheet-1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/decawave-limited/DWM1000/1479-1002-1-ND/4805335" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MODULE 802.15.4 CHIP ANT" 200 1000 60 H I L CNN "Description"
 F11 "Decawave Limited" 200 1100 60 H I L CNN "Manufacturer"
@@ -650,12 +650,12 @@ DEF BC127-1103383 MOD 0 40 Y Y 1 F N
 F0 "MOD" -607 654 60 H V L C N N
 F1 "BC127-1103383" 425 -1550 60 H V L C N N
 F2 "digikey-footprints:Bluetooth_Module_BC127" 200 200 60 H I L C N N
-F3 "https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf" 200 300 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
 F4 "1495-1000-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC127-1103383" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/sierra-wireless/BC127-1103383/1495-1000-1-ND/4733175" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MOD BLUETOOTH CHIP ANT" 200 1000 60 H I L CNN "Description"
 F11 "Sierra Wireless" 200 1100 60 H I L CNN "Manufacturer"
@@ -1372,11 +1372,11 @@ X DIO6/~RTS 29 -900 -900 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# XB24-API-001
+# XB24-API-001_LTB
 #
-DEF XB24-API-001 MOD 0 40 Y Y 1 F N
+DEF XB24-API-001_LTB MOD 0 40 Y Y 1 F N
 F0 "MOD" -795 747 60 H V L C N N
-F1 "XB24-API-001" 48 -456 60 H V L C N N
+F1 "XB24-API-001_LTB" 48 -456 60 H V L C N N
 F2 "digikey-footprints:XBEE-20_THT" 200 200 60 H I L C N N
 F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 H I L C N N
 F4 "602-1273-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -1387,7 +1387,7 @@ F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200
 F9 "/product-detail/en/digi-international/XB24-API-001/602-1273-ND/3482588" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MOD 802.15.4 TRACE ANT" 200 1000 60 H I L CNN "Description"
 F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S -800 700 500 -400 0 1 0 f
 X Vcc 1 100 800 100 D 50 50 1 1 W

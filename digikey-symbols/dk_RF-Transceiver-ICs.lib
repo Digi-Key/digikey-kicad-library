@@ -14,7 +14,7 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
 F8 "https://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/decawave-limited/DW1000-I-TR13/1479-1001-1-ND/4499860" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX 802.15.4 48-QFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX 802.15.4 48QFN" 200 1000 60 H I L CNN "Description"
 F11 "Decawave Limited" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -77,14 +77,14 @@ DEF NRF24L01P-T U 0 40 Y Y 1 F N
 F0 "U" -150 450 60 H V C C N N
 F1 "NRF24L01P-T" 600 -900 60 H V C C N N
 F2 "digikey-footprints:QFN-20-1EP_4x4mm_RevA" 200 200 60 H I L C N N
-F3 "http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf" 200 300 60 H I L C N N
+F3 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf" 200 300 60 H I L C N N
 F4 "1490-1019-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF24L01P-T" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nordic-semiconductor-asa/NRF24L01P-T/1490-1019-ND/4626383" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX ISM>1GHZ 20-VFQFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX ISM>1GHZ 20VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Nordic Semiconductor ASA" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -189,14 +189,14 @@ DEF NRF8001-R2Q32-T U 0 40 Y Y 1 F N
 F0 "U" -400 650 60 H V C C N N
 F1 "NRF8001-R2Q32-T" 700 -1100 60 H V C C N N
 F2 "digikey-footprints:QFN-32-1EP_5x5mm" 200 200 60 H I L C N N
-F3 "http://www.nordicsemi.com/eng/content/download/2981/38488/file/nRF8001_PS_v1.2.pdf" 200 300 60 H I L C N N
+F3 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF8001PSv13.pdf" 200 300 60 H I L C N N
 F4 "1490-1026-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF8001-R2Q32-T" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "http://www.nordicsemi.com/eng/content/download/2981/38488/file/nRF8001_PS_v1.2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF8001PSv13.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nordic-semiconductor-asa/NRF8001-R2Q32-T/1490-1026-ND/4626390" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX BLUETOOTH 32-VFQFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX BLUETOOTH 32VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Nordic Semiconductor ASA" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -383,14 +383,14 @@ DEF NRF24L01P-R7 U 0 40 Y Y 1 F N
 F0 "U" -350 450 60 H V C C N N
 F1 "NRF24L01P-R7" 600 -800 60 H V C C N N
 F2 "digikey-footprints:QFN-20-1EP_4x4mm_RevA" 200 200 60 H I L C N N
-F3 "http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf" 200 300 60 H I L C N N
+F3 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf" 200 300 60 H I L C N N
 F4 "1490-1033-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF24L01P-R7" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nordic-semiconductor-asa/NRF24L01P-R7/1490-1033-1-ND/4626401" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX ISM>1GHZ 20-VFQFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX ISM>1GHZ 20VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Nordic Semiconductor ASA" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -425,12 +425,12 @@ DEF NRF51422-QFAC-R U 0 40 Y Y 1 F N
 F0 "U" -700 1800 60 H V C C N N
 F1 "NRF51422-QFAC-R" 1000 -2400 60 H V C C N N
 F2 "digikey-footprints:QFN-48-1EP_6x6mm" 200 200 60 H I L C N N
-F3 "http://www.nordicsemi.com/eng/content/download/13359/215006/file/nRF51422_PS%20v3.1.pdf" 200 300 60 H I L C N N
+F3 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF51422PSv32.pdf" 200 300 60 H I L C N N
 F4 "1490-1040-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF51422-QFAC-R" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "http://www.nordicsemi.com/eng/content/download/13359/215006/file/nRF51422_PS%20v3.1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF51422PSv32.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nordic-semiconductor-asa/NRF51422-QFAC-R/1490-1040-1-ND/5044280" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX+MCU BLUETOOTH 48VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Nordic Semiconductor ASA" 200 1100 60 H I L CNN "Manufacturer"
@@ -502,7 +502,7 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
 F8 "http://infocenter.nordicsemi.com/pdf/nRF51822_PB_v2.5.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nordic-semiconductor-asa/NRF51822-CFAC-R/1490-1041-1-ND/5044281" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX+MCU BLUETOOTH 62WLCSP" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX+MCU BLUETOOTH 62UFBGA" 200 1000 60 H I L CNN "Description"
 F11 "Nordic Semiconductor ASA" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -725,7 +725,7 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
 F8 "http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.4.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nordic-semiconductor-asa/NRF52832-QFAA-R/1490-1052-1-ND/5428660" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX+MCU BLUETOOTH 48QFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX+MCU BLUETOOTH 48VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Nordic Semiconductor ASA" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -795,7 +795,7 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
 F8 "https://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/CC1101.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CC1101RGPR/296-35718-1-ND/3947329" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX ISM<1GHZ 20-VFQFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX ISM<1GHZ 20VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -837,7 +837,7 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/lit/ds/symlink/cc1200.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CC1200RHBT/296-36396-1-ND/4271564" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX+MCU ISM<1GHZ 32-VFQFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX+MCU ISM<1GHZ 32VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -953,7 +953,7 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/lit/ds/symlink/cc3200.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CC3200R1M2RGCR/296-38902-1-ND/5143009" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX+MCU WIFI 64-VFQFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX+MCU WIFI 64VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -1039,7 +1039,7 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/lit/ds/symlink/cc2650.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CC2650F128RGZT/296-39656-1-ND/5171611" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RF TXRX+MCU 802.15.4/BT 48QFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RF TXRX+MCU 802.15.4 48VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

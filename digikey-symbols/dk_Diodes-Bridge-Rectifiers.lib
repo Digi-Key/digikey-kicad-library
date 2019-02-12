@@ -44,12 +44,12 @@ DEF DF04M D 0 30 Y Y 1 F N
 F0 "D" -300 250 60 H V L C N N
 F1 "DF04M" 50 -300 60 H V L C N N
 F2 "digikey-footprints:DIP-4_W7.62mm" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/DF/DF005M.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/DF10M-D.pdf" 200 300 60 H I L C N N
 F4 "DF04M-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DF04M" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/DF/DF005M.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/DF10M-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/DF04M/DF04M-ND/965265" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "BRIDGE RECT 1P 400V 1.5A 4DIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -151,12 +151,12 @@ DEF MB6S D 0 30 Y Y 1 F N
 F0 "D" -300 250 60 H V L C N N
 F1 "MB6S" 50 -300 60 H V L C N N
 F2 "digikey-footprints:TO-269AA" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MB/MB1S.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/MB8S-D.PDF" 200 300 60 H I L C N N
 F4 "MB6SCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MB6S" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MB/MB1S.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/MB8S-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MB6S/MB6SCT-ND/965654" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "BRIDGE RECT 1P 600V 500MA 4SOIC" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -188,12 +188,12 @@ DEF MDB8S D 0 30 Y Y 1 F N
 F0 "D" -250 250 60 H V C C N N
 F1 "MDB8S" 50 -300 60 H V L C N N
 F2 "digikey-footprints:SMD-4_5x4.4mm_P4mm" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/MDB8S-D.pdf" 200 300 60 H I L C N N
 F4 "MDB8SFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MDB8S" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/MDB8S-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MDB8S/MDB8SFSCT-ND/3137113" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "BRIDGE RECT 1P 800V 1A MICRODIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

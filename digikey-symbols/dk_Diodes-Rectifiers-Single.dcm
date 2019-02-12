@@ -21,7 +21,7 @@ $ENDCMP
 $CMP 1N4148TA
 D DIODE GEN PURP 100V 200MA DO35
 K 1N4148TACT-ND 
-F https://www.fairchildsemi.com/datasheets/1N/1N914.pdf
+F https://www.onsemi.com/pub/Collateral/1N914-D.PDF
 $ENDCMP
 #
 $CMP 1N4148W-7-F
@@ -39,7 +39,7 @@ $ENDCMP
 $CMP 1N4148WS
 D DIODE GEN PURP 75V 150MA SOD323F
 K 1N4148WSFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf
+F https://www.onsemi.com/pub/Collateral/1N914BWS-D.pdf
 $ENDCMP
 #
 $CMP 1N4148W-TP
@@ -63,19 +63,19 @@ $ENDCMP
 $CMP 1N5817
 D DIODE SCHOTTKY 20V 1A DO41
 K 1N5817FSCT-ND 
-F https://www.fairchildsemi.com/datasheets/1N/1N5817.pdf
+F https://www.onsemi.com/pub/Collateral/1N5817-D.PDF
 $ENDCMP
 #
 $CMP 1N5819
 D DIODE SCHOTTKY 40V 1A DO41
 K 1N5819FSCT-ND 
-F https://www.fairchildsemi.com/datasheets/1N/1N5817.pdf
+F https://www.onsemi.com/pub/Collateral/1N5817-D.PDF
 $ENDCMP
 #
 $CMP 1N914BTR
 D DIODE GEN PURP 100V 200MA DO35
 K 1N914BCT-ND 
-F https://www.fairchildsemi.com/datasheets/1N/1N914.pdf
+F https://www.onsemi.com/pub/Collateral/1N914-D.PDF
 $ENDCMP
 #
 $CMP 1N4001-G
@@ -117,7 +117,7 @@ $ENDCMP
 $CMP LL4148
 D DIODE GEN PURP 100V 200MA SOD80
 K LL4148FSCT-ND 
-F https://www.fairchildsemi.com/datasheets/LL/LL4148.pdf
+F https://www.onsemi.com/pub/Collateral/LL4148-D.pdf
 $ENDCMP
 #
 $CMP MBR0520LT1G
@@ -135,7 +135,7 @@ $ENDCMP
 $CMP S1G
 D DIODE GEN PURP 400V 1A SMA
 K S1GFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/S1/S1A.pdf
+F https://www.onsemi.com/pub/Collateral/S1M-D.pdf
 $ENDCMP
 #
 #End Doc Library

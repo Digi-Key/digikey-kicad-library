@@ -21,7 +21,7 @@ $ENDCMP
 $CMP BAV99_Obsolete
 D DIODE ARRAY GP 70V 200MA SOT23-3
 K BAV99FSCT-ND 
-F https://www.fairchildsemi.com/datasheets/BA/BAV99.pdf
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAV99.pdf
 $ENDCMP
 #
 #End Doc Library

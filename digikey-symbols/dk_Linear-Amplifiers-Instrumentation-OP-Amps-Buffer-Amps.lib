@@ -885,12 +885,12 @@ DEF LM324N488_NonStock U 0 0 Y Y 4 L N
 F0 "U" -200 300 60 H V C C N N
 F1 "LM324N488_NonStock" 200 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/LM/LM2902.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/LM2902A-D.pdf" 200 300 60 H I L C N N
 F4 "LM324NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM324N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/LM/LM2902.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/LM2902A-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/LM324N/LM324NFS-ND/458682" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP GP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -927,22 +927,22 @@ X ~ 14 300 0 100 L 50 50 4 1 O
 ENDDRAW
 ENDDEF
 #
-# LM358AN_NonStock
+# LM358AN_LTB
 #
-DEF LM358AN_NonStock U 0 0 Y Y 2 L N
+DEF LM358AN_LTB U 0 0 Y Y 2 L N
 F0 "U" -300 300 60 H V C C N N
-F1 "LM358AN_NonStock" 100 -200 60 H V L C N N
+F1 "LM358AN_LTB" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/LM358A-D.pdf" 200 300 60 H I L C N N
 F4 "LM358ANFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM358AN" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/LM358A-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/LM358AN/LM358ANFS-ND/458690" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP GP 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 T 0 0 0 60 0 1 0 A Normal 0 C C
 T 0 0 0 60 0 2 0 B Normal 0 C C
@@ -963,22 +963,22 @@ X VCC 8 0 200 100 D 50 50 2 1 W
 ENDDRAW
 ENDDEF
 #
-# LM358N
+# LM358N_LTB
 #
-DEF LM358N U 0 0 Y Y 2 L N
+DEF LM358N_LTB U 0 0 Y Y 2 L N
 F0 "U" -300 300 60 H V C C N N
-F1 "LM358N" 100 -200 60 H V L C N N
+F1 "LM358N_LTB" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/LM358A-D.pdf" 200 300 60 H I L C N N
 F4 "LM358NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM358N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/LM358A-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/LM358N/LM358NFS-ND/458692" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP GP 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 T 0 0 0 60 0 1 0 A Normal 0 C C
 T 0 0 0 60 0 2 0 B Normal 0 C C

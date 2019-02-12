@@ -141,19 +141,19 @@ $ENDCMP
 $CMP LM324N488_NonStock
 D IC OPAMP GP 14DIP
 K LM324NFS-ND 
-F https://www.fairchildsemi.com/datasheets/LM/LM2902.pdf
+F https://www.onsemi.com/pub/Collateral/LM2902A-D.pdf
 $ENDCMP
 #
-$CMP LM358AN_NonStock
+$CMP LM358AN_LTB
 D IC OPAMP GP 8DIP
 K LM358ANFS-ND 
-F https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf
+F https://www.onsemi.com/pub/Collateral/LM358A-D.pdf
 $ENDCMP
 #
-$CMP LM358N
+$CMP LM358N_LTB
 D IC OPAMP GP 8DIP
 K LM358NFS-ND 
-F https://www.fairchildsemi.com/datasheets/LM/LM258A.pdf
+F https://www.onsemi.com/pub/Collateral/LM358A-D.pdf
 $ENDCMP
 #
 $CMP LM741CN_NOPB

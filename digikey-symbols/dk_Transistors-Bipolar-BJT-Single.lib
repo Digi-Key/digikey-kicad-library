@@ -487,12 +487,12 @@ DEF 2N3904TFR Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904TFR" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 300 60 H I L C N N
 F4 "2N3904D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904TFR" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N3904TFR/2N3904D26ZCT-ND/458921" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -517,12 +517,12 @@ DEF 2N3904BU Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904BU" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 300 60 H I L C N N
 F4 "2N3904FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904BU" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N3904BU/2N3904FS-ND/1413" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -547,12 +547,12 @@ DEF 2N3904TA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904TA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 300 60 H I L C N N
 F4 "2N3904TAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904TA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N3904TA/2N3904TAFSCT-ND/3478138" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -577,12 +577,12 @@ DEF 2N3904TF Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904TF" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 300 60 H I L C N N
 F4 "2N3904TFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904TF" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N3904TF/2N3904TFCT-ND/1626126" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -667,12 +667,12 @@ DEF 2N3906TFR Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N3906TFR" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/2N3906-D.pdf" 200 300 60 H I L C N N
 F4 "2N3906D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3906TFR" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/2N3906-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N3906TFR/2N3906D26ZCT-ND/458922" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.2A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -697,12 +697,12 @@ DEF 2N3906BU Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N3906BU" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/2N3906-D.pdf" 200 300 60 H I L C N N
 F4 "2N3906FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3906BU" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/2N3906-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N3906BU/2N3906FS-ND/1414" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.2A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -727,12 +727,12 @@ DEF 2N3906TA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N3906TA" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/2N3906-D.pdf" 200 300 60 H I L C N N
 F4 "2N3906TAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3906TA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/2N3906-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N3906TA/2N3906TAFSCT-ND/3478144" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.2A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -787,12 +787,12 @@ DEF 2N4401BU Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N4401BU" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/MMBT4401-D.PDF" 200 300 60 H I L C N N
 F4 "2N4401-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4401BU" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/MMBT4401-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N4401BU/2N4401-ND/1417" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.6A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -817,12 +817,12 @@ DEF 2N4401TFR Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N4401TFR" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/MMBT4401-D.PDF" 200 300 60 H I L C N N
 F4 "2N4401D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4401TFR" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/MMBT4401-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N4401TFR/2N4401D26ZCT-ND/458923" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.6A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -877,12 +877,12 @@ DEF 2N4403BU Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N4403BU" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/2N4403-D.pdf" 200 300 60 H I L C N N
 F4 "2N4403-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4403BU" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/2N4403-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N4403BU/2N4403-ND/1418" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.6A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -907,12 +907,12 @@ DEF 2N4403TFR Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N4403TFR" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/2N4403-D.pdf" 200 300 60 H I L C N N
 F4 "2N4403D26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4403TFR" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/2N4403-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N4403TFR/2N4403D26ZCT-ND/458925" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.6A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1027,12 +1027,12 @@ DEF 2N5551TA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N5551TA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N5551.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/2N5551-D.PDF" 200 300 60 H I L C N N
 F4 "2N5551TAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N5551TA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N5551.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/2N5551-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N5551TA/2N5551TAFSCT-ND/3478145" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 160V 0.6A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1111,11 +1111,11 @@ X E 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# 2SA1943-O_Q__NonStock
+# 2SA1943-O_Q_
 #
-DEF 2SA1943-O_Q__NonStock Q 0 0 Y Y 1 F N
+DEF 2SA1943-O_Q_ Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
-F1 "2SA1943-O_Q__NonStock" 200 0 60 V V C C N N
+F1 "2SA1943-O_Q_" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-3P-5" 200 200 60 H I L C N N
 F3 "https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SA1943.pdf" 200 300 60 H I L C N N
 F4 "2SA1943-OQ-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -1126,7 +1126,7 @@ F8 "https://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/2SA1943.pdf" 200 
 F9 "/product-detail/en/toshiba-semiconductor-and-storage/2SA1943-O(Q)/2SA1943-OQ-ND/871383" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 230V 15A TO-3PL" 200 1000 60 H I L CNN "Description"
 F11 "Toshiba Semiconductor and Storage" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 118 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -1447,12 +1447,12 @@ DEF BC32725TA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "BC32725TA" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC327.pdf" 200 300 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
 F4 "BC32725TACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC32725TA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC327.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC32725TA/BC32725TACT-ND/2094409" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 45V 0.8A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1477,12 +1477,12 @@ DEF BC33725TA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC33725TA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC337.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BC338-D.pdf" 200 300 60 H I L C N N
 F4 "BC33725TACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC33725TA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC337.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BC338-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC33725TA/BC33725TACT-ND/1532787" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 45V 0.8A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1507,12 +1507,12 @@ DEF BC33740TA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC33740TA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC337.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BC338-D.pdf" 200 300 60 H I L C N N
 F4 "BC33740TACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC33740TA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC337.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BC338-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC33740TA/BC33740TACT-ND/1532788" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 45V 0.8A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1537,12 +1537,12 @@ DEF BC546BTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC546BTA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 300 60 H I L C N N
 F4 "BC546BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC546BTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC546BTA/BC546BTACT-ND/3042481" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 65V 0.1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1567,12 +1567,12 @@ DEF BC547BTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC547BTA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 300 60 H I L C N N
 F4 "BC547BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC547BTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC547BTA/BC547BTACT-ND/1532789" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 45V 0.1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1597,12 +1597,12 @@ DEF BC548BTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC548BTA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 300 60 H I L C N N
 F4 "BC548BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC548BTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC548BTA/BC548BTACT-ND/4553029" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 30V 0.1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1627,12 +1627,12 @@ DEF BC548CTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC548CTA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 300 60 H I L C N N
 F4 "BC548CTAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC548CTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC548CTA/BC548CTAFSCT-ND/3478140" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 30V 0.1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1657,12 +1657,12 @@ DEF BC549CTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC549CTA" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 300 60 H I L C N N
 F4 "BC549CTAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC549CTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC546.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC549CTA/BC549CTAFSCT-ND/3478139" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 30V 0.1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1687,12 +1687,12 @@ DEF BC556BTA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "BC556BTA" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC556.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" 200 300 60 H I L C N N
 F4 "BC556BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC556BTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC556.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC556BTA/BC556BTACT-ND/3042483" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 65V 0.1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1717,12 +1717,12 @@ DEF BC557BTA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "BC557BTA" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC556.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" 200 300 60 H I L C N N
 F4 "BC557BTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC557BTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC556.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC557BTA/BC557BTACT-ND/3042484" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 45V 0.1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1747,12 +1747,12 @@ DEF BC560CTA Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "BC560CTA" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BC/BC556.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" 200 300 60 H I L C N N
 F4 "BC560CTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC560CTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BC/BC556.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC560CTA/BC560CTACT-ND/1532790" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 45V 0.1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1927,12 +1927,12 @@ DEF KSA1220AYS Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "KSA1220AYS" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-225AA" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/KS/KSA1220A.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/KSA1220A-D.pdf" 200 300 60 H I L C N N
 F4 "KSA1220AYSFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KSA1220AYS" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/KS/KSA1220A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/KSA1220A-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/KSA1220AYS/KSA1220AYSFS-ND/1050551" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 160V 1.2A TO-126" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1957,12 +1957,12 @@ DEF KSC1815YTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "KSC1815YTA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/KS/KSC1815.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/KSC1815-D.pdf" 200 300 60 H I L C N N
 F4 "KSC1815YTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KSC1815YTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/KS/KSC1815.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/KSC1815-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/KSC1815YTA/KSC1815YTACT-ND/3908203" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 50V 0.15A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -1987,12 +1987,12 @@ DEF KSC1845FTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "KSC1845FTA" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/KS/KSC1845.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/KSC1845-D.pdf" 200 300 60 H I L C N N
 F4 "KSC1845FTACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KSC1845FTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/KS/KSC1845.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/KSC1845-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/KSC1845FTA/KSC1845FTACT-ND/4213845" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 120V 0.05A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -2017,12 +2017,12 @@ DEF KSP2222ABU Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "KSP2222ABU" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/KS/KSP2222A.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/KSP2222A-D.pdf" 200 300 60 H I L C N N
 F4 "KSP2222ABUFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "KSP2222ABU" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/KS/KSP2222A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/KSP2222A-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/KSP2222ABU/KSP2222ABUFS-ND/1047387" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.6A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -2257,12 +2257,12 @@ DEF MJE2955TTU Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MJE2955TTU" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MJ/MJE2955T.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/MJE2955T-D.pdf" 200 300 60 H I L C N N
 F4 "MJE2955TTUFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MJE2955TTU" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MJ/MJE2955T.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/MJE2955T-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MJE2955TTU/MJE2955TTUFS-ND/1052843" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 60V 10A TO-220" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -2317,12 +2317,12 @@ DEF MMBT2222A_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MMBT2222A_Obsolete" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT2222A.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/MMBT2222A.pdf" 200 300 60 H I L C N N
 F4 "MMBT2222AFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT2222A" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT2222A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/MMBT2222A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MMBT2222A/MMBT2222AFSCT-ND/458969" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 1A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -2527,12 +2527,12 @@ DEF MMBT2907A_LTB Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT2907A_LTB" 200 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PZT2907A-D.PDF" 200 300 60 H I L C N N
 F4 "MMBT2907AFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT2907A" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PZT2907A-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MMBT2907A/MMBT2907AFSCT-ND/458970" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 60V 0.8A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -2587,12 +2587,12 @@ DEF MMBT3904-7-F Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MMBT3904-7-F" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/MMBT3904.pdf" 200 300 60 H I L C N N
+F3 "https://www.diodes.com/assets/Datasheets/ds30036.pdf" 200 300 60 H I L C N N
 F4 "MMBT3904-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT3904-7-F" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Diodes%20PDFs/MMBT3904.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.diodes.com/assets/Datasheets/ds30036.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/diodes-incorporated/MMBT3904-7-F/MMBT3904-FDICT-ND/815727" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A SMD SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
@@ -2617,12 +2617,12 @@ DEF MMBT3904_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MMBT3904_Obsolete" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 300 60 H I L C N N
 F4 "MMBT3904FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT3904" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT3904.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PZT3904-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MMBT3904/MMBT3904FSCT-ND/458971" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -2827,12 +2827,12 @@ DEF MMBT3906_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT3906_Obsolete" 200 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/2N3906-D.pdf" 200 300 60 H I L C N N
 F4 "MMBT3906FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT3906" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/2N3906-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MMBT3906/MMBT3906FSCT-ND/458972" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.2A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -2911,22 +2911,22 @@ X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT4401_LTB
+# MMBT4401_Obsolete
 #
-DEF MMBT4401_LTB Q 0 0 Y Y 1 F N
+DEF MMBT4401_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
-F1 "MMBT4401_LTB" 206 0 60 V V C C N N
+F1 "MMBT4401_Obsolete" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/2N4401_MMBT4401.pdf" 200 300 60 H I L C N N
 F4 "MMBT4401FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT4401" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N4401.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/2N4401_MMBT4401.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MMBT4401/MMBT4401FSCT-ND/458974" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.6A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 128 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
@@ -2977,12 +2977,12 @@ DEF MMBT4403_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT4403_Obsolete" 200 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/MMBT4403.pdf" 200 300 60 H I L C N N
 F4 "MMBT4403FSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT4403" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/MMBT4403.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MMBT4403/MMBT4403FSCT-ND/458975" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.6A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3217,12 +3217,12 @@ DEF MPSA06 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MPSA06" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MP/MPSA06.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/MPSA05-D.PDF" 200 300 60 H I L C N N
 F4 "MPSA06-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA06" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MP/MPSA06.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/MPSA05-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MPSA06/MPSA06-ND/148257" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 80V 0.5A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3277,12 +3277,12 @@ DEF MPSA42 Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MPSA42" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MM/MMBTA42.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/MPSA42-D.PDF" 200 300 60 H I L C N N
 F4 "MPSA42FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA42" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MM/MMBTA42.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/MPSA42-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MPSA42/MPSA42FS-ND/32397" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 300V 0.5A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3397,12 +3397,12 @@ DEF PN2222ATFR Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "PN2222ATFR" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PN2222A-D.pdf" 200 300 60 H I L C N N
 F4 "PN2222AD26ZCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2222ATFR" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PN2222A-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/PN2222ATFR/PN2222AD26ZCT-ND/459004" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 1A TO-92 CASE" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3427,12 +3427,12 @@ DEF PN2222ABU Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "PN2222ABU" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PN2222A-D.pdf" 200 300 60 H I L C N N
 F4 "PN2222AFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2222ABU" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PN2222A-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/PN2222ABU/PN2222AFS-ND/6534" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 1A TO-92 CASE" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3457,12 +3457,12 @@ DEF PN2222ATF Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "PN2222ATF" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PN2222A-D.pdf" 200 300 60 H I L C N N
 F4 "PN2222ATFCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2222ATF" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/PN/PN2222A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PN2222A-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/PN2222ATF/PN2222ATFCT-ND/3504402" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3517,12 +3517,12 @@ DEF PN2907ABU Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "PN2907ABU" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/PZT2907A-D.PDF" 200 300 60 H I L C N N
 F4 "PN2907ABUFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2907ABU" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/MM/MMBT2907A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/PZT2907A-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/PN2907ABU/PN2907ABUFS-ND/6538" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 60V 0.8A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3547,12 +3547,12 @@ DEF PZT2222A_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "PZT2222A_Obsolete" 206 0 60 V V C C N N
 F2 "digikey-footprints:Trans_SOT-223-4" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/PZ/PZT2222A.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/PN2222A,MMBT2222A,PZT2222A.pdf" 200 300 60 H I L C N N
 F4 "PZT2222ACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PZT2222A" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/PZ/PZT2222A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/PN2222A,MMBT2222A,PZT2222A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/PZT2222A/PZT2222ACT-ND/459005" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 1A SOT-223" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3577,12 +3577,12 @@ DEF TIP120488_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "TIP120488_Obsolete" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/TI/TIP122.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/TIP122-D.PDF" 200 300 60 H I L C N N
 F4 "TIP120-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP120" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/TI/TIP122.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/TIP122-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/TIP120/TIP120-ND/1052441" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN DARL 60V 5A TO-220" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3667,12 +3667,12 @@ DEF TIP30C_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "TIP30C_Obsolete" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/TI/TIP30C.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/TIP30(A,B,C).pdf" 200 300 60 H I L C N N
 F4 "TIP30C-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP30C" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/TI/TIP30C.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/TIP30(A,B,C).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/TIP30C/TIP30C-ND/1052081" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 100V 1A TO-220" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3697,12 +3697,12 @@ DEF TIP41C_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "TIP41C_Obsolete" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/TI/TIP41B.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/TIP41A-D.pdf" 200 300 60 H I L C N N
 F4 "TIP41C-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP41C" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/TI/TIP41B.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/TIP41A-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/TIP41C/TIP41C-ND/1052519" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 100V 6A TO-220" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3727,12 +3727,12 @@ DEF TIP42C_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "TIP42C_Obsolete" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/TI/TIP42.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/TIP42C-D.PDF" 200 300 60 H I L C N N
 F4 "TIP42C-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP42C" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/TI/TIP42.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/TIP42C-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/TIP42C/TIP42C-ND/1052729" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 100V 6A TO-220" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

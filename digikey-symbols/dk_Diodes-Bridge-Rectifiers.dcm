@@ -9,7 +9,7 @@ $ENDCMP
 $CMP DF04M
 D BRIDGE RECT 1P 400V 1.5A 4DIP
 K DF04M-ND 
-F https://www.fairchildsemi.com/datasheets/DF/DF005M.pdf
+F https://www.onsemi.com/pub/Collateral/DF10M-D.pdf
 $ENDCMP
 #
 $CMP KBP04G
@@ -27,13 +27,13 @@ $ENDCMP
 $CMP MB6S
 D BRIDGE RECT 1P 600V 500MA 4SOIC
 K MB6SCT-ND 
-F https://www.fairchildsemi.com/datasheets/MB/MB1S.pdf
+F https://www.onsemi.com/pub/Collateral/MB8S-D.PDF
 $ENDCMP
 #
 $CMP MDB8S
 D BRIDGE RECT 1P 800V 1A MICRODIP
 K MDB8SFSCT-ND 
-F https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf
+F https://www.onsemi.com/pub/Collateral/MDB8S-D.pdf
 $ENDCMP
 #
 #End Doc Library

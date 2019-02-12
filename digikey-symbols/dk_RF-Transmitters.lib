@@ -14,7 +14,7 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transmitters" 200 700 60 H I L CNN "Family"
 F8 "https://linxtechnologies.com/wp/wp-content/uploads/txm-fff-lr.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/linx-technologies-inc/TXM-433-LR/TXM-433-LR_-ND/613950" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "TRANSMITTER 433MHZ LR SERIES" 200 1000 60 H I L CNN "Description"
+F10 "RF TX IC ASK/OOK 433MHZ 8SMD MOD" 200 1000 60 H I L CNN "Description"
 F11 "Linx Technologies Inc." 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

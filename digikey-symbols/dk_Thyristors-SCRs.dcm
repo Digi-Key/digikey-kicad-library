@@ -9,7 +9,7 @@ $ENDCMP
 $CMP MCR218-4G
 D THYRISTOR SCR 8A 200V TO220AB
 K MCR218-4GOS-ND 
-F http://www.littelfuse.com/~/media/electronics/datasheets/switching_thyristors/littelfuse_thyristor_mcr218_d_datasheet.pdf.pdf
+F https://www.littelfuse.com/~/media/electronics/datasheets/switching_thyristors/littelfuse_thyristor_mcr218_d_datasheet.pdf.pdf
 $ENDCMP
 #
 #End Doc Library

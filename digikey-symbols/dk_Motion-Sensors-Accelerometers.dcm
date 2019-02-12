@@ -25,7 +25,7 @@ F http://www.st.com/content/ccc/resource/technical/document/datasheet/c1/e1/62/3
 $ENDCMP
 #
 $CMP H3LIS331DLTR
-D ACCEL 100-400G I2C/SPI 16LGA
+D ACCEL 100-400G I2C/SPI 16TFLGA
 K 497-13903-1-ND 
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/3e/48/02/c7/a4/e6/41/bb/DM00053090.pdf/files/DM00053090.pdf/jcr:content/translations/en.DM00053090.pdf
 $ENDCMP
@@ -43,7 +43,7 @@ F http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/f2/7
 $ENDCMP
 #
 $CMP ADXL326BCPZ-RL7
-D ACCELEROMETER 16G ANALOG 16LFCSP
+D ACCELEROMETER 19G ANALOG 16LFCSP
 K ADXL326BCPZ-RL7CT-ND 
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL326.pdf
 $ENDCMP
@@ -91,7 +91,7 @@ F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pd
 $ENDCMP
 #
 $CMP ADXL377BCPZ-RL7
-D ACCELEROMETER 200G ANAL 16LFCSP
+D ACCEL 200G ANALOG 16LFCSP
 K ADXL377BCPZ-RL7CT-ND 
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL377.pdf
 $ENDCMP

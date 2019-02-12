@@ -75,19 +75,19 @@ $ENDCMP
 $CMP ESD5Z3_3T1G
 D TVS DIODE 3.3V 14.1V SOD523
 K ESD5Z3.3T1GOSCT-ND 
-F http://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF
+F https://www.onsemi.com/pub/Collateral/ESD5Z2.5T1-D.PDF
 $ENDCMP
 #
 $CMP PGB1010603MR
 D TVS DIODE 24V 150V 0603
 K F2594CT-ND PulseGuard® PGB
-F http://www.littelfuse.com/data/en/data_sheets/littelfuse_pulseguard-esd_pgb1.pdf
+F https://www.littelfuse.com/data/en/data_sheets/littelfuse_pulseguard-esd_pgb1.pdf
 $ENDCMP
 #
 $CMP SP0503BAHTG
 D TVS DIODE 5.5V 8.5V SOT143-4
 K F2715CT-ND SP05, SPA®
-F http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf
+F https://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf
 $ENDCMP
 #
 $CMP NUP2105LT1G

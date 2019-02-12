@@ -47,12 +47,12 @@ DEF 2N7000 Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "2N7000" 136 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" 200 300 60 H I L C N N
 F4 "2N7000FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7000" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N7000/2N7000FS-ND/244278" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET N-CH 60V 200MA TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -87,12 +87,12 @@ DEF 2N7000TA Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "2N7000TA" 136 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" 200 300 60 H I L C N N
 F4 "2N7000TACT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7000TA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N7000TA/2N7000TACT-ND/3042479" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET N-CH 60V 0.2A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -247,12 +247,12 @@ DEF 2N7002 Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "2N7002" 136 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" 200 300 60 H I L C N N
 F4 "2N7002NCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N7002" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/2N7002/2N7002NCT-ND/244664" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET N-CH 60V 115MA SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -327,12 +327,12 @@ DEF BS170 Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "BS170" 136 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BS/BS170.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BS170-D.PDF" 200 300 60 H I L C N N
 F4 "BS170-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BS170" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BS/BS170.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BS170-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BS170/BS170-ND/244280" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET N-CH 60V 500MA TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -367,12 +367,12 @@ DEF BSS123 Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "BSS123" 136 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BS/BSS123.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BSS123-D.PDF" 200 300 60 H I L C N N
 F4 "BSS123NCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BSS123" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BS/BSS123.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BSS123-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BSS123/BSS123NCT-ND/244665" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET N-CH 100V 170MA SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -447,12 +447,12 @@ DEF BSS138 Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "BSS138" 136 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" 200 300 60 H I L C N N
 F4 "BSS138CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BSS138" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BSS138/BSS138CT-ND/244294" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET N-CH 50V 220MA SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -487,12 +487,12 @@ DEF BSS84 Q 0 0 Y Y 1 F N
 F0 "Q" -64 201 60 H V R C N N
 F1 "BSS84" 186 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/BS/BSS84.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BSS84-D.PDF" 200 300 60 H I L C N N
 F4 "BSS84CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BSS84" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/BS/BSS84.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BSS84-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BSS84/BSS84CT-ND/244297" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET P-CH 50V 130MA SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -687,12 +687,12 @@ DEF FQP27P06 Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "FQP27P06" 136 0 60 V V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/FQ/FQP27P06.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF" 200 300 60 H I L C N N
 F4 "FQP27P06-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FQP27P06" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/FQ/FQP27P06.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/FQP27P06/FQP27P06-ND/965349" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET P-CH 60V 27A TO-220" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -727,12 +727,12 @@ DEF FQP30N06L Q 0 0 Y Y 1 F N
 F0 "Q" -106 143 60 H V R C N N
 F1 "FQP30N06L" 136 0 60 V V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "https://www.fairchildsemi.com/datasheets/FQ/FQP30N06L.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/FQP30N06L-D.pdf" 200 300 60 H I L C N N
 F4 "FQP30N06L-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FQP30N06L" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.fairchildsemi.com/datasheets/FQ/FQP30N06L.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/FQP30N06L-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/FQP30N06L/FQP30N06L-ND/1055122" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOSFET N-CH 60V 32A TO-220" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

@@ -14,7 +14,7 @@ F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RFID, RF Access, Monitoring ICs" 200 700 60 H I L CNN "Family"
 F8 "https://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/TRF7970A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TRF7970ARHBR/296-29355-1-ND/2728041" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC RFID/NFC AFE 13.56MHZ 32QFN" 200 1000 60 H I L CNN "Description"
+F10 "IC RFID RDR/TRANS 13.56MZ 32VQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
