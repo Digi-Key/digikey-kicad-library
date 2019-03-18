@@ -6,7 +6,7 @@ K 296-1014-1-ND
 F http://www.ti.com/lit/ds/symlink/lm358.pdf
 $ENDCMP
 #
-$CMP UA741CP
+$CMP UA741CP_NonStock
 D IC OPAMP GP 1MHZ 8DIP
 K 296-11107-5-ND 
 F http://www.ti.com/lit/ds/symlink/ua741.pdf
@@ -50,7 +50,7 @@ $ENDCMP
 #
 $CMP TL074CN
 D IC OPAMP JFET 3MHZ 14DIP
-K 296-1777-5-ND 
+K 296-1777-ND 
 F http://www.ti.com/lit/ds/symlink/tl071a.pdf
 $ENDCMP
 #
@@ -138,7 +138,7 @@ K LF356N/NOPB-ND BI-FET™
 F http://www.ti.com/lit/ds/symlink/lf356.pdf
 $ENDCMP
 #
-$CMP LM324N488_NonStock
+$CMP LM324N488_LTB
 D IC OPAMP GP 14DIP
 K LM324NFS-ND 
 F https://www.onsemi.com/pub/Collateral/LM2902A-D.pdf

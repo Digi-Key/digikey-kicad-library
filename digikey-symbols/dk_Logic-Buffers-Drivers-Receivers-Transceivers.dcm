@@ -32,7 +32,7 @@ $ENDCMP
 #
 $CMP CD4050BE
 D IC BUFFER NON-INVERT 18 V 16DIP
-K 296-2056-5-ND 4000B
+K 296-2056-ND 4000B
 F http://www.ti.com/lit/ds/symlink/cd4050b.pdf
 $ENDCMP
 #

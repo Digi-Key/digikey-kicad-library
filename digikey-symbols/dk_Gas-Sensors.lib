@@ -90,12 +90,12 @@ DEF CCS811B-JOPD500 U 0 40 Y Y 1 F N
 F0 "U" -300 500 60 H V L C N N
 F1 "CCS811B-JOPD500" 100 700 60 H V C C N N
 F2 "digikey-footprints:VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B" 200 200 60 H I L C N N
-F3 "https://ams.com/documents/20143/36005/CCS811_DS000459_6-00.pdf" 200 300 60 H I L C N N
+F3 "https://ams.com/documents/20143/36005/CCS811_DS000459_7-00.pdf" 200 300 60 H I L C N N
 F4 "CCS811B-JOPD500CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CCS811B-JOPD500" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Gas Sensors" 200 700 60 H I L CNN "Family"
-F8 "https://ams.com/documents/20143/36005/CCS811_DS000459_6-00.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://ams.com/documents/20143/36005/CCS811_DS000459_7-00.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/ams/CCS811B-JOPD500/CCS811B-JOPD500CT-ND/6569300" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "LOW POWER DIGITAL SENSOR FOR IND" 200 1000 60 H I L CNN "Description"
 F11 "ams" 200 1100 60 H I L CNN "Manufacturer"

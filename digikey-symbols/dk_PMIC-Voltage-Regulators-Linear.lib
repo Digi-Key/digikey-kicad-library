@@ -709,12 +709,12 @@ DEF NCP1117ST33T3G U 0 40 Y Y 1 F N
 F0 "U" 100 150 60 H V C C N N
 F1 "NCP1117ST33T3G" 100 250 60 H V C C N N
 F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
 F4 "NCP1117ST33T3GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NCP1117ST33T3G" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/NCP1117ST33T3G/NCP1117ST33T3GOSCT-ND/660708" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LINEAR 3.3V 1A SOT223" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -734,12 +734,12 @@ DEF NCP1117ST50T3G U 0 20 Y Y 1 F N
 F0 "U" 0 150 60 H V C C N N
 F1 "NCP1117ST50T3G" 0 250 60 H V C C N N
 F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 300 60 H I L C N N
 F4 "NCP1117ST50T3GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NCP1117ST50T3G" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/NCP1117-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/NCP1117ST50T3G/NCP1117ST50T3GOSCT-ND/1967217" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LINEAR 5V 1A SOT223" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

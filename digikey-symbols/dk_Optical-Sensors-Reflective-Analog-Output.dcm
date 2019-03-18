@@ -9,13 +9,13 @@ $ENDCMP
 $CMP QRE1113
 D SENSOR REFL 5MM PHOTOTRANS THRU
 K QRE1113-ND 
-F https://www.onsemi.com/pub/Collateral/QRE1113-D.pdf
+F https://www.onsemi.com/pub/Collateral/QRE1113-D.PDF
 $ENDCMP
 #
 $CMP QRE1113GR
 D SENSOR OPTO TRANS REFL SMD PHOTO
 K QRE1113GRCT-ND 
-F https://www.onsemi.com/pub/Collateral/QRE1113-D.pdf
+F https://www.onsemi.com/pub/Collateral/QRE1113-D.PDF
 $ENDCMP
 #
 #End Doc Library

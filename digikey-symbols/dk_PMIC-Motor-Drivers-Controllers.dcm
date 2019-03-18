@@ -27,7 +27,7 @@ $ENDCMP
 $CMP L293D
 D IC MTRDRV BIPLR 4.5-36V 16PWRDIP
 K 497-2936-5-ND 
-F http://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf
 $ENDCMP
 #
 $CMP A3967SLBTR-T

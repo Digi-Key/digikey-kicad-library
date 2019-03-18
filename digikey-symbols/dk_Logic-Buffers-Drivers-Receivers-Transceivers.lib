@@ -176,12 +176,12 @@ F0 "U" -200 250 60 H V R C N N
 F1 "CD4050BE" -100 -250 60 V V C C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd4050b.pdf" 200 300 60 H I L C N N
-F4 "296-2056-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F4 "296-2056-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4050BE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/lit/ds/symlink/cd4050b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/CD4050BE/296-2056-5-ND/67303" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/texas-instruments/CD4050BE/296-2056-ND/67303" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUFFER NON-INVERT 18 V 16DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"

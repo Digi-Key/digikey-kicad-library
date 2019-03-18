@@ -193,12 +193,12 @@ DEF L293D U 0 40 Y Y 1 F N
 F0 "U" -200 450 60 H V C C N N
 F1 "L293D" 300 -600 60 H V L C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf" 200 300 60 H I L C N N
+F3 "https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf" 200 300 60 H I L C N N
 F4 "497-2936-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L293D" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.st.com/content/ccc/resource/technical/document/datasheet/04/ac/22/f9/20/5d/43/a1/CD00000059.pdf/files/CD00000059.pdf/jcr:content/translations/en.CD00000059.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/stmicroelectronics/L293D/497-2936-5-ND/634700" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MTRDRV BIPLR 4.5-36V 16PWRDIP" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"

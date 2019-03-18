@@ -171,13 +171,13 @@ $ENDCMP
 $CMP NCP1117ST33T3G
 D IC REG LINEAR 3.3V 1A SOT223
 K NCP1117ST33T3GOSCT-ND 
-F http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF
+F https://www.onsemi.com/pub/Collateral/NCP1117-D.PDF
 $ENDCMP
 #
 $CMP NCP1117ST50T3G
 D IC REG LINEAR 5V 1A SOT223
 K NCP1117ST50T3GOSCT-ND 
-F http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF
+F https://www.onsemi.com/pub/Collateral/NCP1117-D.PDF
 $ENDCMP
 #
 #End Doc Library

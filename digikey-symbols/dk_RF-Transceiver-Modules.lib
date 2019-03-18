@@ -987,12 +987,12 @@ DEF BMD-300-A-R MOD 0 40 Y Y 1 F N
 F0 "MOD" -550 1150 60 H V C C N N
 F1 "BMD-300-A-R" 618 -952 60 H V L C N N
 F2 "digikey-footprints:Bluetooth_Module_BMD-300" 200 200 60 H I L C N N
-F3 "http://www.rigado.com/?wpdmdl=1441" 200 300 60 H I L C N N
+F3 "http://go.rigado.com/BMD-300-Data-Sheet" 200 300 60 H I L C N N
 F4 "1604-1006-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BMD-300-A-R" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "http://www.rigado.com/?wpdmdl=1441" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://go.rigado.com/BMD-300-Data-Sheet" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/rigado-inc/BMD-300-A-R/1604-1006-1-ND/5878285" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "MOD BLE 5.0 NORDIC NRF52832 SOC" 200 1000 60 H I L CNN "Description"
 F11 "Rigado, Inc." 200 1100 60 H I L CNN "Manufacturer"
@@ -1151,11 +1151,11 @@ X P1.5 19 400 -500 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# 450-0064
+# 450-0064_Obsolete
 #
-DEF 450-0064 MOD 0 40 Y Y 1 F N
+DEF 450-0064_Obsolete MOD 0 40 Y Y 1 F N
 F0 "MOD" -589 744 60 H V C C N N
-F1 "450-0064" 437 -1758 60 H V L C N N
+F1 "450-0064_Obsolete" 437 -1758 60 H V L C N N
 F2 "digikey-footprints:Bluetooth_Module_450-0064" 200 200 60 H I L C N N
 F3 "http://www.lsr.com/downloads/products/330-0087.pdf" 200 300 60 H I L C N N
 F4 "450-0064-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -1166,7 +1166,7 @@ F8 "http://www.lsr.com/downloads/products/330-0087.pdf" 200 800 60 H I L CNN "DK
 F9 "/product-detail/en/laird-wireless-thermal-systems/450-0064/450-0064-ND/4006733" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MOD BLUETOOTH/WIFI U.FL" 200 1000 60 H I L CNN "Description"
 F11 "Laird - Wireless & Thermal Systems" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S -700 700 700 -1700 0 1 0 f
 X VBAT 1 -100 800 100 D 50 50 1 1 W
@@ -1905,11 +1905,11 @@ X AD1/DIO1 19 -700 -200 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# RN42-I_RM_Obsolete
+# RN42-I_RM
 #
-DEF RN42-I_RM_Obsolete MOD 0 40 Y Y 1 F N
+DEF RN42-I_RM MOD 0 40 Y Y 1 F N
 F0 "MOD" -503 1144 60 H V L C N N
-F1 "RN42-I_RM_Obsolete" 130 -453 60 H V L C N N
+F1 "RN42-I_RM" 130 -453 60 H V L C N N
 F2 "digikey-footprints:Bluetooth_Module_RN42-I_RM" 200 200 60 H I L C N N
 F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572993" 200 300 60 H I L C N N
 F4 "740-1038-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -1920,7 +1920,7 @@ F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572993" 200
 F9 "/product-detail/en/microchip-technology/RN42-I-RM/740-1038-ND/2357707" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MOD BLUETOOTH TRACE ANT" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 X ~ 36 -600 -300 100 R 50 50 1 0 U
 S -500 1100 500 -400 0 1 0 f

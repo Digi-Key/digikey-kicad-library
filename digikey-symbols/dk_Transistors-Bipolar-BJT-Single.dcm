@@ -333,7 +333,7 @@ $ENDCMP
 $CMP BC549CTA
 D TRANS NPN 30V 0.1A TO-92
 K BC549CTAFSCT-ND 
-F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf
+F https://www.onsemi.com/pub/Collateral/BC550-D.pdf
 $ENDCMP
 #
 $CMP BC556BTA
@@ -723,13 +723,13 @@ $ENDCMP
 $CMP TIP120G
 D TRANS NPN DARL 60V 5A TO220AB
 K TIP120GOS-ND 
-F http://www.onsemi.com/pub/Collateral/TIP120-D.PDF
+F https://www.onsemi.com/pub/Collateral/TIP120-D.PDF
 $ENDCMP
 #
 $CMP TIP122G
 D TRANS NPN DARL 100V 5A TO220AB
 K TIP122GOS-ND 
-F http://www.onsemi.com/pub/Collateral/TIP120-D.PDF
+F https://www.onsemi.com/pub/Collateral/TIP120-D.PDF
 $ENDCMP
 #
 $CMP TIP30C_Obsolete

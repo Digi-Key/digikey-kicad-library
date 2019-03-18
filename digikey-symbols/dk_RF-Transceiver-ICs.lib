@@ -1156,12 +1156,12 @@ DEF SX1272IMLTRT U 0 40 Y Y 1 F N
 F0 "U" -400 850 60 H V C C N N
 F1 "SX1272IMLTRT" 700 -1100 60 H V C C N N
 F2 "digikey-footprints:VQFN-28-1EP_6x6mm" 200 200 60 H I L C N N
-F3 "https://www.semtech.com/uploads/documents/sx1272.pdf" 200 300 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
 F4 "SX1272IMLTRTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SX1272IMLTRT" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "https://www.semtech.com/uploads/documents/sx1272.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/semtech-corporation/SX1272IMLTRT/SX1272IMLTRTCT-ND/4259549" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX 802.15.4 28VQFN" 200 1000 60 H I L CNN "Description"
 F11 "Semtech Corporation" 200 1100 60 H I L CNN "Manufacturer"

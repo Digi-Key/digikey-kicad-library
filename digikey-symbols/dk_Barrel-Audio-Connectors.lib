@@ -59,10 +59,10 @@ ENDDEF
 #
 # SJ1-3523N
 #
-DEF SJ1-3523N CON 0 0 N Y 1 F N
+DEF SJ1-3523N CON 0 2 Y Y 1 F N
 F0 "CON" -300 250 60 H V L C N N
 F1 "SJ1-3523N" -50 -250 60 H V C C N N
-F2 "digikey-footprints:Headphone_Jack_2.5mm_SJ1-3523N" 200 200 60 H I L C N N
+F2 "digikey-footprints:Headphone_Jack_3.5mm_SJ1-3523N" 200 200 60 H I L C N N
 F3 "https://www.cui.com/product/resource/digikeypdf/sj1-352xn_series.pdf" 200 300 60 H I L C N N
 F4 "CP1-3523N-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SJ1-3523N" 200 500 60 H I L CNN "MPN"

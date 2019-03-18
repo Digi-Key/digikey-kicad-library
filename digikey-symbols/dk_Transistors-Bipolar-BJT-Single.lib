@@ -1657,12 +1657,12 @@ DEF BC549CTA Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC549CTA" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" 200 300 60 H I L C N N
 F4 "BC549CTAFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC549CTA" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BC546-50.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BC550-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC549CTA/BC549CTAFSCT-ND/3478139" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 30V 0.1A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3607,12 +3607,12 @@ DEF TIP120G Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "TIP120G" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 300 60 H I L C N N
 F4 "TIP120GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP120G" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/TIP120G/TIP120GOS-ND/920325" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN DARL 60V 5A TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -3637,12 +3637,12 @@ DEF TIP122G Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "TIP122G" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 300 60 H I L C N N
 F4 "TIP122GOS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TIP122G" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/TIP120-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/TIP122G/TIP122GOS-ND/920327" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN DARL 100V 5A TO220AB" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

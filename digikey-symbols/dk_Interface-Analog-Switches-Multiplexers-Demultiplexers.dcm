@@ -8,13 +8,13 @@ $ENDCMP
 #
 $CMP CD4052BE
 D IC MUX/DEMUX DUAL 4X1 16DIP
-K 296-2058-5-ND 
+K 296-2058-ND 
 F http://www.ti.com/lit/ds/symlink/cd4052b.pdf
 $ENDCMP
 #
 $CMP CD4053BE
 D IC MUX/DEMUX TRIPLE 2X1 16DIP
-K 296-2059-5-ND 
+K 296-2059-ND 
 F http://www.ti.com/lit/ds/symlink/cd4051b.pdf
 $ENDCMP
 #

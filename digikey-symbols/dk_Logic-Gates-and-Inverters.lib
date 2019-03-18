@@ -453,12 +453,12 @@ F0 "U" -200 440 60 H V R C N N
 F1 "SN74LS00N" -80 -750 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/sn7400.pdf" 200 300 60 H I L C N N
-F4 "296-1626-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F4 "296-1626-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS00N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/lit/ds/symlink/sn7400.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/SN74LS00N/296-1626-5-ND/277272" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/texas-instruments/SN74LS00N/296-1626-ND/277272" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE NAND 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
@@ -788,12 +788,12 @@ F0 "U" -200 440 60 H V R C N N
 F1 "CD4011BE" -80 -750 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
 F3 "http://www.ti.com/lit/ds/symlink/cd4011b.pdf" 200 300 60 H I L C N N
-F4 "296-2031-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F4 "296-2031-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4011BE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/lit/ds/symlink/cd4011b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/CD4011BE/296-2031-5-ND/67241" 200 900 60 H I L CNN "DK_Detail_Page"
+F9 "/product-detail/en/texas-instruments/CD4011BE/296-2031-ND/67241" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE NAND 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"

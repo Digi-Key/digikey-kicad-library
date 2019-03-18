@@ -117,7 +117,7 @@ $ENDCMP
 $CMP BMD-300-A-R
 D MOD BLE 5.0 NORDIC NRF52832 SOC
 K 1604-1006-1-ND BMD-300
-F http://www.rigado.com/?wpdmdl=1441
+F http://go.rigado.com/BMD-300-Data-Sheet
 $ENDCMP
 #
 $CMP ESP32-WROOM-32
@@ -132,7 +132,7 @@ K 428-3408-1-ND EZ-BLE™ PRoC™
 F http://www.cypress.com/file/140791/download
 $ENDCMP
 #
-$CMP 450-0064
+$CMP 450-0064_Obsolete
 D RF TXRX MOD BLUETOOTH/WIFI U.FL
 K 450-0064-ND TiWi-BLE
 F http://www.lsr.com/downloads/products/330-0087.pdf
@@ -234,7 +234,7 @@ K 602-1891-ND XBee®
 F https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf
 $ENDCMP
 #
-$CMP RN42-I_RM_Obsolete
+$CMP RN42-I_RM
 D RF TXRX MOD BLUETOOTH TRACE ANT
 K 740-1038-ND 
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en572993

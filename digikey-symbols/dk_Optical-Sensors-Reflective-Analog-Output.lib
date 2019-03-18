@@ -57,12 +57,12 @@ DEF QRE1113 U 0 0 Y Y 1 F N
 F0 "U" 0 200 60 H V C C N N
 F1 "QRE1113" 0 -275 60 H V C C N N
 F2 "digikey-footprints:Reflective_Sensor_QRE1113" 200 200 60 H I L C N N
-F3 "https://www.onsemi.com/pub/Collateral/QRE1113-D.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/QRE1113-D.PDF" 200 300 60 H I L C N N
 F4 "QRE1113-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "QRE1113" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Reflective - Analog Output" 200 700 60 H I L CNN "Family"
-F8 "https://www.onsemi.com/pub/Collateral/QRE1113-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/QRE1113-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/QRE1113/QRE1113-ND/2175990" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR REFL 5MM PHOTOTRANS THRU" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -107,12 +107,12 @@ DEF QRE1113GR U 0 0 Y Y 1 F N
 F0 "U" 0 200 60 H V C C N N
 F1 "QRE1113GR" 0 -300 60 H V C C N N
 F2 "digikey-footprints:SMD-4_3.4x2.7mm_P1.8mm" 200 200 60 H I L C N N
-F3 "https://www.onsemi.com/pub/Collateral/QRE1113-D.pdf" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/QRE1113-D.PDF" 200 300 60 H I L C N N
 F4 "QRE1113GRCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "QRE1113GR" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Reflective - Analog Output" 200 700 60 H I L CNN "Family"
-F8 "https://www.onsemi.com/pub/Collateral/QRE1113-D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/QRE1113-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/QRE1113GR/QRE1113GRCT-ND/965713" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR OPTO TRANS REFL SMD PHOTO" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

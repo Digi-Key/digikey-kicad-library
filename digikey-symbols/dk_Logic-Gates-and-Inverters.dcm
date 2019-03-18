@@ -56,7 +56,7 @@ $ENDCMP
 #
 $CMP SN74LS00N
 D IC GATE NAND 4CH 2-INP 14DIP
-K 296-1626-5-ND 74LS
+K 296-1626-ND 74LS
 F http://www.ti.com/lit/ds/symlink/sn7400.pdf
 $ENDCMP
 #
@@ -86,7 +86,7 @@ $ENDCMP
 #
 $CMP CD4011BE
 D IC GATE NAND 4CH 2-INP 14DIP
-K 296-2031-5-ND 4000B
+K 296-2031-ND 4000B
 F http://www.ti.com/lit/ds/symlink/cd4011b.pdf
 $ENDCMP
 #

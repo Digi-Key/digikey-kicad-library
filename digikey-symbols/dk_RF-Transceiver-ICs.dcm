@@ -111,7 +111,7 @@ $ENDCMP
 $CMP SX1272IMLTRT
 D IC RF TXRX 802.15.4 28VQFN
 K SX1272IMLTRTCT-ND 
-F https://www.semtech.com/uploads/documents/sx1272.pdf
+F 
 $ENDCMP
 #
 $CMP SX1276IMLTRT
