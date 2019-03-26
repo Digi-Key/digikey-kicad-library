@@ -27,6 +27,11 @@ Library metadata will be updated regularly and symbols for parts which may not b
 ## Contributing
 Please make pull requests against the footprints and symbols in the `src/` folder.  There is one part per .lib and it should be named with the Digi-Key PN.  ex `123-2245-ND.lib`
 
+## Additional Resources
+Digi-Key has a separate Partner Library located at the link below.  The Partner Library contains parts submitted by manufacturers rather than parts curated by Digi-Key's Application Engineering team.  
+
+https://github.com/Digi-Key/digikey-partner-kicad-library
+
 ## Licensing
 
 The digikey-kicad-library is licensed under a CC-BY-SA 4.0 license (with an exception) so please see the LICENSE.md for more information.
