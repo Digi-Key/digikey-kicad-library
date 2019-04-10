@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ED2601-ND
+#
+DEF ED2601-ND U 0 40 Y Y 1 F N
+F0 "U" -100 50 50 H V R CNN
+F1 "ED2601-ND" 100 -100 50 H V C CNN
+F2 "digikey-footprints:Term_Block_1x3_P5mm" 500 300 60 H I L CNN
+F3 "" 0 -200 60 H I C CNN
+DRAW
+C 0 0 25 1 1 0 N
+C 100 0 25 1 1 0 N
+C 200 0 25 1 1 0 N
+S -50 100 250 -50 1 1 0 f
+P 2 1 1 0 0 25 0 -25 N
+P 2 1 1 0 25 0 -25 0 N
+P 2 1 1 0 75 0 125 0 N
+P 2 1 1 0 100 25 100 -25 N
+P 2 1 1 0 175 0 225 0 N
+P 2 1 1 0 200 25 200 -25 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 100 200 100 D 50 50 1 1 P
+X ~ 3 200 200 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

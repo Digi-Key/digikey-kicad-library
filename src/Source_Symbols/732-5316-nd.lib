@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 732-5316-ND
+#
+DEF 732-5316-ND U 0 40 Y Y 1 F N
+F0 "U" -200 100 50 H V L CNN
+F1 "732-5316-ND" 100 -100 50 H V C CNN
+F2 "digikey-footprints:PinHeader_1x3_P2.54_Drill1.1mm" 500 300 60 H I L CNN
+F3 "" 0 -200 60 H I C CNN
+DRAW
+S -50 50 250 -50 1 1 0 f
+S -10 5 10 -15 1 1 0 F
+S 90 5 110 -15 1 1 0 F
+S 190 5 210 -15 1 1 0 F
+X ~ 1 0 150 100 D 50 50 1 1 P
+X ~ 2 100 150 100 D 50 50 1 1 P
+X ~ 3 200 150 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
