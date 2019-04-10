@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 952-1474-1-ND
+#
+DEF 952-1474-1-ND U 0 40 Y Y 1 F N
+F0 "U" 0 100 50 H V C CNN
+F1 "952-1474-1-ND" 0 -100 50 H V C CNN
+F2 "digikey-footprints:Jumper_Tin_P10.9mm" 500 300 60 H I L CNN
+F3 "" 100 0 60 H I C CNN
+DRAW
+A -25 0 50 901 -901 1 1 0 N -25 50 -25 -50
+A 25 0 50 -899 899 1 1 0 N 25 -50 25 50
+P 2 1 1 0 -25 0 25 0 N
+P 2 1 1 0 -25 50 -25 -50 N
+P 2 1 1 0 25 50 25 -50 N
+X ~ 1 -200 0 125 R 50 50 1 1 P
+X ~ 2 200 0 125 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

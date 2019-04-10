@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# A106144CT-ND
+#
+DEF A106144CT-ND U 0 40 Y Y 1 F N
+F0 "U" -100 50 50 H V R CNN
+F1 "A106144CT-ND" 0 -100 50 H V C CNN
+F2 "digikey-footprints:PROBE_PAD_0805" 300 300 60 H I L CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# A97593-ND
+#
+DEF A97593-ND U 0 40 Y Y 1 F N
+F0 "U" -50 50 50 H V R CNN
+F1 "A97593-ND" 50 -100 50 H V L CNN
+F2 "digikey-footprints:RF_SMA_RightAngle_5-1814400-1" 300 300 60 H I L CNN
+F3 "" 0 -50 60 H I C CNN
+DRAW
+A 2 -1 52 1789 -266 1 1 0 N -50 0 50 -25
+A 3 1 53 271 -1789 1 1 0 N 50 25 -50 0
+C 0 0 25 1 1 0 N
+X ~ 1 0 -200 145 U 50 50 1 1 P
+X ~ 2 200 0 175 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

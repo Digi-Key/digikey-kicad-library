@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 952-1478-1-ND
+#
+DEF 952-1478-1-ND U 0 40 Y Y 1 F N
+F0 "U" -100 50 50 H V R CNN
+F1 "952-1478-1-ND" 0 -100 50 H V C CNN
+F2 "digikey-footprints:PC_TEST_POINT_SMD" 500 300 60 H I L CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

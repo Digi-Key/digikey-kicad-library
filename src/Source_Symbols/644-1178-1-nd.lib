@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 644-1178-1-ND
+#
+DEF 644-1178-1-ND U 0 40 Y Y 1 F N
+F0 "U" 0 150 50 H V C CNN
+F1 "644-1178-1-ND" 0 -150 50 H V C CNN
+F2 "digikey-footprints:SMD-2_3.2x2.5mm" 500 300 60 H I L CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S -25 75 25 -75 1 1 0 F
+P 2 1 1 0 -50 75 -50 -75 N
+P 2 1 1 0 50 75 50 -75 N
+X ~ 1 -150 0 100 R 50 50 1 1 B
+X ~ 2 150 0 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

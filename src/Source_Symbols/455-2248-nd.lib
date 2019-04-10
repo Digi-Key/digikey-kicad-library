@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 455-2248-ND
+#
+DEF 455-2248-ND U 0 40 Y N 1 F N
+F0 "U" -100 -50 50 H V R CNN
+F1 "455-2248-ND" 100 -150 50 H V C CNN
+F2 "digikey-footprints:PinHeader_1x3_P2.5mm_Drill1.1mm" 500 300 50 H I L CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -50 0 250 -100 1 1 0 f
+S -10 -45 10 -65 1 1 0 F
+S 90 -45 110 -65 1 1 0 F
+S 190 -45 210 -65 1 1 0 F
+X ~ 1 0 100 100 D 50 50 1 1 P
+X ~ 2 100 100 100 D 50 50 1 1 P
+X ~ 3 200 100 100 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
