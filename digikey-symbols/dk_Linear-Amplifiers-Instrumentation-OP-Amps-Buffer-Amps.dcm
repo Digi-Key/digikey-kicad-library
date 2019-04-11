@@ -3,91 +3,91 @@ EESchema-DOCLIB  Version 2.0
 $CMP LM358DR
 D IC OPAMP GP 700KHZ 8SOIC
 K 296-1014-1-ND 
-F http://www.ti.com/lit/ds/symlink/lm358.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm358
 $ENDCMP
 #
 $CMP UA741CP_NonStock
 D IC OPAMP GP 1MHZ 8DIP
 K 296-11107-5-ND 
-F http://www.ti.com/lit/ds/symlink/ua741.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fua741
 $ENDCMP
 #
 $CMP OPA334AIDBVT
 D IC OPAMP CHOPPER 2MHZ SOT23-6
 K 296-13466-1-ND 
-F http://www.ti.com/lit/ds/symlink/opa334.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopa334
 $ENDCMP
 #
 $CMP LM324N
 D IC OPAMP GP 1.2MHZ 14DIP
 K 296-1391-5-ND 
-F http://www.ti.com/lit/ds/symlink/lm224.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm224
 $ENDCMP
 #
 $CMP LM358P
 D IC OPAMP GP 700KHZ 8DIP
 K 296-1395-5-ND 
-F http://www.ti.com/lit/ds/symlink/lm358.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm358
 $ENDCMP
 #
 $CMP NE5532P
 D IC OPAMP GP 10MHZ 8DIP
 K 296-1410-5-ND 
-F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fne5532
 $ENDCMP
 #
 $CMP TL072IP
 D IC OPAMP JFET 3MHZ 8DIP
 K 296-14997-5-ND 
-F http://www.ti.com/lit/ds/symlink/tl071a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl071a
 $ENDCMP
 #
 $CMP TL072CP
 D IC OPAMP JFET 3MHZ 8DIP
 K 296-1775-5-ND 
-F http://www.ti.com/lit/ds/symlink/tl071a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl071a
 $ENDCMP
 #
 $CMP TL074CN
 D IC OPAMP JFET 3MHZ 14DIP
 K 296-1777-ND 
-F http://www.ti.com/lit/ds/symlink/tl071a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl071a
 $ENDCMP
 #
 $CMP TL082IP
 D IC OPAMP JFET 3MHZ 8DIP
 K 296-1781-5-ND 
-F http://www.ti.com/lit/ds/symlink/tl081a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl081a
 $ENDCMP
 #
 $CMP TL084CN
 D IC OPAMP JFET 3MHZ 14DIP
 K 296-1784-5-ND 
-F http://www.ti.com/lit/ds/symlink/tl081a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl081a
 $ENDCMP
 #
 $CMP TLV2462CP
 D IC GEN PURP 2 CIRCUIT 8DIP
 K 296-1892-5-ND 
-F http://www.ti.com/lit/ds/symlink/tlv2462a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlv2462a
 $ENDCMP
 #
 $CMP INA333AIDGKR
 D IC OPAMP INSTR 150KHZ RRO 8VSSOP
 K 296-23564-1-ND 
-F http://www.ti.com/lit/ds/symlink/ina333.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina333
 $ENDCMP
 #
 $CMP LM324ADR
 D IC OPAMP GP 1.2MHZ 14SOIC
 K 296-9540-1-ND 
-F http://www.ti.com/lit/ds/symlink/lm224.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm224
 $ENDCMP
 #
 $CMP LM324AN
 D IC OPAMP GP 1.2MHZ 14DIP
 K 296-9542-5-ND 
-F http://www.ti.com/lit/ds/symlink/lm224.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm224
 $ENDCMP
 #
 $CMP LMV358IDR
@@ -135,7 +135,7 @@ $ENDCMP
 $CMP LF356N_NOPB
 D IC OPAMP JFET 5MHZ 8DIP
 K LF356N/NOPB-ND BI-FET™
-F http://www.ti.com/lit/ds/symlink/lf356.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flf356
 $ENDCMP
 #
 $CMP LM324N488_LTB
@@ -165,7 +165,7 @@ $ENDCMP
 $CMP LMC6482IN_NOPB
 D IC OPAMP GP 1.5MHZ RRO 8DIP
 K LMC6482IN/NOPB-ND 
-F http://www.ti.com/lit/ds/symlink/lmc6482.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flmc6482
 $ENDCMP
 #
 $CMP MCP6001T-I_OT
@@ -189,7 +189,7 @@ $ENDCMP
 $CMP OPA2134PA
 D IC OPAMP AUDIO 8MHZ 8DIP
 K OPA2134PA-ND SoundPlus™
-F http://www.ti.com/lit/ds/symlink/opa134.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopa134
 $ENDCMP
 #
 #End Doc Library

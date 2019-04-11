@@ -7,12 +7,12 @@ DEF DRV5053VAQDBZR U 0 40 Y Y 1 F N
 F0 "U" -100 300 60 H V C C N N
 F1 "DRV5053VAQDBZR" 200 -300 60 H V L C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/drv5053.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv5053" 200 300 60 H I L C N N
 F4 "296-38460-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV5053VAQDBZR" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Magnetic Sensors - Linear, Compass (ICs)" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/drv5053.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv5053" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/DRV5053VAQDBZR/296-38460-1-ND/5022225" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR HALL ANALOG SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

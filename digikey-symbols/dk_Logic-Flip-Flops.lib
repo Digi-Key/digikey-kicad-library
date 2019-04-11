@@ -7,12 +7,12 @@ DEF SN74HC74N U 0 40 Y Y 1 F N
 F0 "U" -250 450 60 H V C C N N
 F1 "SN74HC74N" -100 550 60 H V R C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74hc74.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc74" 200 300 60 H I L C N N
 F4 "296-1602-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC74N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Flip Flops" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74hc74.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc74" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74HC74N/296-1602-5-ND/277248" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC FF D-TYPE DUAL 1BIT 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -42,12 +42,12 @@ DEF SN74LS74AN U 0 20 Y Y 1 F N
 F0 "U" -100 450 60 H V C C N N
 F1 "SN74LS74AN" 0 550 60 H V R C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls74a" 200 300 60 H I L C N N
 F4 "296-1668-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS74AN" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Flip Flops" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74ls74a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls74a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LS74AN/296-1668-5-ND/277314" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC FF D-TYPE DUAL 1BIT 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -77,12 +77,12 @@ DEF CD4013BE U 0 40 Y Y 1 F N
 F0 "U" -200 150 60 H V C C N N
 F1 "CD4013BE" -50 250 60 H V R C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cd4013b.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4013b" 200 300 60 H I L C N N
 F4 "296-2033-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4013BE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Flip Flops" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cd4013b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4013b" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CD4013BE/296-2033-5-ND/67245" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC FF D-TYPE DUAL 1BIT 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

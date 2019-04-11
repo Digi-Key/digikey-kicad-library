@@ -830,12 +830,12 @@ DEF CC1200RHBT U 0 40 Y Y 1 F N
 F0 "U" -550 1250 60 H V C C N N
 F1 "CC1200RHBT" 800 -1600 60 H V C C N N
 F2 "digikey-footprints:QFN-32-1EP_5x5mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cc1200.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc1200" 200 300 60 H I L C N N
 F4 "296-36396-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC1200RHBT" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cc1200.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc1200" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CC1200RHBT/296-36396-1-ND/4271564" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX+MCU ISM<1GHZ 32VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -884,12 +884,12 @@ DEF CC2541F256RHAR U 0 40 Y Y 1 F N
 F0 "U" -400 1650 60 H V C C N N
 F1 "CC2541F256RHAR" 900 -1800 60 H V C C N N
 F2 "digikey-footprints:VFQFN-40-1EP_6x6mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cc2541.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc2541" 200 300 60 H I L C N N
 F4 "296-37144-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC2541F256RHAR" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cc2541.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc2541" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CC2541F256RHAR/296-37144-1-ND/4505901" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX+MCU BLUETOOTH 40VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -946,12 +946,12 @@ DEF CC3200R1M2RGCR U 0 40 Y Y 1 F N
 F0 "U" -500 1650 60 H V C C N N
 F1 "CC3200R1M2RGCR" 1400 -3100 60 H V C C N N
 F2 "digikey-footprints:VFQFN-64-1EP_9x9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cc3200.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc3200" 200 300 60 H I L C N N
 F4 "296-38902-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC3200R1M2RGCR" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cc3200.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc3200" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CC3200R1M2RGCR/296-38902-1-ND/5143009" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX+MCU WIFI 64VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -1032,12 +1032,12 @@ DEF CC2650F128RGZT U 0 40 Y Y 1 F N
 F0 "U" -400 1550 60 H V C C N N
 F1 "CC2650F128RGZT" 1000 -1900 60 H V C C N N
 F2 "digikey-footprints:QFN-48-1EP_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cc2650.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc2650" 200 300 60 H I L C N N
 F4 "296-39656-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC2650F128RGZT" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cc2650.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc2650" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CC2650F128RGZT/296-39656-1-ND/5171611" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX+MCU 802.15.4 48VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -1156,12 +1156,12 @@ DEF SX1272IMLTRT U 0 40 Y Y 1 F N
 F0 "U" -400 850 60 H V C C N N
 F1 "SX1272IMLTRT" 700 -1100 60 H V C C N N
 F2 "digikey-footprints:VQFN-28-1EP_6x6mm" 200 200 60 H I L C N N
-F3 "" 200 300 60 H I L C N N
+F3 "https://www.semtech.com/uploads/documents/sx1272_73_errata.pdf" 200 300 60 H I L C N N
 F4 "SX1272IMLTRTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SX1272IMLTRT" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.semtech.com/uploads/documents/sx1272_73_errata.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/semtech-corporation/SX1272IMLTRT/SX1272IMLTRTCT-ND/4259549" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX 802.15.4 28VQFN" 200 1000 60 H I L CNN "Description"
 F11 "Semtech Corporation" 200 1100 60 H I L CNN "Manufacturer"
@@ -1206,12 +1206,12 @@ DEF SX1276IMLTRT U 0 40 Y Y 1 F N
 F0 "U" -500 950 60 H V C C N N
 F1 "SX1276IMLTRT" 1000 -1100 60 H V C C N N
 F2 "digikey-footprints:VQFN-28-1EP_6x6mm" 200 200 60 H I L C N N
-F3 "https://www.semtech.com/uploads/documents/DS_SX1276-7-8-9_W_APP_V5.pdf" 200 300 60 H I L C N N
+F3 "https://cdn.sparkfun.com/assets/a/a/0/b/5/DS_SX1276-7-8-9_W_APP_V5.pdf" 200 300 60 H I L C N N
 F4 "SX1276IMLTRTCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SX1276IMLTRT" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "https://www.semtech.com/uploads/documents/DS_SX1276-7-8-9_W_APP_V5.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://cdn.sparkfun.com/assets/a/a/0/b/5/DS_SX1276-7-8-9_W_APP_V5.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/semtech-corporation/SX1276IMLTRT/SX1276IMLTRTCT-ND/4259551" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX 802.15.4 28VQFN" 200 1000 60 H I L CNN "Description"
 F11 "Semtech Corporation" 200 1100 60 H I L CNN "Manufacturer"

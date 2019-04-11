@@ -7,12 +7,12 @@ DEF TLC555CDR U 0 40 Y Y 1 F N
 F0 "U" -350 250 60 H V L C N N
 F1 "TLC555CDR" 50 -350 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tlc555.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc555" 200 300 60 H I L C N N
 F4 "296-1336-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC555CDR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Programmable Timers and Oscillators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tlc555.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc555" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TLC555CDR/296-1336-1-ND/404959" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OSC SGL TIMER 2.1MHZ 8-SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -36,12 +36,12 @@ DEF NE555P U 0 40 Y Y 1 F N
 F0 "U" -350 250 60 H V L C N N
 F1 "NE555P" 50 -350 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fne555" 200 300 60 H I L C N N
 F4 "296-1411-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NE555P" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Programmable Timers and Oscillators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fne555" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/NE555P/296-1411-5-ND/277057" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OSC SINGLE TIMER 100KHZ 8-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -65,12 +65,12 @@ DEF TLC555CP U 0 40 Y Y 1 F N
 F0 "U" -350 50 60 H V L C N N
 F1 "TLC555CP" 50 -550 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tlc555.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc555" 200 300 60 H I L C N N
 F4 "296-1857-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC555CP" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Programmable Timers and Oscillators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tlc555.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc555" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TLC555CP/296-1857-5-ND/277502" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OSC SINGLE TIMER 2.1MHZ 8-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -94,12 +94,12 @@ DEF TPL5110DDCT U 0 40 Y Y 1 F N
 F0 "U" -300 300 60 H V L C N N
 F1 "TPL5110DDCT" 50 -300 60 H V L C N N
 F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tpl5110.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpl5110" 200 300 60 H I L C N N
 F4 "296-38830-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPL5110DDCT" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Programmable Timers and Oscillators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tpl5110.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpl5110" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPL5110DDCT/296-38830-1-ND/5130150" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC TIMER W/WATCHDOG 6-SOT" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -121,12 +121,12 @@ DEF NE555DR U 0 40 Y Y 1 F N
 F0 "U" -350 50 60 H V L C N N
 F1 "NE555DR" 50 -550 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fne555" 200 300 60 H I L C N N
 F4 "296-6501-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NE555DR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Clock/Timing - Programmable Timers and Oscillators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fne555" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/NE555DR/296-6501-1-ND/372490" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OSC SGL TIMER 100KHZ 8-SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

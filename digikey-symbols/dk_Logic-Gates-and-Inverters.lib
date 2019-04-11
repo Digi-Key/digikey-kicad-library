@@ -7,12 +7,12 @@ DEF SN74LVC1G04DBVR U 0 0 Y Y 1 F N
 F0 "U" -100 140 60 H V R C N N
 F1 "SN74LVC1G04DBVR" -30 -150 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g04.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04" 200 300 60 H I L C N N
 F4 "296-11599-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G04DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g04.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g04" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G04DBVR/296-11599-1-ND/385738" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC INVERTER 1CH 1-INP SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -37,12 +37,12 @@ DEF SN74LVC1G08DBVR U 0 1 Y Y 1 F N
 F0 "U" -100 240 60 H V R C N N
 F1 "SN74LVC1G08DBVR" 20 -250 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g08" 200 300 60 H I L C N N
 F4 "296-11601-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G08DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g08" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G08DBVR/296-11601-1-ND/385740" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE AND 1CH 2-INP SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -64,12 +64,12 @@ DEF SN74LVC1G08DCKR U 0 1 Y Y 1 F N
 F0 "U" -100 240 60 H V R C N N
 F1 "SN74LVC1G08DCKR" 30 -250 60 H V L C N N
 F2 "digikey-footprints:SC-70-5" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g08" 200 300 60 H I L C N N
 F4 "296-11602-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G08DCKR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g08.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g08" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G08DCKR/296-11602-1-ND/385741" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE AND 1CH 2-INP SC70-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -91,12 +91,12 @@ DEF SN74LVC1G14DBVR U 0 0 Y Y 1 F N
 F0 "U" -100 140 60 H V R C N N
 F1 "SN74LVC1G14DBVR" -20 -150 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g14" 200 300 60 H I L C N N
 F4 "296-11607-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G14DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g14" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G14DBVR/296-11607-1-ND/385746" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC INVERTER SCHMITT 1CH SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -121,12 +121,12 @@ DEF SN74HC00N U 0 1 Y Y 1 F N
 F0 "U" -100 940 60 H V R C N N
 F1 "SN74HC00N" 10 -950 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74hc00.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc00" 200 300 60 H I L C N N
 F4 "296-1563-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC00N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74hc00.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc00" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74HC00N/296-1563-5-ND/277209" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE NAND 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -180,12 +180,12 @@ DEF SN74HC04N U 0 1 Y Y 1 F N
 F0 "U" -100 540 60 H V R C N N
 F1 "SN74HC04N" 20 -450 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74hc04.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc04" 200 300 60 H I L C N N
 F4 "296-1566-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC04N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74hc04.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc04" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74HC04N/296-1566-5-ND/277212" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC INVERTER 6CH 6-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -251,12 +251,12 @@ DEF SN74HC08N U 0 1 Y Y 1 F N
 F0 "U" -100 340 60 H V R C N N
 F1 "SN74HC08N" 20 -1550 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74hc08.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc08" 200 300 60 H I L C N N
 F4 "296-1570-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC08N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74hc08.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc08" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74HC08N/296-1570-5-ND/277216" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE AND 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -310,12 +310,12 @@ DEF SN74HC14N U 0 1 Y Y 1 F N
 F0 "U" -100 540 60 H V R C N N
 F1 "SN74HC14N" 10 -450 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74hc14.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc14" 200 300 60 H I L C N N
 F4 "296-1577-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC14N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74hc14.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc14" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74HC14N/296-1577-5-ND/277223" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC INVERTER SCHMITT 6CH 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -381,12 +381,12 @@ DEF SN74HC32N U 0 0 Y Y 1 F N
 F0 "U" -100 240 60 H V R C N N
 F1 "SN74HC32N" -20 -750 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74hc32.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc32" 200 300 60 H I L C N N
 F4 "296-1589-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74HC32N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74hc32.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74hc32" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74HC32N/296-1589-5-ND/277235" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE OR 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -452,12 +452,12 @@ DEF SN74LS00N U 0 1 Y Y 1 F N
 F0 "U" -200 440 60 H V R C N N
 F1 "SN74LS00N" -80 -750 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn7400.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn7400" 200 300 60 H I L C N N
 F4 "296-1626-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS00N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn7400.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn7400" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LS00N/296-1626-ND/277272" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE NAND 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -515,12 +515,12 @@ DEF SN74LS02N U 0 1 Y Y 1 F N
 F0 "U" -100 340 60 H V R C N N
 F1 "SN74LS02N" -70 -850 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn7402.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn7402" 200 300 60 H I L C N N
 F4 "296-1627-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS02N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn7402.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn7402" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LS02N/296-1627-5-ND/277273" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE NOR 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -590,12 +590,12 @@ DEF SN74LS04N U 0 1 Y Y 1 F N
 F0 "U" -100 540 60 H V R C N N
 F1 "SN74LS04N" 10 -450 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74ls04.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls04" 200 300 60 H I L C N N
 F4 "296-1629-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS04N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74ls04.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls04" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LS04N/296-1629-5-ND/277275" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC INVERTER 6CH 6-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -661,12 +661,12 @@ DEF SN74LS08N U 0 1 Y Y 1 F N
 F0 "U" -100 340 60 H V R C N N
 F1 "SN74LS08N" 10 -850 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74ls08.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls08" 200 300 60 H I L C N N
 F4 "296-1633-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS08N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74ls08.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls08" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LS08N/296-1633-5-ND/277279" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE AND 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -716,12 +716,12 @@ DEF SN74LS32N U 0 1 Y Y 1 F N
 F0 "U" -100 340 60 H V R C N N
 F1 "SN74LS32N" 10 -850 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74ls32.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls32" 200 300 60 H I L C N N
 F4 "296-1658-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LS32N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74ls32.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ls32" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LS32N/296-1658-5-ND/277304" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE OR 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -787,12 +787,12 @@ DEF CD4011BE U 0 1 Y Y 1 F N
 F0 "U" -200 440 60 H V R C N N
 F1 "CD4011BE" -80 -750 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cd4011b.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4011b" 200 300 60 H I L C N N
 F4 "296-2031-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4011BE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cd4011b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4011b" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CD4011BE/296-2031-ND/67241" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE NAND 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -850,12 +850,12 @@ DEF CD4093BE U 0 1 Y Y 1 F N
 F0 "U" -100 440 60 H V R C N N
 F1 "CD4093BE" 20 -750 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cd4093b.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4093b" 200 300 60 H I L C N N
 F4 "296-2068-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4093BE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cd4093b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4093b" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CD4093BE/296-2068-5-ND/67329" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC GATE NAND 4CH 2-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -913,12 +913,12 @@ DEF CD40106BE U 0 1 Y Y 1 F N
 F0 "U" -100 540 60 H V R C N N
 F1 "CD40106BE" 20 -450 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cd40106b.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd40106b" 200 300 60 H I L C N N
 F4 "296-3503-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD40106BE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Gates and Inverters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cd40106b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd40106b" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CD40106BE/296-3503-5-ND/376602" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC INVERTER 6CH 6-INP 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

@@ -9,31 +9,31 @@ $ENDCMP
 $CMP TL431AIDBZR
 D IC VREF SHUNT ADJ SOT23-3
 K 296-17329-1-ND 
-F http://www.ti.com/lit/gpn/tl431
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl431
 $ENDCMP
 #
 $CMP REF3025AIDBZR
 D IC VREF SERIES 2.5V SOT23-3
 K 296-26322-1-ND 
-F http://www.ti.com/lit/ds/symlink/ref3012.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3012
 $ENDCMP
 #
 $CMP REF3030AIDBZR
 D IC VREF SERIES 3V SOT23-3
 K 296-26323-1-ND 
-F http://www.ti.com/lit/ds/symlink/ref3012.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3012
 $ENDCMP
 #
 $CMP TL431CLPM
 D IC VREF SHUNT ADJ TO92-3
 K 296-26717-1-ND 
-F http://www.ti.com/lit/gpn/tl431
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl431
 $ENDCMP
 #
 $CMP REF3012AIDBZR
 D IC VREF SERIES 1.25V SOT23-3
 K 296-32213-1-ND 
-F http://www.ti.com/lit/ds/symlink/ref3012.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3012
 $ENDCMP
 #
 $CMP ADR510ARTZ-REEL7

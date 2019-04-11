@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP TPS61200DRCR_Discontinued
 D IC REG BOOST ADJ 1.2A SYNC 10SON
 K 296-27017-1-ND 
-F http://www.ti.com/lit/ds/symlink/tps61202.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61202
 $ENDCMP
 #
 $CMP AOZ1280CI

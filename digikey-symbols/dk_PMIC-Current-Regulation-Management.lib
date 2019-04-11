@@ -7,12 +7,12 @@ DEF INA219AIDCNR U 0 40 Y Y 1 F N
 F0 "U" -200 340 60 H V R C N N
 F1 "INA219AIDCNR" 10 -450 60 H V L C N N
 F2 "digikey-footprints:SOT-23-8" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/ina219.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina219" 200 300 60 H I L C N N
 F4 "296-23770-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "INA219AIDCNR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/ina219.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina219" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/INA219AIDCNR/296-23770-1-ND/1952550" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC CURRENT MONITOR 1% SOT23-8" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -36,12 +36,12 @@ DEF INA169NA_3K U 0 40 Y Y 1 F N
 F0 "U" -200 440 60 H V R C N N
 F1 "INA169NA_3K" 10 -50 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/ina139.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina139" 200 300 60 H I L C N N
 F4 "296-26063-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "INA169NA/3K" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/ina139.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina139" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/INA169NA-3K/296-26063-1-ND/2254837" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC CURRENT MONITOR 0.5% SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -62,12 +62,12 @@ DEF INA226AIDGSR U 0 40 Y Y 1 F N
 F0 "U" -100 140 60 H V R C N N
 F1 "INA226AIDGSR" 120 -750 60 H V L C N N
 F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/ina226.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina226" 200 300 60 H I L C N N
 F4 "296-29034-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "INA226AIDGSR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/ina226.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fina226" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/INA226AIDGSR/296-29034-1-ND/2687118" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MONITOR PWR/CURR BIDIR 10MSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -93,12 +93,12 @@ DEF LM334Z_NOPB U 0 1 Y Y 1 F N
 F0 "U" -100 140 60 H V R C N N
 F1 "LM334Z_NOPB" 10 -250 60 H V L C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm134.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm134" 200 300 60 H I L C N N
 F4 "LM334ZNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM334Z/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Current Regulation/Management" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm134.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm134" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM334Z-NOPB/LM334ZNS-NOPB-ND/6215" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC CURRENT SOURCE 3% TO92-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

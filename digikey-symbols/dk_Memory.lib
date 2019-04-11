@@ -59,4 +59,33 @@ X VDD 8 100 300 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
+# W25Q32JVSSIQ_TR
+#
+DEF W25Q32JVSSIQ_TR U 0 40 Y Y 1 F N
+F0 "U" -300 350 50 H V L C N N
+F1 "W25Q32JVSSIQ_TR" 50 -350 50 H V L C N N
+F2 "digikey-footprints:SOIC-8_W5.6mm" 200 200 60 H I L C N N
+F3 "http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf" 200 300 60 H I L C N N
+F4 "W25Q32JVSSIQCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "W25Q32JVSSIQ TR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Memory" 200 700 60 H I L CNN "Family"
+F8 "http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/winbond-electronics/W25Q32JVSSIQ-TR/W25Q32JVSSIQCT-ND/7393546" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC FLASH 32M SPI 133MHZ 8SOIC" 200 1000 60 H I L CNN "Description"
+F11 "Winbond Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 200 -300 0 1 0 f
+X ~CS 1 -400 200 100 R 50 50 1 1 I
+X DO 2 300 0 100 L 50 50 1 1 O
+X ~WP 3 -400 100 100 R 50 50 1 1 I
+X GND 4 0 -400 100 U 50 50 1 1 W
+X DI 5 -400 0 100 R 50 50 1 1 I
+X CLK 6 -400 -100 100 R 50 50 1 1 I
+X ~RST 7 -400 -200 100 R 50 50 1 1 I
+X VCC 8 0 400 100 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 #End Library

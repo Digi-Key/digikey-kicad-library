@@ -59,12 +59,12 @@ DEF SN65HVD230DR U 0 40 Y Y 1 F N
 F0 "U" -100 50 60 H V C C N N
 F1 "SN65HVD230DR" 200 -700 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65hvd230" 200 300 60 H I L C N N
 F4 "296-11654-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN65HVD230DR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65hvd230" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN65HVD230DR/296-11654-1-ND/404366" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC TXRX CAN 1MBPS 3.3V 8SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -88,12 +88,12 @@ DEF SN75176BDR U 0 0 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "SN75176BDR" 100 -400 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn65176b.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65176b" 200 300 60 H I L C N N
 F4 "296-1275-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN75176BDR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn65176b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn65176b" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN75176BDR/296-1275-1-ND/404925" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC TXRX DIFF BUSS 8SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -145,12 +145,12 @@ DEF MAX232N U 0 40 Y Y 1 F N
 F0 "U" -350 450 60 H V C C N N
 F1 "MAX232N" 0 -500 60 V V L C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/max232.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232" 200 300 60 H I L C N N
 F4 "296-1402-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MAX232N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/max232.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmax232" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/MAX232N/296-1402-5-ND/277048" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC DUAL EIA-232 DRVR/RCVR 16-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -182,12 +182,12 @@ DEF TFP401APZP U 0 40 Y Y 2 L N
 F0 "U" -400 1900 60 H V C C N N
 F1 "TFP401APZP" -100 0 60 V V C C N N
 F2 "digikey-footprints:HTQFP-100_14x14mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tfp401a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftfp401a" 200 300 60 H I L C N N
 F4 "296-9991-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TFP401APZP" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tfp401a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftfp401a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TFP401APZP/296-9991-ND/380157" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC PANELBUS DVI REC 100-HTQFP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

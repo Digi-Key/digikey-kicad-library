@@ -66,6 +66,12 @@ K 768-1130-1-ND USBmadeEZ-UART, FT-X, X-Chip
 F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
 $ENDCMP
 #
+$CMP FT230XS-R
+D IC USB SERIAL BASIC UART 16SSOP
+K 768-1135-1-ND USBmadeEZ-UART, FT-X, X-Chip
+F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
+$ENDCMP
+#
 $CMP FT230XS-U
 D IC USB SERIAL BASIC UART 16SSOP
 K 768-1154-5-ND USBmadeEZ-UART, FT-X, X-Chip

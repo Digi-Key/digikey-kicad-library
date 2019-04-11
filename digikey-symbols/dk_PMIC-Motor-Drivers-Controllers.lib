@@ -57,12 +57,12 @@ DEF DRV8825PWPR U 0 40 Y Y 1 F N
 F0 "U" -200 650 60 H V C C N N
 F1 "DRV8825PWPR" 100 -800 60 V V L C N N
 F2 "digikey-footprints:TSSOP-28-1EP_W4.40mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/drv8825.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8825" 200 300 60 H I L C N N
 F4 "296-29503-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV8825PWPR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/drv8825.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8825" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/DRV8825PWPR/296-29503-1-ND/2749200" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MTR DRVR BIPLR 8.2-45V 28SSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -107,12 +107,12 @@ DEF DRV8871DDA U 0 20 Y Y 1 F N
 F0 "U" -250 150 60 H V C C N N
 F1 "DRV8871DDA" -100 250 60 H V R C N N
 F2 "digikey-footprints:PowerSOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/drv8871.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8871" 200 300 60 H I L C N N
 F4 "296-44509-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV8871DDA" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/drv8871.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8871" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/DRV8871DDA/296-44509-5-ND/6110574" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MOTOR DRVR UNIPLR 8SO PWRPAD" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -137,12 +137,12 @@ DEF L293DNE U 0 0 Y Y 2 L N
 F0 "U" -200 300 60 H V C C N N
 F1 "L293DNE" 300 -300 60 H V L C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/l293d.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fl293d" 200 300 60 H I L C N N
 F4 "296-9518-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "L293DNE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Motor Drivers, Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/l293d.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fl293d" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/L293DNE/296-9518-5-ND/379724" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MTR DRV BIPOLAR 4.5-36V 16DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

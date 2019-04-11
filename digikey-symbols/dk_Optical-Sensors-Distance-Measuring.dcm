@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VL53L0CXV0DH_1
+D SENSOR OPTICAL 200CM I2C
+K 497-16538-1-ND 
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf
+$ENDCMP
+#
+#End Doc Library

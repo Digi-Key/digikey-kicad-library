@@ -18,6 +18,12 @@ K BAT54S-FDICT-ND
 F https://www.diodes.com/assets/Datasheets/ds11005.pdf
 $ENDCMP
 #
+$CMP BAT54SLT1G
+D DIODE ARRAY SCHOTTKY 30V SOT23-3
+K BAT54SLT1GOSCT-ND 
+F http://www.onsemi.com/pub/Collateral/BAT54SLT1-D.PDF
+$ENDCMP
+#
 $CMP BAV99_Obsolete
 D DIODE ARRAY GP 70V 200MA SOT23-3
 K BAV99FSCT-ND 

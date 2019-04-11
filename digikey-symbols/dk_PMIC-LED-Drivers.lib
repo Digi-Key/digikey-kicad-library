@@ -7,12 +7,12 @@ DEF TPS61040DBVR U 0 40 Y Y 1 F N
 F0 "U" -100 240 60 H V R C N N
 F1 "TPS61040DBVR" 10 -250 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tps61041.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61041" 200 300 60 H I L C N N
 F4 "296-12685-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS61040DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - LED Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tps61041.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61041" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPS61040DBVR/296-12685-1-ND/454262" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LED DRIVER RGLTR DIM SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -33,12 +33,12 @@ DEF TPS61041DBVR U 0 40 Y Y 1 F N
 F0 "U" -100 240 60 H V R C N N
 F1 "TPS61041DBVR" 20 -250 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tps61040.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61040" 200 300 60 H I L C N N
 F4 "296-12686-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS61041DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - LED Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tps61040.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61040" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPS61041DBVR/296-12686-1-ND/454264" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LED DRIVER RGLTR DIM SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -59,12 +59,12 @@ DEF TLC59116IPWR U 0 40 Y Y 1 F N
 F0 "U" -500 440 60 H V R C N N
 F1 "TLC59116IPWR" -250 -400 60 V V C C N N
 F2 "digikey-footprints:TSSOP-28_W4.40mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tlc59116.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc59116" 200 300 60 H I L C N N
 F4 "296-23354-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC59116IPWR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - LED Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tlc59116.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc59116" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TLC59116IPWR/296-23354-1-ND/1835679" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LED DRIVER LINEAR DIM 28TSSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -108,12 +108,12 @@ DEF TLC5916IN U 0 40 Y Y 1 F N
 F0 "U" -200 240 60 H V R C N N
 F1 "TLC5916IN" 20 -850 60 H V L C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tlc5916.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc5916" 200 300 60 H I L C N N
 F4 "296-24383-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC5916IN" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - LED Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tlc5916.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc5916" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TLC5916IN/296-24383-5-ND/1906409" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LED DRIVER LINEAR 120MA 16DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -145,12 +145,12 @@ DEF TPS61165DBVR U 0 40 Y Y 1 F N
 F0 "U" -200 240 60 H V R C N N
 F1 "TPS61165DBVR" 10 -250 60 H V L C N N
 F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tps61165.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61165" 200 300 60 H I L C N N
 F4 "296-27597-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS61165DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - LED Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tps61165.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61165" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPS61165DBVR/296-27597-1-ND/2340765" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LED DRIVER RGLTR DIM SOT23-6" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -172,12 +172,12 @@ DEF TLC5940PWPR U 0 40 Y Y 1 F N
 F0 "U" -200 540 60 H V R C N N
 F1 "TLC5940PWPR" 0 -500 60 V V C C N N
 F2 "digikey-footprints:TSSOP-28-1EP_W4.40mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tlc5940.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc5940" 200 300 60 H I L C N N
 F4 "296-35975-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC5940PWPR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - LED Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tlc5940.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc5940" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TLC5940PWPR/296-35975-1-ND/4135049" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LED DRIVER LIN 120MA 28HTSSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -222,12 +222,12 @@ DEF TLC59711PWPR U 0 40 Y Y 1 F N
 F0 "U" -200 440 60 H V R C N N
 F1 "TLC59711PWPR" 0 -300 60 V V C C N N
 F2 "digikey-footprints:TSSOP-20-1EP_W4.4mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tlc59711.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc59711" 200 300 60 H I L C N N
 F4 "296-36745-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TLC59711PWPR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - LED Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tlc59711.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc59711" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TLC59711PWPR/296-36745-1-ND/4341358" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LED DRIVER LIN 60MA 20HTSSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -264,12 +264,12 @@ DEF LP55231SQE_NOPB U 0 40 Y Y 1 F N
 F0 "U" -300 140 60 H V R C N N
 F1 "LP55231SQE_NOPB" -100 -500 60 V V C C N N
 F2 "digikey-footprints:WQFN-24-1EP_4x4mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lp55231.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp55231" 200 300 60 H I L C N N
 F4 "296-39059-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LP55231SQE/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - LED Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lp55231.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp55231" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LP55231SQE-NOPB/296-39059-1-ND/5143089" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LED DRIVER RGLTR DIM 24WQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

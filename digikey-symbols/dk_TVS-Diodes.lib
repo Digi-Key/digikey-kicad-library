@@ -272,12 +272,12 @@ DEF TPD2E001DRLR D 0 0 Y Y 1 F N
 F0 "D" -310 315 60 H V L C N N
 F1 "TPD2E001DRLR" 130 -450 60 H V R C N N
 F2 "digikey-footprints:SOT-553" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tpd2e001.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001" 200 300 60 H I L C N N
 F4 "296-21883-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPD2E001DRLR" 200 500 60 H I L CNN "MPN"
 F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
 F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tpd2e001.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPD2E001DRLR/296-21883-1-ND/1629242" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TVS DIODE 5.5V SOT5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -325,12 +325,12 @@ DEF TPD4S012DRYR D 0 40 Y Y 1 F N
 F0 "D" -205 40 60 H V L C N N
 F1 "TPD4S012DRYR" 15 -545 60 H V L C N N
 F2 "digikey-footprints:UFDFN-6_1.45x1mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tpd4s012.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd4s012" 200 300 60 H I L C N N
 F4 "296-24244-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPD4S012DRYR" 200 500 60 H I L CNN "MPN"
 F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
 F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tpd4s012.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd4s012" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPD4S012DRYR/296-24244-1-ND/2037535" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TVS DIODE 5.5V 6SON" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -352,12 +352,12 @@ DEF TPD2EUSB30DRTR D 0 0 Y Y 1 F N
 F0 "D" -210 205 60 H V L C N N
 F1 "TPD2EUSB30DRTR" 70 -220 60 H V L C N N
 F2 "digikey-footprints:SOT-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2eusb30" 200 300 60 H I L C N N
 F4 "296-25509-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPD2EUSB30DRTR" 200 500 60 H I L CNN "MPN"
 F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
 F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2eusb30" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPD2EUSB30DRTR/296-25509-1-ND/2193502" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TVS DIODE 5.5V 8V SOT3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -402,12 +402,12 @@ DEF TPD1E10B06DPYR D 0 40 Y Y 1 F N
 F0 "D" -198 162 60 H V L C N N
 F1 "TPD1E10B06DPYR" 2 -166 60 H V C C N N
 F2 "digikey-footprints:XDFN-2_1x0.60mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tpd1e10b06.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd1e10b06" 200 300 60 H I L C N N
 F4 "296-30406-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPD1E10B06DPYR" 200 500 60 H I L CNN "MPN"
 F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
 F7 "TVS - Diodes" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tpd1e10b06.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd1e10b06" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPD1E10B06DPYR/296-30406-1-ND/3283560" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TVS DIODE 5.5V 14V 2X1SON" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

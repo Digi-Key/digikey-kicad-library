@@ -1,6 +1,55 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# X000048
+#
+DEF X000048 U 0 40 Y Y 1 F N
+F0 "U" -400 750 60 H V L C N N
+F1 "X000048" -100 -200 60 V V C C N N
+F2 "digikey-footprints:DIP-28_W7.62mm" 200 200 60 H I L C N N
+F3 "" 200 300 60 H I L C N N
+F4 "1050-1019-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "X000048" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
+F8 "" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/arduino/X000048/1050-1019-ND/2639007" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 28DIP" 200 1000 60 H I L CNN "Description"
+F11 "Arduino" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 700 200 -850 0 1 0 f
+X PC6 1 300 -400 100 L 50 50 1 1 B
+X PB7 10 -500 -200 100 R 50 50 1 1 B
+X PD5 11 300 -100 100 L 50 50 1 1 B
+X PD6 12 300 -200 100 L 50 50 1 1 B
+X PD7 13 300 -300 100 L 50 50 1 1 B
+X PB0 14 -500 500 100 R 50 50 1 1 B
+X PB1 15 -500 400 100 R 50 50 1 1 B
+X PB2 16 -500 300 100 R 50 50 1 1 B
+X PB3 17 -500 200 100 R 50 50 1 1 B
+X PB4 18 -500 100 100 R 50 50 1 1 B
+X PB5 19 -500 0 100 R 50 50 1 1 B
+X PD0 2 300 400 100 L 50 50 1 1 B
+X AVCC 20 0 800 100 D 50 50 1 1 W
+X AREF 21 -500 600 100 R 50 50 1 1 I
+X GND 22 -100 -950 100 U 50 50 1 1 W
+X PC0 23 -500 -300 100 R 50 50 1 1 B
+X PC1 24 -500 -400 100 R 50 50 1 1 B
+X PC2 25 -500 -500 100 R 50 50 1 1 B
+X PC3 26 -500 -600 100 R 50 50 1 1 B
+X PC4 27 300 -600 100 L 50 50 1 1 B
+X PC5 28 300 -500 100 L 50 50 1 1 B
+X PD1 3 300 300 100 L 50 50 1 1 B
+X PD2 4 300 200 100 L 50 50 1 1 B
+X PD3 5 300 100 100 L 50 50 1 1 B
+X PD4 6 300 0 100 L 50 50 1 1 B
+X VCC 7 100 800 100 D 50 50 1 1 W
+X GND 8 0 -950 100 U 50 50 1 1 W
+X PB6 9 -500 -100 100 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
 # W7500
 #
 DEF W7500 U 0 40 Y Y 1 F N
@@ -92,12 +141,12 @@ DEF MSP430G2553IN20 U 0 40 Y Y 1 F N
 F0 "U" -300 950 60 H V L C N N
 F1 "MSP430G2553IN20" 250 -50 60 V V C C N N
 F2 "digikey-footprints:DIP-20_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/msp430g2553.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmsp430g2553" 200 300 60 H I L C N N
 F4 "296-28429-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MSP430G2553IN20" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/msp430g2553.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmsp430g2553" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/MSP430G2553IN20/296-28429-5-ND/2638885" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MCU 16BIT 16KB FLASH 20DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -555,12 +604,12 @@ DEF ATMEGA328-AU U 0 40 Y Y 1 F N
 F0 "U" -400 550 60 H V L C N N
 F1 "ATMEGA328-AU" 100 -1000 60 V V C C N N
 F2 "digikey-footprints:TQFP-32_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 300 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 300 60 H I L C N N
 F4 "ATMEGA328-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328-AU" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/ATMEGA328-AU/ATMEGA328-AU-ND/2271029" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
@@ -608,12 +657,12 @@ DEF ATMEGA328-PU U 0 40 Y Y 1 F N
 F0 "U" -400 1150 60 H V L C N N
 F1 "ATMEGA328-PU" -100 200 60 V V C C N N
 F2 "digikey-footprints:DIP-28_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 300 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 300 60 H I L C N N
 F4 "ATMEGA328-PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328-PU" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/ATMEGA328-PU/ATMEGA328-PU-ND/2271026" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MCU 8BIT 32KB FLASH 28DIP" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
@@ -701,6 +750,59 @@ X AVCC 18 200 1600 150 D 50 50 1 1 W
 X PC5 28 -500 -500 150 R 50 50 1 1 B
 X ADC6 19 -500 -1000 150 R 50 50 1 1 I
 X PC6 29 -500 -600 150 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# ATMEGA328P-AUR
+#
+DEF ATMEGA328P-AUR U 0 40 Y Y 1 F N
+F0 "U" -400 950 50 H V L C N N
+F1 "ATMEGA328P-AUR" 150 -550 50 H V L C N N
+F2 "digikey-footprints:TQFP-32_7x7mm" 200 200 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 300 60 H I L C N N
+F4 "ATMEGA328P-AURCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "ATMEGA328P-AUR" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/microchip-technology/ATMEGA328P-AUR/ATMEGA328P-AURCT-ND/3789455" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 200 1000 60 H I L CNN "Description"
+F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 900 400 -500 0 1 0 f
+X PD3 1 500 500 100 L 50 50 1 1 B
+X PD6 10 500 200 100 L 50 50 1 1 B
+X PD7 11 500 100 100 L 50 50 1 1 B
+X PB0 12 -500 500 100 R 50 50 1 1 B
+X PB1 13 -500 400 100 R 50 50 1 1 B
+X PB2 14 -500 300 100 R 50 50 1 1 B
+X PB3 15 -500 200 100 R 50 50 1 1 B
+X PB4 16 -500 100 100 R 50 50 1 1 B
+X PB5 17 -500 0 100 R 50 50 1 1 B
+X AVCC 18 100 1000 100 D 50 50 1 1 W
+X ADC6 19 -500 600 100 R 50 50 1 1 I
+X PD4 2 500 400 100 L 50 50 1 1 B
+X AREF 20 -500 800 100 R 50 50 1 1 I
+X GND 21 -100 -600 100 U 50 50 1 1 W
+X ADC7 22 -500 700 100 R 50 50 1 1 I
+X PC0 23 -500 -300 100 R 50 50 1 1 B
+X PC1 24 -500 -400 100 R 50 50 1 1 B
+X PC2 25 500 -400 100 L 50 50 1 1 B
+X PC3 26 500 -300 100 L 50 50 1 1 B
+X PC4 27 500 -200 100 L 50 50 1 1 B
+X PC5 28 500 -100 100 L 50 50 1 1 B
+X PC6 29 500 0 100 L 50 50 1 1 B
+X GND 3 0 -600 100 U 50 50 1 1 W
+X PD0 30 500 800 100 L 50 50 1 1 B
+X PD1 31 500 700 100 L 50 50 1 1 B
+X PD2 32 500 600 100 L 50 50 1 1 B
+X VCC 4 0 1000 100 D 50 50 1 1 W
+X GND 5 100 -600 100 U 50 50 1 1 W
+X VCC 6 -100 1000 100 D 50 50 1 1 W
+X PB6 7 -500 -100 100 R 50 50 1 1 B
+X PB7 8 -500 -200 100 R 50 50 1 1 B
+X PD5 9 500 300 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #

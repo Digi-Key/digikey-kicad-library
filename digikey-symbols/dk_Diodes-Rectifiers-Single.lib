@@ -73,6 +73,31 @@ X ~ K 200 0 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 1N4148
+#
+DEF 1N4148 U 0 40 Y Y 1 F N
+F0 "D" 0 150 50 H V C C N N
+F1 "1N4148" 50 -150 50 H V C C N N
+F2 "digikey-footprints:Diode_DO-35_P10mm" 200 200 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" 200 300 60 H I L C N N
+F4 "1N4148FS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "1N4148" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Rectifiers - Single" 200 700 60 H I L CNN "Family"
+F8 "https://www.onsemi.com/pub/Collateral/1N914-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "DIODE GEN PURP 100V 200MA DO35" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 0 100 0 N
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 100 50 100 -50 0 0 100 50 F
+X ~ 1 -100 0 100 R 50 50 1 1 P
+X ~ 2 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 1N4148TA
 #
 DEF 1N4148TA D 0 0 N N 1 F N
@@ -290,6 +315,31 @@ P 2 0 1 0 50 50 75 50 N
 P 4 0 1 0 -50 50 -50 -50 50 0 -50 50 F
 X ~ A -200 0 150 R 50 50 1 1 P
 X ~ K 200 0 150 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1N5819HW-7-F
+#
+DEF 1N5819HW-7-F U 0 40 Y Y 1 F N
+F0 "D" 0 150 50 H V C C N N
+F1 "1N5819HW-7-F" 50 -100 50 H V C C N N
+F2 "digikey-footprints:SOD-123" 200 200 60 H I L C N N
+F3 "https://www.diodes.com/assets/Datasheets/ds30217.pdf" 200 300 60 H I L C N N
+F4 "1N5819HW-FDICT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "1N5819HW-7-F" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Rectifiers - Single" 200 700 60 H I L CNN "Family"
+F8 "https://www.diodes.com/assets/Datasheets/ds30217.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/diodes-incorporated/1N5819HW-7-F/1N5819HW-FDICT-ND/815283" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "DIODE SCHOTTKY 40V 1A SOD123" 200 1000 60 H I L CNN "Description"
+F11 "Diodes Incorporated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 0 100 0 N
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 100 50 100 -50 0 0 100 50 F
+X ~ A 200 0 100 L 50 50 1 1 P
+X ~ K -100 0 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -569,6 +619,31 @@ P 2 0 1 0 50 50 50 -50 N
 P 4 0 1 0 -50 50 -50 -50 50 0 -50 50 F
 X ~ A -200 0 150 R 50 50 1 1 P
 X ~ K 200 0 150 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SS14
+#
+DEF SS14 U 0 40 Y Y 1 F N
+F0 "D" 50 100 50 H V C C N N
+F1 "SS14" 50 -100 50 H V C C N N
+F2 "digikey-footprints:DO-214AC" 200 200 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/SS19-D.PDF" 200 300 60 H I L C N N
+F4 "SS14CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "SS14" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Rectifiers - Single" 200 700 60 H I L CNN "Family"
+F8 "https://www.onsemi.com/pub/Collateral/SS19-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/SS14/SS14CT-ND/965729" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "DIODE SCHOTTKY 40V 1A SMA" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 0 100 0 N
+P 2 0 1 0 0 50 0 -50 N
+P 4 0 1 0 100 50 100 -50 0 0 100 50 F
+X ~ A 200 0 100 L 50 50 1 1 P
+X ~ K -100 0 100 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

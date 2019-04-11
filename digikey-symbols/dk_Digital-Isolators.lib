@@ -7,12 +7,12 @@ DEF ISO1540DR U 0 0 Y Y 1 F N
 F0 "U" -300 350 60 H V L C N N
 F1 "ISO1540DR" 200 -250 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/iso1540.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fiso1540" 200 300 60 H I L C N N
 F4 "296-34871-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ISO1540DR" 200 500 60 H I L CNN "MPN"
 F6 "Isolators" 200 600 60 H I L CNN "Category"
 F7 "Digital Isolators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/iso1540.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fiso1540" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/ISO1540DR/296-34871-1-ND/3587214" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DGTL ISO 2.5KV 2CH I2C 8SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

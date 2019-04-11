@@ -30,4 +30,16 @@ K 497-15383-1-ND iNEMO
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/f5/4f/ae/8e/44/41/d7/DM00133076.pdf/files/DM00133076.pdf/jcr:content/translations/en.DM00133076.pdf
 $ENDCMP
 #
+$CMP BMI160
+D IMU ACCEL/GYRO I2C/SPI 14LGA
+K 828-1057-1-ND 
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000.pdf
+$ENDCMP
+#
+$CMP BNO055
+D IMU ACCEL/GYRO/MAG I2C 28LGA
+K 828-1058-1-ND 
+F https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BNO055-DS000.pdf
+$ENDCMP
+#
 #End Doc Library

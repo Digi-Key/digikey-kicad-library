@@ -18,6 +18,12 @@ K 1N4007DICT-ND
 F https://www.diodes.com/assets/Datasheets/ds28002.pdf
 $ENDCMP
 #
+$CMP 1N4148
+D DIODE GEN PURP 100V 200MA DO35
+K 1N4148FS-ND 
+F https://www.onsemi.com/pub/Collateral/1N914-D.PDF
+$ENDCMP
+#
 $CMP 1N4148TA
 D DIODE GEN PURP 100V 200MA DO35
 K 1N4148TACT-ND 
@@ -70,6 +76,12 @@ $CMP 1N5819
 D DIODE SCHOTTKY 40V 1A DO41
 K 1N5819FSCT-ND 
 F https://www.onsemi.com/pub/Collateral/1N5817-D.PDF
+$ENDCMP
+#
+$CMP 1N5819HW-7-F
+D DIODE SCHOTTKY 40V 1A SOD123
+K 1N5819HW-FDICT-ND 
+F https://www.diodes.com/assets/Datasheets/ds30217.pdf
 $ENDCMP
 #
 $CMP 1N914BTR
@@ -136,6 +148,12 @@ $CMP S1G
 D DIODE GEN PURP 400V 1A SMA
 K S1GFSCT-ND 
 F https://www.onsemi.com/pub/Collateral/S1M-D.pdf
+$ENDCMP
+#
+$CMP SS14
+D DIODE SCHOTTKY 40V 1A SMA
+K SS14CT-ND 
+F https://www.onsemi.com/pub/Collateral/SS19-D.PDF
 $ENDCMP
 #
 #End Doc Library

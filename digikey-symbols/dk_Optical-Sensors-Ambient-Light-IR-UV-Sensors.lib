@@ -7,12 +7,12 @@ DEF OPT101P U 0 20 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "OPT101P" 100 -300 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/opt101.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt101" 200 300 60 H I L C N N
 F4 "296-23090-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "OPT101P" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/opt101.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt101" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/OPT101P/296-23090-5-ND/251177" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR OPT 650NM AMBIENT 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -36,12 +36,12 @@ DEF OPT3001DNPT U 0 20 Y Y 1 F N
 F0 "U" -200 350 60 H V C C N N
 F1 "OPT3001DNPT" 100 -300 60 H V L C N N
 F2 "digikey-footprints:UDFN-6-1EP_2x2mm_USON" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/opt3001.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt3001" 200 300 60 H I L C N N
 F4 "296-38667-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "OPT3001DNPT" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/opt3001.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt3001" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/OPT3001DNPT/296-38667-1-ND/5114786" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR OPT 550NM AMBIENT 6USON" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -187,11 +187,11 @@ X VDD 8 -100 400 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# MAX44009EDT_T
+# MAX44009EDT_T_LTB
 #
-DEF MAX44009EDT_T U 0 20 Y Y 1 F N
+DEF MAX44009EDT_T_LTB U 0 20 Y Y 1 F N
 F0 "U" -150 350 60 H V C C N N
-F1 "MAX44009EDT_T" 100 -300 60 H V L C N N
+F1 "MAX44009EDT_T_LTB" 100 -300 60 H V L C N N
 F2 "digikey-footprints:UDFN-6-1EP_2x2mm" 200 200 60 H I L C N N
 F3 "https://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 300 60 H I L C N N
 F4 "MAX44009EDT+TCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -202,7 +202,7 @@ F8 "https://datasheets.maximintegrated.com/en/ds/MAX44009.pdf" 200 800 60 H I L 
 F9 "/product-detail/en/maxim-integrated/MAX44009EDT-T/MAX44009EDT-TCT-ND/2606396" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR OPT AMBIENT 6OTDFN" 200 1000 60 H I L CNN "Description"
 F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 X GND 7 0 -300 100 U 50 50 1 0 W
 S -200 300 200 -200 1 1 0 f

@@ -12,4 +12,10 @@ K 865-1260-1-ND
 F http://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RS64V-DS501-00015-4v0-E.pdf
 $ENDCMP
 #
+$CMP W25Q32JVSSIQ_TR
+D IC FLASH 32M SPI 133MHZ 8SOIC
+K W25Q32JVSSIQCT-ND SpiFlash®
+F http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf
+$ENDCMP
+#
 #End Doc Library

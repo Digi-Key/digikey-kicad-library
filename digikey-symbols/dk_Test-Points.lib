@@ -1,0 +1,290 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 5000
+#
+DEF ~5000 U 0 40 N N 1 F N
+F0 "TP" -50 50 50 H V R C N N
+F1 "5000" 0 -100 50 H I C C N N
+F2 "digikey-footprints:Test_Point_D1.02mm" 200 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=1309" 200 300 60 H I L C N N
+F4 "36-5000-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5000" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=1309" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT MINIATURE RED" 200 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5001
+#
+DEF ~5001 U 0 40 N N 1 F N
+F0 "TP" -50 50 50 H V R C N N
+F1 "5001" 0 -100 50 H I C C N N
+F2 "digikey-footprints:Test_Point_D1.02mm" 200 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=1310" 200 300 60 H I L C N N
+F4 "36-5001-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5001" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=1310" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5001/36-5001-ND/255327" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT MINIATURE BLACK" 200 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5002
+#
+DEF ~5002 U 0 40 N N 1 F N
+F0 "TP" -50 50 50 H V R C N N
+F1 "5002" 0 -100 50 H I C C N N
+F2 "digikey-footprints:Test_Point_D1.02mm" 200 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=1311" 200 300 60 H I L C N N
+F4 "36-5002-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5002" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=1311" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5002/36-5002-ND/255328" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT MINIATURE WHITE" 200 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5011
+#
+DEF ~5011 U 0 40 N N 1 F N
+F0 "TP" -50 50 50 H V R C N N
+F1 "5011" 0 -100 50 H I C C N N
+F2 "digikey-footprints:Test_Point_D1.02mm" 200 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=1320" 200 300 60 H I L C N N
+F4 "36-5011-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5011" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=1320" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5011/36-5011-ND/255333" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT MULTIPURPOSE BLACK" 200 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5015
+#
+DEF ~5015 U 0 40 N N 1 F N
+F0 "TP" -50 50 50 H V R C N N
+F1 "5015" 0 -100 50 H I C C N N
+F2 "digikey-footprints:Test_Point_2.67x1.02mm" 200 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=1353" 200 300 60 H I L C N N
+F4 "36-5015CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5015" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=1353" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5015/36-5015CT-ND/278886" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT MINIATURE" 200 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5016
+#
+DEF ~5016 U 0 40 N N 1 F N
+F0 "TP" -50 50 50 H V R C N N
+F1 "5016" 0 -100 50 H I C C N N
+F2 "digikey-footprints:Test_Point_3.43x1.78mm" 200 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=1354" 200 300 60 H I L C N N
+F4 "36-5016CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5016" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=1354" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5016/36-5016CT-ND/278888" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT COMPACT" 200 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5017
+#
+DEF ~5017 U 0 40 N N 1 F N
+F0 "TP" -50 50 50 H V R C N N
+F1 "5017" 0 -100 50 H I C C N N
+F2 "digikey-footprints:PC_TEST-POINT_MINI_3.43x1.78mm" 200 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=1355" 200 300 60 H I L C N N
+F4 "36-5017CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5017" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=1355" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5017/36-5017CT-ND/4245546" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT MINIATURE" 200 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5029
+#
+DEF ~5029 U 0 40 N N 1 F N
+F0 "TP" -50 50 50 H V R C N N
+F1 "5029" 0 -100 50 H I C C N N
+F2 "digikey-footprints:PC_Test_Point_Mini_3.8x2.03mm" 200 200 60 H I L C N N
+F3 "http://www.keyelco.com/product-pdf.cfm?p=1358" 200 300 60 H I L C N N
+F4 "36-5029CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "5029" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "http://www.keyelco.com/product-pdf.cfm?p=1358" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/keystone-electronics/5029/36-5029CT-ND/5980631" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT MINIATURE" 200 1000 60 H I L CNN "Description"
+F11 "Keystone Electronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# S1751-46R
+#
+DEF S1751-46R U 0 40 Y Y 1 F N
+F0 "TP" -100 50 50 H V R C N N
+F1 "S1751-46R" 0 -100 50 H V C C N N
+F2 "digikey-footprints:PC_TEST_POINT_SMD" 200 200 60 H I L C N N
+F3 "https://cdn.harwin.com/pdfs/S1751R.pdf" 200 300 60 H I L C N N
+F4 "952-1478-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "S1751-46R" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "https://cdn.harwin.com/pdfs/S1751R.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/harwin-inc/S1751-46R/952-1478-1-ND/2264564" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT NATURAL" 200 1000 60 H I L CNN "Description"
+F11 "Harwin Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RCT-0C
+#
+DEF RCT-0C U 0 40 Y Y 1 F N
+F0 "TP" -100 50 50 H V R C N N
+F1 "RCT-0C" 0 -100 50 H V C C N N
+F2 "digikey-footprints:PROBE_PAD_0805" 200 200 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English" 200 300 60 H I L C N N
+F4 "A106144CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "RCT-0C" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-amp-connectors/RCT-0C/A106144CT-ND/3477801" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT NATURAL" 200 1000 60 H I L CNN "Description"
+F11 "TE Connectivity AMP Connectors" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RCU-0C
+#
+DEF RCU-0C U 0 40 Y Y 1 F N
+F0 "TP" -100 50 50 H V R C N N
+F1 "RCU-0C" 0 -100 50 H V C C N N
+F2 "digikey-footprints:PROBE_PAD_0603" 200 200 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English" 200 300 60 H I L C N N
+F4 "A106145CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "RCU-0C" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-amp-connectors/RCU-0C/A106145CT-ND/3477802" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT NATURAL" 200 1000 60 H I L CNN "Description"
+F11 "TE Connectivity AMP Connectors" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# RCW-0C
+#
+DEF RCW-0C U 0 40 Y Y 1 F N
+F0 "TP" -100 50 50 H V R C N N
+F1 "RCW-0C" 0 -100 50 H V C C N N
+F2 "digikey-footprints:PROBE_PAD_1206" 200 200 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English" 200 300 60 H I L C N N
+F4 "A106146CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "RCW-0C" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-amp-connectors/RCW-0C/A106146CT-ND/3477803" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "PC TEST POINT NATURAL" 200 1000 60 H I L CNN "Description"
+F11 "TE Connectivity AMP Connectors" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 1 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1508-0-57-15-00-00-03-0
+#
+DEF 1508-0-57-15-00-00-03-0 U 0 40 Y Y 1 F N
+F0 "TP" -100 50 50 H V R C N N
+F1 "1508-0-57-15-00-00-03-0" 0 -100 50 H V C C N N
+F2 "digikey-footprints:Test-Point-Pin_Drill2.79mm" 200 200 60 H I L C N N
+F3 "https://www.mill-max.com/assets/pdfs/224.pdf" 200 300 60 H I L C N N
+F4 "ED1088CT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "1508-0-57-15-00-00-03-0" 200 500 60 H I L CNN "MPN"
+F6 "Test and Measurement" 200 600 60 H I L CNN "Category"
+F7 "Test Points" 200 700 60 H I L CNN "Family"
+F8 "https://www.mill-max.com/assets/pdfs/224.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/mill-max-manufacturing-corp/1508-0-57-15-00-00-03-0/ED1088CT-ND/3029225" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "TESTPOINT PIN SMD" 200 1000 60 H I L CNN "Description"
+F11 "Mill-Max Manufacturing Corp." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 0 22 0 1 0 N
+X ~ 1 0 100 75 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

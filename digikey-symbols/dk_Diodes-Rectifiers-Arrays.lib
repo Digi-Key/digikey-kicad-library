@@ -85,6 +85,36 @@ X ~ 3 300 0 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# BAT54SLT1G
+#
+DEF BAT54SLT1G U 0 40 Y Y 1 F N
+F0 "D" 0 200 50 H V C C N N
+F1 "BAT54SLT1G" 0 -200 50 H V C C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/BAT54SLT1-D.PDF" 200 300 60 V I L C N N
+F4 "BAT54SLT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BAT54SLT1G" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Diodes - Rectifiers - Arrays" 200 700 60 H I L CNN "Family"
+F8 "http://www.onsemi.com/pub/Collateral/BAT54SLT1-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/BAT54SLT1G/BAT54SLT1GOSCT-ND/917811" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "DIODE ARRAY SCHOTTKY 30V SOT23-3" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+P 2 0 1 0 0 -50 0 -150 N
+P 2 0 1 0 75 50 75 150 N
+P 2 0 1 0 100 -100 75 -100 N
+P 2 0 1 0 100 -100 100 100 N
+P 2 0 1 0 100 100 75 100 N
+P 4 0 1 0 0 50 0 150 75 100 0 50 F
+P 4 0 1 0 75 -150 75 -50 0 -100 75 -150 F
+X ~ 1 -100 100 100 R 50 50 1 1 P
+X ~ 2 -100 -100 100 R 50 50 1 1 P
+X ~ 3 200 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # BAV99_Obsolete
 #
 DEF BAV99_Obsolete D 0 40 Y Y 1 F N

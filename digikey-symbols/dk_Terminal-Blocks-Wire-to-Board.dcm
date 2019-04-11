@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1935161
+D TERM BLK 2POS SIDE ENTRY 5MM PCB
+K 277-1667-ND COMBICON PT
+F https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf
+$ENDCMP
+#
+$CMP OSTTC020162
+D TERM BLK 2POS SIDE ENTRY 5MM PCB
+K ED2600-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC030162
+D TERM BLK 3POS SIDE ENTRY 5MM PCB
+K ED2601-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC040162
+D TERM BLK 4POS SIDE ENTRY 5MM PCB
+K ED2602-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC050162
+D TERM BLK 5POS SIDE ENTRY 5MM PCB
+K ED2603-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC060162
+D TERM BLK 6POS SIDE ENTRY 5MM PCB
+K ED2604-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC070162
+D TERM BLK 7POS SIDE ENTRY 5MM PCB
+K ED2605-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC080162
+D TERM BLK 8POS SIDE ENTRY 5MM PCB
+K ED2606-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC120162
+D TERM BLK 12P SIDE ENTRY 5MM PCB
+K ED2608-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX0162.pdf
+$ENDCMP
+#
+$CMP OSTTC022162
+D TERM BLK 2P SIDE ENT 5.08MM PCB
+K ED2609-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf
+$ENDCMP
+#
+$CMP OSTTC032162
+D TERM BLK 3P SIDE ENT 5.08MM PCB
+K ED2610-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf
+$ENDCMP
+#
+$CMP OSTTC042162
+D TERM BLK 4P SIDE ENT 5.08MM PCB
+K ED2611-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf
+$ENDCMP
+#
+$CMP OSTTC052162
+D TERM BLK 5P SIDE ENT 5.08MM PCB
+K ED2612-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf
+$ENDCMP
+#
+$CMP OSTTC062162
+D TERM BLK 6P SIDE ENT 5.08MM PCB
+K ED2613-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf
+$ENDCMP
+#
+$CMP OSTTC072162
+D TERM BLK 7P SIDE ENT 5.08MM PCB
+K ED2614-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf
+$ENDCMP
+#
+$CMP OSTTC082162
+D TERM BLK 8P SIDE ENT 5.08MM PCB
+K ED2615-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf
+$ENDCMP
+#
+$CMP OSTTC102162
+D TERM BLK 10P SIDE ENT 5.08MM PCB
+K ED2616-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf
+$ENDCMP
+#
+$CMP OSTTC122162
+D TERM BLK 12P SIDE ENT 5.08MM PCB
+K ED2617-ND OSTTC
+F http://www.on-shore.com/wp-content/uploads/OSTTCXX2162.pdf
+$ENDCMP
+#
+$CMP OSTTC023162
+D TERM BLK 2P SIDE ENT 10.16MM PCB
+K ED2653-ND OSTTC
+F 
+$ENDCMP
+#
+#End Doc Library

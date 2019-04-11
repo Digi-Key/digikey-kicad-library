@@ -7,12 +7,12 @@ DEF LM2903DR U 0 0 Y Y 2 L N
 F0 "U" -200 300 60 H V C C N N
 F1 "LM2903DR" 100 -200 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm193.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm193" 200 300 60 H I L C N N
 F4 "296-1012-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM2903DR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Comparators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm193.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm193" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM2903DR/296-1012-1-ND/276280" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC DUAL DIFF COMP 8-SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -42,12 +42,12 @@ DEF LM393DR U 0 0 Y Y 2 L N
 F0 "U" -150 250 60 H V C C N N
 F1 "LM393DR" 100 -200 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm193.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm193" 200 300 60 H I L C N N
 F4 "296-1015-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM393DR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Comparators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm193.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm193" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM393DR/296-1015-1-ND/404839" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC DUAL DIFF COMP 8-SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -77,12 +77,12 @@ DEF TL331IDBVR U 0 0 Y Y 1 F N
 F0 "U" -200 250 60 H V C C N N
 F1 "TL331IDBVR" 100 -200 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tl331.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl331" 200 300 60 H I L C N N
 F4 "296-10168-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL331IDBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Comparators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tl331.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl331" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TL331IDBVR/296-10168-1-ND/380715" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC DIFF COMP SINGLE SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -104,12 +104,12 @@ DEF LM311P U 0 0 Y Y 1 F N
 F0 "U" -200 300 60 H V C C N N
 F1 "LM311P" 100 -500 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm211.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm211" 200 300 60 H I L C N N
 F4 "296-1389-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM311P" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Comparators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm211.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm211" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM311P/296-1389-5-ND/277038" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC DIFF COMP W/STROBE 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -152,12 +152,12 @@ DEF LM339N U 0 0 Y Y 4 L N
 F0 "U" -200 300 60 H V C C N N
 F1 "LM339N" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm139a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm139a" 200 300 60 H I L C N N
 F4 "296-1393-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM339N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Comparators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm139a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm139a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM339N/296-1393-5-ND/277628" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC QUAD DIFF COMPARATOR 14-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -197,12 +197,12 @@ DEF TPS3700DDCR U 0 40 Y Y 1 F N
 F0 "U" -250 150 60 H V C C N N
 F1 "TPS3700DDCR" 0 -500 60 H V L C N N
 F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tps3700.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps3700" 200 300 60 H I L C N N
 F4 "296-30395-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS3700DDCR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Comparators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tps3700.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps3700" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPS3700DDCR/296-30395-1-ND/3250123" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC COMP WINDOW W/REF 6SOT" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -224,12 +224,12 @@ DEF LM339ADR U 0 0 Y Y 4 L N
 F0 "U" -200 250 60 H V C C N N
 F1 "LM339ADR" 100 -200 60 H V L C N N
 F2 "digikey-footprints:SOIC-14_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm139a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm139a" 200 300 60 H I L C N N
 F4 "296-6604-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM339ADR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Comparators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm139a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm139a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM339ADR/296-6604-1-ND/404682" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC QUAD DIFF COMPARATOR 14 -SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -269,12 +269,12 @@ DEF LM339AN U 0 0 Y Y 4 L N
 F0 "U" -200 300 60 H V C C N N
 F1 "LM339AN" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm139a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm139a" 200 300 60 H I L C N N
 F4 "296-6605-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM339AN" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Comparators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm139a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm139a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM339AN/296-6605-5-ND/372806" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC QUAD DIFF COMPARATOR 14-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -392,12 +392,12 @@ DEF LM311N_NOPB U 0 0 Y Y 1 F N
 F0 "U" -400 300 60 H V C C N N
 F1 "LM311N_NOPB" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm311-n.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm311-n" 200 300 60 H I L C N N
 F4 "LM311NNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM311N/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Comparators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm311-n.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm311-n" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM311N-NOPB/LM311NNS-NOPB-ND/6175" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC VOLTAGE COMPARATOR 8-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

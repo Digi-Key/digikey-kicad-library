@@ -3,49 +3,49 @@ EESchema-DOCLIB  Version 2.0
 $CMP TPS61040DBVR
 D IC LED DRIVER RGLTR DIM SOT23-5
 K 296-12685-1-ND 
-F http://www.ti.com/lit/ds/symlink/tps61041.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61041
 $ENDCMP
 #
 $CMP TPS61041DBVR
 D IC LED DRIVER RGLTR DIM SOT23-5
 K 296-12686-1-ND 
-F http://www.ti.com/lit/ds/symlink/tps61040.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61040
 $ENDCMP
 #
 $CMP TLC59116IPWR
 D IC LED DRIVER LINEAR DIM 28TSSOP
 K 296-23354-1-ND 
-F http://www.ti.com/lit/ds/symlink/tlc59116.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc59116
 $ENDCMP
 #
 $CMP TLC5916IN
 D IC LED DRIVER LINEAR 120MA 16DIP
 K 296-24383-5-ND 
-F http://www.ti.com/lit/ds/symlink/tlc5916.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc5916
 $ENDCMP
 #
 $CMP TPS61165DBVR
 D IC LED DRIVER RGLTR DIM SOT23-6
 K 296-27597-1-ND 
-F http://www.ti.com/lit/ds/symlink/tps61165.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps61165
 $ENDCMP
 #
 $CMP TLC5940PWPR
 D IC LED DRIVER LIN 120MA 28HTSSOP
 K 296-35975-1-ND 
-F http://www.ti.com/lit/ds/symlink/tlc5940.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc5940
 $ENDCMP
 #
 $CMP TLC59711PWPR
 D IC LED DRIVER LIN 60MA 20HTSSOP
 K 296-36745-1-ND 
-F http://www.ti.com/lit/ds/symlink/tlc59711.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc59711
 $ENDCMP
 #
 $CMP LP55231SQE_NOPB
 D IC LED DRIVER RGLTR DIM 24WQFN
 K 296-39059-1-ND 
-F http://www.ti.com/lit/ds/symlink/lp55231.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp55231
 $ENDCMP
 #
 $CMP PCA9685PW_Q900_118

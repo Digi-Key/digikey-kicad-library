@@ -7,12 +7,12 @@ DEF ULN2003ADR Q 0 1 Y Y 1 F N
 F0 "Q" -455 540 60 H V C C N N
 F1 "ULN2003ADR" 27 -540 60 H V L C N N
 F2 "digikey-footprints:SOIC-16_W3.90mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/uln2003a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2003a" 200 300 60 H I L C N N
 F4 "296-1368-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULN2003ADR" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Arrays" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/uln2003a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2003a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/ULN2003ADR/296-1368-1-ND/404968" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC PWR RELAY 7NPN 1:1 16SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -129,12 +129,12 @@ DEF ULN2803ADWR Q 0 1 Y Y 1 F N
 F0 "Q" -750 940 60 H V C C N N
 F1 "ULN2803ADWR" -280 -250 60 H V L C N N
 F2 "digikey-footprints:SOIC-18_W7.5mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/uln2803a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2803a" 200 300 60 H I L C N N
 F4 "296-15777-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULN2803ADWR" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Arrays" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/uln2803a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2803a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/ULN2803ADWR/296-15777-1-ND/598088" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS 8NPN DARL 50V 0.5A 18SO" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -249,12 +249,12 @@ DEF ULN2003AN Q 0 0 Y Y 1 F N
 F0 "Q" -165 544 60 H V C C N N
 F1 "ULN2003AN" 59 -455 60 H V L C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/uln2003a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2003a" 200 300 60 H I L C N N
 F4 "296-1979-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ULN2003AN" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Arrays" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/uln2003a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2003a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/ULN2003AN/296-1979-5-ND/277624" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC PWR RELAY 7NPN 1:1 16DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

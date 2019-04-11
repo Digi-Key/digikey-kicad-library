@@ -629,6 +629,43 @@ X GND 17 200 -700 100 U 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
+# FT230XS-R
+#
+DEF FT230XS-R U 0 40 Y Y 1 F N
+F0 "U" -400 350 50 H V L C N N
+F1 "FT230XS-R" -100 -550 50 H V L C N N
+F2 "digikey-footprints:SOIC-16_W3.90mm" 200 200 60 H I L C N N
+F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf" 200 300 60 H I L C N N
+F4 "768-1135-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "FT230XS-R" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Interface - Controllers" 200 700 60 H I L CNN "Family"
+F8 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/ftdi-future-technology-devices-international-ltd/FT230XS-R/768-1135-1-ND/3029155" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC USB SERIAL BASIC UART 16SSOP" 200 1000 60 H I L CNN "Description"
+F11 "FTDI, Future Technology Devices International Ltd" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 300 400 -500 0 1 0 f
+X TXD 1 500 200 100 L 50 50 1 1 O
+X 3V3OUT 10 500 0 100 L 50 50 1 1 w
+X RESET# 11 -500 0 100 R 50 50 1 1 I
+X VCC 12 100 400 100 D 50 50 1 1 W
+X GND 13 -200 -600 100 U 50 50 1 1 W
+X CBUS1 14 500 -200 100 L 50 50 1 1 B
+X CBUS0 15 500 -100 100 L 50 50 1 1 B
+X CBUS3 16 500 -400 100 L 50 50 1 1 B
+X RTS# 2 500 100 100 L 50 50 1 1 O
+X VCCIO 3 0 400 100 D 50 50 1 1 W
+X RXD 4 -500 -200 100 R 50 50 1 1 I
+X GND 5 -300 -600 100 U 50 50 1 1 W
+X CTS# 6 -500 -100 100 R 50 50 1 1 I
+X CBUS2 7 500 -300 100 L 50 50 1 1 B
+X USBDP 8 -500 100 100 R 50 50 1 1 I
+X USBDM 9 -500 200 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # FT230XS-U
 #
 DEF FT230XS-U U 0 40 Y Y 1 F N

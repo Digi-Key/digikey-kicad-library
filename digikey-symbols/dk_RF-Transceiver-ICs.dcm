@@ -81,25 +81,25 @@ $ENDCMP
 $CMP CC1200RHBT
 D IC RF TXRX+MCU ISM<1GHZ 32VFQFN
 K 296-36396-1-ND 
-F http://www.ti.com/lit/ds/symlink/cc1200.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc1200
 $ENDCMP
 #
 $CMP CC2541F256RHAR
 D IC RF TXRX+MCU BLUETOOTH 40VFQFN
 K 296-37144-1-ND 
-F http://www.ti.com/lit/ds/symlink/cc2541.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc2541
 $ENDCMP
 #
 $CMP CC3200R1M2RGCR
 D IC RF TXRX+MCU WIFI 64VFQFN
 K 296-38902-1-ND SimpleLink™
-F http://www.ti.com/lit/ds/symlink/cc3200.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc3200
 $ENDCMP
 #
 $CMP CC2650F128RGZT
 D IC RF TXRX+MCU 802.15.4 48VFQFN
 K 296-39656-1-ND SimpleLink™
-F http://www.ti.com/lit/ds/symlink/cc2650.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc2650
 $ENDCMP
 #
 $CMP CSR1010A05-IQQM-R
@@ -111,13 +111,13 @@ $ENDCMP
 $CMP SX1272IMLTRT
 D IC RF TXRX 802.15.4 28VQFN
 K SX1272IMLTRTCT-ND 
-F 
+F https://www.semtech.com/uploads/documents/sx1272_73_errata.pdf
 $ENDCMP
 #
 $CMP SX1276IMLTRT
 D IC RF TXRX 802.15.4 28VQFN
 K SX1276IMLTRTCT-ND 
-F https://www.semtech.com/uploads/documents/DS_SX1276-7-8-9_W_APP_V5.pdf
+F https://cdn.sparkfun.com/assets/a/a/0/b/5/DS_SX1276-7-8-9_W_APP_V5.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -7,12 +7,12 @@ DEF DRV8833PWPR U 0 20 Y Y 1 F N
 F0 "U" -300 550 60 H V C C N N
 F1 "DRV8833PWPR" -200 650 60 H V R C N N
 F2 "digikey-footprints:TSSOP-16-1EP_W4.40mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/drv8833.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8833" 200 300 60 H I L C N N
 F4 "296-29434-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV8833PWPR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Full, Half-Bridge Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/drv8833.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8833" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/DRV8833PWPR/296-29434-1-ND/2743171" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MOTOR DRIVER PAR 16HTSSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -45,12 +45,12 @@ DEF DRV8837DSGR U 0 20 Y Y 1 F N
 F0 "U" -300 250 60 H V C C N N
 F1 "DRV8837DSGR" -150 350 60 H V R C N N
 F2 "digikey-footprints:WSON-8_2x2mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/drv8837.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8837" 200 300 60 H I L C N N
 F4 "296-34806-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DRV8837DSGR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Full, Half-Bridge Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/drv8837.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8837" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/DRV8837DSGR/296-34806-1-ND/3518833" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MOTOR DRIVER PAR 8WSON" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -75,12 +75,12 @@ DEF SN754410NE U 0 20 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "SN754410NE" -100 350 60 H V R C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn754410.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn754410" 200 300 60 H I L C N N
 F4 "296-9911-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN754410NE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Full, Half-Bridge Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn754410.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn754410" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN754410NE/296-9911-5-ND/380180" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC HALF-H DRVR QUAD 16-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

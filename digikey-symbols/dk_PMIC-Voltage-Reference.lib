@@ -35,12 +35,12 @@ DEF TL431AIDBZR VR 0 0 Y N 1 F N
 F0 "VR" -100 125 50 H V C C N N
 F1 "TL431AIDBZR" -225 0 50 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 50 H I L C N N
-F3 "http://www.ti.com/lit/gpn/tl431" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl431" 200 300 60 H I L C N N
 F4 "296-17329-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL431AIDBZR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Reference" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/gpn/tl431" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl431" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TL431AIDBZR/296-17329-1-ND/686885" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC VREF SHUNT ADJ SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -63,12 +63,12 @@ DEF REF3025AIDBZR VR 0 20 Y Y 1 F N
 F0 "VR" 0 150 50 H V C C N N
 F1 "REF3025AIDBZR" 0 250 50 H V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 50 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/ref3012.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3012" 200 300 60 H I L C N N
 F4 "296-26322-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "REF3025AIDBZR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Reference" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/ref3012.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3012" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/REF3025AIDBZR/296-26322-1-ND/2254965" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC VREF SERIES 2.5V SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -87,12 +87,12 @@ DEF REF3030AIDBZR VR 0 20 Y Y 1 F N
 F0 "VR" 0 150 50 H V C C N N
 F1 "REF3030AIDBZR" 0 250 50 H V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 50 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/ref3012.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3012" 200 300 60 H I L C N N
 F4 "296-26323-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "REF3030AIDBZR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Reference" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/ref3012.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3012" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/REF3030AIDBZR/296-26323-1-ND/2254966" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC VREF SERIES 3V SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -111,12 +111,12 @@ DEF TL431CLPM VR 0 0 Y N 1 F N
 F0 "VR" -100 125 50 H V C C N N
 F1 "TL431CLPM" -225 0 50 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 50 H I L C N N
-F3 "http://www.ti.com/lit/gpn/tl431" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl431" 200 300 60 H I L C N N
 F4 "296-26717-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL431CLPM" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Reference" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/gpn/tl431" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl431" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TL431CLPM/296-26717-1-ND/2256072" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC VREF SHUNT ADJ TO92-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -139,12 +139,12 @@ DEF REF3012AIDBZR VR 0 20 Y Y 1 F N
 F0 "VR" 0 150 50 H V C C N N
 F1 "REF3012AIDBZR" 0 250 50 H V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 50 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/ref3012.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3012" 200 300 60 H I L C N N
 F4 "296-32213-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "REF3012AIDBZR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Reference" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/ref3012.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fref3012" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/REF3012AIDBZR/296-32213-1-ND/3505506" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC VREF SERIES 1.25V SOT23-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

@@ -3,49 +3,49 @@ EESchema-DOCLIB  Version 2.0
 $CMP LM2903DR
 D IC DUAL DIFF COMP 8-SOIC
 K 296-1012-1-ND 
-F http://www.ti.com/lit/ds/symlink/lm193.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm193
 $ENDCMP
 #
 $CMP LM393DR
 D IC DUAL DIFF COMP 8-SOIC
 K 296-1015-1-ND 
-F http://www.ti.com/lit/ds/symlink/lm193.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm193
 $ENDCMP
 #
 $CMP TL331IDBVR
 D IC DIFF COMP SINGLE SOT23-5
 K 296-10168-1-ND 
-F http://www.ti.com/lit/ds/symlink/tl331.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl331
 $ENDCMP
 #
 $CMP LM311P
 D IC DIFF COMP W/STROBE 8DIP
 K 296-1389-5-ND 
-F http://www.ti.com/lit/ds/symlink/lm211.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm211
 $ENDCMP
 #
 $CMP LM339N
 D IC QUAD DIFF COMPARATOR 14-DIP
 K 296-1393-5-ND 
-F http://www.ti.com/lit/ds/symlink/lm139a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm139a
 $ENDCMP
 #
 $CMP TPS3700DDCR
 D IC COMP WINDOW W/REF 6SOT
 K 296-30395-1-ND 
-F http://www.ti.com/lit/ds/symlink/tps3700.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps3700
 $ENDCMP
 #
 $CMP LM339ADR
 D IC QUAD DIFF COMPARATOR 14 -SOIC
 K 296-6604-1-ND 
-F http://www.ti.com/lit/ds/symlink/lm139a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm139a
 $ENDCMP
 #
 $CMP LM339AN
 D IC QUAD DIFF COMPARATOR 14-DIP
 K 296-6605-5-ND 
-F http://www.ti.com/lit/ds/symlink/lm139a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm139a
 $ENDCMP
 #
 $CMP LM339DT
@@ -63,7 +63,7 @@ $ENDCMP
 $CMP LM311N_NOPB
 D IC VOLTAGE COMPARATOR 8-DIP
 K LM311NNS/NOPB-ND 
-F http://www.ti.com/lit/ds/symlink/lm311-n.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm311-n
 $ENDCMP
 #
 $CMP LM339N488_LTB

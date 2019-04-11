@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# VL53L0CXV0DH_1
+#
+DEF VL53L0CXV0DH_1 U 0 40 Y Y 1 F N
+F0 "U" -400 350 50 H V L C N N
+F1 "VL53L0CXV0DH_1" 150 -550 50 H V L C N N
+F2 "digikey-footprints:VL53L0CXV0DH_1" 200 200 60 H I L C N N
+F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf" 200 300 60 H I L C N N
+F4 "497-16538-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "VL53L0CXV0DH/1" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Optical Sensors - Distance Measuring" 200 700 60 H I L CNN "Family"
+F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/stmicroelectronics/VL53L0CXV0DH-1/497-16538-1-ND/6023692" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR OPTICAL 200CM I2C" 200 1000 60 H I L CNN "Description"
+F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -400 300 400 -500 0 1 0 f
+X AVDDVCSEL 1 0 400 100 D 50 50 1 1 W
+X SCL 10 -500 0 100 R 50 50 1 1 I
+X AVDD 11 100 400 100 D 50 50 1 1 W
+X GND 12 0 -600 100 U 50 50 1 1 W
+X AVSSVCSEL 2 100 -600 100 U 50 50 1 1 W
+X GND 3 -300 -600 100 U 50 50 1 1 W
+X GND 4 -200 -600 100 U 50 50 1 1 W
+X XSHUT 5 -500 200 100 R 50 50 1 1 I
+X GND 6 -100 -600 100 U 50 50 1 1 W
+X GPIO1 7 500 0 100 L 50 50 1 1 O
+X DNC 8 -500 100 100 R 50 50 1 1 I
+X SDA 9 -500 -100 100 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library

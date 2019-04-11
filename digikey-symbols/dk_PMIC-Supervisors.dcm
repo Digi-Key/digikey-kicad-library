@@ -3,13 +3,13 @@ EESchema-DOCLIB  Version 2.0
 $CMP TPS3808G01DBVR
 D IC VOLT SUPERVISOR ADJ SOT23-6
 K 296-17188-1-ND 
-F http://www.ti.com/lit/ds/symlink/tps3808.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps3808
 $ENDCMP
 #
 $CMP TPS3808G33DBVR
 D IC VOLT SUPERVISOR 3.3V SOT23-6
 K 296-17195-1-ND 
-F http://www.ti.com/lit/ds/symlink/tps3808.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps3808
 $ENDCMP
 #
 $CMP STWD100NYWY3F

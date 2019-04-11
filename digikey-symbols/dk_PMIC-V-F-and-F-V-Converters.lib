@@ -7,12 +7,12 @@ DEF LM2907N-8_NOPB U 0 40 Y Y 1 F N
 F0 "U" -405 40 60 H V L C N N
 F1 "LM2907N-8_NOPB" 0 -641 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm2907-n.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm2907-n" 200 300 60 H I L C N N
 F4 "LM2907N-8/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM2907N-8/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - V/F and F/V Converters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm2907-n.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm2907-n" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM2907N-8-NOPB/LM2907N-8-NOPB-ND/8310" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC CONVERTER FREQ TO VOLT 8-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -36,12 +36,12 @@ DEF LM2917N_NOPB U 0 40 Y Y 1 F N
 F0 "U" -307 436 60 H V L C N N
 F1 "LM2917N_NOPB" 100 -100 60 V V C C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm2907-n.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm2907-n" 200 300 60 H I L C N N
 F4 "LM2917N/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM2917N/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - V/F and F/V Converters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm2907-n.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm2907-n" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM2917N-NOPB/LM2917N-NOPB-ND/6161" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC CONVERTER FREQ TO VOLT 14-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -71,12 +71,12 @@ DEF LM331N_NOPB U 0 40 Y Y 1 F N
 F0 "U" -301 37 60 H V L C N N
 F1 "LM331N_NOPB" 112 -544 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm231.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm231" 200 300 60 H I L C N N
 F4 "LM331N/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM331N/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - V/F and F/V Converters" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm231.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm231" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM331N-NOPB/LM331N-NOPB-ND/6213" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC CONV PREC VOLT TO FREQ 8-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

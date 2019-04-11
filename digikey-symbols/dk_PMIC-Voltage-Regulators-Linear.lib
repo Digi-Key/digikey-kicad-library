@@ -7,12 +7,12 @@ DEF LM317DCYR U 0 20 Y Y 1 F N
 F0 "U" 0 150 60 H V C C N N
 F1 "LM317DCYR" 0 250 60 H V C C N N
 F2 "digikey-footprints:SOT-223-4" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm317.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm317" 200 300 60 H I L C N N
 F4 "296-12602-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM317DCYR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm317.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm317" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM317DCYR/296-12602-1-ND/443738" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LIN POS ADJ 1.5A SOT223-4" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -32,12 +32,12 @@ DEF LP2985-33DBVR U 0 20 Y Y 1 F N
 F0 "U" -250 250 60 H V C C N N
 F1 "LP2985-33DBVR" 0 350 60 H V R C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lp2985.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp2985" 200 300 60 H I L C N N
 F4 "296-18476-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LP2985-33DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lp2985.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp2985" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LP2985-33DBVR/296-18476-1-ND/809911" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LINEAR 3.3V 150MA SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -58,12 +58,12 @@ DEF LP5907MFX-3_3_NOPB U 0 20 Y Y 1 F N
 F0 "U" 0 350 60 H V C C N N
 F1 "LP5907MFX-3_3_NOPB" 0 450 60 H V C C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lp5907.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp5907" 200 300 60 H I L C N N
 F4 "296-38557-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LP5907MFX-3.3/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lp5907.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp5907" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LP5907MFX-3.3-NOPB/296-38557-1-ND/5034443" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LINEAR 3.3V 250MA SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -368,12 +368,12 @@ DEF LM1117MPX-3_3_NOPB U 0 20 Y Y 1 F N
 F0 "U" -303 136 60 H V L C N N
 F1 "LM1117MPX-3_3_NOPB" -93 -342 60 H V L C N N
 F2 "digikey-footprints:SOT-223" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1117" 200 300 60 H I L C N N
 F4 "LM1117MPX-3.3/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM1117MPX-3.3/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1117" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM1117MPX-3.3-NOPB/LM1117MPX-3.3-NOPBCT-ND/1010516" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LIN 3.3V 800MA SOT223-4" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -441,12 +441,12 @@ DEF LM337T_NRND U 0 20 Y Y 1 F N
 F0 "U" 0 150 60 H V C C N N
 F1 "LM337T_NRND" 0 250 60 H V C C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm137.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm137" 200 300 60 H I L C N N
 F4 "LM337T-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM337T" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm137.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm137" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM337T/LM337T-ND/3701336" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LIN NEG ADJ 1.5A TO220-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -513,12 +513,12 @@ DEF LM78L05ACZ_NOPB U 0 20 Y Y 1 F N
 F0 "U" 0 150 60 H V C C N N
 F1 "LM78L05ACZ_NOPB" 0 250 60 H V C C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm78l.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm78l" 200 300 60 H I L C N N
 F4 "LM78L05ACZNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM78L05ACZ/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Linear" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm78l.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm78l" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM78L05ACZ-NOPB/LM78L05ACZNS-NOPB-ND/6333" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG LINEAR 5V 100MA TO92-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

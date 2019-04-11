@@ -3,19 +3,19 @@ EESchema-DOCLIB  Version 2.0
 $CMP LM317DCYR
 D IC REG LIN POS ADJ 1.5A SOT223-4
 K 296-12602-1-ND 
-F http://www.ti.com/lit/ds/symlink/lm317.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm317
 $ENDCMP
 #
 $CMP LP2985-33DBVR
 D IC REG LINEAR 3.3V 150MA SOT23-5
 K 296-18476-1-ND 
-F http://www.ti.com/lit/ds/symlink/lp2985.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp2985
 $ENDCMP
 #
 $CMP LP5907MFX-3_3_NOPB
 D IC REG LINEAR 3.3V 250MA SOT23-5
 K 296-38557-1-ND 
-F http://www.ti.com/lit/ds/symlink/lp5907.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flp5907
 $ENDCMP
 #
 $CMP L4931ABD33-TR
@@ -87,7 +87,7 @@ $ENDCMP
 $CMP LM1117MPX-3_3_NOPB
 D IC REG LIN 3.3V 800MA SOT223-4
 K LM1117MPX-3.3/NOPBCT-ND LM1117-3.3
-F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1117
 $ENDCMP
 #
 $CMP LM317T488_Obsolete
@@ -105,7 +105,7 @@ $ENDCMP
 $CMP LM337T_NRND
 D IC REG LIN NEG ADJ 1.5A TO220-3
 K LM337T-ND 
-F http://www.ti.com/lit/ds/symlink/lm137.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm137
 $ENDCMP
 #
 $CMP LM7805CT_Obsolete
@@ -123,7 +123,7 @@ $ENDCMP
 $CMP LM78L05ACZ_NOPB
 D IC REG LINEAR 5V 100MA TO92-3
 K LM78L05ACZNS/NOPB-ND 
-F http://www.ti.com/lit/ds/symlink/lm78l.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm78l
 $ENDCMP
 #
 $CMP LT1761ES5-3_3_TRMPBF

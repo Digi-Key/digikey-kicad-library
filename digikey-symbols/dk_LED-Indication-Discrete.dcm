@@ -6,6 +6,12 @@ K 1125-1181-ND
 F http://marktechopto.com/pdf/products/datasheet/MT7403A-UR-A.pdf
 $ENDCMP
 #
+$CMP LTST-C190GKT
+D LED GREEN CLEAR CHIP SMD
+K 160-1183-1-ND 
+F https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C190GKT.pdf
+$ENDCMP
+#
 $CMP LTST-C150KGKT
 D LED GREEN CLEAR 1206 SMD
 K 160-1404-1-ND 
@@ -70,6 +76,12 @@ $CMP LTST-C191KFKT
 D LED ORANGE CLEAR SMD
 K 160-1445-1-ND 
 F http://optoelectronics.liteon.com/upload/download/DS22-2000-222/LTST-C191KFKT.pdf
+$ENDCMP
+#
+$CMP LTST-C191KRKT
+D LED RED CLEAR SMD
+K 160-1447-1-ND 
+F http://optoelectronics.liteon.com/upload/download/DS22-2000-223/LTST-C191KRKT.PDF
 $ENDCMP
 #
 $CMP LTST-C170TBKT
@@ -148,6 +160,12 @@ $CMP LTST-C230KFKT
 D LED ORANGE CLEAR CHIP SMD
 K 160-2025-1-ND 
 F https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf
+$ENDCMP
+#
+$CMP LTST-C19HE1WT
+D LED RGB DIFFUSED CHIP SMD
+K 160-2162-1-ND 
+F http://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
 $ENDCMP
 #
 $CMP LG_R971-KN-1

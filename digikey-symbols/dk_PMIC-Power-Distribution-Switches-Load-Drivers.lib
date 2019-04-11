@@ -7,12 +7,12 @@ DEF TPS2051BDBVR U 0 40 Y Y 1 F N
 F0 "U" -200 200 60 H V C C N N
 F1 "TPS2051BDBVR" 100 -300 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tps2051b.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps2051b" 200 300 60 H I L C N N
 F4 "296-21265-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS2051BDBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Power Distribution Switches, Load Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tps2051b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps2051b" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPS2051BDBVR/296-21265-1-ND/1219985" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC PWR DIST SWITCH SNGL SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -33,12 +33,12 @@ DEF TPS27081ADDCR U 0 40 Y Y 1 F N
 F0 "U" -100 250 60 H V C C N N
 F1 "TPS27081ADDCR" 200 -500 60 H V L C N N
 F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tps27081a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps27081a" 200 300 60 H I L C N N
 F4 "296-34970-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS27081ADDCR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Power Distribution Switches, Load Drivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tps27081a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps27081a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPS27081ADDCR/296-34970-1-ND/3671576" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC LOAD SW HIGH SIDE 6SOT" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

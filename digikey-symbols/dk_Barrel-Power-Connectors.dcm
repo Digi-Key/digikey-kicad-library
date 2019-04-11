@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PJ-102A
+D CONN PWR JACK 2X5.5MM SOLDER
+K CP-102A-ND 
+F https://www.cui.com/product/resource/digikeypdf/pj-102a.pdf
+$ENDCMP
+#
+$CMP PJ-202A
+D CONN PWR JACK 2X5.5MM KINKED PIN
+K CP-202A-ND 
+F https://www.cui.com/product/resource/digikeypdf/pj-202a.pdf
+$ENDCMP
+#
+#End Doc Library

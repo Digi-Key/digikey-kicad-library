@@ -3,13 +3,13 @@ EESchema-DOCLIB  Version 2.0
 $CMP TMP112AIDRLT
 D SENSOR DIGITAL -40C-125C SOT563
 K 296-24621-1-ND 
-F http://www.ti.com/lit/ds/symlink/tmp112.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp112
 $ENDCMP
 #
 $CMP TMP102AIDRLR
 D SENSOR DIGITAL -40C-125C SOT563
 K 296-26834-1-ND 
-F http://www.ti.com/lit/ds/symlink/tmp102.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp102
 $ENDCMP
 #
 $CMP TMP006AIYZFR_Obsolete
@@ -24,6 +24,12 @@ K DS18B20+-ND
 F https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
 $ENDCMP
 #
+$CMP DS18B20_PAR
+D SENSOR DIGITAL -55C-125C TO92-3
+K DS18B20+PAR-ND 
+F https://datasheets.maximintegrated.com/en/ds/DS18B20-PAR.pdf
+$ENDCMP
+#
 $CMP DS18S20_
 D SENSOR DIGITAL -55C-125C TO92-3
 K DS18S20+-ND 
@@ -31,21 +37,21 @@ F https://datasheets.maximintegrated.com/en/ds/DS18S20.pdf
 $ENDCMP
 #
 $CMP LM34DZ_NOPB
-D SENSOR ANALOG 0C-100C TO92-3
+D SENSOR ANALOG 32F-212F TO92-3
 K LM34DZ/NOPB-ND 
-F http://www.ti.com/lit/ds/symlink/lm34.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm34
 $ENDCMP
 #
 $CMP LM35DT_NOPB
 D SENSOR ANALOG 0C-100C TO220-3
 K LM35DT/NOPB-ND 
-F http://www.ti.com/lit/ds/symlink/lm35.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm35
 $ENDCMP
 #
 $CMP LM35DZ_NOPB
 D SENSOR ANALOG 0C-100C TO92-3
 K LM35DZ/NOPB-ND 
-F http://www.ti.com/lit/ds/symlink/lm35.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm35
 $ENDCMP
 #
 $CMP MAX31820MCR_

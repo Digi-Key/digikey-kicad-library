@@ -7,8 +7,8 @@ F https://www.cui.com/product/resource/digikeypdf/cma-4544pf-w.pdf
 $ENDCMP
 #
 $CMP SPH0645LM4H-B
-D MIC MEMS DIGITAL I2S OMNI -26DB
-K 423-1405-1-ND SiSonic™, Zero-Height Mic™, SPH
+D CRAWFORD MIC DGT I2S BOTTOM PORT
+K 423-1405-1-ND SiSonic™ SPH
 F https://media.digikey.com/pdf/Data%20Sheets/Knowles%20Acoustics%20PDFs/SPH0645LM4H-B.pdf
 $ENDCMP
 #

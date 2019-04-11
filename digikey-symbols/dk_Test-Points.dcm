@@ -1,0 +1,81 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5000
+D PC TEST POINT MINIATURE RED
+K 36-5000-ND THM
+F http://www.keyelco.com/product-pdf.cfm?p=1309
+$ENDCMP
+#
+$CMP 5001
+D PC TEST POINT MINIATURE BLACK
+K 36-5001-ND THM
+F http://www.keyelco.com/product-pdf.cfm?p=1310
+$ENDCMP
+#
+$CMP 5002
+D PC TEST POINT MINIATURE WHITE
+K 36-5002-ND THM
+F http://www.keyelco.com/product-pdf.cfm?p=1311
+$ENDCMP
+#
+$CMP 5011
+D PC TEST POINT MULTIPURPOSE BLACK
+K 36-5011-ND THM
+F http://www.keyelco.com/product-pdf.cfm?p=1320
+$ENDCMP
+#
+$CMP 5015
+D PC TEST POINT MINIATURE
+K 36-5015CT-ND 
+F http://www.keyelco.com/product-pdf.cfm?p=1353
+$ENDCMP
+#
+$CMP 5016
+D PC TEST POINT COMPACT
+K 36-5016CT-ND 
+F http://www.keyelco.com/product-pdf.cfm?p=1354
+$ENDCMP
+#
+$CMP 5017
+D PC TEST POINT MINIATURE
+K 36-5017CT-ND 
+F http://www.keyelco.com/product-pdf.cfm?p=1355
+$ENDCMP
+#
+$CMP 5029
+D PC TEST POINT MINIATURE
+K 36-5029CT-ND 
+F http://www.keyelco.com/product-pdf.cfm?p=1358
+$ENDCMP
+#
+$CMP S1751-46R
+D PC TEST POINT NATURAL
+K 952-1478-1-ND S1751, EZ BoardWare
+F https://cdn.harwin.com/pdfs/S1751R.pdf
+$ENDCMP
+#
+$CMP RCT-0C
+D PC TEST POINT NATURAL
+K A106144CT-ND RC, CGS
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English
+$ENDCMP
+#
+$CMP RCU-0C
+D PC TEST POINT NATURAL
+K A106145CT-ND RC, CGS
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English
+$ENDCMP
+#
+$CMP RCW-0C
+D PC TEST POINT NATURAL
+K A106146CT-ND RC, CGS
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773266&DocType=DS&DocLang=English
+$ENDCMP
+#
+$CMP 1508-0-57-15-00-00-03-0
+D TESTPOINT PIN SMD
+K ED1088CT-ND 1508
+F https://www.mill-max.com/assets/pdfs/224.pdf
+$ENDCMP
+#
+#End Doc Library

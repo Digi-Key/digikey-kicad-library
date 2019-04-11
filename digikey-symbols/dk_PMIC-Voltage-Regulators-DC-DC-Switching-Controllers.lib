@@ -7,12 +7,12 @@ DEF TL494CN U 0 40 Y Y 1 F N
 F0 "U" -200 350 60 H V R C N N
 F1 "TL494CN" 175 -240 60 V V C C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tl494.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl494" 200 300 60 H I L C N N
 F4 "296-1799-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TL494CN" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tl494.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftl494" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TL494CN/296-1799-5-ND/277444" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG CTRLR MULT TOPOLOGY 16DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -44,12 +44,12 @@ DEF TPS40210DGQR U 0 40 Y Y 1 F N
 F0 "U" -200 140 60 H V R C N N
 F1 "TPS40210DGQR" 130 -560 60 H V L C N N
 F2 "digikey-footprints:MSOP-10-1EP_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tps40210.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps40210" 200 300 60 H I L C N N
 F4 "296-26969-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPS40210DGQR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tps40210.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps40210" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPS40210DGQR/296-26969-1-ND/2255265" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG CTRLR MULT TOP 10MSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -113,12 +113,12 @@ DEF LM3478MM_NOPB U 0 40 Y Y 1 F N
 F0 "U" -200 240 60 H V R C N N
 F1 "LM3478MM_NOPB" 220 -350 60 H V L C N N
 F2 "digikey-footprints:TSSOP-8_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm3478.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3478" 200 300 60 H I L C N N
 F4 "LM3478MM/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM3478MM/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm3478.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3478" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM3478MM-NOPB/LM3478MM-NOPBCT-ND/355388" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG CTRLR MULT TOP 8VSSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -142,12 +142,12 @@ DEF LM3481MM_NOPB U 0 40 Y Y 1 F N
 F0 "U" -200 150 60 H V R C N N
 F1 "LM3481MM_NOPB" 1520 -550 60 H V R C N N
 F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm3481.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3481" 200 300 60 H I L C N N
 F4 "LM3481MM/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM3481MM/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - DC DC Switching Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm3481.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3481" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM3481MM-NOPB/LM3481MM-NOPBCT-ND/1836122" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC REG CTRLR MULT TOP 10MSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

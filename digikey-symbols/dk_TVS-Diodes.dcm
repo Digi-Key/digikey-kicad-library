@@ -33,25 +33,25 @@ $ENDCMP
 $CMP TPD2E001DRLR
 D TVS DIODE 5.5V SOT5
 K 296-21883-1-ND 
-F http://www.ti.com/lit/ds/symlink/tpd2e001.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2e001
 $ENDCMP
 #
 $CMP TPD4S012DRYR
 D TVS DIODE 5.5V 6SON
 K 296-24244-1-ND 
-F http://www.ti.com/lit/ds/symlink/tpd4s012.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd4s012
 $ENDCMP
 #
 $CMP TPD2EUSB30DRTR
 D TVS DIODE 5.5V 8V SOT3
 K 296-25509-1-ND 
-F http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2eusb30
 $ENDCMP
 #
 $CMP TPD1E10B06DPYR
 D TVS DIODE 5.5V 14V 2X1SON
 K 296-30406-1-ND 
-F http://www.ti.com/lit/ds/symlink/tpd1e10b06.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd1e10b06
 $ENDCMP
 #
 $CMP USBLC6-4SC6

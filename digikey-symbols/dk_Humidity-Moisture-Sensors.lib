@@ -30,6 +30,34 @@ X NC 8 200 -100 100 L 50 50 1 1 N N
 ENDDRAW
 ENDDEF
 #
+# HPP845E031R4
+#
+DEF HPP845E031R4 U 0 40 Y Y 1 F N
+F0 "U" -200 350 50 H V L C N N
+F1 "HPP845E031R4" 150 -350 50 H V L C N N
+F2 "digikey-footprints:DFN-6_3x3mm_EP1" 200 200 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 300 60 H I L C N N
+F4 "223-1144-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "HPP845E031R4" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Humidity, Moisture Sensors" 200 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=HPC199_6&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-measurement-specialties/HPP845E031R4/223-1144-1-ND/3945773" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR HUMID/TEMP 3V I2C 2% SMD" 200 1000 60 H I L CNN "Description"
+F11 "TE Connectivity Measurement Specialties" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -200 300 300 -300 0 1 0 f
+X DATA 1 400 200 100 L 50 50 1 1 B
+X GND 2 0 -400 100 U 50 50 1 1 W
+X N.C. 3 400 100 100 L 50 50 1 1 N
+X N.C. 4 400 0 100 L 50 50 1 1 N
+X VDD 5 0 400 100 D 50 50 1 1 W
+X SCK 6 -300 0 100 R 50 50 1 1 I
+X GND 7 100 -400 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # HPP845E131R5
 #
 DEF HPP845E131R5 U 0 40 Y Y 1 F N

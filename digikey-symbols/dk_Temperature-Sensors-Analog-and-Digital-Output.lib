@@ -7,12 +7,12 @@ DEF TMP112AIDRLT U 0 40 Y Y 1 F N
 F0 "U" -250 350 60 H V C C N N
 F1 "TMP112AIDRLT" 0 -300 60 H V L C N N
 F2 "digikey-footprints:SOT-563" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tmp112.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp112" 200 300 60 H I L C N N
 F4 "296-24621-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMP112AIDRLT" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Temperature Sensors - Analog and Digital Output" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tmp112.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp112" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TMP112AIDRLT/296-24621-1-ND/2090130" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR DIGITAL -40C-125C SOT563" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -34,12 +34,12 @@ DEF TMP102AIDRLR U 0 40 Y Y 1 F N
 F0 "U" -300 400 60 H V C C N N
 F1 "TMP102AIDRLR" 0 -300 60 H V L C N N
 F2 "digikey-footprints:SOT-563" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tmp102.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp102" 200 300 60 H I L C N N
 F4 "296-26834-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TMP102AIDRLR" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Temperature Sensors - Analog and Digital Output" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tmp102.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp102" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TMP102AIDRLR/296-26834-1-ND/2255195" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR DIGITAL -40C-125C SOT563" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -108,6 +108,42 @@ X VDD 3 0 300 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
+# DS18B20_PAR
+#
+DEF DS18B20_PAR U 0 40 Y Y 1 F N
+F0 "U" -150 350 50 H V L C N N
+F1 "DS18B20_PAR" 200 50 50 V V C C N N
+F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
+F3 "https://datasheets.maximintegrated.com/en/ds/DS18B20-PAR.pdf" 200 300 60 H I L C N N
+F4 "DS18B20+PAR-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "DS18B20+PAR" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Temperature Sensors - Analog and Digital Output" 200 700 60 H I L CNN "Family"
+F8 "https://datasheets.maximintegrated.com/en/ds/DS18B20-PAR.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/maxim-integrated/DS18B20-PAR/DS18B20-PAR-ND/1197285" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "SENSOR DIGITAL -55C-125C TO92-3" 200 1000 60 H I L CNN "Description"
+F11 "Maxim Integrated" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+A 85 105 25 624 -42 1 0 0 N 96 130 111 105
+A 85 105 25 -1799 -1 1 0 7 N 60 105 110 105
+A 85 105 25 -1799 -1 1 0 7 F 60 105 110 105
+A 85 245 10 1 1799 1 0 0 N 95 245 75 245
+A 86 106 25 -1777 1126 1 0 0 N 61 105 76 130
+T 0 103 248 10 0 1 0 °C Normal 0 L T
+S -150 -150 150 300 0 1 0 f
+P 2 1 0 0 75 181 85 181 N
+P 2 1 0 0 76 140 85 140 N
+P 2 1 0 0 85 220 75 220 N
+P 2 1 0 0 95 160 85 160 N
+P 2 1 0 0 95 199 85 199 N
+P 4 1 0 0 75 129 75 255 95 255 96 130 N
+X GND 1 0 -250 100 U 50 50 1 1 W
+X DQ 2 -250 150 100 R 50 50 1 1 B
+X N.C. 3 -250 50 100 R 50 50 1 1 N N
+ENDDRAW
+ENDDEF
+#
 # DS18S20_
 #
 DEF DS18S20_ U 0 40 Y Y 1 F N
@@ -138,14 +174,14 @@ DEF LM34DZ_NOPB U 0 40 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "LM34DZ_NOPB" 100 -300 60 H V L C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm34.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm34" 200 300 60 H I L C N N
 F4 "LM34DZ/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM34DZ/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Temperature Sensors - Analog and Digital Output" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm34.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm34" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM34DZ-NOPB/LM34DZ-NOPB-ND/32485" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "SENSOR ANALOG 0C-100C TO92-3" 200 1000 60 H I L CNN "Description"
+F10 "SENSOR ANALOG 32F-212F TO92-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
@@ -162,12 +198,12 @@ DEF LM35DT_NOPB U 0 40 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "LM35DT_NOPB" 100 -300 60 H V L C N N
 F2 "digikey-footprints:TO-220-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm35.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm35" 200 300 60 H I L C N N
 F4 "LM35DT/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM35DT/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Temperature Sensors - Analog and Digital Output" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm35.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm35" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM35DT-NOPB/LM35DT-NOPB-ND/362706" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR ANALOG 0C-100C TO220-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -186,12 +222,12 @@ DEF LM35DZ_NOPB U 0 40 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "LM35DZ_NOPB" 100 -300 60 H V L C N N
 F2 "digikey-footprints:TO-92-3" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm35.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm35" 200 300 60 H I L C N N
 F4 "LM35DZ/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM35DZ/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Temperature Sensors - Analog and Digital Output" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm35.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm35" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM35DZ-NOPB/LM35DZ-NOPB-ND/32489" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR ANALOG 0C-100C TO92-3" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

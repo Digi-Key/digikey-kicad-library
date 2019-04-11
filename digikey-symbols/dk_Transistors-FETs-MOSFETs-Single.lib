@@ -481,6 +481,52 @@ X D 3 0 200 100 D 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
+# BSS138LT1G
+#
+DEF BSS138LT1G U 0 0 Y Y 1 F N
+F0 "Q" -150 150 50 H V R C N N
+F1 "BSS138LT1G" 200 0 50 V V C C N N
+F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
+F3 "http://www.onsemi.com/pub/Collateral/BSS138LT1-D.PDF" 200 300 60 H I L C N N
+F4 "BSS138LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "BSS138LT1G" 200 500 60 H I L CNN "MPN"
+F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
+F7 "Transistors - FETs, MOSFETs - Single" 200 700 60 H I L CNN "Family"
+F8 "http://www.onsemi.com/pub/Collateral/BSS138LT1-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/on-semiconductor/BSS138LT1G/BSS138LT1GOSCT-ND/917858" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "MOSFET N-CH 50V 200MA SOT-23" 200 1000 60 H I L CNN "Description"
+F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+C 0 -100 7 0 1 0 F
+C 0 -75 7 0 1 0 F
+C 0 100 7 0 1 0 F
+C -25 0 160 1 1 0 f
+P 2 0 1 0 -125 75 -125 50 N
+P 2 0 1 0 -125 75 -125 100 N
+P 2 0 1 0 -100 -100 -100 -75 N
+P 2 0 1 0 -100 -75 -100 -50 N
+P 2 0 1 0 -100 -75 -25 -75 N
+P 2 0 1 0 -100 -25 -100 0 N
+P 2 0 1 0 -100 0 -100 25 N
+P 2 0 1 0 -100 0 -25 0 N
+P 2 0 1 0 -100 50 -100 75 N
+P 2 0 1 0 -100 75 -100 100 N
+P 2 0 1 0 -100 75 -25 75 N
+P 2 0 1 0 -25 -75 0 -75 N
+P 2 0 1 0 0 50 50 50 N
+P 3 0 1 0 -200 -100 -125 -100 -125 50 N
+P 3 0 1 0 -25 0 0 0 0 -150 N
+P 3 0 1 0 -25 75 0 75 0 175 N
+P 4 0 1 0 -100 0 -50 -25 -50 25 -100 0 F
+P 4 0 1 0 0 100 25 100 25 -100 0 -100 N
+P 4 0 1 0 25 50 0 25 50 25 25 50 F
+X G 1 -300 -100 100 R 50 50 1 1 B
+X S 2 0 -250 100 U 50 50 1 1 B
+X D 3 0 250 100 D 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
 # BSS84
 #
 DEF BSS84 Q 0 0 Y Y 1 F N

@@ -7,12 +7,12 @@ DEF SN74LVC1G125DBVR U 0 0 Y Y 1 F N
 F0 "U" -198 214 60 H V L C N N
 F1 "SN74LVC1G125DBVR" 59 -222 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g125" 200 300 60 H I L C N N
 F4 "296-11603-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G125DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g125" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G125DBVR/296-11603-1-ND/385742" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -40,12 +40,12 @@ DEF SN74LVC1G125DCKR U 0 0 Y Y 1 F N
 F0 "U" -100 250 60 H V R C N N
 F1 "SN74LVC1G125DCKR" 75 -250 60 H V L C N N
 F2 "digikey-footprints:SOT-353" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g125" 200 300 60 H I L C N N
 F4 "296-11604-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G125DCKR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g125.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g125" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G125DCKR/296-11604-1-ND/385743" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SC70-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -72,12 +72,12 @@ DEF SN74LVC1G17DBVR U 0 0 Y Y 1 F N
 F0 "U" -100 240 60 H V R C N N
 F1 "SN74LVC1G17DBVR" 60 -250 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g17" 200 300 60 H I L C N N
 F4 "296-11933-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G17DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g17" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G17DBVR/296-11933-1-ND/389050" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -103,12 +103,12 @@ DEF SN74LVC1G17DCKR U 0 0 Y Y 1 F N
 F0 "U" -150 150 60 H V C C N N
 F1 "SN74LVC1G17DCKR" 61 -420 60 H V L C N N
 F2 "digikey-footprints:SC-70-5" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g17" 200 300 60 H I L C N N
 F4 "296-11934-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G17DCKR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g17" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G17DCKR/296-11934-1-ND/389052" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SC70-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -136,12 +136,12 @@ DEF SN74LVC2G17DBVR_Discontinued U 0 0 Y Y 1 F N
 F0 "U" -210 338 60 H V L C N N
 F1 "SN74LVC2G17DBVR_Discontinued" 68 -412 60 H V L C N N
 F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc2g17.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc2g17" 200 300 60 H I L C N N
 F4 "296-13012-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC2G17DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc2g17.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc2g17" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC2G17DBVR/296-13012-1-ND/479734" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SOT23-6" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -175,12 +175,12 @@ DEF CD4050BE U 0 40 Y Y 1 F N
 F0 "U" -200 250 60 H V R C N N
 F1 "CD4050BE" -100 -250 60 V V C C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cd4050b.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4050b" 200 300 60 H I L C N N
 F4 "296-2056-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD4050BE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cd4050b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd4050b" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CD4050BE/296-2056-ND/67303" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUFFER NON-INVERT 18 V 16DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -212,12 +212,12 @@ DEF SN74AHCT125N U 0 0 Y Y 1 F N
 F0 "U" -100 550 60 H V R C N N
 F1 "SN74AHCT125N" 75 -1250 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74ahct125.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ahct125" 200 300 60 H I L C N N
 F4 "296-4655-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74AHCT125N" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74ahct125.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74ahct125" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74AHCT125N/296-4655-5-ND/375798" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -275,12 +275,12 @@ DEF SN74LVC1G07DBVR U 0 0 Y Y 1 F N
 F0 "U" -100 250 60 H V R C N N
 F1 "SN74LVC1G07DBVR" 75 -250 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g07" 200 300 60 H I L C N N
 F4 "296-8485-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G07DBVR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g07" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G07DBVR/296-8485-1-ND/377454" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -306,12 +306,12 @@ DEF SN74LVC1G07DCKR U 0 0 Y Y 1 F N
 F0 "U" -100 250 60 H V R C N N
 F1 "SN74LVC1G07DCKR" 75 -250 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g07" 200 300 60 H I L C N N
 F4 "296-8486-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G07DCKR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g07.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g07" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G07DCKR/296-8486-1-ND/377456" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SC70-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -337,12 +337,12 @@ DEF SN74LVC245AN U 0 40 Y Y 1 F N
 F0 "U" -250 250 60 H V C C N N
 F1 "SN74LVC245AN" -100 -400 60 V V C C N N
 F2 "digikey-footprints:DIP-20_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc245a.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc245a" 200 300 60 H I L C N N
 F4 "296-8503-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC245AN" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc245a.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc245a" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC245AN/296-8503-5-ND/377483" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC TXRX NON-INVERT 3.6V 20DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

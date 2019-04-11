@@ -9,19 +9,19 @@ $ENDCMP
 $CMP DRV8825PWPR
 D IC MTR DRVR BIPLR 8.2-45V 28SSOP
 K 296-29503-1-ND 
-F http://www.ti.com/lit/ds/symlink/drv8825.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8825
 $ENDCMP
 #
 $CMP DRV8871DDA
 D IC MOTOR DRVR UNIPLR 8SO PWRPAD
 K 296-44509-5-ND 
-F http://www.ti.com/lit/ds/symlink/drv8871.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8871
 $ENDCMP
 #
 $CMP L293DNE
 D IC MTR DRV BIPOLAR 4.5-36V 16DIP
 K 296-9518-5-ND 
-F http://www.ti.com/lit/ds/symlink/l293d.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fl293d
 $ENDCMP
 #
 $CMP L293D

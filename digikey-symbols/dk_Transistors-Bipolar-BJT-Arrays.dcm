@@ -3,19 +3,19 @@ EESchema-DOCLIB  Version 2.0
 $CMP ULN2003ADR
 D IC PWR RELAY 7NPN 1:1 16SOIC
 K 296-1368-1-ND 
-F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2003a
 $ENDCMP
 #
 $CMP ULN2803ADWR
 D TRANS 8NPN DARL 50V 0.5A 18SO
 K 296-15777-1-ND 
-F http://www.ti.com/lit/ds/symlink/uln2803a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2803a
 $ENDCMP
 #
 $CMP ULN2003AN
 D IC PWR RELAY 7NPN 1:1 16DIP
 K 296-1979-5-ND 
-F http://www.ti.com/lit/ds/symlink/uln2003a.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fuln2003a
 $ENDCMP
 #
 $CMP ULN2003A

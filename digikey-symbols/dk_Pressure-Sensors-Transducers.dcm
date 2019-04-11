@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MS560702BA03-50
+D BAROMETRIC PRESSURE SENSOR
+K 223-1198-1-ND 
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English
+$ENDCMP
+#
 $CMP MS580314BA01-00
 D MINIATURE ALTIMETER MODULE
 K 223-1626-5-ND 

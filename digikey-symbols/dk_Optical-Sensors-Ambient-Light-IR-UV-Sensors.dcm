@@ -3,13 +3,13 @@ EESchema-DOCLIB  Version 2.0
 $CMP OPT101P
 D SENSOR OPT 650NM AMBIENT 8DIP
 K 296-23090-5-ND 
-F http://www.ti.com/lit/ds/symlink/opt101.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt101
 $ENDCMP
 #
 $CMP OPT3001DNPT
 D SENSOR OPT 550NM AMBIENT 6USON
 K 296-38667-1-ND 
-F http://www.ti.com/lit/ds/symlink/opt3001.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fopt3001
 $ENDCMP
 #
 $CMP SI1145-A10-GMR_NRND
@@ -36,7 +36,7 @@ K 516-3480-1-ND
 F https://docs.broadcom.com/docs/AV02-4191EN
 $ENDCMP
 #
-$CMP MAX44009EDT_T
+$CMP MAX44009EDT_T_LTB
 D SENSOR OPT AMBIENT 6OTDFN
 K MAX44009EDT+TCT-ND 
 F https://datasheets.maximintegrated.com/en/ds/MAX44009.pdf

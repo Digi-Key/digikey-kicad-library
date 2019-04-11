@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP X000048
+D IC MCU 8BIT 32KB FLASH 28DIP
+K 1050-1019-ND 
+F 
+$ENDCMP
+#
 $CMP W7500
 D IC MCU 32BIT 128KB FLASH 64TQFP
 K 1278-1026-ND 
@@ -9,7 +15,7 @@ $ENDCMP
 $CMP MSP430G2553IN20
 D IC MCU 16BIT 16KB FLASH 20DIP
 K 296-28429-5-ND MSP430G2xx
-F http://www.ti.com/lit/ds/symlink/msp430g2553.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fmsp430g2553
 $ENDCMP
 #
 $CMP STM32F407VGT6
@@ -45,18 +51,24 @@ $ENDCMP
 $CMP ATMEGA328-AU
 D IC MCU 8BIT 32KB FLASH 32TQFP
 K ATMEGA328-AU-ND AVR® ATmega
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326
 $ENDCMP
 #
 $CMP ATMEGA328-PU
 D IC MCU 8BIT 32KB FLASH 28DIP
 K ATMEGA328-PU-ND AVR® ATmega
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326
 $ENDCMP
 #
 $CMP ATMEGA328P-AU
 D IC MCU 8BIT 32KB FLASH 32TQFP
 K ATMEGA328P-AU-ND AVR® ATmega
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968
+$ENDCMP
+#
+$CMP ATMEGA328P-AUR
+D IC MCU 8BIT 32KB FLASH 32TQFP
+K ATMEGA328P-AURCT-ND AVR® ATmega
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968
 $ENDCMP
 #

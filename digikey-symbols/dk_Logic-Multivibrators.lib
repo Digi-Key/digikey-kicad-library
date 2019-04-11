@@ -7,12 +7,12 @@ DEF CD14538BE U 0 40 Y Y 1 F N
 F0 "U" -200 650 60 H V C C N N
 F1 "CD14538BE" -50 750 60 H V R C N N
 F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/cd14538b.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd14538b" 200 300 60 H I L C N N
 F4 "296-14074-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CD14538BE" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Multivibrators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/cd14538b.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcd14538b" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CD14538BE/296-14074-5-ND/525847" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC DUAL PREC MULTIVIB 16-DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -44,12 +44,12 @@ DEF SN74LVC1G123DCTR U 0 20 Y Y 1 F N
 F0 "U" -250 250 60 H V C C N N
 F1 "SN74LVC1G123DCTR" -100 350 60 H V R C N N
 F2 "digikey-footprints:MSOP-8_W2.80mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g123.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g123" 200 300 60 H I L C N N
 F4 "296-18758-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SN74LVC1G123DCTR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Multivibrators" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/sn74lvc1g123.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g123" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/SN74LVC1G123DCTR/296-18758-1-ND/863888" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC SNGL MONO MULTIVIBTOR SM8" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

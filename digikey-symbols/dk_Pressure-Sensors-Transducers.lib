@@ -1,6 +1,36 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# MS560702BA03-50
+#
+DEF MS560702BA03-50 U 0 40 Y Y 1 F N
+F0 "U" -300 350 50 H V L C N N
+F1 "MS560702BA03-50" 50 -450 50 H V L C N N
+F2 "digikey-footprints:SMD-8_5x3mm" 200 200 60 H I L C N N
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English" 200 300 60 H I L C N N
+F4 "223-1198-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MS560702BA03-50" 200 500 60 H I L CNN "MPN"
+F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
+F7 "Pressure Sensors, Transducers" 200 700 60 H I L CNN "Family"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-measurement-specialties/MS560702BA03-50/223-1198-1-ND/4700921" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "BAROMETRIC PRESSURE SENSOR" 200 1000 60 H I L CNN "Description"
+F11 "TE Connectivity Measurement Specialties" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 300 -400 0 1 0 f
+P 4 0 1 0 -300 0 -260 0 -260 -100 -300 -100 N
+X VDD 1 0 400 100 D 50 50 1 1 W
+X PS 2 -400 100 100 R 50 50 1 1 I
+X GND 3 0 -500 100 U 50 50 1 1 W
+X CSB 4 -400 0 100 R 50 50 1 1 I
+X CSB 5 -400 -100 100 R 50 50 1 1 I
+X SDO 6 400 100 100 L 50 50 1 1 O
+X SDI/SDA 7 400 0 100 L 50 50 1 1 B
+X SCLK 8 -400 -200 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # MS580314BA01-00
 #
 DEF MS580314BA01-00 U 0 30 Y Y 1 F N

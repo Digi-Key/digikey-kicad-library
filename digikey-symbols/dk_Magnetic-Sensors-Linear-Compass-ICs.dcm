@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP DRV5053VAQDBZR
 D SENSOR HALL ANALOG SOT23-3
 K 296-38460-1-ND Automotive, AEC-Q100
-F http://www.ti.com/lit/ds/symlink/drv5053.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv5053
 $ENDCMP
 #
 $CMP LIS3MDLTR

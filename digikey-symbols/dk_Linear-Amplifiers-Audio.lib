@@ -7,12 +7,12 @@ DEF TPA2005D1DGNRQ1 U 0 40 Y Y 1 F N
 F0 "U" -400 250 60 H V C C N N
 F1 "TPA2005D1DGNRQ1" -100 -500 60 H V L C N N
 F2 "digikey-footprints:MSOP-8-1EP_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2005d1-q1" 200 300 60 H I L C N N
 F4 "296-24831-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPA2005D1DGNRQ1" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2005d1-q1" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPA2005D1DGNRQ1/296-24831-1-ND/2094669" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR 1.4W D 8MSOP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -37,12 +37,12 @@ DEF TPA2016D2RTJR U 0 40 Y Y 1 F N
 F0 "U" -250 150 60 H V C C N N
 F1 "TPA2016D2RTJR" 150 -950 60 H V L C N N
 F2 "digikey-footprints:WQFN-20-1EP_4x4mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2016d2" 200 300 60 H I L C N N
 F4 "296-25430-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "TPA2016D2RTJR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpa2016d2" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPA2016D2RTJR/296-25430-1-ND/2183791" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR 2.8W D 20QFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -79,12 +79,12 @@ DEF LM386N-3_NOPB U 0 0 Y Y 1 F N
 F0 "U" -350 200 60 H V C C N N
 F1 "LM386N-3_NOPB" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 300 60 H I L C N N
 F4 "296-43959-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM386N-3/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM386N-3-NOPB/296-43959-5-ND/148191" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR .7W MONO 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -112,12 +112,12 @@ DEF LM386N-4_NOPB U 0 0 Y Y 1 F N
 F0 "U" -350 200 60 H V C C N N
 F1 "LM386N-4_NOPB" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 300 60 H I L C N N
 F4 "296-43960-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM386N-4/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM386N-4-NOPB/296-43960-5-ND/148192" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR 1W MONO AB 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -145,12 +145,12 @@ DEF LM386N-1_NOPB U 0 0 Y Y 1 F N
 F0 "U" -350 250 60 H V C C N N
 F1 "LM386N-1_NOPB" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 300 60 H I L C N N
 F4 "296-44414-5-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM386N-1/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM386N-1-NOPB/296-44414-5-ND/6284" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR .325W MONO 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -250,12 +250,12 @@ DEF LM1875T_NOPB U 0 0 Y Y 1 F N
 F0 "U" -200 250 60 H V C C N N
 F1 "LM1875T_NOPB" 100 -200 60 H V L C N N
 F2 "digikey-footprints:TO-220-5" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm1875.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1875" 200 300 60 H I L C N N
 F4 "LM1875T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM1875T/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm1875.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm1875" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM1875T-NOPB/LM1875T-NOPB-ND/1669" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR 30W AB TO220-5" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -279,12 +279,12 @@ DEF LM386MX-1_NOPB U 0 0 Y Y 1 F N
 F0 "U" -350 250 60 H V C C N N
 F1 "LM386MX-1_NOPB" 100 -200 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 300 60 H I L C N N
 F4 "LM386MX-1/NOPBCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM386MX-1/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm386.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm386" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM386MX-1-NOPB/LM386MX-1-NOPBCT-ND/3440154" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR .325W AB 8SOIC" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
@@ -312,12 +312,12 @@ DEF LM3886T_NOPB U 0 40 Y Y 1 F N
 F0 "U" -200 200 60 H V C C N N
 F1 "LM3886T_NOPB" 100 -700 60 H V L C N N
 F2 "digikey-footprints:TO-220-11" 200 200 60 H I L C N N
-F3 "http://www.ti.com/lit/ds/symlink/lm3886.pdf" 200 300 60 V I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3886" 200 300 60 V I L C N N
 F4 "LM3886T/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "LM3886T/NOPB" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Linear - Amplifiers - Audio" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/lit/ds/symlink/lm3886.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm3886" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/LM3886T-NOPB/LM3886T-NOPB-ND/212684" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC AMP AUDIO PWR 68W AB TO220-11" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
