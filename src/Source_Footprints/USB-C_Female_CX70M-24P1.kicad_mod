@@ -1,4 +1,4 @@
-(module "0_stimulu-common:USB-C_Female_CX70M-24P1" (layer F.Cu) (tedit 5CD19DE6)
+(module "USB-C_Female_CX70M-24P1" (layer F.Cu) (tedit 5CD19DE6)
   (fp_text reference "REF**" (at 0 -2.99) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
