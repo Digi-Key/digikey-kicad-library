@@ -27,7 +27,7 @@ $ENDCMP
 $CMP BLM21PG221SN1D
 D FERRITE BEAD 220 OHM 0805 1LN
 K 490-1054-1-ND EMIFIL®, BLM21
-F https://www.murata.com/en-us/products/productdata/8796738977822/ENFA0005.pdf
+F https://www.murata.com/en-us/products/en-us/products/productdata/8796738977822/ENFA0005.pdf
 $ENDCMP
 #
 $CMP BLM18HE152SN1D
@@ -45,7 +45,7 @@ $ENDCMP
 $CMP BLM21PG331SN1D
 D FERRITE BEAD 330 OHM 0805 1LN
 K 490-5988-1-ND EMIFIL®, BLM21
-F https://www.murata.com/en-us/products/productdata/8796738977822/ENFA0005.pdf
+F https://www.murata.com/en-us/products/en-us/products/productdata/8796738977822/ENFA0005.pdf
 $ENDCMP
 #
 #End Doc Library

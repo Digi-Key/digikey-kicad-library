@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP 1N4001-TP
 D DIODE GEN PURP 50V 1A DO41
 K 1N4001-TPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/1N4001-1N4007(DO-41).pdf
+F https://www.mccsemi.com/pdf/Products/1N4001-1N4007(DO-41).pdf
 $ENDCMP
 #
 $CMP 1N4004-T_NRND
@@ -51,19 +51,19 @@ $ENDCMP
 $CMP 1N4148W-TP
 D DIODE GEN PURP 100V 150MA SOD123
 K 1N4148WTPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf
+F https://www.mccsemi.com/pdf/Products/1N4148W(SOD123).pdf
 $ENDCMP
 #
 $CMP 1N4148WX-TP
 D DIODE GEN PURP 75V 150MA SOD323
 K 1N4148WXTPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/1N4148WX(SOD323).pdf
+F https://www.mccsemi.com/pdf/Products/1N4148WX(SOD323).pdf
 $ENDCMP
 #
 $CMP 1N4148X-TP
 D DIODE GEN PURP 75V 150MA SOD523
 K 1N4148XTPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/1N4148X(SOD-523).PDF
+F https://www.mccsemi.com/pdf/Products/1N4148X(SOD-523).PDF
 $ENDCMP
 #
 $CMP 1N5817

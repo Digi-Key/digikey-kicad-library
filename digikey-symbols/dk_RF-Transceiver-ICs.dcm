@@ -39,7 +39,7 @@ $ENDCMP
 $CMP NRF24L01P-R7
 D IC RF TXRX ISM>1GHZ 20VFQFN
 K 1490-1033-1-ND 
-F https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf
+F https://www.digikey.com/api/videos/videoplayer/smallplayer/6002293756001
 $ENDCMP
 #
 $CMP NRF51422-QFAC-R

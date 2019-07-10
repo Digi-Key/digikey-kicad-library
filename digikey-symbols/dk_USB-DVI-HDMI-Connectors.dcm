@@ -99,25 +99,25 @@ $ENDCMP
 $CMP DX07P024MJ1R1500
 D CONN PLUG USB3.1 TYPEC BRD EDGE
 K 670-2850-1-ND DX07
-F http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115803.pdf
+F https://www.jae.com/direct/topics/topics_file_download/?topics_id=66505&ext_no=06&index=1&_lang=en
 $ENDCMP
 #
 $CMP DC3RX19JA3R1700
 D CONN RCP MICRO HDMI 19POS SMD RA
 K 670-2861-1-ND DC3
-F http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ111264.pdf
+F https://www.jae.com/direct/topics/topics_file_download/?topics_id=65736&ext_no=06&index=1&_lang=en
 $ENDCMP
 #
 $CMP DX07P024AJ1R1500
 D CONN PLUG USB3.1 TYPEC BRD EDGE
 K 670-2868-1-ND DX07
-F http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ116680.pdf
+F https://www.jae.com/direct/topics/topics_file_download/?topics_id=66503&ext_no=06&index=1&_lang=en
 $ENDCMP
 #
 $CMP DX07S024WJ3R400
 D CONN RCPT USB3.1 TYPEC 24POS SMD
 K 670-2950-1-ND DX07
-F http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117928.pdf
+F https://www.jae.com/direct/topics/topics_file_download/topics_id=66513&ext_no=06&index=1&_lang=en
 $ENDCMP
 #
 $CMP 2129320-3
@@ -135,7 +135,7 @@ $ENDCMP
 $CMP AU-Y1006-3
 D CONN RCPT USB3.0 TYPEA 9P SMD RA
 K AE10704-ND 
-F http://www.assmann-wsw.com/fileadmin/datasheets/AU-Y1006-3.pdf
+F http://www.assmann-wsw.com/fileadmin/datasheets/ASS_5775_CO.pdf
 $ENDCMP
 #
 $CMP GSB443T33HR

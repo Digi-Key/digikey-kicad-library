@@ -706,12 +706,12 @@ DEF ATMEGA328P-AU U 0 40 Y Y 1 F N
 F0 "U" -350 1500 60 H V L C N N
 F1 "ATMEGA328P-AU" 100 50 60 V V C C N N
 F2 "digikey-footprints:TQFP-32_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 300 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 300 60 H I L C N N
 F4 "ATMEGA328P-AU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328P-AU" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/ATMEGA328P-AU/ATMEGA328P-AU-ND/1832260" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
@@ -759,12 +759,12 @@ DEF ATMEGA328P-AUR U 0 40 Y Y 1 F N
 F0 "U" -400 950 50 H V L C N N
 F1 "ATMEGA328P-AUR" 150 -550 50 H V L C N N
 F2 "digikey-footprints:TQFP-32_7x7mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 300 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 300 60 H I L C N N
 F4 "ATMEGA328P-AURCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328P-AUR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/ATMEGA328P-AUR/ATMEGA328P-AURCT-ND/3789455" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MCU 8BIT 32KB FLASH 32TQFP" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
@@ -812,12 +812,12 @@ DEF ATMEGA328P-PU U 0 40 Y Y 1 F N
 F0 "U" -350 1300 60 H V L C N N
 F1 "ATMEGA328P-PU" 100 -50 60 V V C C N N
 F2 "digikey-footprints:DIP-28_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 300 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 300 60 H I L C N N
 F4 "ATMEGA328P-PU-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ATMEGA328P-PU" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Embedded - Microcontrollers" 200 700 60 H I L CNN "Family"
-F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/ATMEGA328P-PU/ATMEGA328P-PU-ND/1914589" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC MCU 8BIT 32KB FLASH 28DIP" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"

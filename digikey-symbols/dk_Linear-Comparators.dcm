@@ -72,7 +72,7 @@ K LM339NFS-ND
 F https://www.onsemi.com/pub/Collateral/LM339A-D.pdf
 $ENDCMP
 #
-$CMP LM393N_NonStock
+$CMP LM393N_LTB
 D IC COMP DUAL LOW PWR 8DIP
 K LM393NFS-ND 
 F https://www.onsemi.com/pub/Collateral/LM393-D.PDF

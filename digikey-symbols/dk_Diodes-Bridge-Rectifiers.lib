@@ -114,12 +114,12 @@ DEF MB6S-TP D 0 30 Y Y 1 F N
 F0 "D" -300 250 60 H V L C N N
 F1 "MB6S-TP" 50 -300 60 H V L C N N
 F2 "digikey-footprints:TO-269AA" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MB05S-MB10S(MBS-1).pdf" 200 300 60 H I L C N N
 F4 "MB6S-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MB6S-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Bridge Rectifiers" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MB05S-MB10S(MBS-1).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MB6S-TP/MB6S-TPMSCT-ND/722466" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "BRIDGE RECT 1P 600V 500MA MBS-1" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"

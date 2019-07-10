@@ -778,12 +778,12 @@ DEF 2491 MOD 0 40 Y Y 1 F N
 F0 "MOD" -288 345 60 H V C C N N
 F1 "2491" -100 -300 60 V V C C N N
 F2 "digikey-footprints:WIFI_Module_ESP8266_2491" 200 200 60 H I L C N N
-F3 "https://www.adafruit.com/images/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/2491_Web.pdf" 200 300 60 H I L C N N
 F4 "1528-1438-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2491" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver Modules" 200 700 60 H I L CNN "Family"
-F8 "https://www.adafruit.com/images/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/2491_Web.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/adafruit-industries-llc/2491/1528-1438-ND/5761206" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "ESP8266 SMT MODULE" 200 1000 60 H I L CNN "Description"
 F11 "Adafruit Industries LLC" 200 1100 60 H I L CNN "Manufacturer"
@@ -1372,11 +1372,11 @@ X DIO6/~RTS 29 -900 -900 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# XB24-API-001_LTB
+# XB24-API-001_Obsolete
 #
-DEF XB24-API-001_LTB MOD 0 40 Y Y 1 F N
+DEF XB24-API-001_Obsolete MOD 0 40 Y Y 1 F N
 F0 "MOD" -795 747 60 H V L C N N
-F1 "XB24-API-001_LTB" 48 -456 60 H V L C N N
+F1 "XB24-API-001_Obsolete" 48 -456 60 H V L C N N
 F2 "digikey-footprints:XBEE-20_THT" 200 200 60 H I L C N N
 F3 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200 300 60 H I L C N N
 F4 "602-1273-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -1387,7 +1387,7 @@ F8 "https://www.digi.com/resources/documentation/digidocs/pdfs/90001500.pdf" 200
 F9 "/product-detail/en/digi-international/XB24-API-001/602-1273-ND/3482588" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "RF TXRX MOD 802.15.4 TRACE ANT" 200 1000 60 H I L CNN "Description"
 F11 "Digi International" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S -800 700 500 -400 0 1 0 f
 X Vcc 1 100 800 100 D 50 50 1 1 W

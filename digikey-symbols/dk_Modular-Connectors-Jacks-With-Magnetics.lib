@@ -7,12 +7,12 @@ DEF RB1-125BAG1A U 0 40 Y Y 1 F N
 F0 "J" -550 50 50 H V L C N N
 F1 "RB1-125BAG1A" -250 50 50 H V L C N N
 F2 "digikey-footprints:RJ45_Female_RB1-125BAG1A" 200 200 60 H I L C N N
-F3 "https://www.shopwiznet.com/lanotattachments/download/file/id/95/store/1/" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/WIZnet%20PDFs/RB1-125BAG1A_ApprovalSheet.pdf" 200 300 60 H I L C N N
 F4 "1278-1011-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "RB1-125BAG1A" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "Modular Connectors - Jacks With Magnetics" 200 700 60 H I L CNN "Family"
-F8 "https://www.shopwiznet.com/lanotattachments/download/file/id/95/store/1/" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/WIZnet%20PDFs/RB1-125BAG1A_ApprovalSheet.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/wiznet/RB1-125BAG1A/1278-1011-ND/3829637" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN MAGJACK 1PORT 100 BASE-T" 200 1000 60 H I L CNN "Description"
 F11 "WIZnet" 200 1100 60 H I L CNN "Manufacturer"

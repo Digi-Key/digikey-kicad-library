@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP RB1-125BAG1A
 D CONN MAGJACK 1PORT 100 BASE-T
 K 1278-1011-ND 
-F https://www.shopwiznet.com/lanotattachments/download/file/id/95/store/1/
+F https://media.digikey.com/pdf/Data%20Sheets/WIZnet%20PDFs/RB1-125BAG1A_ApprovalSheet.pdf
 $ENDCMP
 #
 $CMP ARJC02-111008B

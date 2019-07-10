@@ -383,12 +383,12 @@ DEF NRF24L01P-R7 U 0 40 Y Y 1 F N
 F0 "U" -350 450 60 H V C C N N
 F1 "NRF24L01P-R7" 600 -800 60 H V C C N N
 F2 "digikey-footprints:QFN-20-1EP_4x4mm_RevA" 200 200 60 H I L C N N
-F3 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf" 200 300 60 H I L C N N
+F3 "https://www.digikey.com/api/videos/videoplayer/smallplayer/6002293756001" 200 300 60 H I L C N N
 F4 "1490-1033-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NRF24L01P-R7" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "https://www.nordicsemi.com/-/media/DocLib/Other/Product_Spec/nRF24L01PPSv10.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.digikey.com/api/videos/videoplayer/smallplayer/6002293756001" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/nordic-semiconductor-asa/NRF24L01P-R7/1490-1033-1-ND/4626401" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX ISM>1GHZ 20VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Nordic Semiconductor ASA" 200 1100 60 H I L CNN "Manufacturer"

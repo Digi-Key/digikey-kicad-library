@@ -63,19 +63,19 @@ $ENDCMP
 $CMP ATMEGA328P-AU
 D IC MCU 8BIT 32KB FLASH 32TQFP
 K ATMEGA328P-AU-ND AVR® ATmega
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326
 $ENDCMP
 #
 $CMP ATMEGA328P-AUR
 D IC MCU 8BIT 32KB FLASH 32TQFP
 K ATMEGA328P-AURCT-ND AVR® ATmega
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326
 $ENDCMP
 #
 $CMP ATMEGA328P-PU
 D IC MCU 8BIT 32KB FLASH 28DIP
 K ATMEGA328P-PU-ND AVR® ATmega
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589968
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326
 $ENDCMP
 #
 $CMP ATMEGA328PB-AU

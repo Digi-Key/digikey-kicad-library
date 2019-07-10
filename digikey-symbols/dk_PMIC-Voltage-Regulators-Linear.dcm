@@ -147,7 +147,7 @@ $ENDCMP
 $CMP MC7805CT-BP
 D IC REG LINEAR 5V 1.5A TO220
 K MC7805CT-BPMS-ND 
-F http://www.mccsemi.com/up_pdf/MC7805CT(TO-220).pdf
+F https://www.mccsemi.com/pdf/Products/MC7805CT(TO-220).pdf
 $ENDCMP
 #
 $CMP MC7805CTG

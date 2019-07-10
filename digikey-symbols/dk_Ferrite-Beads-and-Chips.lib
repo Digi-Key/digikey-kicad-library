@@ -107,12 +107,12 @@ DEF BLM21PG221SN1D FB 0 40 Y Y 1 F N
 F0 "FB" -100 150 60 H V C C N N
 F1 "BLM21PG221SN1D" 0 -150 60 H V L C N N
 F2 "digikey-footprints:0805" 200 200 60 H I L C N N
-F3 "https://www.murata.com/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 300 60 H I L C N N
+F3 "https://www.murata.com/en-us/products/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 300 60 H I L C N N
 F4 "490-1054-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLM21PG221SN1D" 200 500 60 H I L CNN "MPN"
 F6 "Filters" 200 600 60 H I L CNN "Category"
 F7 "Ferrite Beads and Chips" 200 700 60 H I L CNN "Family"
-F8 "https://www.murata.com/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.murata.com/en-us/products/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/murata-electronics-north-america/BLM21PG221SN1D/490-1054-1-ND/574418" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "FERRITE BEAD 220 OHM 0805 1LN" 200 1000 60 H I L CNN "Description"
 F11 "Murata Electronics North America" 200 1100 60 H I L CNN "Manufacturer"
@@ -182,12 +182,12 @@ DEF BLM21PG331SN1D FB 0 40 Y Y 1 F N
 F0 "FB" -150 150 60 H V C C N N
 F1 "BLM21PG331SN1D" 0 -150 60 H V L C N N
 F2 "digikey-footprints:0805" 200 200 60 H I L C N N
-F3 "https://www.murata.com/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 300 60 H I L C N N
+F3 "https://www.murata.com/en-us/products/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 300 60 H I L C N N
 F4 "490-5988-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BLM21PG331SN1D" 200 500 60 H I L CNN "MPN"
 F6 "Filters" 200 600 60 H I L CNN "Category"
 F7 "Ferrite Beads and Chips" 200 700 60 H I L CNN "Family"
-F8 "https://www.murata.com/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.murata.com/en-us/products/en-us/products/productdata/8796738977822/ENFA0005.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/murata-electronics-north-america/BLM21PG331SN1D/490-5988-1-ND/3845188" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "FERRITE BEAD 330 OHM 0805 1LN" 200 1000 60 H I L CNN "Description"
 F11 "Murata Electronics North America" 200 1100 60 H I L CNN "Manufacturer"

@@ -15,7 +15,7 @@ $ENDCMP
 $CMP SI1145-A10-GMR_NRND
 D SENSOR OPT 850NM AMB/UV 10QFN
 K 336-2622-1-ND 
-F https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf
+F https://www.silabs.com/documents/public/data-sheets/Si1145-46-47.pdf
 $ENDCMP
 #
 $CMP SFH_5711-2_3-Z
@@ -42,7 +42,7 @@ K MAX44009EDT+TCT-ND
 F https://datasheets.maximintegrated.com/en/ds/MAX44009.pdf
 $ENDCMP
 #
-$CMP TSL235R-LF
+$CMP TSL235R-LF_NRND
 D SENSOR OPT 635NM AMBIENT RADIAL
 K TSL235-R-LF-ND 
 F https://ams.com/documents/20143/36005/TSL235R_DS000120_3-00.pdf

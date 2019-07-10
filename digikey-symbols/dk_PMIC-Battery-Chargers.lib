@@ -343,12 +343,12 @@ DEF MCP73871-2CCI_ML U 0 40 Y Y 1 F N
 F0 "U" -300 540 60 H V R C N N
 F1 "MCP73871-2CCI_ML" 210 -850 60 H V L C N N
 F2 "digikey-footprints:QFN-20-1EP_4x4mm" 200 200 60 H I L C N N
-F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002090D.pdf" 200 300 60 H I L C N N
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536709" 200 300 60 H I L C N N
 F4 "MCP73871-2CCI/ML-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP73871-2CCI/ML" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Battery Chargers" 200 700 60 H I L CNN "Family"
-F8 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002090D.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536709" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/MCP73871-2CCI-ML/MCP73871-2CCI-ML-ND/1680971" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC USB/AC BATT CHRGR W/PPM 20QFN" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"

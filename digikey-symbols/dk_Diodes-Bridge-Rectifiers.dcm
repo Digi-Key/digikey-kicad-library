@@ -21,7 +21,7 @@ $ENDCMP
 $CMP MB6S-TP
 D BRIDGE RECT 1P 600V 500MA MBS-1
 K MB6S-TPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf
+F https://www.mccsemi.com/pdf/Products/MB05S-MB10S(MBS-1).pdf
 $ENDCMP
 #
 $CMP MB6S

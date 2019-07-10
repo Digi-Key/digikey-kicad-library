@@ -33,7 +33,7 @@ $ENDCMP
 $CMP 2N7002LT1G
 D MOSFET N-CH 60V 0.115A SOT-23
 K 2N7002LT1GOSCT-ND 
-F http://www.onsemi.com/pub/Collateral/2N7002L-D.PDF
+F https://www.onsemi.com/pub/Collateral/2N7002L-D.PDF
 $ENDCMP
 #
 $CMP 2N7002
@@ -99,13 +99,13 @@ $ENDCMP
 $CMP FDV301N
 D MOSFET N-CH 25V 220MA SOT-23
 K FDV301NCT-ND 
-F https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/FDV301N.pdf
+F https://www.onsemi.com/pub/Collateral/FDV301N-D.PDF
 $ENDCMP
 #
 $CMP FDV303N
 D MOSFET N-CH 25V 680MA SOT-23
 K FDV303NCT-ND 
-F https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/FDV303N.pdf
+F https://www.onsemi.com/pub/Collateral/FDV303N-D.PDF
 $ENDCMP
 #
 $CMP FQP27P06

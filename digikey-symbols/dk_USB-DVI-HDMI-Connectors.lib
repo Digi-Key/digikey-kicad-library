@@ -1774,12 +1774,12 @@ DEF DX07P024MJ1R1500 U 0 40 Y Y 1 F N
 F0 "J" -450 750 50 H V L C N N
 F1 "DX07P024MJ1R1500" -100 -950 50 H V L C N N
 F2 "digikey-footprints:USB-C_Male_EdgeMnt_DX07P024MJ1R1500" 200 200 60 H I L C N N
-F3 "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115803.pdf" 200 300 60 H I L C N N
+F3 "https://www.jae.com/direct/topics/topics_file_download/?topics_id=66505&ext_no=06&index=1&_lang=en" 200 300 60 H I L C N N
 F4 "670-2850-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DX07P024MJ1R1500" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "USB, DVI, HDMI Connectors" 200 700 60 H I L CNN "Family"
-F8 "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115803.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.jae.com/direct/topics/topics_file_download/?topics_id=66505&ext_no=06&index=1&_lang=en" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/jae-electronics/DX07P024MJ1R1500/670-2850-1-ND/5604382" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN PLUG USB3.1 TYPEC BRD EDGE" 200 1000 60 H I L CNN "Description"
 F11 "JAE Electronics" 200 1100 60 H I L CNN "Manufacturer"
@@ -2025,12 +2025,12 @@ DEF DC3RX19JA3R1700 J 0 40 Y Y 1 F N
 F0 "J" -375 775 60 H V C C N N
 F1 "DC3RX19JA3R1700" 150 -800 60 H V C C N N
 F2 "digikey-footprints:HDMI_Female_DC3RX19JA3R1700" 200 200 60 H I L C N N
-F3 "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ111264.pdf" 200 300 60 H I L C N N
+F3 "https://www.jae.com/direct/topics/topics_file_download/?topics_id=65736&ext_no=06&index=1&_lang=en" 200 300 60 H I L C N N
 F4 "670-2861-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DC3RX19JA3R1700" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "USB, DVI, HDMI Connectors" 200 700 60 H I L CNN "Family"
-F8 "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ111264.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.jae.com/direct/topics/topics_file_download/?topics_id=65736&ext_no=06&index=1&_lang=en" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/jae-electronics/DC3RX19JA3R1700/670-2861-1-ND/5823256" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN RCP MICRO HDMI 19POS SMD RA" 200 1000 60 H I L CNN "Description"
 F11 "JAE Electronics" 200 1100 60 H I L CNN "Manufacturer"
@@ -2142,12 +2142,12 @@ DEF DX07P024AJ1R1500 U 0 40 Y Y 1 F N
 F0 "J" -450 750 50 H V L C N N
 F1 "DX07P024AJ1R1500" -100 -950 50 H V L C N N
 F2 "digikey-footprints:USB-C_Male_EdgeMnt_DX07P024AJ1R1500" 200 200 60 H I L C N N
-F3 "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ116680.pdf" 200 300 60 H I L C N N
+F3 "https://www.jae.com/direct/topics/topics_file_download/?topics_id=66503&ext_no=06&index=1&_lang=en" 200 300 60 H I L C N N
 F4 "670-2868-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DX07P024AJ1R1500" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "USB, DVI, HDMI Connectors" 200 700 60 H I L CNN "Family"
-F8 "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ116680.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.jae.com/direct/topics/topics_file_download/?topics_id=66503&ext_no=06&index=1&_lang=en" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/jae-electronics/DX07P024AJ1R1500/670-2868-1-ND/6003057" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN PLUG USB3.1 TYPEC BRD EDGE" 200 1000 60 H I L CNN "Description"
 F11 "JAE Electronics" 200 1100 60 H I L CNN "Manufacturer"
@@ -2393,12 +2393,12 @@ DEF DX07S024WJ3R400 U 0 40 Y Y 1 F N
 F0 "J" -450 750 50 H V L C N N
 F1 "DX07S024WJ3R400" -100 -950 50 H V L C N N
 F2 "digikey-footprints:USB-C_Female_Vert_DX07S024WJ3R400" 200 200 60 H I L C N N
-F3 "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117928.pdf" 200 300 60 H I L C N N
+F3 "https://www.jae.com/direct/topics/topics_file_download/topics_id=66513&ext_no=06&index=1&_lang=en" 200 300 60 H I L C N N
 F4 "670-2950-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "DX07S024WJ3R400" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "USB, DVI, HDMI Connectors" 200 700 60 H I L CNN "Family"
-F8 "http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117928.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.jae.com/direct/topics/topics_file_download/topics_id=66513&ext_no=06&index=1&_lang=en" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/jae-electronics/DX07S024WJ3R400/670-2950-1-ND/6594046" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN RCPT USB3.1 TYPEC 24POS SMD" 200 1000 60 H I L CNN "Description"
 F11 "JAE Electronics" 200 1100 60 H I L CNN "Manufacturer"
@@ -2907,12 +2907,12 @@ DEF AU-Y1006-3 J 0 40 Y Y 1 F N
 F0 "J" -40 362 60 H V C C N N
 F1 "AU-Y1006-3" 280 -270 60 H V C C N N
 F2 "digikey-footprints:USB_A_Female_AU-Y1006-3" 200 200 60 H I L C N N
-F3 "http://www.assmann-wsw.com/fileadmin/datasheets/AU-Y1006-3.pdf" 200 300 60 H I L C N N
+F3 "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_5775_CO.pdf" 200 300 60 H I L C N N
 F4 "AE10704-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "AU-Y1006-3" 200 500 60 H I L CNN "MPN"
 F6 "Connectors, Interconnects" 200 600 60 H I L CNN "Category"
 F7 "USB, DVI, HDMI Connectors" 200 700 60 H I L CNN "Family"
-F8 "http://www.assmann-wsw.com/fileadmin/datasheets/AU-Y1006-3.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_5775_CO.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/assmann-wsw-components/AU-Y1006-3/AE10704-ND/2700523" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "CONN RCPT USB3.0 TYPEA 9P SMD RA" 200 1000 60 H I L CNN "Description"
 F11 "Assmann WSW Components" 200 1100 60 H I L CNN "Manufacturer"

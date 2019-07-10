@@ -7,12 +7,12 @@ DEF 1N4001-TP D 0 0 N N 1 F N
 F0 "D" 0 100 60 H V C C N N
 F1 "1N4001-TP" 0 -100 60 H V C C N N
 F2 "digikey-footprints:DO-41" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/1N4001-1N4007(DO-41).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/1N4001-1N4007(DO-41).pdf" 200 300 60 H I L C N N
 F4 "1N4001-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4001-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Rectifiers - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/1N4001-1N4007(DO-41).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/1N4001-1N4007(DO-41).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/1N4001-TP/1N4001-TPMSCT-ND/773688" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 50V 1A DO41" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -200,12 +200,12 @@ DEF 1N4148W-TP D 0 0 N N 1 F N
 F0 "D" 0 100 60 H V C B N N
 F1 "1N4148W-TP" 50 -100 60 H V C C N N
 F2 "digikey-footprints:SOD-123" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/1N4148W(SOD123).pdf" 200 300 60 H I L C N N
 F4 "1N4148WTPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148W-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Rectifiers - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/1N4148W(SOD123).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/1N4148W-TP/1N4148WTPMSCT-ND/717311" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 100V 150MA SOD123" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -224,12 +224,12 @@ DEF 1N4148WX-TP D 0 0 N N 1 F N
 F0 "D" 0 100 60 H V C C N N
 F1 "1N4148WX-TP" 0 -100 60 H V C C N N
 F2 "digikey-footprints:SOD-323" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/1N4148WX(SOD323).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/1N4148WX(SOD323).pdf" 200 300 60 H I L C N N
 F4 "1N4148WXTPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148WX-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Rectifiers - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/1N4148WX(SOD323).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/1N4148WX(SOD323).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 75V 150MA SOD323" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -248,12 +248,12 @@ DEF 1N4148X-TP D 0 0 N N 1 F N
 F0 "D" 0 100 60 H V C C N N
 F1 "1N4148X-TP" 0 -100 60 H V C C N N
 F2 "digikey-footprints:SOD-523" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/1N4148X(SOD-523).PDF" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/1N4148X(SOD-523).PDF" 200 300 60 H I L C N N
 F4 "1N4148XTPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "1N4148X-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Diodes - Rectifiers - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/1N4148X(SOD-523).PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/1N4148X(SOD-523).PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/1N4148X-TP/1N4148XTPMSCT-ND/789335" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "DIODE GEN PURP 75V 150MA SOD523" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"

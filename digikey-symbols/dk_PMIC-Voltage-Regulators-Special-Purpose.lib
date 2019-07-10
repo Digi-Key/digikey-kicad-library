@@ -14,7 +14,7 @@ F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "PMIC - Voltage Regulators - Special Purpose" 200 700 60 H I L CNN "Family"
 F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps51200" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/TPS51200DRCR/296-26978-1-ND/2255274" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC CONV DDR DDR2 DDR3 10SON" 200 1000 60 H I L CNN "Description"
+F10 "IC REG CONV DDR 1OUT 10VSON" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

@@ -64,12 +64,12 @@ DEF SI1145-A10-GMR_NRND U 0 20 Y Y 1 F N
 F0 "U" -150 350 60 H V C C N N
 F1 "SI1145-A10-GMR_NRND" 100 -400 60 H V L C N N
 F2 "digikey-footprints:WFQFN-10_2x2mm" 200 200 60 H I L C N N
-F3 "https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf" 200 300 60 H I L C N N
+F3 "https://www.silabs.com/documents/public/data-sheets/Si1145-46-47.pdf" 200 300 60 H I L C N N
 F4 "336-2622-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SI1145-A10-GMR" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Optical Sensors - Ambient Light, IR, UV Sensors" 200 700 60 H I L CNN "Family"
-F8 "https://www.silabs.com/Support%20Documents%2fTechnicalDocs%2fSi1145-46-47.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.silabs.com/documents/public/data-sheets/Si1145-46-47.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/silicon-labs/SI1145-A10-GMR/336-2622-1-ND/4515975" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR OPT 850NM AMB/UV 10QFN" 200 1000 60 H I L CNN "Description"
 F11 "Silicon Labs" 200 1100 60 H I L CNN "Manufacturer"
@@ -215,11 +215,11 @@ X SDA 6 -300 100 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# TSL235R-LF
+# TSL235R-LF_NRND
 #
-DEF TSL235R-LF U 0 20 Y Y 1 F N
+DEF TSL235R-LF_NRND U 0 20 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
-F1 "TSL235R-LF" 100 -300 60 H V L C N N
+F1 "TSL235R-LF_NRND" 100 -300 60 H V L C N N
 F2 "digikey-footprints:Light_to_Freq_TSL235R-LF" 200 200 60 H I L C N N
 F3 "https://ams.com/documents/20143/36005/TSL235R_DS000120_3-00.pdf" 200 300 60 H I L C N N
 F4 "TSL235-R-LF-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -230,7 +230,7 @@ F8 "https://ams.com/documents/20143/36005/TSL235R_DS000120_3-00.pdf" 200 800 60 
 F9 "/product-detail/en/ams/TSL235R-LF/TSL235-R-LF-ND/3095040" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SENSOR OPT 635NM AMBIENT RADIAL" 200 1000 60 H I L CNN "Description"
 F11 "ams" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Not For New Designs" 200 1200 60 H I L CNN "Status"
 DRAW
 S 200 200 -150 -200 1 1 0 f
 X GND 1 0 -300 100 U 50 50 1 1 W

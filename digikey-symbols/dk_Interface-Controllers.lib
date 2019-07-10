@@ -427,12 +427,12 @@ DEF FT2232HL-REEL U 0 40 Y Y 1 F N
 F0 "U" -600 2350 60 H V C C N N
 F1 "FT2232HL-REEL" 0 -400 60 V V L C N N
 F2 "digikey-footprints:LQFP-64_10x10mm" 200 200 60 V I L C N N
-F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf" 200 300 60 H I L C N N
+F3 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf" 200 300 60 H I L C N N
 F4 "768-1024-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT2232HL-REEL" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/ftdi-future-technology-devices-international-ltd/FT2232HL-REEL/768-1024-1-ND/1986057" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC USB HS DUAL UART/FIFO 64-LQFP" 200 1000 60 H I L CNN "Description"
 F11 "FTDI, Future Technology Devices International Ltd" 200 1100 60 H I L CNN "Manufacturer"
@@ -512,12 +512,12 @@ DEF FT4232HL-REEL U 0 40 Y Y 1 F N
 F0 "U" -600 2350 60 H V C C N N
 F1 "FT4232HL-REEL" 100 -300 60 V V L C N N
 F2 "digikey-footprints:LQFP-64_10x10mm" 200 200 60 V I L C N N
-F3 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf" 200 300 60 H I L C N N
+F3 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf" 200 300 60 H I L C N N
 F4 "768-1026-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "FT4232HL-REEL" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Controllers" 200 700 60 H I L CNN "Family"
-F8 "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/ftdi-future-technology-devices-international-ltd/FT4232HL-REEL/768-1026-1-ND/1986059" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC USB HS QUAD UART/SYNC 64-LQFP" 200 1000 60 H I L CNN "Description"
 F11 "FTDI, Future Technology Devices International Ltd" 200 1100 60 H I L CNN "Manufacturer"

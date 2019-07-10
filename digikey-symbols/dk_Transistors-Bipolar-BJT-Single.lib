@@ -427,12 +427,12 @@ DEF 2N3904-AP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "2N3904-AP" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/2N3904(TO-92).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/2N3904(TO-92).pdf" 200 300 60 H I L C N N
 F4 "2N3904-APCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3904-AP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/2N3904(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/2N3904(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/2N3904-AP/2N3904-APCT-ND/950591" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A TO92" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -607,12 +607,12 @@ DEF 2N3906-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N3906-AP" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/2N3906(TO-92).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/2N3906(TO-92).pdf" 200 300 60 H I L C N N
 F4 "2N3906-APCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N3906-AP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/2N3906(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/2N3906(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/2N3906-AP/2N3906-APCT-ND/950592" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.2A TO92" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -757,12 +757,12 @@ DEF 2N4401-AP U 0 0 Y Y 1 F N
 F0 "Q" -150 150 60 H V C C N N
 F1 "2N4401-AP" -450 -200 60 H V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/2N4401(TO-92).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/2N4401(TO-92).pdf" 200 300 60 H I L C N N
 F4 "2N4401-APCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4401-AP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/2N4401(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/2N4401(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/2N4401-AP/2N4401-APCT-ND/950593" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V TO92" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -847,12 +847,12 @@ DEF 2N4403-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "2N4403-AP" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/2N4403(TO-92).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/2N4403(TO-92).pdf" 200 300 60 H I L C N N
 F4 "2N4403-APCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "2N4403-AP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/2N4403(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/2N4403(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/2N4403-AP/2N4403-APCT-ND/950594" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V TO92" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -1777,12 +1777,12 @@ DEF BC817-25-TP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC817-25-TP" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/BC817-16~BC817-40(SOT-23).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/BC817-16~BC817-40(SOT-23).pdf" 200 300 60 H I L C N N
 F4 "BC817-25-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC817-25-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/BC817-16~BC817-40(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/BC817-16~BC817-40(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/BC817-25-TP/BC817-25-TPMSCT-ND/1960198" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 45V 0.8A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -2407,12 +2407,12 @@ DEF MMBT2222A-TP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MMBT2222A-TP" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MMBT2222A(SOT-23).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MMBT2222A(SOT-23).pdf" 200 300 60 H I L C N N
 F4 "MMBT2222ATPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT2222A-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MMBT2222A(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MMBT2222A(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MMBT2222A-TP/MMBT2222ATPMSCT-ND/717394" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.6A SOT23" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -2497,12 +2497,12 @@ DEF MMBT2907A-TP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT2907A-TP" 200 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MMBT2907A(SOT-23).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MMBT2907A(SOT-23).pdf" 200 300 60 H I L C N N
 F4 "MMBT2907A-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT2907A-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MMBT2907A(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MMBT2907A(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MMBT2907A-TP/MMBT2907A-TPMSCT-ND/1220289" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 60V 0.6A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -2707,12 +2707,12 @@ DEF MMBT3904-TP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MMBT3904-TP" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MMBT3904(SOT-23).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MMBT3904(SOT-23).pdf" 200 300 60 H I L C N N
 F4 "MMBT3904TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT3904-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MMBT3904(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MMBT3904(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MMBT3904-TP/MMBT3904TPMSCT-ND/717395" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 40V 0.2A SOT23" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -2797,12 +2797,12 @@ DEF MMBT3906-TP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MMBT3906-TP" 200 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MMBT3906(SOT-23).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MMBT3906(SOT-23).pdf" 200 300 60 H I L C N N
 F4 "MMBT3906-TPCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT3906-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MMBT3906(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MMBT3906(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MMBT3906-TP/MMBT3906-TPCT-ND/819686" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 40V 0.2A SOT23" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -2871,13 +2871,13 @@ DRAW
 C 0 0 118 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N
 P 2 0 1 0 -140 0 0 0 N
+P 2 0 1 0 0 -100 0 100 N
 P 2 0 1 0 0 -50 100 -100 N
 P 2 0 1 0 0 50 100 100 N
-P 2 0 1 0 0 100 0 -100 N
-P 4 0 1 0 40 100 20 60 60 50 40 100 F
+P 4 0 1 0 40 -100 20 -60 60 -50 40 -100 F
 X B 1 -200 0 100 R 50 50 1 1 I
-X C 2 100 -200 100 U 50 50 1 1 P
-X E 3 100 200 100 D 50 50 1 1 P
+X E 2 100 -200 100 U 50 50 1 1 P
+X C 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -3157,12 +3157,12 @@ DEF MMSS8050-H-TP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MMSS8050-H-TP" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MMSS8050(SOT-23).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MMSS8050(SOT-23).pdf" 200 300 60 H I L C N N
 F4 "MMSS8050-H-TPMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMSS8050-H-TP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MMSS8050(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MMSS8050(SOT-23).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MMSS8050-H-TP/MMSS8050-H-TPMSCT-ND/2825945" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 25V 1.5A SOT23" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -3187,12 +3187,12 @@ DEF MPSA06-AP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MPSA06-AP" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MPSA06(TO-92).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MPSA06(TO-92).pdf" 200 300 60 H I L C N N
 F4 "MPSA06-APMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA06-AP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MPSA06(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MPSA06(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MPSA06-AP/MPSA06-APMSCT-ND/2233953" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 80V 0.5A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -3247,12 +3247,12 @@ DEF MPSA42-AP Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "MPSA42-AP" 206 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MPSA42~MPSA43(TO-92).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MPSA42~MPSA43(TO-92).pdf" 200 300 60 H I L C N N
 F4 "MPSA42-APMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA42-AP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MPSA42~MPSA43(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MPSA42~MPSA43(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MPSA42-AP/MPSA42-APMSCT-ND/5224308" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 300V 0.625A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -3307,12 +3307,12 @@ DEF MPSA56-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MPSA56-AP" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MPSA55-MPSA56(TO-92).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MPSA55-MPSA56(TO-92).pdf" 200 300 60 H I L C N N
 F4 "MPSA56-APMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA56-AP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MPSA55-MPSA56(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MPSA55-MPSA56(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MPSA56-AP/MPSA56-APMSCT-ND/2233955" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 80V 0.5A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -3337,12 +3337,12 @@ DEF MPSA92-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "MPSA92-AP" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/MPSA92(TO-92).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/MPSA92(TO-92).pdf" 200 300 60 H I L C N N
 F4 "MPSA92-APMSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MPSA92-AP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/MPSA92(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/MPSA92(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/MPSA92-AP/MPSA92-APMSCT-ND/2233956" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 300V 0.3A TO-92" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"
@@ -3487,12 +3487,12 @@ DEF PN2907A-AP Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
 F1 "PN2907A-AP" 200 0 60 V V C C N N
 F2 "digikey-footprints:TO-92-3_Formed_Leads" 200 200 60 H I L C N N
-F3 "http://www.mccsemi.com/up_pdf/PN2907A(TO-92).pdf" 200 300 60 H I L C N N
+F3 "https://www.mccsemi.com/pdf/Products/PN2907A(TO-92).pdf" 200 300 60 H I L C N N
 F4 "PN2907A-APCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PN2907A-AP" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.mccsemi.com/up_pdf/PN2907A(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.mccsemi.com/pdf/Products/PN2907A(TO-92).pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/micro-commercial-co/PN2907A-AP/PN2907A-APCT-ND/950625" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 60V 0.6A TO92" 200 1000 60 H I L CNN "Description"
 F11 "Micro Commercial Co" 200 1100 60 H I L CNN "Manufacturer"

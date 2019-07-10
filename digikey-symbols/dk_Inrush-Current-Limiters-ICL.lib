@@ -14,7 +14,7 @@ F6 "Circuit Protection" 200 600 60 H I L CNN "Category"
 F7 "Inrush Current Limiters (ICL)" 200 700 60 H I L CNN "Family"
 F8 "https://www.ametherm.com/datasheetspdf/SL322R025.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/ametherm/SL32-2R025/570-1062-ND/363379" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "ICL 2 OHM 20% 25A 30MM" 200 1000 60 H I L CNN "Description"
+F10 "ICL 2 OHM 20% 25A 31MM" 200 1000 60 H I L CNN "Description"
 F11 "Ametherm" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

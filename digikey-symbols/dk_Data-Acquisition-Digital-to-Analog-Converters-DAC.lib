@@ -14,7 +14,7 @@ F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Data Acquisition - Digital to Analog Converters (DAC)" 200 700 60 H I L CNN "Family"
 F8 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en532676" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/microchip-technology/MCP4725A0T-E-CH/MCP4725A0T-E-CHCT-ND/1817328" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC DAC 12BIT W/I2C SOT23A-6" 200 1000 60 H I L CNN "Description"
+F10 "IC DAC 12BIT V-OUT SOT23-6" 200 1000 60 H I L CNN "Description"
 F11 "Microchip Technology" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW

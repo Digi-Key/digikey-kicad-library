@@ -51,13 +51,13 @@ $ENDCMP
 $CMP FT2232HL-REEL
 D IC USB HS DUAL UART/FIFO 64-LQFP
 K 768-1024-1-ND USBmadeEZ-FIFO, FT-X, X-Chip
-F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
 $ENDCMP
 #
 $CMP FT4232HL-REEL
 D IC USB HS QUAD UART/SYNC 64-LQFP
 K 768-1026-1-ND USBmadeEZ-FIFO
-F http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT4232H.pdf
 $ENDCMP
 #
 $CMP FT230XQ-R

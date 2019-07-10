@@ -19,7 +19,7 @@ F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2
 $ENDCMP
 #
 $CMP TPL5110DDCT
-D IC TIMER W/WATCHDOG 6-SOT
+D IC OSC PROG TIMER TSOT23-6
 K 296-38830-1-ND 
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpl5110
 $ENDCMP

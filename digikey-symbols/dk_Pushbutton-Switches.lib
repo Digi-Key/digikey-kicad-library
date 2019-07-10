@@ -30,11 +30,11 @@ X ~ 2 200 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# KS-01Q-01
+# KS-01Q-01_Obsolete
 #
-DEF KS-01Q-01 S 0 40 Y Y 1 F N
+DEF KS-01Q-01_Obsolete S 0 40 Y Y 1 F N
 F0 "S" 0 200 50 H V C C N N
-F1 "KS-01Q-01" 0 -175 50 H V C C N N
+F1 "KS-01Q-01_Obsolete" 0 -175 50 H V C C N N
 F2 "digikey-footprints:PushButton_Round_D12mm_THT_KS-01Q-01" 200 200 50 H I L C N N
 F3 "http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf" 200 300 60 H I L C N N
 F4 "EG4791-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -45,7 +45,7 @@ F8 "http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf" 200 800 60 H I L CNN "
 F9 "/product-detail/en/e-switch/KS-01Q-01/EG4791-ND/2116270" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SWITCH PUSH SPST-NO 0.01A 35V" 200 1000 60 H I L CNN "Description"
 F11 "E-Switch" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C -60 0 10 0 1 0 N
 C 60 0 10 0 1 0 N

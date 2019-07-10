@@ -87,7 +87,7 @@ $ENDCMP
 $CMP 2N3904-AP
 D TRANS NPN 40V 0.2A TO92
 K 2N3904-APCT-ND 
-F http://www.mccsemi.com/up_pdf/2N3904(TO-92).pdf
+F https://www.mccsemi.com/pdf/Products/2N3904(TO-92).pdf
 $ENDCMP
 #
 $CMP 2N3904
@@ -123,7 +123,7 @@ $ENDCMP
 $CMP 2N3906-AP
 D TRANS PNP 40V 0.2A TO92
 K 2N3906-APCT-ND 
-F http://www.mccsemi.com/up_pdf/2N3906(TO-92).pdf
+F https://www.mccsemi.com/pdf/Products/2N3906(TO-92).pdf
 $ENDCMP
 #
 $CMP 2N3906
@@ -153,7 +153,7 @@ $ENDCMP
 $CMP 2N4401-AP
 D TRANS NPN 40V TO92
 K 2N4401-APCT-ND 
-F http://www.mccsemi.com/up_pdf/2N4401(TO-92).pdf
+F https://www.mccsemi.com/pdf/Products/2N4401(TO-92).pdf
 $ENDCMP
 #
 $CMP 2N4401BU
@@ -171,7 +171,7 @@ $ENDCMP
 $CMP 2N4403-AP
 D TRANS PNP 40V TO92
 K 2N4403-APCT-ND 
-F http://www.mccsemi.com/up_pdf/2N4403(TO-92).pdf
+F https://www.mccsemi.com/pdf/Products/2N4403(TO-92).pdf
 $ENDCMP
 #
 $CMP 2N4403BU
@@ -357,7 +357,7 @@ $ENDCMP
 $CMP BC817-25-TP
 D TRANS NPN 45V 0.8A SOT-23
 K BC817-25-TPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/BC817-16~BC817-40(SOT-23).pdf
+F https://www.mccsemi.com/pdf/Products/BC817-16~BC817-40(SOT-23).pdf
 $ENDCMP
 #
 $CMP BC817-25LT1G
@@ -483,7 +483,7 @@ $ENDCMP
 $CMP MMBT2222A-TP
 D TRANS NPN 40V 0.6A SOT23
 K MMBT2222ATPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/MMBT2222A(SOT-23).pdf
+F https://www.mccsemi.com/pdf/Products/MMBT2222A(SOT-23).pdf
 $ENDCMP
 #
 $CMP MMBT2222LT1G
@@ -501,7 +501,7 @@ $ENDCMP
 $CMP MMBT2907A-TP
 D TRANS PNP 60V 0.6A SOT-23
 K MMBT2907A-TPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/MMBT2907A(SOT-23).pdf
+F https://www.mccsemi.com/pdf/Products/MMBT2907A(SOT-23).pdf
 $ENDCMP
 #
 $CMP MMBT2907A_LTB
@@ -543,7 +543,7 @@ $ENDCMP
 $CMP MMBT3904-TP
 D TRANS NPN 40V 0.2A SOT23
 K MMBT3904TPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/MMBT3904(SOT-23).pdf
+F https://www.mccsemi.com/pdf/Products/MMBT3904(SOT-23).pdf
 $ENDCMP
 #
 $CMP MMBT3904WT1G
@@ -561,7 +561,7 @@ $ENDCMP
 $CMP MMBT3906-TP
 D TRANS PNP 40V 0.2A SOT23
 K MMBT3906-TPCT-ND 
-F http://www.mccsemi.com/up_pdf/MMBT3906(SOT-23).pdf
+F https://www.mccsemi.com/pdf/Products/MMBT3906(SOT-23).pdf
 $ENDCMP
 #
 $CMP MMBT3906_Obsolete
@@ -633,13 +633,13 @@ $ENDCMP
 $CMP MMSS8050-H-TP
 D TRANS NPN 25V 1.5A SOT23
 K MMSS8050-H-TPMSCT-ND 
-F http://www.mccsemi.com/up_pdf/MMSS8050(SOT-23).pdf
+F https://www.mccsemi.com/pdf/Products/MMSS8050(SOT-23).pdf
 $ENDCMP
 #
 $CMP MPSA06-AP
 D TRANS NPN 80V 0.5A TO-92
 K MPSA06-APMSCT-ND 
-F http://www.mccsemi.com/up_pdf/MPSA06(TO-92).pdf
+F https://www.mccsemi.com/pdf/Products/MPSA06(TO-92).pdf
 $ENDCMP
 #
 $CMP MPSA06
@@ -651,7 +651,7 @@ $ENDCMP
 $CMP MPSA42-AP
 D TRANS NPN 300V 0.625A TO-92
 K MPSA42-APMSCT-ND 
-F http://www.mccsemi.com/up_pdf/MPSA42~MPSA43(TO-92).pdf
+F https://www.mccsemi.com/pdf/Products/MPSA42~MPSA43(TO-92).pdf
 $ENDCMP
 #
 $CMP MPSA42
@@ -663,13 +663,13 @@ $ENDCMP
 $CMP MPSA56-AP
 D TRANS PNP 80V 0.5A TO-92
 K MPSA56-APMSCT-ND 
-F http://www.mccsemi.com/up_pdf/MPSA55-MPSA56(TO-92).pdf
+F https://www.mccsemi.com/pdf/Products/MPSA55-MPSA56(TO-92).pdf
 $ENDCMP
 #
 $CMP MPSA92-AP
 D TRANS PNP 300V 0.3A TO-92
 K MPSA92-APMSCT-ND 
-F http://www.mccsemi.com/up_pdf/MPSA92(TO-92).pdf
+F https://www.mccsemi.com/pdf/Products/MPSA92(TO-92).pdf
 $ENDCMP
 #
 $CMP PN2222A
@@ -699,7 +699,7 @@ $ENDCMP
 $CMP PN2907A-AP
 D TRANS PNP 60V 0.6A TO92
 K PN2907A-APCT-ND 
-F http://www.mccsemi.com/up_pdf/PN2907A(TO-92).pdf
+F https://www.mccsemi.com/pdf/Products/PN2907A(TO-92).pdf
 $ENDCMP
 #
 $CMP PN2907ABU

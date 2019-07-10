@@ -463,11 +463,11 @@ X ~ 13 300 0 100 L 50 50 4 1 O
 ENDDRAW
 ENDDEF
 #
-# LM393N_NonStock
+# LM393N_LTB
 #
-DEF LM393N_NonStock U 0 0 Y Y 2 L N
+DEF LM393N_LTB U 0 0 Y Y 2 L N
 F0 "U" -200 300 60 H V C C N N
-F1 "LM393N_NonStock" 100 -200 60 H V L C N N
+F1 "LM393N_LTB" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
 F3 "https://www.onsemi.com/pub/Collateral/LM393-D.PDF" 200 300 60 H I L C N N
 F4 "LM393NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -478,7 +478,7 @@ F8 "https://www.onsemi.com/pub/Collateral/LM393-D.PDF" 200 800 60 H I L CNN "DK_
 F9 "/product-detail/en/on-semiconductor/LM393N/LM393NFS-ND/458695" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC COMP DUAL LOW PWR 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -150 -100 -100 -100 N
 P 2 0 1 0 -150 100 -100 100 N

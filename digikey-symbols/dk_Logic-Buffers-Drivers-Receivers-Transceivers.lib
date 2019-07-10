@@ -378,12 +378,12 @@ DEF NC7SZ125M5X U 0 0 Y Y 1 F N
 F0 "U" -198 214 60 H V L C N N
 F1 "NC7SZ125M5X" 59 -222 60 H V L C N N
 F2 "digikey-footprints:SOT-753" 200 200 60 H I L C N N
-F3 "https://www.onsemi.cn/PowerSolutions/document/NC7SZ125-D.PDF" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/NC7SZ125-D.PDF" 200 300 60 H I L C N N
 F4 "NC7SZ125M5XCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NC7SZ125M5X" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "https://www.onsemi.cn/PowerSolutions/document/NC7SZ125-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/NC7SZ125-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/NC7SZ125M5X/NC7SZ125M5XCT-ND/673392" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SOT23-5" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -411,12 +411,12 @@ DEF NC7SZ125P5X U 0 0 Y Y 1 F N
 F0 "U" -150 250 60 H V C C N N
 F1 "NC7SZ125P5X" 700 -475 60 H V C C N N
 F2 "digikey-footprints:SOT-353" 200 200 60 H I L C N N
-F3 "https://www.onsemi.cn/PowerSolutions/document/NC7SZ125-D.PDF" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/NC7SZ125-D.PDF" 200 300 60 H I L C N N
 F4 "NC7SZ125P5XCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "NC7SZ125P5X" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Logic - Buffers, Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "https://www.onsemi.cn/PowerSolutions/document/NC7SZ125-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/NC7SZ125-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/NC7SZ125P5X/NC7SZ125P5XCT-ND/673393" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC BUF NON-INVERT 5.5V SC70-5" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"

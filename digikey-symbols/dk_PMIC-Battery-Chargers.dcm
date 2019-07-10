@@ -69,7 +69,7 @@ $ENDCMP
 $CMP MCP73871-2CCI_ML
 D IC USB/AC BATT CHRGR W/PPM 20QFN
 K MCP73871-2CCI/ML-ND 
-F http://ww1.microchip.com/downloads/en/DeviceDoc/20002090D.pdf
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en536709
 $ENDCMP
 #
 #End Doc Library

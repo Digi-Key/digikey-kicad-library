@@ -7,12 +7,12 @@ DEF HMC6343 U 0 40 Y Y 1 F N
 F0 "U" -390 740 60 H V L C N N
 F1 "HMC6343" 0 -300 60 V V C C N N
 F2 "digikey-footprints:LLC-36_9x9mm_HMC6343" 200 200 60 H I L C N N
-F3 "https://aerocontent.honeywell.com/aero/common/documents/myaerospacecatalog-documents/Missiles-Munitions/HMC6343.pdf" 200 300 60 H I L C N N
+F3 "https://aerospace.honeywell.com/en/~/media/aerospace/files/datasheet/3-axiscompasswithalgorithimshmc6343_ds.pdf" 200 300 60 H I L C N N
 F4 "342-1056-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "HMC6343" 200 500 60 H I L CNN "MPN"
 F6 "Sensors, Transducers" 200 600 60 H I L CNN "Category"
 F7 "Magnetic Sensors - Compass, Magnetic Field (Modules)" 200 700 60 H I L CNN "Family"
-F8 "https://aerocontent.honeywell.com/aero/common/documents/myaerospacecatalog-documents/Missiles-Munitions/HMC6343.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://aerospace.honeywell.com/en/~/media/aerospace/files/datasheet/3-axiscompasswithalgorithimshmc6343_ds.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/honeywell-aerospace/HMC6343/342-1056-ND/1692480" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "3-AXIS DIGITAL COMPASS SOLUTION" 200 1000 60 H I L CNN "Description"
 F11 "Honeywell Aerospace" 200 1100 60 H I L CNN "Manufacturer"

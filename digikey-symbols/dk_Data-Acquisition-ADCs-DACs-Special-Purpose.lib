@@ -14,7 +14,7 @@ F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Data Acquisition - ADCs/DACs - Special Purpose" 200 700 60 H I L CNN "Family"
 F8 "http://www.intersil.com/content/dam/intersil/documents/icl7/icl7106-07-07s.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/renesas-electronics-america-inc/ICL7107CPLZ/ICL7107CPLZ-ND/821475" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC ADC 3.5DIGIT LCD/LED 40DIP" 200 1000 60 H I L CNN "Description"
+F10 "IC DISPLAY DRIVER 3.5DIGIT 40DIP" 200 1000 60 H I L CNN "Description"
 F11 "Renesas Electronics America Inc." 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
