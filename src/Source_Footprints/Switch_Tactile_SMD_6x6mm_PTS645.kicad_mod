@@ -1,5 +1,6 @@
-(module Switch_Tactile_SMD_6x6mm_PTS645 (layer F.Cu) (tedit 5AF35643)
+(module Switch_Tactile_SMD_6x6mm_PTS645 (layer F.Cu) (tedit 5D28A6E7)
   (descr http://www.ckswitches.com/media/1471/pts645.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module PinHeader_2x5_P1.27_SMD (layer F.Cu) (tedit 5CADFF26)
+(module PinHeader_2x5_P1.27_SMD (layer F.Cu) (tedit 5D289571)
   (descr http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-footprint.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.39) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

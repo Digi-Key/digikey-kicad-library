@@ -1,4 +1,5 @@
-(module RF_Module_SPWF01SA.11 (layer F.Cu) (tedit 59721258)
+(module RF_Module_SPWF01SA.11 (layer F.Cu) (tedit 5D289991)
+  (attr smd)
   (fp_text reference REF** (at 0 -10.66) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

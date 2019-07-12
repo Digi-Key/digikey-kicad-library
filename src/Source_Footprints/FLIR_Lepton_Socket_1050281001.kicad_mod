@@ -1,4 +1,5 @@
-(module FLIR_Lepton_Socket_1050281001 (layer F.Cu) (tedit 5A4BDD87)
+(module FLIR_Lepton_Socket_1050281001 (layer F.Cu) (tedit 5D288F3E)
+  (attr smd)
   (fp_text reference REF** (at 0 -7.16) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

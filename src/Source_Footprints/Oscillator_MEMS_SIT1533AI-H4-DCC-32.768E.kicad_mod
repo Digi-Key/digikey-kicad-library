@@ -1,5 +1,6 @@
-(module Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E (layer F.Cu) (tedit 59CA5A2C)
+(module Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E (layer F.Cu) (tedit 5D2894D9)
   (descr https://www.sitime.com/products/datasheets/sit1533/SiT1533-datasheet.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

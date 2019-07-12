@@ -1,5 +1,6 @@
-(module RF_Location_Tracking_DWM1000 (layer F.Cu) (tedit 59CC1C35)
+(module RF_Location_Tracking_DWM1000 (layer F.Cu) (tedit 5D289631)
   (descr https://www.decawave.com/sites/default/files/resources/DWM1000-Datasheet-V1.6.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -12.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

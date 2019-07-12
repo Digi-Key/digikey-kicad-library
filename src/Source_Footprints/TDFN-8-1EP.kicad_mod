@@ -1,5 +1,6 @@
-(module TDFN-8-1EP (layer F.Cu) (tedit 59D28E6E)
+(module TDFN-8-1EP (layer F.Cu) (tedit 5D28A6FF)
   (descr "file:///C:/Users/alex_wegscheid/Downloads/EST02896_MR25H256-MR25H256A_Combined%20Datasheet_Rev1.4%20020117%20(5).pdf")
+  (attr smd)
   (fp_text reference REF** (at 0 -4.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

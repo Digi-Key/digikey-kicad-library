@@ -1,5 +1,6 @@
-(module SOIC-18_W7.5mm (layer F.Cu) (tedit 596F7FF9)
+(module SOIC-18_W7.5mm (layer F.Cu) (tedit 5D28A5AF)
   (descr http://www.ti.com/lit/ds/symlink/uln2803a.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -7.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

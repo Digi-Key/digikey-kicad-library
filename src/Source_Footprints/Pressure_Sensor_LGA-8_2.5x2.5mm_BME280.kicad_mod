@@ -1,4 +1,5 @@
-(module Pressure_Sensor_LGA-8_2.5x2.5mm_BME280 (layer F.Cu) (tedit 5B1844EC)
+(module Pressure_Sensor_LGA-8_2.5x2.5mm_BME280 (layer F.Cu) (tedit 5D28959C)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

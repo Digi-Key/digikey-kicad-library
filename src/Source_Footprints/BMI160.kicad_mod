@@ -1,5 +1,6 @@
-(module BMI160 (layer F.Cu) (tedit 5CACC7F4)
+(module BMI160 (layer F.Cu) (tedit 5D288EA8)
   (descr https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0.025 -2.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

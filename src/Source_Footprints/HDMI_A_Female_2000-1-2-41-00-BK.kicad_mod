@@ -1,5 +1,6 @@
-(module HDMI_A_Female_2000-1-2-41-00-BK (layer F.Cu) (tedit 5BD77437)
+(module HDMI_A_Female_2000-1-2-41-00-BK (layer F.Cu) (tedit 5D288F73)
   (descr http://media.digikey.com/pdf/Data%20Sheets/CNC%20Tech%20PDFs/HDMI_A_Female_2000-1-2-41-00-BK_Dwg.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -7.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module Bluetooth_Module_WT12-A-AI5 (layer F.Cu) (tedit 59CA9672)
+(module Bluetooth_Module_WT12-A-AI5 (layer F.Cu) (tedit 5D288E8F)
   (descr http://www.digikey.com/products/en?keywords=Bluetooth_Module_WT12-A-AI5)
+  (attr smd)
   (fp_text reference REF** (at 0 -14.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

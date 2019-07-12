@@ -1,5 +1,6 @@
-(module TE_14_BAR_MODULE_MS580314BA01-00 (layer F.Cu) (tedit 597223B9)
+(module TE_14_BAR_MODULE_MS580314BA01-00 (layer F.Cu) (tedit 5D28A73E)
   (descr http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.95) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

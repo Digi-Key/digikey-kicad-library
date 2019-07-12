@@ -1,4 +1,5 @@
-(module GPS_Module_CAM-M8C-0 (layer F.Cu) (tedit 59C2AF71)
+(module GPS_Module_CAM-M8C-0 (layer F.Cu) (tedit 5D288F51)
+  (attr smd)
   (fp_text reference REF** (at 0 -8.49) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

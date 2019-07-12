@@ -1,5 +1,6 @@
-(module SSOP-20_W3.9mm (layer F.Cu) (tedit 59CE8D66)
+(module SSOP-20_W3.9mm (layer F.Cu) (tedit 5D28A695)
   (descr http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

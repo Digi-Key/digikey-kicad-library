@@ -1,5 +1,6 @@
-(module SMD-2_3.2x2.5mm (layer F.Cu) (tedit 5A787D8C)
+(module SMD-2_3.2x2.5mm (layer F.Cu) (tedit 5D28A47C)
   (descr http://www.ndk.com/images/products/catalog/c_NX3225GD-STD-CRA-3_e.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.38) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

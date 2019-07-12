@@ -1,5 +1,6 @@
-(module TQFP-64_7x7mm (layer F.Cu) (tedit 5B19973C)
+(module TQFP-64_7x7mm (layer F.Cu) (tedit 5D28AA74)
   (descr http://www.nuvoton.com/resource-files/DS_NUC100_120%28DN%29_Series_EN_V1.02.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -5.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

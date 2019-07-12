@@ -1,4 +1,5 @@
-(module Jumper_Micro-Miniature_P5.31mm (layer F.Cu) (tedit 5A988318)
+(module Jumper_Micro-Miniature_P5.31mm (layer F.Cu) (tedit 5D28916F)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.44) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

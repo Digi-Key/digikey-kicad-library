@@ -1,5 +1,6 @@
-(module Ambient_Prox_APDS-9960 (layer F.Cu) (tedit 5B19AA5A)
+(module Ambient_Prox_APDS-9960 (layer F.Cu) (tedit 5D288D91)
   (descr file:///C:/Users/chad_rosencrans/Downloads/AV02-4191EN_DS_Ambient_Prox_APDS-9960_2015-11-13.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.36) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

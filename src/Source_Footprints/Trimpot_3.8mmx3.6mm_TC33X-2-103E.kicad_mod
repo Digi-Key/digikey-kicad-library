@@ -1,5 +1,6 @@
-(module Trimpot_3.8mmx3.6mm_TC33X-2-103E (layer F.Cu) (tedit 59A9804A)
+(module Trimpot_3.8mmx3.6mm_TC33X-2-103E (layer F.Cu) (tedit 5D28AC64)
   (descr http://www.bourns.com/docs/Product-Datasheets/TC33.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

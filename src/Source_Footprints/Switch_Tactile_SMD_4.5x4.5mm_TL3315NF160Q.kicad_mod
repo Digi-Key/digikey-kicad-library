@@ -1,5 +1,6 @@
-(module Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q (layer F.Cu) (tedit 5AF3548E)
+(module Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q (layer F.Cu) (tedit 5D28A6D8)
   (descr http://spec_sheets.e-switch.com/specs/P010337.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.31) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

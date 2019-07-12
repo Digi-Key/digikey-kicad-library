@@ -1,5 +1,6 @@
-(module SOT23-6L (layer F.Cu) (tedit 598DD155)
+(module SOT23-6L (layer F.Cu) (tedit 5D28A65B)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr:content/translations/en.CD00047494.pdf)
+  (attr smd)
   (fp_text reference REF** (at -0.025 -3.425) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

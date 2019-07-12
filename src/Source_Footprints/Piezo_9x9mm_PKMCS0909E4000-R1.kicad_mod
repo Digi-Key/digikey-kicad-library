@@ -1,4 +1,5 @@
-(module Piezo_9x9mm_PKMCS0909E4000-R1 (layer F.Cu) (tedit 59CD317F)
+(module Piezo_9x9mm_PKMCS0909E4000-R1 (layer F.Cu) (tedit 5D289533)
+  (attr smd)
   (fp_text reference REF** (at -0.125 -5.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

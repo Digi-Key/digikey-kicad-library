@@ -1,4 +1,5 @@
-(module "WQFN-24-1EP_4x4mm" (layer F.Cu) (tedit 597B633A)
+(module WQFN-24-1EP_4x4mm (layer F.Cu) (tedit 5D28B836)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.83) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

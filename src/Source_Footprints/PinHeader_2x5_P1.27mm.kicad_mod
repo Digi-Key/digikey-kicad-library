@@ -1,5 +1,6 @@
-(module PinHeader_2x5_P1.27mm (layer F.Cu) (tedit 5A4BB3AC)
+(module PinHeader_2x5_P1.27mm (layer F.Cu) (tedit 5D289568)
   (descr https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021121.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.24) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

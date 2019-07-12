@@ -1,5 +1,6 @@
-(module Coax_Conn_U.FL (layer F.Cu) (tedit 5CAF4EBB)
+(module Coax_Conn_U.FL (layer F.Cu) (tedit 5D288EC0)
   (descr https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.53) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

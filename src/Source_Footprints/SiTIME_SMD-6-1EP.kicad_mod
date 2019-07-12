@@ -1,5 +1,6 @@
-(module SiTIME_SMD-6-1EP (layer F.Cu) (tedit 59A57B2C)
+(module SiTIME_SMD-6-1EP (layer F.Cu) (tedit 5D289A16)
   (descr https://www.sitime.com/products/datasheets/sit9102/SiT9102-datasheet.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0.61 -3.79) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

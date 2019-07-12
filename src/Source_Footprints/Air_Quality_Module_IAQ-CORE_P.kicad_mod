@@ -1,4 +1,5 @@
-(module Air_Quality_Module_IAQ-CORE_P (layer F.Cu) (tedit 59D270F8)
+(module Air_Quality_Module_IAQ-CORE_P (layer F.Cu) (tedit 5D288D7D)
+  (attr smd)
   (fp_text reference REF** (at 0.525 -11.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

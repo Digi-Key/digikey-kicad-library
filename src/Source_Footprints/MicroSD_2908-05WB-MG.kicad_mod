@@ -1,4 +1,5 @@
-(module MicroSD_2908-05WB-MG (layer F.Cu) (tedit 59D28D35)
+(module MicroSD_2908-05WB-MG (layer F.Cu) (tedit 5D28929F)
+  (attr smd)
   (fp_text reference REF** (at 1.9 -5.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

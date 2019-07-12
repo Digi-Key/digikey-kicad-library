@@ -1,5 +1,6 @@
-(module RF_Module_SPBT2632C2A.AT2 (layer F.Cu) (tedit 59721F74)
+(module RF_Module_SPBT2632C2A.AT2 (layer F.Cu) (tedit 5D289987)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/2c/4e/6f/76/81/4f/4b/d4/DM00048919.pdf/files/DM00048919.pdf/jcr:content/translations/en.DM00048919.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -8.82) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

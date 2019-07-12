@@ -1,5 +1,6 @@
-(module LORA_Module_RM103 (layer F.Cu) (tedit 59E8BB18)
+(module LORA_Module_RM103 (layer F.Cu) (tedit 5D28925C)
   (descr http://ww1.microchip.com/downloads/en/DeviceDoc/50002346C.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -15.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

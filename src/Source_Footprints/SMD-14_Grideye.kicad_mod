@@ -1,5 +1,6 @@
-(module SMD-14_Grideye (layer F.Cu) (tedit 59BFEFBE)
+(module SMD-14_Grideye (layer F.Cu) (tedit 5D28A4E2)
   (descr https://industrial.panasonic.com/content/data/CP/PDF/built-in_sensor_catalog_e.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -5.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
