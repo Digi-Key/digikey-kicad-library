@@ -1,5 +1,6 @@
-(module Bluetooth_Module_BLE112-A-V1 (layer F.Cu) (tedit 59CA9E0F)
+(module Bluetooth_Module_BLE112-A-V1 (layer F.Cu) (tedit 5D288DE8)
   (descr http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE112.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -10.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

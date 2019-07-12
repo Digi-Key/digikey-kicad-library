@@ -1,4 +1,5 @@
-(module Oscillator_XLH736022.579200I (layer F.Cu) (tedit 59CD31F8)
+(module Oscillator_XLH736022.579200I (layer F.Cu) (tedit 5D2894ED)
+  (attr smd)
   (fp_text reference REF** (at 2.425 -6.375) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module SOIC-8_W5.3mm (layer F.Cu) (tedit 5AE8C563)
+(module SOIC-8_W5.3mm (layer F.Cu) (tedit 5D28A54C)
   (descr http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

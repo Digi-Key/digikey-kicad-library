@@ -1,4 +1,5 @@
-(module USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR (layer F.Cu) (tedit 5B084BE4)
+(module USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR (layer F.Cu) (tedit 5D28ADF1)
+  (attr smd)
   (fp_text reference REF** (at 4.01 -5.64) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

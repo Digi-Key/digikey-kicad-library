@@ -1,5 +1,6 @@
-(module Zigbee_Module_MRF24J40MA (layer F.Cu) (tedit 59CC210B)
+(module Zigbee_Module_MRF24J40MA (layer F.Cu) (tedit 5D28B860)
   (descr http://ww1.microchip.com/downloads/en/DeviceDoc/70329b.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -15.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

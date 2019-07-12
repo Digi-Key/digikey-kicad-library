@@ -1,5 +1,6 @@
-(module UFQFN-32-1EP_5x5mm (layer F.Cu) (tedit 5A048DC8)
+(module UFQFN-32-1EP_5x5mm (layer F.Cu) (tedit 5D28AD04)
   (descr "file:///C:/Users/alex_wegscheid/Downloads/csr1010-data-sheet%20(4).pdf")
+  (attr smd)
   (fp_text reference REF** (at 0 -4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

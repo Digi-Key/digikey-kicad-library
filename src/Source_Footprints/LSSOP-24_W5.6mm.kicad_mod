@@ -1,5 +1,6 @@
-(module LSSOP-24_W5.6mm (layer F.Cu) (tedit 59CE93AC)
+(module LSSOP-24_W5.6mm (layer F.Cu) (tedit 5D289293)
   (descr "file:///C:/Users/alex_wegscheid/Downloads/TB6612FNG_datasheet_en_20141001%20(7).pdf")
+  (attr smd)
   (fp_text reference REF** (at 0 -6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module LGA-14_3x5mm_RevA (layer F.Cu) (tedit 5AFB46E4)
+(module LGA-14_3x5mm_RevA (layer F.Cu) (tedit 5D289220)
   (descr http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

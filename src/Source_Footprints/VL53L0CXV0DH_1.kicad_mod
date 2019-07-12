@@ -1,5 +1,6 @@
-(module VL53L0CXV0DH_1 (layer F.Cu) (tedit 5A8B23B2)
+(module VL53L0CXV0DH_1 (layer F.Cu) (tedit 5D28AE61)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

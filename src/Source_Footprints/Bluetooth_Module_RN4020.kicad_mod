@@ -1,5 +1,6 @@
-(module Bluetooth_Module_RN4020 (layer F.Cu) (tedit 5A049990)
+(module Bluetooth_Module_RN4020 (layer F.Cu) (tedit 5D288E7A)
   (descr http://ww1.microchip.com/downloads/en/DeviceDoc/50002279B.pdf)
+  (attr smd)
   (fp_text reference REF** (at 4.71 6.02) (layer F.SilkS)
     (effects (font (size 0.5 0.5) (thickness 0.05)))
   )

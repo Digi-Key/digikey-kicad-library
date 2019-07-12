@@ -1,5 +1,6 @@
-(module LGA-14L_2.5x3mm__LSM6DS3 (layer F.Cu) (tedit 59CD12AB)
+(module LGA-14L_2.5x3mm__LSM6DS3 (layer F.Cu) (tedit 5D289207)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/f5/4f/ae/8e/44/41/d7/DM00133076.pdf/files/DM00133076.pdf/jcr:content/translations/en.DM00133076.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

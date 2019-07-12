@@ -1,4 +1,5 @@
-(module PinHeader_2x1mm_P2mm_SMD_RA (layer F.Cu) (tedit 5A8B0F99)
+(module PinHeader_2x1mm_P2mm_SMD_RA (layer F.Cu) (tedit 5D28955D)
+  (attr smd)
   (fp_text reference REF** (at 0 -8.52) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

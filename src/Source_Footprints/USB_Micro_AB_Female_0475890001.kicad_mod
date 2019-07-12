@@ -1,5 +1,6 @@
-(module USB_Micro_AB_Female_0475890001 (layer F.Cu) (tedit 5CAF5B2D)
+(module USB_Micro_AB_Female_0475890001 (layer F.Cu) (tedit 5D28AD82)
   (descr http://www.molex.com/pdm_docs/sd/475890001_sd.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,4 +1,5 @@
-(module GSM_Module_17.8x16.5mm_A2235-H (layer F.Cu) (tedit 5A04969E)
+(module GSM_Module_17.8x16.5mm_A2235-H (layer F.Cu) (tedit 5D288F60)
+  (attr smd)
   (fp_text reference REF** (at 0 -9.92) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

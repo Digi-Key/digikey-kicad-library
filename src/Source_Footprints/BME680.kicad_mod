@@ -1,5 +1,6 @@
-(module BME680 (layer F.Cu) (tedit 5A4D1595)
+(module BME680 (layer F.Cu) (tedit 5D288EA0)
   (descr https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

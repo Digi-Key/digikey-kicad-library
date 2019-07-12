@@ -1,4 +1,5 @@
-(module Bluetooth_Module_CYBLE-022001-00 (layer F.Cu) (tedit 59711088)
+(module Bluetooth_Module_CYBLE-022001-00 (layer F.Cu) (tedit 5D288E3A)
+  (attr smd)
   (fp_text reference REF** (at 0 -6.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

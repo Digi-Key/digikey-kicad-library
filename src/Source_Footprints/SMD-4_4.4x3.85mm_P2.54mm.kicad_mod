@@ -1,5 +1,6 @@
-(module SMD-4_4.4x3.85mm_P2.54mm (layer F.Cu) (tedit 5A393B4E)
+(module SMD-4_4.4x3.85mm_P2.54mm (layer F.Cu) (tedit 5D28A4A2)
   (descr http://optoelectronics.liteon.com/upload/download/DS70-2001-010/LTV-356T%20series%20201610.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.31) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

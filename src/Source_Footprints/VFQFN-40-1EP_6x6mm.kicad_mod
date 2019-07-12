@@ -1,5 +1,6 @@
-(module VFQFN-40-1EP_6x6mm (layer F.Cu) (tedit 5B115523)
+(module VFQFN-40-1EP_6x6mm (layer F.Cu) (tedit 5D28AE4F)
   (descr http://www.ti.com/lit/ds/symlink/cc2650.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0.03 -4.51) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

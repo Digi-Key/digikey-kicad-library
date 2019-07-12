@@ -1,5 +1,6 @@
-(module LGA-12_9x9mm_LSM303C (layer F.Cu) (tedit 59CD3442)
+(module LGA-12_9x9mm_LSM303C (layer F.Cu) (tedit 5D289200)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

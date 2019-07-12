@@ -1,5 +1,6 @@
-(module SMD-4_3.4x2.7mm_P1.8mm (layer F.Cu) (tedit 5AFE006F)
+(module SMD-4_3.4x2.7mm_P1.8mm (layer F.Cu) (tedit 5D28A490)
   (descr https://www.fairchildsemi.com/datasheets/QR/QRE1113.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0.02 -3.76) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

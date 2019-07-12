@@ -1,5 +1,6 @@
-(module USB_Mini_B_Female_690-005-299-043 (layer F.Cu) (tedit 5B0330C5)
+(module USB_Mini_B_Female_690-005-299-043 (layer F.Cu) (tedit 5D28ADF9)
   (descr http://files.edac.net/USB_Mini_B_Female_690-005-299-043.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -8.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

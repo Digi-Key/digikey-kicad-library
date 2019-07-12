@@ -1,4 +1,5 @@
-(module Test_Point_3.43x1.78mm (layer F.Cu) (tedit 5A43B7B3)
+(module Test_Point_3.43x1.78mm (layer F.Cu) (tedit 5D28A732)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.02) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

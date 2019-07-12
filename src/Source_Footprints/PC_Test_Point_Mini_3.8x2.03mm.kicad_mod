@@ -1,5 +1,6 @@
-(module PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5A983F1D)
+(module PC_Test_Point_Mini_3.8x2.03mm (layer F.Cu) (tedit 5D289500)
   (descr file:///C:/Users/chad_rosencrans/Downloads/5029.PDF)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.06) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

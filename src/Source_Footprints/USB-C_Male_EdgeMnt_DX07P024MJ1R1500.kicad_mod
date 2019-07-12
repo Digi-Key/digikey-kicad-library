@@ -1,5 +1,6 @@
-(module USB-C_Male_EdgeMnt_DX07P024MJ1R1500 (layer F.Cu) (tedit 5CACC58F)
+(module USB-C_Male_EdgeMnt_DX07P024MJ1R1500 (layer F.Cu) (tedit 5D28AD63)
   (descr http://www.jae.com/z-en/pdf_download_exec.cfm?param=MB-0301-2E_DX07_PLUG.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -7.51) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

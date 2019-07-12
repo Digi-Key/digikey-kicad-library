@@ -1,5 +1,6 @@
-(module TSSOP-8_W4.4mm (layer F.Cu) (tedit 59D29414)
+(module TSSOP-8_W4.4mm (layer F.Cu) (tedit 5D28AC77)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/0d/30/c2/1a/92/03/48/cb/CD00287506.pdf/files/CD00287506.pdf/jcr:content/translations/en.CD00287506.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

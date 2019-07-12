@@ -1,5 +1,6 @@
-(module TO-243AA (layer F.Cu) (tedit 59C42416)
+(module TO-243AA (layer F.Cu) (tedit 5D28AA1D)
   (descr http://www.digikey.com/products/en?keywords=863-1063-1-ND)
+  (attr smd)
   (fp_text reference REF** (at 0 -12.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module Smoke_Sensor_MAX30105EFD+ (layer F.Cu) (tedit 59B03651)
+(module Smoke_Sensor_MAX30105EFD+ (layer F.Cu) (tedit 5D28A4EA)
   (descr http://datasheets.maximintegrated.com/en/ds/MAX30105.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.98) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

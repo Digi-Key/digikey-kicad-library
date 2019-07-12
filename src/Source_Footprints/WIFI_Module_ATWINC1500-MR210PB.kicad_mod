@@ -1,5 +1,6 @@
-(module WIFI_Module_ATWINC1500-MR210PB (layer F.Cu) (tedit 59CC1CA9)
+(module WIFI_Module_ATWINC1500-MR210PB (layer F.Cu) (tedit 5D28B7DB)
   (descr http://ww1.microchip.com/downloads/en/DeviceDoc/70005304A.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -13.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module TO-269AA (layer F.Cu) (tedit 5ACFB6C3)
+(module TO-269AA (layer F.Cu) (tedit 5D28AA40)
   (descr "http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf")
+  (attr smd)
   (fp_text reference REF** (at 0 -4.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

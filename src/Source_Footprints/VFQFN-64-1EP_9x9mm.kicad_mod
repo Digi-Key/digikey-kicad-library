@@ -1,5 +1,6 @@
-(module VFQFN-64-1EP_9x9mm (layer F.Cu) (tedit 5A0490A9)
+(module VFQFN-64-1EP_9x9mm (layer F.Cu) (tedit 5D28AE58)
   (descr http://www.ti.com/lit/ds/symlink/cc3200.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -6.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

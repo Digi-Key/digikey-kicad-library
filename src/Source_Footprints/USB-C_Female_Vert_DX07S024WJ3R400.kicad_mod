@@ -1,4 +1,5 @@
-(module USB-C_Female_Vert_DX07S024WJ3R400 (layer F.Cu) (tedit 5CAD1618)
+(module USB-C_Female_Vert_DX07S024WJ3R400 (layer F.Cu) (tedit 5D28AD4C)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.37) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

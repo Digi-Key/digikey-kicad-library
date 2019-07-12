@@ -1,5 +1,6 @@
-(module Altimeter_MS580314BA (layer F.Cu) (tedit 5A5540A7)
+(module Altimeter_MS580314BA (layer F.Cu) (tedit 5D288D88)
   (descr http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.32) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

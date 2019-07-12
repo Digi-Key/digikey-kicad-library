@@ -1,5 +1,6 @@
-(module VQFN-28-1EP_6x6mm (layer F.Cu) (tedit 59C28446)
+(module VQFN-28-1EP_6x6mm (layer F.Cu) (tedit 5D28AE7C)
   (descr http://www.semtech.com/images/datasheet/sx1272.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.63) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

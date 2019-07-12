@@ -1,5 +1,6 @@
-(module SMD-2_3.2x1.5mm (layer F.Cu) (tedit 5A5519D3)
+(module SMD-2_3.2x1.5mm (layer F.Cu) (tedit 5D289A1D)
   (descr http://www.ecsxtal.com/store/pdf/ecx-31b.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.03) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

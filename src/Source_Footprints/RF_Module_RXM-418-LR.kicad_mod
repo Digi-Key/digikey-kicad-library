@@ -1,5 +1,6 @@
-(module RF_Module_RXM-418-LR (layer F.Cu) (tedit 5A01CEBE)
+(module RF_Module_RXM-418-LR (layer F.Cu) (tedit 5D289643)
   (descr https://www.linxtechnologies.com/wp/wp-content/uploads/rxm-fff-lr.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -11.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

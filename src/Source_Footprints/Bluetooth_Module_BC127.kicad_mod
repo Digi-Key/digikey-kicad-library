@@ -1,5 +1,6 @@
-(module Bluetooth_Module_BC127 (layer F.Cu) (tedit 59CA9EF8)
+(module Bluetooth_Module_BC127 (layer F.Cu) (tedit 5D288DD5)
   (descr https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -10.15) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

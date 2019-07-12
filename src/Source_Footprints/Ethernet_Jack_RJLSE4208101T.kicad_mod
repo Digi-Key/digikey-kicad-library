@@ -1,5 +1,6 @@
-(module Ethernet_Jack_RJLSE4208101T (layer F.Cu) (tedit 5AF458C3)
+(module Ethernet_Jack_RJLSE4208101T (layer F.Cu) (tedit 5D288F36)
   (descr https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJLSE4X0XX01X.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0.425 -11.675) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

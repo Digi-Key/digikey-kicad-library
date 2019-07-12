@@ -1,5 +1,6 @@
-(module SMD-8_5x3mm (layer F.Cu) (tedit 5A786DDD)
+(module SMD-8_5x3mm (layer F.Cu) (tedit 5D28A4D3)
   (descr http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.65) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

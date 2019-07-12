@@ -1,4 +1,5 @@
-(module Phototransistor_SMD_4x2mm_TEMT6000X01 (layer F.Cu) (tedit 5AFDF376)
+(module Phototransistor_SMD_4x2mm_TEMT6000X01 (layer F.Cu) (tedit 5D28952A)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.22) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

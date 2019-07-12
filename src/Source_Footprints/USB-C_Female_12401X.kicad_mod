@@ -1,5 +1,6 @@
-(module USB-C_Female_12401X (layer F.Cu) (tedit 5CAE1297)
+(module USB-C_Female_12401X (layer F.Cu) (tedit 5D28AD1E)
   (descr https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401610E4%232A_Dwg.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.31) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

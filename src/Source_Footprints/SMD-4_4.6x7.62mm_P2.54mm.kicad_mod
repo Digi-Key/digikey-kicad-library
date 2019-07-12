@@ -1,5 +1,6 @@
-(module SMD-4_4.6x7.62mm_P2.54mm (layer F.Cu) (tedit 5A381946)
+(module SMD-4_4.6x7.62mm_P2.54mm (layer F.Cu) (tedit 5D28A4AB)
   (descr https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-816_826_846.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.64) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
