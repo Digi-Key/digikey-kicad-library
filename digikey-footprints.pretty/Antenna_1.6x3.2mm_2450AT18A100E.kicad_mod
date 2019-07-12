@@ -1,5 +1,6 @@
-(module Antenna_1.6x3.2mm_2450AT18A100E (layer F.Cu) (tedit 5AF44B25)
+(module Antenna_1.6x3.2mm_2450AT18A100E (layer F.Cu) (tedit 5D288D9A)
   (descr https://www.johansontechnology.com/datasheets/antennas/2450AT18A100.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

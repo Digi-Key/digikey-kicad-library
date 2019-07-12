@@ -1,5 +1,6 @@
-(module SPH0645LM4H-B (layer F.Cu) (tedit 5970D87A)
+(module SPH0645LM4H-B (layer F.Cu) (tedit 5D28A667)
   (descr http://www.digikey.com/products/en?keywords=423-1405-1-ND)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.77) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module RF_Module_COM-13909 (layer F.Cu) (tedit 59D2B212)
+(module RF_Module_COM-13909 (layer F.Cu) (tedit 5D28963B)
   (descr https://cdn.sparkfun.com/datasheets/Wireless/General/RFM69HCW-V1.1.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -9.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

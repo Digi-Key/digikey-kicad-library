@@ -1,5 +1,6 @@
-(module PinHeader_2x7_P2mm_SMD (layer F.Cu) (tedit 5CAE0DA5)
+(module PinHeader_2x7_P2mm_SMD (layer F.Cu) (tedit 5D289585)
   (descr http://www.molex.com/pdm_docs/sd/878322620_sd.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.45) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

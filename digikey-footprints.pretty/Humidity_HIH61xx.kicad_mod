@@ -1,4 +1,5 @@
-(module Humidity_HIH61xx (layer F.Cu) (tedit 5B19386D)
+(module Humidity_HIH61xx (layer F.Cu) (tedit 5D289103)
+  (attr smd)
   (fp_text reference REF** (at -0.03 -5.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

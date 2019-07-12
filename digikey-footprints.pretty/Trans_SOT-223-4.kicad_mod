@@ -1,4 +1,5 @@
-(module Trans_SOT-223-4 (layer F.Cu) (tedit 5AFB5616)
+(module Trans_SOT-223-4 (layer F.Cu) (tedit 5D28AC5C)
+  (attr smd)
   (fp_text reference REF** (at 0 -5.375) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

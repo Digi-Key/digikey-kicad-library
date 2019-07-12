@@ -1,5 +1,6 @@
-(module SOT-143-4 (layer F.Cu) (tedit 5D25F39B)
+(module SOT-143-4 (layer F.Cu) (tedit 5D28A606)
   (descr http://datasheets.maximintegrated.com/en/ds/MAX6816-MAX6818.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module UDFN-6-1EP_2x2mm (layer F.Cu) (tedit 5B1A87A5)
+(module UDFN-6-1EP_2x2mm (layer F.Cu) (tedit 5D28ACC6)
   (descr http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

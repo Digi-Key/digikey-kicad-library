@@ -1,4 +1,5 @@
-(module Zigbee_Module_MRF24J40MD (layer F.Cu) (tedit 59CC214B)
+(module Zigbee_Module_MRF24J40MD (layer F.Cu) (tedit 5D28B870)
+  (attr smd)
   (fp_text reference REF** (at 0 -18) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

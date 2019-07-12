@@ -1,5 +1,6 @@
-(module Bluetooth_Module_450-0064 (layer F.Cu) (tedit 59712A93)
+(module Bluetooth_Module_450-0064 (layer F.Cu) (tedit 5D288DC0)
   (descr http://www.lsr.com/downloads/products/330-0087.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0.01 -11.73) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

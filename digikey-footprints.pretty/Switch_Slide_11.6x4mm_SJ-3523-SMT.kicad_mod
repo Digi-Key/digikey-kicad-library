@@ -1,4 +1,5 @@
-(module Switch_Slide_11.6x4mm_SJ-3523-SMT (layer F.Cu) (tedit 59F77350)
+(module Switch_Slide_11.6x4mm_SJ-3523-SMT (layer F.Cu) (tedit 5D28A6C6)
+  (attr smd)
   (fp_text reference REF** (at 3.375 -5.975) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

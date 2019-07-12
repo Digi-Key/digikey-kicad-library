@@ -1,5 +1,6 @@
-(module TLGA-8_3x5 (layer F.Cu) (tedit 5B0476C6)
+(module TLGA-8_3x5 (layer F.Cu) (tedit 5D28A774)
   (descr http://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

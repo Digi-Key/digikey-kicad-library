@@ -1,4 +1,5 @@
-(module MSOP-10-1EP_W3mm (layer F.Cu) (tedit 5A0335B6)
+(module MSOP-10-1EP_W3mm (layer F.Cu) (tedit 5D289496)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

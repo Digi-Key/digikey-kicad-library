@@ -1,4 +1,5 @@
-(module "LQFP-32_7x7mm" (layer F.Cu) (tedit 598A0F26)
+(module LQFP-32_7x7mm (layer F.Cu) (tedit 5D289266)
+  (attr smd)
   (fp_text reference REF** (at 0 -6.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

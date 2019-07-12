@@ -1,5 +1,6 @@
-(module SOT-23-8 (layer F.Cu) (tedit 59D276A4)
+(module SOT-23-8 (layer F.Cu) (tedit 5D28A5F6)
   (descr http://www.ti.com/lit/ds/symlink/ina219.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0.025 -3.725) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module SSOP-20_W5.3mm (layer F.Cu) (tedit 5A566387)
+(module SSOP-20_W5.3mm (layer F.Cu) (tedit 5D28A69D)
   (descr http://ww1.microchip.com/downloads/en/DeviceDoc/41606B.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -5.74) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

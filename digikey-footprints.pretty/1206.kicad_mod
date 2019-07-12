@@ -1,5 +1,6 @@
-(module 1206 (layer F.Cu) (tedit 5A553D4C)
+(module 1206 (layer F.Cu) (tedit 5D288D46)
   (descr http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0.1 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

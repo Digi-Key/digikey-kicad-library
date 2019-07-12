@@ -1,5 +1,6 @@
-(module Jumper_Tin_P5.38mm (layer F.Cu) (tedit 5A986E28)
+(module Jumper_Tin_P5.38mm (layer F.Cu) (tedit 5D289194)
   (descr https://cdn.harwin.com/pdfs/S1911R.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

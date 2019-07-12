@@ -1,5 +1,6 @@
-(module SOIC-16_W7.5mm (layer F.Cu) (tedit 59CD6F23)
+(module SOIC-16_W7.5mm (layer F.Cu) (tedit 5D28A5A8)
   (descr https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e)
+  (attr smd)
   (fp_text reference REF** (at 0 -7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

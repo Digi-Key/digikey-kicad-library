@@ -1,5 +1,6 @@
-(module WIFI_Module_ESP8266_2491 (layer F.Cu) (tedit 59C93F0F)
+(module WIFI_Module_ESP8266_2491 (layer F.Cu) (tedit 5D28B7E5)
   (descr http://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/ESP-12S_UM%20_Rev1.0_8-1-16.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -16.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

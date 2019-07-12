@@ -1,5 +1,6 @@
-(module OPLGA-6_VEML6070 (layer F.Cu) (tedit 5B1A8FA3)
+(module OPLGA-6_VEML6070 (layer F.Cu) (tedit 5D2894C7)
   (descr http://www.vishay.com/docs/84277/veml6070.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

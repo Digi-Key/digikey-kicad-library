@@ -1,4 +1,5 @@
-(module Bluetooth_Module_RFD77101 (layer F.Cu) (tedit 5A051B96)
+(module Bluetooth_Module_RFD77101 (layer F.Cu) (tedit 5D288E4B)
+  (attr smd)
   (fp_text reference REF** (at 0.375 -5.875) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

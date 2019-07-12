@@ -1,4 +1,5 @@
-(module Molex_734120114_UMC_RF_CONN_Vertical (layer F.Cu) (tedit 5ACE56CF)
+(module Molex_734120114_UMC_RF_CONN_Vertical (layer F.Cu) (tedit 5D2892B1)
+  (attr smd)
   (fp_text reference REF** (at 0.1 -3.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

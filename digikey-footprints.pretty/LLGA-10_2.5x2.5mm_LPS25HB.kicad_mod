@@ -1,5 +1,6 @@
-(module LLGA-10_2.5x2.5mm_LPS25HB (layer F.Cu) (tedit 59CD5489)
+(module LLGA-10_2.5x2.5mm_LPS25HB (layer F.Cu) (tedit 5D28924D)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/4c/aa/72/1f/45/4e/24/DM00141379.pdf/files/DM00141379.pdf/jcr:content/translations/en.DM00141379.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

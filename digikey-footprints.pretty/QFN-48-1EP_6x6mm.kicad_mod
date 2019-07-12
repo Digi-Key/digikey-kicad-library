@@ -1,5 +1,6 @@
-(module QFN-48-1EP_6x6mm (layer F.Cu) (tedit 5A53E4E5)
+(module QFN-48-1EP_6x6mm (layer F.Cu) (tedit 5D289607)
   (descr https://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

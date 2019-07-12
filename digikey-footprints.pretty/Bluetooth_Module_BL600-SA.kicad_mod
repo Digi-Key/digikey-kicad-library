@@ -1,5 +1,6 @@
-(module Bluetooth_Module_BL600-SA (layer F.Cu) (tedit 5A8758D9)
+(module Bluetooth_Module_BL600-SA (layer F.Cu) (tedit 5D288DDE)
   (descr https://assets.lairdtech.com/home/brandworld/files/Datasheet%20-%20BL600.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -10.58) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

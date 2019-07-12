@@ -1,5 +1,6 @@
-(module PinHeader_1x2_P2mm (layer F.Cu) (tedit 5CACA9AC)
+(module PinHeader_1x2_P2mm (layer F.Cu) (tedit 5D289542)
   (descr http://www.jst-mfg.com/product/pdf/eng/ePH.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -6.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

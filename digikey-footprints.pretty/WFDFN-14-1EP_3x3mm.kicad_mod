@@ -1,5 +1,6 @@
-(module WFDFN-14-1EP_3x3mm (layer F.Cu) (tedit 59C54354)
+(module WFDFN-14-1EP_3x3mm (layer F.Cu) (tedit 5D28B7C2)
   (descr http://pdfserv.maximintegrated.com/land_patterns/90-0063.PDF)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.68) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,4 +1,5 @@
-(module Bluetooth_Module_RN4677-VRM100 (layer F.Cu) (tedit 59CD5FFB)
+(module Bluetooth_Module_RN4677-VRM100 (layer F.Cu) (tedit 5D288E84)
+  (attr smd)
   (fp_text reference REF** (at 5.8 -22.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

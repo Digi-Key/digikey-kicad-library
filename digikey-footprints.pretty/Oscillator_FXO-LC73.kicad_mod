@@ -1,5 +1,6 @@
-(module Oscillator_FXO-LC73 (layer F.Cu) (tedit 59A57CAD)
+(module Oscillator_FXO-LC73 (layer F.Cu) (tedit 5D2894D1)
   (descr http://www.foxonline.com/pdfs/FXO_LC73.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0.47 -4.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

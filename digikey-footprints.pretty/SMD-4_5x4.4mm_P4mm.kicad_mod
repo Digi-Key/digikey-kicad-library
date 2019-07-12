@@ -1,5 +1,6 @@
-(module SMD-4_5x4.4mm_P4mm (layer F.Cu) (tedit 5A39393B)
+(module SMD-4_5x4.4mm_P4mm (layer F.Cu) (tedit 5D28A4B5)
   (descr https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -3.56) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

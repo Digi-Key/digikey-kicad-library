@@ -1,5 +1,6 @@
-(module USB_Micro_A_3.1_Female_GSB443T33HR (layer F.Cu) (tedit 5AFD9356)
+(module USB_Micro_A_3.1_Female_GSB443T33HR (layer F.Cu) (tedit 5D28ADA7)
   (descr http://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/USB_Micro_A_3.1_Female_GSB443T33HR_Dwg.pdf)
+  (attr smd)
   (fp_text reference REF** (at -0.4 -2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module UFDFN-10_2.5x1mm (layer F.Cu) (tedit 59A46A0E)
+(module UFDFN-10_2.5x1mm (layer F.Cu) (tedit 5D28ACF0)
   (descr http://www.semtech.com/images/datasheet/rclamp0522p_0524p.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

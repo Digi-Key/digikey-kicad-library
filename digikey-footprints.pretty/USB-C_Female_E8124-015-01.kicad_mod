@@ -1,5 +1,6 @@
-(module USB-C_Female_E8124-015-01 (layer F.Cu) (tedit 5CAE1437)
+(module USB-C_Female_E8124-015-01 (layer F.Cu) (tedit 5D28AD42)
   (descr https://www.digikey.com/product-detail/en/pulse-electronics-network/E8124-015-01/553-3195-2-ND/5800435)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.64) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

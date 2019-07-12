@@ -1,4 +1,5 @@
-(module USB_Mini_B_Female_UX60-MB-5ST (layer F.Cu) (tedit 5B086709)
+(module USB_Mini_B_Female_UX60-MB-5ST (layer F.Cu) (tedit 5D28AE0E)
+  (attr smd)
   (fp_text reference REF** (at 0.1 -4.325) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

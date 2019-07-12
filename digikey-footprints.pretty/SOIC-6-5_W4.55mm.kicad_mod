@@ -1,4 +1,5 @@
-(module SOIC-6-5_W4.55mm (layer F.Cu) (tedit 59A495B3)
+(module SOIC-6-5_W4.55mm (layer F.Cu) (tedit 5D28A52B)
+  (attr smd)
   (fp_text reference REF** (at 0 -4.72) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

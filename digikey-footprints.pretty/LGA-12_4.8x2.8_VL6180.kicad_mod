@@ -1,5 +1,6 @@
-(module LGA-12_4.8x2.8_VL6180 (layer F.Cu) (tedit 59A57A30)
+(module LGA-12_4.8x2.8_VL6180 (layer F.Cu) (tedit 5D2891F6)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/11/28/86/e6/26/44/b3/DM00112632.pdf/files/DM00112632.pdf/jcr:content/translations/en.DM00112632.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.35) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

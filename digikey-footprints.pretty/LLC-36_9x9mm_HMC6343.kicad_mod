@@ -1,4 +1,5 @@
-(module LLC-36_9x9mm_HMC6343 (layer F.Cu) (tedit 59975A26)
+(module LLC-36_9x9mm_HMC6343 (layer F.Cu) (tedit 5D28923D)
+  (attr smd)
   (fp_text reference REF** (at -0.01 -5.87) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

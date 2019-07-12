@@ -1,4 +1,5 @@
-(module HDMI_Mini_Female_2001-1-2-21-00-BK (layer F.Cu) (tedit 5AFED88E)
+(module HDMI_Mini_Female_2001-1-2-21-00-BK (layer F.Cu) (tedit 5D288F94)
+  (attr smd)
   (fp_text reference REF** (at 0.375 -1.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

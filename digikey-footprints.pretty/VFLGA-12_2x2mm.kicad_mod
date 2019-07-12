@@ -1,5 +1,6 @@
-(module VFLGA-12_2x2mm (layer F.Cu) (tedit 59CD5D2E)
+(module VFLGA-12_2x2mm (layer F.Cu) (tedit 5D28AE20)
   (descr http://www.st.com/content/ccc/resource/technical/document/datasheet/54/2a/85/76/e3/97/42/18/DM00075867.pdf/files/DM00075867.pdf/jcr:content/translations/en.DM00075867.pdf)
+  (attr smd)
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

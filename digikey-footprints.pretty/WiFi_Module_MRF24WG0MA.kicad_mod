@@ -1,4 +1,5 @@
-(module WiFi_Module_MRF24WG0MA (layer F.Cu) (tedit 59B2D5B1)
+(module WiFi_Module_MRF24WG0MA (layer F.Cu) (tedit 5D28B7F1)
+  (attr smd)
   (fp_text reference REF** (at 0 -14.13) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
