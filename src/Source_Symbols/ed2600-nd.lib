@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF ED2600-ND U 0 40 Y Y 1 F N
 F0 "U" -100 50 50 H V R CNN
 F1 "ED2600-ND" 50 -100 50 H V C CNN
-F2 "digikey-footprints:Term_Block_1x2_P5mm" 500 300 60 H I L CNN
+F2 "digikey-footprints:Term_Block_1x2_P5.08MM" 500 300 60 H I L CNN
 F3 "" 0 -200 60 H I C CNN
 DRAW
 C 0 0 25 1 1 0 N
