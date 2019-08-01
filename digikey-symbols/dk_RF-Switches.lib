@@ -34,12 +34,12 @@ DEF PE42423MLBA-Z U 0 40 Y Y 1 F N
 F0 "U" -350 450 60 H V C C N N
 F1 "PE42423MLBA-Z" 50 450 60 H V L C N N
 F2 "digikey-footprints:VFQFN-16-1EP_3x3mm" 200 200 60 H I L C N N
-F3 "http://www.psemi.com/pdf/datasheets/pe42423ds.pdf" 200 300 60 H I L C N N
+F3 "https://www.psemi.com/pdf/datasheets/pe42423ds.pdf" 200 300 60 H I L C N N
 F4 "1046-1103-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "PE42423MLBA-Z" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Switches" 200 700 60 H I L CNN "Family"
-F8 "http://www.psemi.com/pdf/datasheets/pe42423ds.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.psemi.com/pdf/datasheets/pe42423ds.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/psemi/PE42423MLBA-Z/1046-1103-1-ND/4807899" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF SWITCH SPDT 6GHZ 16QFN" 200 1000 60 H I L CNN "Description"
 F11 "pSemi" 200 1100 60 H I L CNN "Manufacturer"

@@ -75,7 +75,7 @@ $ENDCMP
 $CMP CC1101RGPR
 D IC RF TXRX ISM<1GHZ 20VFQFN
 K 296-35718-1-ND 
-F https://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/CC1101.pdf
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc1101
 $ENDCMP
 #
 $CMP CC1200RHBT

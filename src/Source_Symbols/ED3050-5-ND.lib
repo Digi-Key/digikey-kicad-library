@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# A28-LC_7-T-ND
+# ED3050-5-ND
 #
-DEF A28-LC_7-T-ND U 0 40 Y Y 1 F N
+DEF ED3050-5-ND U 0 40 Y Y 1 F N
 F0 "U" -200 600 50 H V L CNN
-F1 "A28-LC_7-T-ND" 0 -900 50 H V C CNN
+F1 "ED3050-5-ND" 0 -900 50 H V C CNN
 F2 "digikey-footprints:Socket_DIP-28_7.62mm_Conn" 500 300 60 H I L CNN
 F3 "" -200 300 60 H I C CNN
 DRAW

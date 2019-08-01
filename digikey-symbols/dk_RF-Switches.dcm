@@ -9,7 +9,7 @@ $ENDCMP
 $CMP PE42423MLBA-Z
 D IC RF SWITCH SPDT 6GHZ 16QFN
 K 1046-1103-1-ND UltraCMOS®, HaRP™
-F http://www.psemi.com/pdf/datasheets/pe42423ds.pdf
+F https://www.psemi.com/pdf/datasheets/pe42423ds.pdf
 $ENDCMP
 #
 #End Doc Library

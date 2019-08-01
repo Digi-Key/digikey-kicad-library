@@ -66,4 +66,10 @@ K AE9998-ND
 F http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
 $ENDCMP
 #
+$CMP ED281DT
+D CONN IC DIP SOCKET 28POS TIN
+K ED3050-5-ND ED
+F https://media.digikey.com/pdf/Data%20Sheets/On%20Shore%20PDFs/EDXXXDT_Dwg.pdf
+$ENDCMP
+#
 #End Doc Library

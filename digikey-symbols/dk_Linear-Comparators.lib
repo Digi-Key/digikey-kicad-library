@@ -419,11 +419,11 @@ X V+ 8 -200 300 100 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# LM339N488_LTB
+# LM339N488_Obsolete
 #
-DEF LM339N488_LTB U 0 0 Y Y 4 L N
+DEF LM339N488_Obsolete U 0 0 Y Y 4 L N
 F0 "U" -200 300 60 H V C C N N
-F1 "LM339N488_LTB" 100 -200 60 H V L C N N
+F1 "LM339N488_Obsolete" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
 F3 "https://www.onsemi.com/pub/Collateral/LM339A-D.pdf" 200 300 60 H I L C N N
 F4 "LM339NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -434,7 +434,7 @@ F8 "https://www.onsemi.com/pub/Collateral/LM339A-D.pdf" 200 800 60 H I L CNN "DK
 F9 "/product-detail/en/on-semiconductor/LM339N/LM339NFS-ND/458686" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC COMPARATOR QUAD 14-DIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 1 0 -150 -100 -100 -100 N
 P 2 0 1 0 -150 100 -100 100 N

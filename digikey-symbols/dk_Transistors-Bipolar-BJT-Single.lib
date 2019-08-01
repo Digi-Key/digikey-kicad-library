@@ -1807,12 +1807,12 @@ DEF BC817-25LT1G Q 0 0 Y Y 1 F N
 F0 "Q" -126 166 60 H V L C N N
 F1 "BC817-25LT1G" 206 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "http://www.onsemi.com/pub/Collateral/BC817-16LT1-D.PDF" 200 300 60 H I L C N N
+F3 "https://www.onsemi.com/pub/Collateral/BC817-16LT1-D.PDF" 200 300 60 H I L C N N
 F4 "BC817-25LT1GOSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "BC817-25LT1G" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "http://www.onsemi.com/pub/Collateral/BC817-16LT1-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.onsemi.com/pub/Collateral/BC817-16LT1-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/BC817-25LT1G/BC817-25LT1GOSCT-ND/917829" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS NPN 45V 0.5A SOT23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
@@ -2521,22 +2521,22 @@ X E 3 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MMBT2907A_LTB
+# MMBT2907A_Obsolete
 #
-DEF MMBT2907A_LTB Q 0 0 Y Y 1 F N
+DEF MMBT2907A_Obsolete Q 0 0 Y Y 1 F N
 F0 "Q" -94 154 60 H V C C N N
-F1 "MMBT2907A_LTB" 200 0 60 V V C C N N
+F1 "MMBT2907A_Obsolete" 200 0 60 V V C C N N
 F2 "digikey-footprints:SOT-23-3" 200 200 60 H I L C N N
-F3 "https://www.onsemi.com/pub/Collateral/PZT2907A-D.PDF" 200 300 60 H I L C N N
+F3 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/PN2907A,MMBT2907A,PZT2907A.pdf" 200 300 60 H I L C N N
 F4 "MMBT2907AFSCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MMBT2907A" 200 500 60 H I L CNN "MPN"
 F6 "Discrete Semiconductor Products" 200 600 60 H I L CNN "Category"
 F7 "Transistors - Bipolar (BJT) - Single" 200 700 60 H I L CNN "Family"
-F8 "https://www.onsemi.com/pub/Collateral/PZT2907A-D.PDF" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/PN2907A,MMBT2907A,PZT2907A.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/on-semiconductor/MMBT2907A/MMBT2907AFSCT-ND/458970" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "TRANS PNP 60V 0.8A SOT-23" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 C 0 0 118 0 1 0 f
 P 2 0 1 0 -150 0 -100 0 N

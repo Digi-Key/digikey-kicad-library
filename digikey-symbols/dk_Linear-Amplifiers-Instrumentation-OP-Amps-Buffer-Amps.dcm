@@ -138,19 +138,19 @@ K LF356N/NOPB-ND BI-FET™
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flf356
 $ENDCMP
 #
-$CMP LM324N488_LTB
+$CMP LM324N488_Obsolete
 D IC OPAMP GP 4 CIRCUIT 14DIP
 K LM324NFS-ND 
 F https://www.onsemi.com/pub/Collateral/LM2902A-D.pdf
 $ENDCMP
 #
-$CMP LM358AN_LTB
+$CMP LM358AN_Obsolete
 D IC OPAMP GP 2 CIRCUIT 8DIP
 K LM358ANFS-ND 
 F https://www.onsemi.com/pub/Collateral/LM358A-D.pdf
 $ENDCMP
 #
-$CMP LM358N_LTB
+$CMP LM358N_Obsolete
 D IC OPAMP GP 2 CIRCUIT 8DIP
 K LM358NFS-ND 
 F https://www.onsemi.com/pub/Collateral/LM358A-D.pdf

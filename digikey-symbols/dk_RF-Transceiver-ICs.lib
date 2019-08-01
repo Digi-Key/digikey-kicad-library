@@ -788,12 +788,12 @@ DEF CC1101RGPR U 0 40 Y Y 1 F N
 F0 "U" -500 450 60 H V C C N N
 F1 "CC1101RGPR" 600 -1100 60 H V C C N N
 F2 "digikey-footprints:QFN-20-1EP_4x4mm_RevA" 200 200 60 H I L C N N
-F3 "https://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/CC1101.pdf" 200 300 60 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc1101" 200 300 60 H I L C N N
 F4 "296-35718-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "CC1101RGPR" 200 500 60 H I L CNN "MPN"
 F6 "RF/IF and RFID" 200 600 60 H I L CNN "Category"
 F7 "RF Transceiver ICs" 200 700 60 H I L CNN "Family"
-F8 "https://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/CC1101.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc1101" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/texas-instruments/CC1101RGPR/296-35718-1-ND/3947329" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC RF TXRX ISM<1GHZ 20VFQFN" 200 1000 60 H I L CNN "Description"
 F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"

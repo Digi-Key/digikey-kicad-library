@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MP4410GQ-Z
+D IC REG BUCK ADJ 100MA 10QFN
+K 1589-1661-1-ND 
+F https://www.monolithicpower.com/pub/media/document/MP4410_r1.0.pdf
+$ENDCMP
+#
 $CMP TPS61200DRCR_Discontinued
 D IC REG BOOST ADJ 1.2A 10VSON
 K 296-27017-1-ND 

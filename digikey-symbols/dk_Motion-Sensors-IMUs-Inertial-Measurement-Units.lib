@@ -92,11 +92,11 @@ X AUX_CL 7 200 300 100 L 50 50 1 1 O
 ENDDRAW
 ENDDEF
 #
-# LSM303CTR
+# LSM303CTR_Obsolete
 #
-DEF LSM303CTR U 0 40 Y Y 1 F N
+DEF LSM303CTR_Obsolete U 0 40 Y Y 1 F N
 F0 "U" -450 550 60 H V C C N N
-F1 "LSM303CTR" -183 -149 60 H V L C N N
+F1 "LSM303CTR_Obsolete" -183 -149 60 H V L C N N
 F2 "digikey-footprints:LGA-12_9x9mm_LSM303C" 200 200 60 H I L C N N
 F3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf" 200 300 60 H I L C N N
 F4 "497-14085-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -107,7 +107,7 @@ F8 "http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb
 F9 "/product-detail/en/stmicroelectronics/LSM303CTR/497-14085-1-ND/4499524" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IMU ACCEL/MAG I2C/SPI 12LGA" 200 1000 60 H I L CNN "Description"
 F11 "STMicroelectronics" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 S -700 500 400 -100 0 1 0 f
 X SCL/SPC 1 -800 400 100 R 50 50 1 1 I

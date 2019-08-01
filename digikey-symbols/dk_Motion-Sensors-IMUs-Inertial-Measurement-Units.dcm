@@ -12,7 +12,7 @@ K 1428-1019-1-ND MotionTracking™
 F https://media.digikey.com/pdf/Data%20Sheets/TDK%20PDFs/MPU-9250_Rev_1.1.pdf
 $ENDCMP
 #
-$CMP LSM303CTR
+$CMP LSM303CTR_Obsolete
 D IMU ACCEL/MAG I2C/SPI 12LGA
 K 497-14085-1-ND 
 F http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf

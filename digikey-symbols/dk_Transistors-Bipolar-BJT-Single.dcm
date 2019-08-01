@@ -363,7 +363,7 @@ $ENDCMP
 $CMP BC817-25LT1G
 D TRANS NPN 45V 0.5A SOT23
 K BC817-25LT1GOSCT-ND 
-F http://www.onsemi.com/pub/Collateral/BC817-16LT1-D.PDF
+F https://www.onsemi.com/pub/Collateral/BC817-16LT1-D.PDF
 $ENDCMP
 #
 $CMP BC847BLT1G
@@ -504,10 +504,10 @@ K MMBT2907A-TPMSCT-ND
 F https://www.mccsemi.com/pdf/Products/MMBT2907A(SOT-23).pdf
 $ENDCMP
 #
-$CMP MMBT2907A_LTB
+$CMP MMBT2907A_Obsolete
 D TRANS PNP 60V 0.8A SOT-23
 K MMBT2907AFSCT-ND 
-F https://www.onsemi.com/pub/Collateral/PZT2907A-D.PDF
+F https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/PN2907A,MMBT2907A,PZT2907A.pdf
 $ENDCMP
 #
 $CMP MMBT2907ALT1G

@@ -7,12 +7,12 @@ DEF SP3485EN-L_TR U 0 0 Y Y 1 F N
 F0 "U" -250 50 60 H V C C N N
 F1 "SP3485EN-L_TR" 100 -600 60 H V L C N N
 F2 "digikey-footprints:SOIC-8_W3.9mm" 200 200 60 H I L C N N
-F3 "https://www.exar.com/content/document.ashx?id=639" 200 300 60 H I L C N N
+F3 "https://www.maxlinear.com/document?id=639" 200 300 60 H I L C N N
 F4 "1016-1817-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "SP3485EN-L/TR" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
 F7 "Interface - Drivers, Receivers, Transceivers" 200 700 60 H I L CNN "Family"
-F8 "https://www.exar.com/content/document.ashx?id=639" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F8 "https://www.maxlinear.com/document?id=639" 200 800 60 H I L CNN "DK_Datasheet_Link"
 F9 "/product-detail/en/maxlinear-inc/SP3485EN-L-TR/1016-1817-1-ND/3586534" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC TXRX RS485 HALF DUPLEX 8SOIC" 200 1000 60 H I L CNN "Description"
 F11 "MaxLinear, Inc." 200 1100 60 H I L CNN "Manufacturer"

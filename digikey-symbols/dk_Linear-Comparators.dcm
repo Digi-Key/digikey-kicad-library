@@ -66,7 +66,7 @@ K LM311NNS/NOPB-ND
 F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm311-n
 $ENDCMP
 #
-$CMP LM339N488_LTB
+$CMP LM339N488_Obsolete
 D IC COMPARATOR QUAD 14-DIP
 K LM339NFS-ND 
 F https://www.onsemi.com/pub/Collateral/LM339A-D.pdf

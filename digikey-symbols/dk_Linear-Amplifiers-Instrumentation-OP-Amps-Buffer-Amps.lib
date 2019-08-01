@@ -879,11 +879,11 @@ X NC 8 0 200 100 D 50 50 1 1 N
 ENDDRAW
 ENDDEF
 #
-# LM324N488_LTB
+# LM324N488_Obsolete
 #
-DEF LM324N488_LTB U 0 0 Y Y 4 L N
+DEF LM324N488_Obsolete U 0 0 Y Y 4 L N
 F0 "U" -200 300 60 H V C C N N
-F1 "LM324N488_LTB" 200 -200 60 H V L C N N
+F1 "LM324N488_Obsolete" 200 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-14_W3mm" 200 200 60 H I L C N N
 F3 "https://www.onsemi.com/pub/Collateral/LM2902A-D.pdf" 200 300 60 H I L C N N
 F4 "LM324NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -894,7 +894,7 @@ F8 "https://www.onsemi.com/pub/Collateral/LM2902A-D.pdf" 200 800 60 H I L CNN "D
 F9 "/product-detail/en/on-semiconductor/LM324N/LM324NFS-ND/458682" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP GP 4 CIRCUIT 14DIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 P 2 0 0 0 -150 -100 -100 -100 N
 P 2 0 0 0 -150 100 -100 100 N
@@ -927,11 +927,11 @@ X ~ 14 300 0 100 L 50 50 4 1 O
 ENDDRAW
 ENDDEF
 #
-# LM358AN_LTB
+# LM358AN_Obsolete
 #
-DEF LM358AN_LTB U 0 0 Y Y 2 L N
+DEF LM358AN_Obsolete U 0 0 Y Y 2 L N
 F0 "U" -300 300 60 H V C C N N
-F1 "LM358AN_LTB" 100 -200 60 H V L C N N
+F1 "LM358AN_Obsolete" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
 F3 "https://www.onsemi.com/pub/Collateral/LM358A-D.pdf" 200 300 60 H I L C N N
 F4 "LM358ANFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -942,7 +942,7 @@ F8 "https://www.onsemi.com/pub/Collateral/LM358A-D.pdf" 200 800 60 H I L CNN "DK
 F9 "/product-detail/en/on-semiconductor/LM358AN/LM358ANFS-ND/458690" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP GP 2 CIRCUIT 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 T 0 0 0 60 0 1 0 A Normal 0 C C
 T 0 0 0 60 0 2 0 B Normal 0 C C
@@ -963,11 +963,11 @@ X VCC 8 0 200 100 D 50 50 2 1 W
 ENDDRAW
 ENDDEF
 #
-# LM358N_LTB
+# LM358N_Obsolete
 #
-DEF LM358N_LTB U 0 0 Y Y 2 L N
+DEF LM358N_Obsolete U 0 0 Y Y 2 L N
 F0 "U" -300 300 60 H V C C N N
-F1 "LM358N_LTB" 100 -200 60 H V L C N N
+F1 "LM358N_Obsolete" 100 -200 60 H V L C N N
 F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 60 H I L C N N
 F3 "https://www.onsemi.com/pub/Collateral/LM358A-D.pdf" 200 300 60 H I L C N N
 F4 "LM358NFS-ND" 200 400 60 H I L CNN "Digi-Key_PN"
@@ -978,7 +978,7 @@ F8 "https://www.onsemi.com/pub/Collateral/LM358A-D.pdf" 200 800 60 H I L CNN "DK
 F9 "/product-detail/en/on-semiconductor/LM358N/LM358NFS-ND/458692" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "IC OPAMP GP 2 CIRCUIT 8DIP" 200 1000 60 H I L CNN "Description"
 F11 "ON Semiconductor" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Last Time Buy NonStock" 200 1200 60 H I L CNN "Status"
+F12 "Obsolete NonStock" 200 1200 60 H I L CNN "Status"
 DRAW
 T 0 0 0 60 0 1 0 A Normal 0 C C
 T 0 0 0 60 0 2 0 B Normal 0 C C

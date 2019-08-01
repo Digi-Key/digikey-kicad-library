@@ -173,4 +173,33 @@ X VDD 8 0 400 150 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
+# LM555CN_NOPB
+#
+DEF LM555CN_NOPB U 0 40 Y Y 1 F N
+F0 "U" -300 250 50 H V L C N N
+F1 "LM555CN_NOPB" 50 -350 50 H V L C N N
+F2 "digikey-footprints:DIP-8_W7.62mm" 200 200 50 H I L C N N
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm555" 200 300 50 H I L C N N
+F4 "LM555CNNS/NOPB-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "LM555CN/NOPB" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Clock/Timing - Programmable Timers and Oscillators" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm555" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/LM555CN-NOPB/LM555CNNS-NOPB-ND/6575" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC OSC SINGLE TIMER 100KHZ 8-DIP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 200 300 -300 0 1 0 f
+X GND 1 0 -400 100 U 50 50 1 1 W
+X TRIG 2 -400 -100 100 R 50 50 1 1 I
+X OUT 3 400 0 100 L 50 50 1 1 O
+X ~RST 4 -400 100 100 R 50 50 1 1 I
+X CONT 5 -400 -200 100 R 50 50 1 1 I
+X THR 6 -400 0 100 R 50 50 1 1 I
+X DIS 7 400 100 100 L 50 50 1 1 O
+X VDD 8 0 300 100 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
 #End Library

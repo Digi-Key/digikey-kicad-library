@@ -33,7 +33,7 @@ $ENDCMP
 $CMP TLC5940PWPR
 D IC LED DRIVER LIN 120MA 28HTSSOP
 K 296-35975-1-ND 
-F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc5940
+F http://www.ti.com/lit/ds/symlink/tlc5940.pdf
 $ENDCMP
 #
 $CMP TLC59711PWPR

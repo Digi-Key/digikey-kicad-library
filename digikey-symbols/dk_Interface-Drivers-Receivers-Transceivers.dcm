@@ -3,7 +3,7 @@ EESchema-DOCLIB  Version 2.0
 $CMP SP3485EN-L_TR
 D IC TXRX RS485 HALF DUPLEX 8SOIC
 K 1016-1817-1-ND 
-F https://www.exar.com/content/document.ashx?id=639
+F https://www.maxlinear.com/document?id=639
 $ENDCMP
 #
 $CMP SN65HVD230DR

@@ -1,6 +1,38 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# MP4410GQ-Z
+#
+DEF MP4410GQ-Z U 0 40 Y Y 1 F N
+F0 "U" -250 350 60 H V R C N N
+F1 "MP4410GQ-Z" 50 -350 60 H V L C N N
+F2 "digikey-footprints:QFN-10-1EP_3x3mm" 200 200 60 H I L C N N
+F3 "https://www.monolithicpower.com/pub/media/document/MP4410_r1.0.pdf" 200 300 60 H I L C N N
+F4 "1589-1661-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "MP4410GQ-Z" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "PMIC - Voltage Regulators - DC DC Switching Regulators" 200 700 60 H I L CNN "Family"
+F8 "https://www.monolithicpower.com/pub/media/document/MP4410_r1.0.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/monolithic-power-systems-inc/MP4410GQ-Z/1589-1661-1-ND/9433427" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC REG BUCK ADJ 100MA 10QFN" 200 1000 60 H I L CNN "Description"
+F11 "Monolithic Power Systems Inc." 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -300 300 300 -300 0 1 0 f
+X BST 1 400 100 100 L 50 50 0 1 O
+X IN 10 0 400 100 D 50 50 0 1 W
+X GND 11 -100 -400 100 U 50 50 0 1 W
+X SW 2 400 0 100 L 50 50 0 1 O
+X GND 3 0 -400 100 U 50 50 0 1 W
+X BIAS 4 -400 0 100 R 50 50 0 1 I
+X FB 5 -400 -200 100 R 50 50 0 1 I
+X ILIM 6 -400 100 100 R 50 50 0 1 I
+X SS 7 -400 200 100 R 50 50 0 1 I
+X ENHY 8 400 -100 100 L 50 50 0 1 O
+X EN 9 -400 -100 100 R 50 50 0 1 I
+ENDDRAW
+ENDDEF
+#
 # TPS61200DRCR_Discontinued
 #
 DEF TPS61200DRCR_Discontinued U 0 40 Y Y 1 F N
