@@ -25,7 +25,7 @@ The current organization of the library follows Digi-Key's [family taxonomy](htt
 Library metadata will be updated regularly and symbols for parts which may not be readily available will have its corresponding status appended to each symbol name.
 
 ## Installation
-For instructions on how to install please see this Digi-Key TechForum post.
+For instructions on how to install/import please see this Digi-Key TechForum post:
 
 [Importing the Digi-Key KiCad Library into KiCad 5.0.0+](https://forum.digikey.com/t/importing-the-digi-key-kicad-library-into-kicad-5-0-0/4075)
 
