@@ -1,44 +1,13 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
-#
-# ADS1115IDGST
-#
-DEF ADS1115IDGST U 0 40 Y Y 1 F N
-F0 "U" -350 450 60 H V L C N N
-F1 "ADS1115IDGST" 50 -450 60 H V L C N N
-F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1113" 200 300 60 H I L C N N
-F4 "296-24934-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "ADS1115IDGST" 200 500 60 H I L CNN "MPN"
-F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
-F7 "Data Acquisition - Analog to Digital Converters (ADC)" 200 700 60 H I L CNN "Family"
-F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1113" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/texas-instruments/ADS1115IDGST/296-24934-1-ND/2123298" 200 900 60 H I L CNN "DK_Detail_Page"
-F10 "IC ADC 16BIT SIGMA-DELTA 10VSSOP" 200 1000 60 H I L CNN "Description"
-F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
-F12 "Active" 200 1200 60 H I L CNN "Status"
-DRAW
-S -350 400 350 -400 0 1 0 f
-X ADDR 1 -500 300 150 R 50 50 1 1 I
-X ALRT/RDY 2 500 0 150 L 50 50 1 1 O
-X GND 3 0 -550 150 U 50 50 1 1 W
-X AIN0 4 -500 200 150 R 50 50 1 1 I
-X AIN1 5 -500 100 150 R 50 50 1 1 I
-X AIN2 6 -500 0 150 R 50 50 1 1 I
-X AIN3 7 -500 -100 150 R 50 50 1 1 I
-X VDD 8 0 550 150 D 50 50 1 1 W
-X SDA 9 -500 -300 150 R 50 50 1 1 B
-X SCL 10 -500 -200 150 R 50 50 1 1 I
-ENDDRAW
-ENDDEF
 #
 # ADS1015IDGST
 #
 DEF ADS1015IDGST U 0 40 Y Y 1 F N
-F0 "U" -350 450 60 H V L C N N
-F1 "ADS1015IDGST" 50 -450 60 H V L C N N
-F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L C N N
-F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1013" 200 300 60 H I L C N N
+F0 "U" -350 450 60 H V L CNN
+F1 "ADS1015IDGST" 50 -450 60 H V L CNN
+F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L CNN
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1013" 200 300 60 H I L CNN
 F4 "296-25227-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "ADS1015IDGST" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
@@ -51,6 +20,7 @@ F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -350 400 350 -400 0 1 0 f
 X ADDR 1 -500 300 150 R 50 50 1 1 I
+X SCL 10 -500 -300 150 R 50 50 1 1 I
 X ALRT/RDY 2 500 0 150 L 50 50 1 1 O
 X GND 3 0 -500 100 U 50 50 1 1 W
 X AIN0 4 -500 200 150 R 50 50 1 1 I
@@ -59,17 +29,101 @@ X AIN2 6 -500 0 150 R 50 50 1 1 I
 X AIN3 7 -500 -100 150 R 50 50 1 1 I
 X VDD 8 0 500 100 D 50 50 1 1 W
 X SDA 9 -500 -200 150 R 50 50 1 1 B
-X SCL 10 -500 -300 150 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# ADS1115IDGST
+#
+DEF ADS1115IDGST U 0 40 Y Y 1 F N
+F0 "U" -350 450 60 H V L CNN
+F1 "ADS1115IDGST" 50 -450 60 H V L CNN
+F2 "digikey-footprints:MSOP-10_W3mm" 200 200 60 H I L CNN
+F3 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1113" 200 300 60 H I L CNN
+F4 "296-24934-1-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "ADS1115IDGST" 200 500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
+F7 "Data Acquisition - Analog to Digital Converters (ADC)" 200 700 60 H I L CNN "Family"
+F8 "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1113" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/texas-instruments/ADS1115IDGST/296-24934-1-ND/2123298" 200 900 60 H I L CNN "DK_Detail_Page"
+F10 "IC ADC 16BIT SIGMA-DELTA 10VSSOP" 200 1000 60 H I L CNN "Description"
+F11 "Texas Instruments" 200 1100 60 H I L CNN "Manufacturer"
+F12 "Active" 200 1200 60 H I L CNN "Status"
+DRAW
+S -350 400 350 -400 0 1 0 f
+X ADDR 1 -500 300 150 R 50 50 1 1 I
+X SCL 10 -500 -200 150 R 50 50 1 1 I
+X ALRT/RDY 2 500 0 150 L 50 50 1 1 O
+X GND 3 0 -550 150 U 50 50 1 1 W
+X AIN0 4 -500 200 150 R 50 50 1 1 I
+X AIN1 5 -500 100 150 R 50 50 1 1 I
+X AIN2 6 -500 0 150 R 50 50 1 1 I
+X AIN3 7 -500 -100 150 R 50 50 1 1 I
+X VDD 8 0 550 150 D 50 50 1 1 W
+X SDA 9 -500 -300 150 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# LTC2245
+#
+DEF LTC2245 U 0 40 Y Y 1 F N
+F0 "U" -400 1050 60 H V L CNN
+F1 "LTC2245" -400 950 60 H V L CNN
+F2 "digikey-footprints:QFN-32-1EP_5x5mm" -400 -2000 60 H I L CNN
+F3 "" -400 -2000 60 H I L CNN
+F4 "LTC2245CUH#PBF-ND" -400 -1900 60 H I L CNN "Digi-Key_PN"
+F5 "LTC2245CUH#PBF" -400 -1800 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" -400 -1700 60 H I L CNN "Category"
+F7 "Data Acquisition - Analog to Digital Converters (ADC)" -400 -1600 60 H I L CNN "Family"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/2245fa.pdf" -400 -1500 60 H I L CNN "DK_Datasheet_Link"
+F9 "https://www.analog.com/en/products/ltc2245.html" -400 -1400 60 H I L CNN "DK_Detail_Page"
+F10 "14-Bit, 10Msps Low Power 3V ADC" -400 -1300 60 H I L CNN "Description"
+F11 "Analog Devices" -400 -1200 60 H I L CNN "Manufacturer"
+F12 "Active" -400 -1100 60 H I L CNN "Status"
+DRAW
+S -400 900 400 -1000 0 1 0 f
+X Ain+ 1 -500 800 100 R 50 50 1 1 I
+X SHDN 10 -500 300 100 R 50 50 1 1 I
+X /OE 11 -500 200 100 R 50 50 1 1 I
+X D0 12 500 800 100 L 50 50 1 1 O
+X D1 13 500 700 100 L 50 50 1 1 O
+X D2 14 500 600 100 L 50 50 1 1 O
+X D3 15 500 500 100 L 50 50 1 1 O
+X D4 16 500 400 100 L 50 50 1 1 O
+X D5 17 500 300 100 L 50 50 1 1 O
+X D6 18 500 200 100 L 50 50 1 1 O
+X D7 19 500 100 100 L 50 50 1 1 O
+X Ain- 2 -500 700 100 R 50 50 1 1 I
+X OGND 20 500 -900 100 L 50 50 1 1 W
+X OVDD 21 500 -800 100 L 50 50 1 1 W
+X D8 22 500 0 100 L 50 50 1 1 O
+X D9 23 500 -100 100 L 50 50 1 1 O
+X D10 24 500 -200 100 L 50 50 1 1 O
+X D11 25 500 -300 100 L 50 50 1 1 O
+X D12 26 500 -400 100 L 50 50 1 1 O
+X D13 27 500 -500 100 L 50 50 1 1 O
+X OF 28 500 -600 100 L 50 50 1 1 O
+X MODE 29 -500 0 100 R 50 50 1 1 I
+X REFH 3 -500 -500 100 R 50 50 1 1 P
+X SENSE 30 -500 100 100 R 50 50 1 1 I
+X VCM 31 -500 500 100 R 50 50 1 1 O
+X VDD 32 -500 -800 100 R 50 50 1 1 W N
+X GND 33 -500 -900 100 R 50 50 1 1 W N
+X REFH 4 -500 -500 100 R 50 50 1 1 P N
+X REFL 5 -500 -600 100 R 50 50 1 1 P
+X REFL 6 -500 -600 100 R 50 50 1 1 P N
+X VDD 7 -500 -800 100 R 50 50 1 1 W
+X GND 8 -500 -900 100 R 50 50 1 1 W
+X CLK 9 -500 -300 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
 # MCP3008-I_P
 #
 DEF MCP3008-I_P U 0 40 Y Y 1 F N
-F0 "U" -300 650 60 H V L C N N
-F1 "MCP3008-I_P" 150 -750 60 H V L C N N
-F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011593" 200 300 60 H I L C N N
+F0 "U" -300 650 60 H V L CNN
+F1 "MCP3008-I_P" 150 -750 60 H V L CNN
+F2 "digikey-footprints:DIP-16_W7.62mm" 200 200 60 H I L CNN
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011593" 200 300 60 H I L CNN
 F4 "MCP3008-I/P-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP3008-I/P" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
@@ -82,6 +136,13 @@ F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 S -300 600 300 -700 0 1 0 f
 X CH0 1 -450 500 150 R 50 50 1 1 I
+X ~CS~/SHDN 10 -450 -300 150 R 50 50 1 1 I
+X DIN 11 -450 -400 150 R 50 50 1 1 I
+X DOUT 12 450 0 150 L 50 50 1 1 O
+X CLK 13 -450 -500 150 R 50 50 1 1 I
+X AGND 14 100 -850 150 U 50 50 1 1 W
+X VREF 15 -450 -600 150 R 50 50 1 1 I
+X VDD 16 0 750 150 D 50 50 1 1 W
 X CH1 2 -450 400 150 R 50 50 1 1 I
 X CH2 3 -450 300 150 R 50 50 1 1 I
 X CH3 4 -450 200 150 R 50 50 1 1 I
@@ -90,13 +151,6 @@ X CH5 6 -450 0 150 R 50 50 1 1 I
 X CH6 7 -450 -100 150 R 50 50 1 1 I
 X CH7 8 -450 -200 150 R 50 50 1 1 I
 X DGND 9 0 -850 150 U 50 50 1 1 W
-X ~CS~/SHDN 10 -450 -300 150 R 50 50 1 1 I
-X DIN 11 -450 -400 150 R 50 50 1 1 I
-X DOUT 12 450 0 150 L 50 50 1 1 O
-X CLK 13 -450 -500 150 R 50 50 1 1 I
-X AGND 14 100 -850 150 U 50 50 1 1 W
-X VREF 15 -450 -600 150 R 50 50 1 1 I
-X VDD 16 0 750 150 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
