@@ -1,13 +1,62 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
+#
+# AD5546CRUZ
+#
+DEF AD5546CRUZ U 0 40 Y Y 1 F N
+F0 "U" -650 100 60 H V L TNN
+F1 "AD5546CRUZ" -650 0 60 H V L TNN
+F2 "digikey-footprints:TSSOP-28_W4.40mm" 150 -1800 60 H I L CNN
+F3 "" 150 -1700 60 H I L CNN
+F4 "505-AD5546CRUZ-ND" 150 -1600 60 H I L CNN "Digi-Key_PN"
+F5 "AD5546CRUZ" 150 -1500 60 H I L CNN "MPN"
+F6 "Integrated Circuits (ICs)" 150 -1400 60 H I L CNN "Category"
+F7 "Data Acquisition - Digital to Analog Converters (DAC)" 150 -1300 60 H I L CNN "Family"
+F8 "https://www.analog.com/media/en/technical-documentation/data-sheets/AD5546_5556.pdf" 150 -1200 60 H I L CNN "DK_Datasheet_Link"
+F9 "https://www.analog.com/en/products/ad5546.html" 150 -1100 60 H I L CNN "DK_Detail_Page"
+F10 "Current-Output Parallel-Input, 16-Bit Digital-to-Analog Converter" 150 -1000 60 H I L CNN "Description"
+F11 "Analog Devices" 150 -900 60 H I L CNN "Manufacturer"
+F12 "Active" 150 -800 60 H I L CNN "Status"
+DRAW
+P 6 0 1 0 -1350 850 -1350 -850 0 -850 850 0 0 850 -1350 850 f
+X D7 1 -1450 50 100 R 50 50 1 1 I
+X R1 11 -1100 950 100 D 50 50 1 1 B
+X RCOM 12 -900 950 100 D 50 50 1 1 B
+X REF 13 -500 950 100 D 50 50 1 1 B
+X IOUT 14 950 0 100 L 50 50 1 1 O
+X LDAC 15 -500 -950 100 U 50 50 1 1 I
+X /WR 16 -700 -950 100 U 50 50 1 1 I
+X MSB 17 -100 -950 100 U 50 50 1 1 I
+X /RS 18 -300 -950 100 U 50 50 1 1 I
+X GND 19 950 -200 300 L 50 50 1 1 W
+X D6 2 -1450 150 100 R 50 50 1 1 I
+X D15 20 -1450 -750 100 R 50 50 1 1 I
+X RFB 20 -100 950 100 D 50 50 1 1 B
+X D14 21 -1450 -650 100 R 50 50 1 1 I
+X D13 22 -1450 -550 100 R 50 50 1 1 I
+X D12 23 -1450 -450 100 R 50 50 1 1 I
+X D11 24 -1450 -350 100 R 50 50 1 1 I
+X D10 25 -1450 -250 100 R 50 50 1 1 I
+X D9 26 -1450 -150 100 R 50 50 1 1 I
+X D8 27 -1450 -50 100 R 50 50 1 1 I
+X VDD 28 -1050 -950 100 U 50 50 1 1 W
+X D5 3 -1450 250 100 R 50 50 1 1 I
+X D4 4 -1450 350 100 R 50 50 1 1 I
+X D3 5 -1450 450 100 R 50 50 1 1 I
+X D2 6 -1450 550 100 R 50 50 1 1 I
+X D1 7 -1450 650 100 R 50 50 1 1 I
+X D0 8 -1450 750 100 R 50 50 1 1 I
+X ROFS 9 -300 950 100 D 50 50 1 1 B
+ENDDRAW
+ENDDEF
 #
 # MCP4725A0T-E_CH
 #
 DEF MCP4725A0T-E_CH U 0 40 Y Y 1 F N
-F0 "U" -350 300 60 H V L C N N
-F1 "MCP4725A0T-E_CH" 50 -300 60 H V L C N N
-F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L C N N
-F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en532676" 200 300 60 H I L C N N
+F0 "U" -350 300 60 H V L CNN
+F1 "MCP4725A0T-E_CH" 50 -300 60 H V L CNN
+F2 "digikey-footprints:SOT-23-6" 200 200 60 H I L CNN
+F3 "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en532676" 200 300 60 H I L CNN
 F4 "MCP4725A0T-E/CHCT-ND" 200 400 60 H I L CNN "Digi-Key_PN"
 F5 "MCP4725A0T-E/CH" 200 500 60 H I L CNN "MPN"
 F6 "Integrated Circuits (ICs)" 200 600 60 H I L CNN "Category"
