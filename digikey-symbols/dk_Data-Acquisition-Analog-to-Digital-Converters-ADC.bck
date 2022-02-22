@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1115IDGST
+D IC ADC 16BIT SIGMA-DELTA 10VSSOP
+K 296-24934-1-ND 
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1113
+$ENDCMP
+#
+$CMP ADS1015IDGST
+D IC ADC 12BIT SIGMA-DELTA 10VSSOP
+K 296-25227-1-ND 
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fads1013
+$ENDCMP
+#
+$CMP MCP3008-I_P
+D IC ADC 10BIT SAR 16DIP
+K MCP3008-I/P-ND 
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011593
+$ENDCMP
+#
+#End Doc Library
