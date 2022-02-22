@@ -1,8 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD5546CRUZ
+D Current-Output Parallel-Input, 16-Bit Digital-to-Analog Converter
+K AD5546CRUZ
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5546_5556.pdf
+$ENDCMP
+#
 $CMP MCP4725A0T-E_CH
 D IC DAC 12BIT V-OUT SOT23-6
-K MCP4725A0T-E/CHCT-ND 
+K MCP4725A0T-E/CHCT-ND
 F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en532676
 $ENDCMP
 #
