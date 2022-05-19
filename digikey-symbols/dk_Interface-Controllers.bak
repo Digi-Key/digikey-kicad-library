@@ -1184,7 +1184,7 @@
     (property "Value" "FT230XS-R" (id 1) (at -2.54 -13.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "digikey-footprints:SSOP-16_W3.90mm" (id 2) (at 5.08 5.08 0)
+    (property "Footprint" "digikey-footprints:SOIC-16_W3.90mm" (id 2) (at 5.08 5.08 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf" (id 3) (at 5.08 7.62 0)
