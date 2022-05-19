@@ -129,7 +129,7 @@
     (property "Value" "ADXL335BCPZ-RL7" (id 1) (at 17.78 -15.24 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "digikey-footprints:LFQFN-16-1EP_4x4mm" (id 2) (at 5.08 5.08 0)
+    (property "Footprint" "digikey-footprints:LFQFN-16-1EP_3x3mm" (id 2) (at 5.08 5.08 0)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL335.pdf" (id 3) (at 5.08 7.62 0)
