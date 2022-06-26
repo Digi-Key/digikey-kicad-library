@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CAP1188-1-CP-TR
-D IC TOUCH SENSOR/LED DRVR 24VQFN
-K CAP1188-1-CP-TRCT-ND 
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en561990
-$ENDCMP
-#
-#End Doc Library

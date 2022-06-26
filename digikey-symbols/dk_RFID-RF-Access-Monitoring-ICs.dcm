@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TRF7970ARHBR
-D IC RFID RDR/TRANS 13.56MZ 32VQFN
-K 296-29355-1-ND 
-F https://media.digikey.com/pdf/Data%20Sheets/Texas%20Instruments%20PDFs/TRF7970A.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 4609X-101-103LF
-D RES ARRAY 8 RES 10K OHM 9SIP
-K 4609X-101-103LF-ND 4600X
-F https://www.bourns.com/docs/Product-Datasheets/4600x.pdf
-$ENDCMP
-#
-#End Doc Library

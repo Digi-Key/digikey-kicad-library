@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TS3USB30EDGSR
-D IC USB SWITCH SGL 1X2 10MSOP
-K 296-25495-1-ND 
-F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fts3usb30e
-$ENDCMP
-#
-#End Doc Library

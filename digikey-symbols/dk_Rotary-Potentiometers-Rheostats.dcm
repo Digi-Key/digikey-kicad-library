@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP P120PK-Y25BR10K
-D POT 10K OHM 1/20W PLASTIC LINEAR
-K 987-1710-ND P120
-F https://www.ttelectronics.com/TTElectronics/media/ProductFiles/Potentiometers/Datasheets/P120.pdf
-$ENDCMP
-#
-#End Doc Library

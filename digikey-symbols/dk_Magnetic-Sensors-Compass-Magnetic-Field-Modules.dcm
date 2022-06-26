@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP HMC6343
-D 3-AXIS DIGITAL COMPASS SOLUTION
-K 342-1056-ND HMC
-F https://aerospace.honeywell.com/en/~/media/aerospace/files/datasheet/3-axiscompasswithalgorithimshmc6343_ds.pdf
-$ENDCMP
-#
-#End Doc Library

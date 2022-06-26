@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PEC11R-4215F-S0024
-D ROTARY ENCODER MECHANICAL 24PPR
-K PEC11R-4215F-S0024-ND PEC11R
-F https://www.bourns.com/docs/Product-Datasheets/PEC11R.pdf
-$ENDCMP
-#
-#End Doc Library

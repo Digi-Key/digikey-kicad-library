@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SEN0140
-D 10 DOF MEMS IMU SENSOR
-K 1738-1058-ND 
-F https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/SEN0140_Web.pdf
-$ENDCMP
-#
-#End Doc Library

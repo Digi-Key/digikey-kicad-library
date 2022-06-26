@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ADL5380ACPZ-R7
-D RF DEMOD IC 400MHZ-6GHZ 24LFCSP
-K ADL5380ACPZ-R7CT-ND 
-F https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5380.pdf
-$ENDCMP
-#
-#End Doc Library

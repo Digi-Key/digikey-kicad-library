@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MCP4725A0T-E_CH
-D IC DAC 12BIT V-OUT SOT23-6
-K MCP4725A0T-E/CHCT-ND 
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en532676
-$ENDCMP
-#
-#End Doc Library

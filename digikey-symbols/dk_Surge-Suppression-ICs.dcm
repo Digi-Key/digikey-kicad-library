@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LT4356IMS-1_PBF
-D IC OVERVOLT PROT REG 10-MSOP
-K LT4356IMS-1#PBF-ND 
-F http://www.linear.com/docs/25228
-$ENDCMP
-#
-#End Doc Library
