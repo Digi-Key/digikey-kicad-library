@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MAX6816EUS_T
-D IC DEBOUNCER SWITCH SGL SOT143-4
-K MAX6816EUS+TCT-ND 
-F https://datasheets.maximintegrated.com/en/ds/MAX6816-MAX6818.pdf
-$ENDCMP
-#
-#End Doc Library

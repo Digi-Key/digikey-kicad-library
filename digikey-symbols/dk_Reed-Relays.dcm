@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 9007-05-00
-D RELAY REED SPST 500MA 5V
-K 306-1062-ND 9000, Spartan
-F https://cotorelay.com/wp-content/uploads/2014/09/9007_series_reed_relay_datasheet.pdf
-$ENDCMP
-#
-#End Doc Library

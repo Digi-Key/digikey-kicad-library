@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 2450AT18A100E
-D RF ANT 2.4GHZ CHIP SOLDER SMD
-K 712-1005-1-ND 
-F https://www.johansontechnology.com/datasheets/2450AT18A100/2450AT18A100.pdf
-$ENDCMP
-#
-#End Doc Library

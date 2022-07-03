@@ -3,3 +3,4 @@ src/Source_Symbols/*.bck
 src/Source_Symbols/*.bak
 src/Source_Symbols/*.dcm
 !*lib
+*.bak

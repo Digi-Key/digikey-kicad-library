@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PRT-13612
-D THERMOCOUPLE CONN - PCC-SMP-K
-K 1568-1306-ND 
-F https://cdn.sparkfun.com/datasheets/Prototyping/PCC-SMP-K-datasheet.pdf
-$ENDCMP
-#
-#End Doc Library

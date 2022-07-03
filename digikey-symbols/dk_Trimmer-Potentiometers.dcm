@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TC33X-2-103E
-D TRIMMER 10K OHM 0.1W J LEAD TOP
-K TC33X-103ETR-ND Trimpot® TC33 - Open Frame
-F https://www.bourns.com/docs/Product-Datasheets/TC33.pdf
-$ENDCMP
-#
-#End Doc Library

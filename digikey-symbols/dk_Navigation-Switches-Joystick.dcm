@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP JS5208
-D SWITCH NAVIGATION 20MA 15V
-K EG4561-ND JS5208
-F http://spec_sheets.e-switch.com/specs/P200020.pdf
-$ENDCMP
-#
-#End Doc Library

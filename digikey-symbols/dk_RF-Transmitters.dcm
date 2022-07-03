@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TXM-433-LR
-D RF TX IC ASK/OOK 433MHZ 8SMD MOD
-K TXM-433-LR_-ND LR
-F https://linxtechnologies.com/wp/wp-content/uploads/txm-fff-lr.pdf
-$ENDCMP
-#
-#End Doc Library

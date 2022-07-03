@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AR1100-I_SS
-D IC SCREEN CNTRL 12BIT 20SSOP
-K AR1100-I/SS-ND mTouch™
-F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en555252
-$ENDCMP
-#
-#End Doc Library

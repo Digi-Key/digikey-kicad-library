@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SN65220DBVR
-D IC SINGLE USB PORT TVS SOT-23-6
-K 296-9694-1-ND 
-F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn75240
-$ENDCMP
-#
-#End Doc Library
