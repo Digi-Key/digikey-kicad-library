@@ -1,3 +1,10 @@
+:warning: :warning: **Updated libraries** :warning: :warning:
+
+* [v6](https://github.com/IamPhytan/digikey-kicad-library/tree/v6)
+* [v7](https://github.com/IamPhytan/digikey-kicad-library/tree/v7)
+
+:warning: :warning: :warning: :warning:
+
 > :warning: This library should be considered unmaintained, but will remain here with and advisory to watch look at the current Issues. The the individuals that were party to creation of this library are currently unable to maintain this. If there are interested in helping update these libraries to 6.0 and continued maintinence through small amounts of contract work please contact me for a chat.
 
 # digikey-kicad-library
