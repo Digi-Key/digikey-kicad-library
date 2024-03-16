@@ -1,16 +1,125 @@
-(module Mic_CMA-4544PF-W (layer F.Cu) (tedit 59D24F3A)
-  (fp_text reference REF** (at 0.25 -5.9) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value Mic_CMA-4544PF-W (at 0.125 6.025) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_circle (center 0 0) (end 3.1 3.9) (layer F.SilkS) (width 0.1))
-  (fp_text user %R (at 0.2 3.275) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_circle (center 0 0) (end 5.1 0) (layer F.CrtYd) (width 0.1))
-  (fp_circle (center 0 0) (end 4.85 0) (layer F.Fab) (width 0.1))
-  (pad 1 thru_hole rect (at 2 -1.27) (size 1.5 1.5) (drill 0.65) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 2 1.27) (size 1.5 1.5) (drill 0.65) (layers *.Cu *.Mask))
+(footprint "Mic_CMA-4544PF-W"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.25 -5.9 0)
+		(layer "F.SilkS")
+		(uuid "aca7c0b2-1c51-453e-9370-44272364bec9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Mic_CMA-4544PF-W"
+		(at 0.125 6.025 0)
+		(layer "F.Fab")
+		(uuid "523bca14-051e-444f-8ccc-2ab6e60a6719")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aad5ab8c-e613-474d-8701-9b7f0087229e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3983f926-7e34-4363-b016-9569e6ed0d75")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "353c13a3-e41f-4ba1-a686-af2df3b6e4f0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 3.1 3.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "172e886b-335c-4117-804f-13d0270c7357")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 5.1 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "853dcd11-f80c-4dce-94f4-b6dc2bc41e5b")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 4.85 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "be933259-b161-4412-b2bb-c54011dd6121")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.2 3.275 0)
+		(layer "F.Fab")
+		(uuid "aeb088ff-a90a-4700-bdb8-e1d25024e12c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 2 -1.27)
+		(size 1.5 1.5)
+		(drill 0.65)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b0b81429-9e57-4712-ac29-1e386c065bff")
+	)
+	(pad "2" thru_hole circle
+		(at 2 1.27)
+		(size 1.5 1.5)
+		(drill 0.65)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d5e596d0-79a7-4a2d-8e67-74f551da29b9")
+	)
 )

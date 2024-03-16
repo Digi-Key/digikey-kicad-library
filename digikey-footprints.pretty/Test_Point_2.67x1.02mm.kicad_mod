@@ -1,10 +1,71 @@
-(module Test_Point_2.67x1.02mm (layer F.Cu) (tedit 5D28A72B)
-  (attr smd)
-  (fp_text reference REF** (at 0.01 -4.69) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (fp_text value Test_Point_2.67x1.02mm (at 0 4.7) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (pad 1 smd rect (at 0 0) (size 2.67 1.02) (layers F.Cu F.Paste F.Mask))
+(footprint "Test_Point_2.67x1.02mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.01 -4.69 0)
+		(layer "F.SilkS")
+		(uuid "93900eac-8811-4333-9ee3-62a21a2da416")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Test_Point_2.67x1.02mm"
+		(at 0 4.7 0)
+		(layer "F.Fab")
+		(uuid "d77d39a5-da0a-4588-a095-d034dffc9b46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8087962-057e-4a2a-80ca-9c70558513e3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d2de92d-d747-4066-b288-738195c9d5ff")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6a876c97-e684-4760-b255-febc97956a79")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(pad "1" smd rect
+		(at 0 0)
+		(size 2.67 1.02)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "33130394-6d02-4d9a-9918-49539f93c90a")
+	)
 )
