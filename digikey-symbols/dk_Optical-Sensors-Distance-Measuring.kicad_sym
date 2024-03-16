@@ -1,105 +1,381 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "VL53L0CXV0DH_1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (at -10.16 8.89 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "VL53L0CXV0DH_1" (at 3.81 -13.97 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "digikey-footprints:VL53L0CXV0DH_1" (at 5.08 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf" (at 5.08 7.62 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Digi-Key_PN" "497-16538-1-ND" (at 5.08 10.16 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "MPN" "VL53L0CXV0DH/1" (at 5.08 12.7 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Category" "Sensors, Transducers" (at 5.08 15.24 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Family" "Optical Sensors - Distance Measuring" (at 5.08 17.78 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Datasheet_Link" "http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf" (at 5.08 20.32 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Detail_Page" "/product-detail/en/stmicroelectronics/VL53L0CXV0DH-1/497-16538-1-ND/6023692" (at 5.08 22.86 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Description" "SENSOR OPTICAL 200CM I2C" (at 5.08 25.4 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Manufacturer" "STMicroelectronics" (at 5.08 27.94 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Status" "Active" (at 5.08 30.48 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "ki_keywords" "497-16538-1-ND" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "SENSOR OPTICAL 200CM I2C" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "VL53L0CXV0DH_1_0_1"
-      (rectangle (start -10.16 7.62) (end 10.16 -12.7)
-        (stroke (width 0) (type default))
-        (fill (type background))
-      )
-    )
-    (symbol "VL53L0CXV0DH_1_1_1"
-      (pin power_in line (at 0 10.16 270) (length 2.54)
-        (name "AVDDVCSEL" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin input line (at -12.7 0 0) (length 2.54)
-        (name "SCL" (effects (font (size 1.27 1.27))))
-        (number "10" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at 2.54 10.16 270) (length 2.54)
-        (name "AVDD" (effects (font (size 1.27 1.27))))
-        (number "11" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at 0 -15.24 90) (length 2.54)
-        (name "GND" (effects (font (size 1.27 1.27))))
-        (number "12" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at 2.54 -15.24 90) (length 2.54)
-        (name "AVSSVCSEL" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at -7.62 -15.24 90) (length 2.54)
-        (name "GND" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at -5.08 -15.24 90) (length 2.54)
-        (name "GND" (effects (font (size 1.27 1.27))))
-        (number "4" (effects (font (size 1.27 1.27))))
-      )
-      (pin input line (at -12.7 5.08 0) (length 2.54)
-        (name "XSHUT" (effects (font (size 1.27 1.27))))
-        (number "5" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at -2.54 -15.24 90) (length 2.54)
-        (name "GND" (effects (font (size 1.27 1.27))))
-        (number "6" (effects (font (size 1.27 1.27))))
-      )
-      (pin output line (at 12.7 0 180) (length 2.54)
-        (name "GPIO1" (effects (font (size 1.27 1.27))))
-        (number "7" (effects (font (size 1.27 1.27))))
-      )
-      (pin input line (at -12.7 2.54 0) (length 2.54)
-        (name "DNC" (effects (font (size 1.27 1.27))))
-        (number "8" (effects (font (size 1.27 1.27))))
-      )
-      (pin bidirectional line (at -12.7 -2.54 0) (length 2.54)
-        (name "SDA" (effects (font (size 1.27 1.27))))
-        (number "9" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
+(kicad_symbol_lib
+	(version 20231120)
+	(generator "kicad_symbol_editor")
+	(generator_version "8.0")
+	(symbol "VL53L0CXV0DH_1"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -10.16 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "VL53L0CXV0DH_1"
+			(at 3.81 -13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "digikey-footprints:VL53L0CXV0DH_1"
+			(at 5.08 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf"
+			(at 5.08 7.62 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "SENSOR OPTICAL 200CM I2C"
+			(at 5.08 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "497-16538-1-ND"
+			(at 5.08 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "VL53L0CXV0DH/1"
+			(at 5.08 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Sensors, Transducers"
+			(at 5.08 15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "Optical Sensors - Distance Measuring"
+			(at 5.08 17.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf"
+			(at 5.08 20.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/stmicroelectronics/VL53L0CXV0DH-1/497-16538-1-ND/6023692"
+			(at 5.08 22.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "STMicroelectronics"
+			(at 5.08 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "497-16538-1-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "VL53L0CXV0DH_1_0_1"
+			(rectangle
+				(start -10.16 7.62)
+				(end 10.16 -12.7)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "VL53L0CXV0DH_1_1_1"
+			(pin power_in line
+				(at 0 10.16 270)
+				(length 2.54)
+				(name "AVDDVCSEL"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 0 0)
+				(length 2.54)
+				(name "SCL"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 10.16 270)
+				(length 2.54)
+				(name "AVDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -15.24 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 -15.24 90)
+				(length 2.54)
+				(name "AVSSVCSEL"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -7.62 -15.24 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -5.08 -15.24 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 5.08 0)
+				(length 2.54)
+				(name "XSHUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -2.54 -15.24 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 12.7 0 180)
+				(length 2.54)
+				(name "GPIO1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -12.7 2.54 0)
+				(length 2.54)
+				(name "DNC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -12.7 -2.54 0)
+				(length 2.54)
+				(name "SDA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 )

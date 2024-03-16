@@ -1,73 +1,237 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "MAX6816EUS_T" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (at -5.08 1.016 0)
-      (effects (font (size 1.524 1.524)) (justify left))
-    )
-    (property "Value" "MAX6816EUS_T" (at 0.762 -11.176 0)
-      (effects (font (size 1.524 1.524)) (justify left))
-    )
-    (property "Footprint" "digikey-footprints:SOT-143-4" (at 5.08 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX6816-MAX6818.pdf" (at 5.08 7.62 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Digi-Key_PN" "MAX6816EUS+TCT-ND" (at 5.08 10.16 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "MPN" "MAX6816EUS+T" (at 5.08 12.7 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Category" "Integrated Circuits (ICs)" (at 5.08 15.24 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Family" "Interface - Specialized" (at 5.08 17.78 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Datasheet_Link" "https://datasheets.maximintegrated.com/en/ds/MAX6816-MAX6818.pdf" (at 5.08 20.32 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Detail_Page" "/product-detail/en/maxim-integrated/MAX6816EUS-T/MAX6816EUS-TCT-ND/774155" (at 5.08 22.86 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Description" "IC DEBOUNCER SWITCH SGL SOT143-4" (at 5.08 25.4 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Manufacturer" "Maxim Integrated" (at 5.08 27.94 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Status" "Active" (at 5.08 30.48 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "ki_keywords" "MAX6816EUS+TCT-ND" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "IC DEBOUNCER SWITCH SGL SOT143-4" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "MAX6816EUS_T_0_1"
-      (rectangle (start -5.08 0) (end 5.08 -10.16)
-        (stroke (width 0) (type default))
-        (fill (type background))
-      )
-    )
-    (symbol "MAX6816EUS_T_1_1"
-      (pin power_in line (at 0 -12.7 90) (length 2.54)
-        (name "GND" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin input line (at -7.62 -5.08 0) (length 2.54)
-        (name "IN" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin output line (at 7.62 -5.08 180) (length 2.54)
-        (name "OUT" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at 0 2.54 270) (length 2.54)
-        (name "VCC" (effects (font (size 1.27 1.27))))
-        (number "4" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
+(kicad_symbol_lib
+	(version 20231120)
+	(generator "kicad_symbol_editor")
+	(generator_version "8.0")
+	(symbol "MAX6816EUS_T"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at -5.08 1.016 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAX6816EUS_T"
+			(at 0.762 -11.176 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "digikey-footprints:SOT-143-4"
+			(at 5.08 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX6816-MAX6818.pdf"
+			(at 5.08 7.62 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "IC DEBOUNCER SWITCH SGL SOT143-4"
+			(at 5.08 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "MAX6816EUS+TCT-ND"
+			(at 5.08 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MAX6816EUS+T"
+			(at 5.08 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Integrated Circuits (ICs)"
+			(at 5.08 15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "Interface - Specialized"
+			(at 5.08 17.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "https://datasheets.maximintegrated.com/en/ds/MAX6816-MAX6818.pdf"
+			(at 5.08 20.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/maxim-integrated/MAX6816EUS-T/MAX6816EUS-TCT-ND/774155"
+			(at 5.08 22.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Maxim Integrated"
+			(at 5.08 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "MAX6816EUS+TCT-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "MAX6816EUS_T_0_1"
+			(rectangle
+				(start -5.08 0)
+				(end 5.08 -10.16)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "MAX6816EUS_T_1_1"
+			(pin power_in line
+				(at 0 -12.7 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 -5.08 0)
+				(length 2.54)
+				(name "IN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 7.62 -5.08 180)
+				(length 2.54)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 2.54 270)
+				(length 2.54)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 )

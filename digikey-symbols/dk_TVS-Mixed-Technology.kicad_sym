@@ -1,81 +1,272 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "SN65220DBVR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "TVS" (at -2.54 6.35 0)
-      (effects (font (size 1.524 1.524)) (justify left))
-    )
-    (property "Value" "SN65220DBVR" (at 7.62 0 90)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Footprint" "digikey-footprints:SOT-23-6" (at 5.08 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Datasheet" "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn75240" (at 5.08 7.62 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Digi-Key_PN" "296-9694-1-ND" (at 5.08 10.16 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "MPN" "SN65220DBVR" (at 5.08 12.7 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Category" "Circuit Protection" (at 5.08 15.24 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Family" "TVS - Mixed Technology" (at 5.08 17.78 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Datasheet_Link" "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn75240" (at 5.08 20.32 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Detail_Page" "/product-detail/en/texas-instruments/SN65220DBVR/296-9694-1-ND/477287" (at 5.08 22.86 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Description" "IC SINGLE USB PORT TVS SOT-23-6" (at 5.08 25.4 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Manufacturer" "Texas Instruments" (at 5.08 27.94 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Status" "Active" (at 5.08 30.48 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "ki_keywords" "296-9694-1-ND" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "IC SINGLE USB PORT TVS SOT-23-6" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "SN65220DBVR_0_1"
-      (rectangle (start -2.54 5.08) (end 5.08 -7.62)
-        (stroke (width 0) (type default))
-        (fill (type background))
-      )
-    )
-    (symbol "SN65220DBVR_1_1"
-      (pin no_connect line (at 5.08 2.54 180) (length 2.54) hide
-        (name "NC" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at 0 -10.16 90) (length 2.54)
-        (name "GND" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin no_connect line (at 5.08 0 180) (length 2.54) hide
-        (name "NC" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
-      )
-      (pin input line (at -5.08 0 0) (length 2.54)
-        (name "B" (effects (font (size 1.27 1.27))))
-        (number "4" (effects (font (size 1.27 1.27))))
-      )
-      (pin power_in line (at 2.54 -10.16 90) (length 2.54)
-        (name "GND" (effects (font (size 1.27 1.27))))
-        (number "5" (effects (font (size 1.27 1.27))))
-      )
-      (pin input line (at -5.08 2.54 0) (length 2.54)
-        (name "A" (effects (font (size 1.27 1.27))))
-        (number "6" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
+(kicad_symbol_lib
+	(version 20231120)
+	(generator "kicad_symbol_editor")
+	(generator_version "8.0")
+	(symbol "SN65220DBVR"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "TVS"
+			(at -2.54 6.35 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SN65220DBVR"
+			(at 7.62 0 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "digikey-footprints:SOT-23-6"
+			(at 5.08 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn75240"
+			(at 5.08 7.62 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "IC SINGLE USB PORT TVS SOT-23-6"
+			(at 5.08 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "296-9694-1-ND"
+			(at 5.08 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SN65220DBVR"
+			(at 5.08 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Circuit Protection"
+			(at 5.08 15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "TVS - Mixed Technology"
+			(at 5.08 17.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn75240"
+			(at 5.08 20.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/texas-instruments/SN65220DBVR/296-9694-1-ND/477287"
+			(at 5.08 22.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 5.08 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "296-9694-1-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "SN65220DBVR_0_1"
+			(rectangle
+				(start -2.54 5.08)
+				(end 5.08 -7.62)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "SN65220DBVR_1_1"
+			(pin no_connect line
+				(at 5.08 2.54 180)
+				(length 2.54) hide
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -10.16 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 5.08 0 180)
+				(length 2.54) hide
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 0 0)
+				(length 2.54)
+				(name "B"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 2.54 -10.16 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -5.08 2.54 0)
+				(length 2.54)
+				(name "A"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 )

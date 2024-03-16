@@ -1,561 +1,1337 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "BAT54C-7-F" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
-    (property "Reference" "D" (at 0 6.35 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Value" "BAT54C-7-F" (at 0 -5.08 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Footprint" "digikey-footprints:SOT-23-3" (at 5.08 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds11005.pdf" (at 5.08 7.62 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Digi-Key_PN" "BAT54C-FDICT-ND" (at 5.08 10.16 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "MPN" "BAT54C-7-F" (at 5.08 12.7 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Category" "Discrete Semiconductor Products" (at 5.08 15.24 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Family" "Diodes - Rectifiers - Arrays" (at 5.08 17.78 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Datasheet_Link" "https://www.diodes.com/assets/Datasheets/ds11005.pdf" (at 5.08 20.32 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Detail_Page" "/product-detail/en/diodes-incorporated/BAT54C-7-F/BAT54C-FDICT-ND/717821" (at 5.08 22.86 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Description" "DIODE ARRAY SCHOTTKY 30V SOT23-3" (at 5.08 25.4 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Manufacturer" "Diodes Incorporated" (at 5.08 27.94 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Status" "Active" (at 5.08 30.48 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "ki_keywords" "BAT54C-FDICT-ND" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "DIODE ARRAY SCHOTTKY 30V SOT23-3" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "BAT54C-7-F_0_1"
-      (polyline
-        (pts
-          (xy 1.27 -1.27)
-          (xy 1.27 -3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 1.27 1.27)
-          (xy 1.27 3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -1.27 -1.27)
-          (xy -1.27 -3.81)
-          (xy 1.27 -2.54)
-          (xy -1.27 -1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-      (polyline
-        (pts
-          (xy -1.27 3.81)
-          (xy -1.27 1.27)
-          (xy 1.27 2.54)
-          (xy -1.27 3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-    )
-    (symbol "BAT54C-7-F_1_1"
-      (polyline
-        (pts
-          (xy 1.27 2.54)
-          (xy 3.81 2.54)
-          (xy 3.81 -2.54)
-          (xy 1.27 -2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (pin passive line (at -5.08 2.54 0) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at -5.08 -2.54 0) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 7.62 0 180) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
-  (symbol "BAT54C_Obsolete" (pin_names (offset 0.0254)) (in_bom yes) (on_board yes)
-    (property "Reference" "D" (at 0 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify bottom))
-    )
-    (property "Value" "BAT54C_Obsolete" (at 0 -5.08 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Footprint" "digikey-footprints:SOT-23-3" (at 5.08 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAT54(A,C,S).pdf" (at 5.08 7.62 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Digi-Key_PN" "BAT54CFSCT-ND" (at 5.08 10.16 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "MPN" "BAT54C" (at 5.08 12.7 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Category" "Discrete Semiconductor Products" (at 5.08 15.24 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Family" "Diodes - Rectifiers - Arrays" (at 5.08 17.78 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Datasheet_Link" "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAT54(A,C,S).pdf" (at 5.08 20.32 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Detail_Page" "/product-detail/en/on-semiconductor/BAT54C/BAT54CFSCT-ND/458929" (at 5.08 22.86 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Description" "DIODE ARRAY SCHOTTKY 30V SOT23-3" (at 5.08 25.4 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Manufacturer" "ON Semiconductor" (at 5.08 27.94 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Status" "Obsolete NonStock" (at 5.08 30.48 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "ki_keywords" "BAT54CFSCT-ND" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "DIODE ARRAY SCHOTTKY 30V SOT23-3" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "BAT54C_Obsolete_0_1"
-      (polyline
-        (pts
-          (xy 1.27 -1.27)
-          (xy 1.27 -3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 1.27 1.27)
-          (xy 1.27 3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -1.27 -1.27)
-          (xy -1.27 -3.81)
-          (xy 1.27 -2.54)
-          (xy -1.27 -1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-      (polyline
-        (pts
-          (xy -1.27 3.81)
-          (xy -1.27 1.27)
-          (xy 1.27 2.54)
-          (xy -1.27 3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-    )
-    (symbol "BAT54C_Obsolete_1_1"
-      (polyline
-        (pts
-          (xy 1.27 2.54)
-          (xy 3.81 2.54)
-          (xy 3.81 -2.54)
-          (xy 1.27 -2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (pin passive line (at -5.08 2.54 0) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at -5.08 -2.54 0) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 7.62 0 180) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
-  (symbol "BAT54S-7-F" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "D" (at 0 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify bottom))
-    )
-    (property "Value" "BAT54S-7-F" (at 0 -5.08 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Footprint" "digikey-footprints:SOT-23-3" (at 5.08 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds11005.pdf" (at 5.08 7.62 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Digi-Key_PN" "BAT54S-FDICT-ND" (at 5.08 10.16 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "MPN" "BAT54S-7-F" (at 5.08 12.7 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Category" "Discrete Semiconductor Products" (at 5.08 15.24 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Family" "Diodes - Rectifiers - Arrays" (at 5.08 17.78 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Datasheet_Link" "https://www.diodes.com/assets/Datasheets/ds11005.pdf" (at 5.08 20.32 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Detail_Page" "/product-detail/en/diodes-incorporated/BAT54S-7-F/BAT54S-FDICT-ND/755493" (at 5.08 22.86 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Description" "DIODE ARRAY SCHOTTKY 30V SOT23-3" (at 5.08 25.4 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Manufacturer" "Diodes Incorporated" (at 5.08 27.94 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Status" "Active" (at 5.08 30.48 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "ki_keywords" "BAT54S-FDICT-ND" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "DIODE ARRAY SCHOTTKY 30V SOT23-3" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "BAT54S-7-F_0_1"
-      (polyline
-        (pts
-          (xy -1.27 -1.27)
-          (xy -1.27 -3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 1.27 3.81)
-          (xy 1.27 1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -1.27 3.81)
-          (xy -1.27 1.27)
-          (xy 1.27 2.54)
-          (xy -1.27 3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-      (polyline
-        (pts
-          (xy 1.27 -1.27)
-          (xy 1.27 -3.81)
-          (xy -1.27 -2.54)
-          (xy 1.27 -1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-    )
-    (symbol "BAT54S-7-F_1_1"
-      (polyline
-        (pts
-          (xy 1.27 2.54)
-          (xy 3.81 2.54)
-          (xy 3.81 -2.54)
-          (xy 1.27 -2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (pin passive line (at -5.08 2.54 0) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at -5.08 -2.54 0) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 7.62 0 180) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
-  (symbol "BAT54SLT1G" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "D" (at 0 5.08 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "BAT54SLT1G" (at 0 -5.08 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "digikey-footprints:SOT-23-3" (at 5.08 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Datasheet" "http://www.onsemi.com/pub/Collateral/BAT54SLT1-D.PDF" (at 5.08 7.62 90)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Digi-Key_PN" "BAT54SLT1GOSCT-ND" (at 5.08 10.16 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "MPN" "BAT54SLT1G" (at 5.08 12.7 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Category" "Discrete Semiconductor Products" (at 5.08 15.24 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Family" "Diodes - Rectifiers - Arrays" (at 5.08 17.78 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Datasheet_Link" "http://www.onsemi.com/pub/Collateral/BAT54SLT1-D.PDF" (at 5.08 20.32 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Detail_Page" "/product-detail/en/on-semiconductor/BAT54SLT1G/BAT54SLT1GOSCT-ND/917811" (at 5.08 22.86 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Description" "DIODE ARRAY SCHOTTKY 30V SOT23-3" (at 5.08 25.4 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Manufacturer" "ON Semiconductor" (at 5.08 27.94 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Status" "Active" (at 5.08 30.48 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "ki_keywords" "BAT54SLT1GOSCT-ND" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "DIODE ARRAY SCHOTTKY 30V SOT23-3" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "BAT54SLT1G_0_1"
-      (polyline
-        (pts
-          (xy 0 -1.27)
-          (xy 0 -3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 1.905 1.27)
-          (xy 1.905 3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.54 -2.54)
-          (xy 1.905 -2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.54 -2.54)
-          (xy 2.54 2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.54 2.54)
-          (xy 1.905 2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 0 1.27)
-          (xy 0 3.81)
-          (xy 1.905 2.54)
-          (xy 0 1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-      (polyline
-        (pts
-          (xy 1.905 -3.81)
-          (xy 1.905 -1.27)
-          (xy 0 -2.54)
-          (xy 1.905 -3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-    )
-    (symbol "BAT54SLT1G_1_1"
-      (pin passive line (at -2.54 2.54 0) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at -2.54 -2.54 0) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 5.08 0 180) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
-  (symbol "BAV99_Obsolete" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "D" (at 1.27 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify bottom))
-    )
-    (property "Value" "BAV99_Obsolete" (at 1.27 -5.08 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Footprint" "digikey-footprints:SOT-23-3" (at 5.08 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAV99.pdf" (at 5.08 7.62 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Digi-Key_PN" "BAV99FSCT-ND" (at 5.08 10.16 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "MPN" "BAV99" (at 5.08 12.7 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Category" "Discrete Semiconductor Products" (at 5.08 15.24 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Family" "Diodes - Rectifiers - Arrays" (at 5.08 17.78 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Datasheet_Link" "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAV99.pdf" (at 5.08 20.32 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Detail_Page" "/product-detail/en/on-semiconductor/BAV99/BAV99FSCT-ND/458933" (at 5.08 22.86 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Description" "DIODE ARRAY GP 70V 200MA SOT23-3" (at 5.08 25.4 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Manufacturer" "ON Semiconductor" (at 5.08 27.94 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Status" "Obsolete NonStock" (at 5.08 30.48 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "ki_keywords" "BAV99FSCT-ND" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "DIODE ARRAY GP 70V 200MA SOT23-3" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "BAV99_Obsolete_0_1"
-      (polyline
-        (pts
-          (xy -1.27 -1.27)
-          (xy -1.27 -3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 1.27 3.81)
-          (xy 1.27 1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -1.27 3.81)
-          (xy -1.27 1.27)
-          (xy 1.27 2.54)
-          (xy -1.27 3.81)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-      (polyline
-        (pts
-          (xy 1.27 -1.27)
-          (xy 1.27 -3.81)
-          (xy -1.27 -2.54)
-          (xy 1.27 -1.27)
-        )
-        (stroke (width 0) (type default))
-        (fill (type outline))
-      )
-    )
-    (symbol "BAV99_Obsolete_1_1"
-      (polyline
-        (pts
-          (xy 1.27 2.54)
-          (xy 3.81 2.54)
-          (xy 3.81 -2.54)
-          (xy 1.27 -2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (pin passive line (at -5.08 2.54 0) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at -5.08 -2.54 0) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 7.62 0 180) (length 3.81)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
+(kicad_symbol_lib
+	(version 20231120)
+	(generator "kicad_symbol_editor")
+	(generator_version "8.0")
+	(symbol "BAT54C-7-F"
+		(pin_names
+			(offset 0.0254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0 6.35 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "BAT54C-7-F"
+			(at 0 -5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "digikey-footprints:SOT-23-3"
+			(at 5.08 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds11005.pdf"
+			(at 5.08 7.62 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "DIODE ARRAY SCHOTTKY 30V SOT23-3"
+			(at 5.08 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "BAT54C-FDICT-ND"
+			(at 5.08 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BAT54C-7-F"
+			(at 5.08 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Discrete Semiconductor Products"
+			(at 5.08 15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "Diodes - Rectifiers - Arrays"
+			(at 5.08 17.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "https://www.diodes.com/assets/Datasheets/ds11005.pdf"
+			(at 5.08 20.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/diodes-incorporated/BAT54C-7-F/BAT54C-FDICT-ND/717821"
+			(at 5.08 22.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 5.08 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "BAT54C-FDICT-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "BAT54C-7-F_0_1"
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 1.27 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 1.27) (xy 1.27 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.27) (xy -1.27 -3.81) (xy 1.27 -2.54) (xy -1.27 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.81) (xy -1.27 1.27) (xy 1.27 2.54) (xy -1.27 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+		)
+		(symbol "BAT54C-7-F_1_1"
+			(polyline
+				(pts
+					(xy 1.27 2.54) (xy 3.81 2.54) (xy 3.81 -2.54) (xy 1.27 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "BAT54C_Obsolete"
+		(pin_names
+			(offset 0.0254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "BAT54C_Obsolete"
+			(at 0 -5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "digikey-footprints:SOT-23-3"
+			(at 5.08 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAT54(A,C,S).pdf"
+			(at 5.08 7.62 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "DIODE ARRAY SCHOTTKY 30V SOT23-3"
+			(at 5.08 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "BAT54CFSCT-ND"
+			(at 5.08 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BAT54C"
+			(at 5.08 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Discrete Semiconductor Products"
+			(at 5.08 15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "Diodes - Rectifiers - Arrays"
+			(at 5.08 17.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAT54(A,C,S).pdf"
+			(at 5.08 20.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/BAT54C/BAT54CFSCT-ND/458929"
+			(at 5.08 22.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ON Semiconductor"
+			(at 5.08 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Obsolete NonStock"
+			(at 5.08 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "BAT54CFSCT-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "BAT54C_Obsolete_0_1"
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 1.27 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 1.27) (xy 1.27 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 -1.27) (xy -1.27 -3.81) (xy 1.27 -2.54) (xy -1.27 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.81) (xy -1.27 1.27) (xy 1.27 2.54) (xy -1.27 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+		)
+		(symbol "BAT54C_Obsolete_1_1"
+			(polyline
+				(pts
+					(xy 1.27 2.54) (xy 3.81 2.54) (xy 3.81 -2.54) (xy 1.27 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "BAT54S-7-F"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "BAT54S-7-F"
+			(at 0 -5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "digikey-footprints:SOT-23-3"
+			(at 5.08 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds11005.pdf"
+			(at 5.08 7.62 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "DIODE ARRAY SCHOTTKY 30V SOT23-3"
+			(at 5.08 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "BAT54S-FDICT-ND"
+			(at 5.08 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BAT54S-7-F"
+			(at 5.08 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Discrete Semiconductor Products"
+			(at 5.08 15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "Diodes - Rectifiers - Arrays"
+			(at 5.08 17.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "https://www.diodes.com/assets/Datasheets/ds11005.pdf"
+			(at 5.08 20.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/diodes-incorporated/BAT54S-7-F/BAT54S-FDICT-ND/755493"
+			(at 5.08 22.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 5.08 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "BAT54S-FDICT-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "BAT54S-7-F_0_1"
+			(polyline
+				(pts
+					(xy -1.27 -1.27) (xy -1.27 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 3.81) (xy 1.27 1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.81) (xy -1.27 1.27) (xy 1.27 2.54) (xy -1.27 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 1.27 -3.81) (xy -1.27 -2.54) (xy 1.27 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+		)
+		(symbol "BAT54S-7-F_1_1"
+			(polyline
+				(pts
+					(xy 1.27 2.54) (xy 3.81 2.54) (xy 3.81 -2.54) (xy 1.27 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "BAT54SLT1G"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAT54SLT1G"
+			(at 0 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "digikey-footprints:SOT-23-3"
+			(at 5.08 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.onsemi.com/pub/Collateral/BAT54SLT1-D.PDF"
+			(at 5.08 7.62 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "DIODE ARRAY SCHOTTKY 30V SOT23-3"
+			(at 5.08 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "BAT54SLT1GOSCT-ND"
+			(at 5.08 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BAT54SLT1G"
+			(at 5.08 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Discrete Semiconductor Products"
+			(at 5.08 15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "Diodes - Rectifiers - Arrays"
+			(at 5.08 17.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "http://www.onsemi.com/pub/Collateral/BAT54SLT1-D.PDF"
+			(at 5.08 20.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/BAT54SLT1G/BAT54SLT1GOSCT-ND/917811"
+			(at 5.08 22.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ON Semiconductor"
+			(at 5.08 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "BAT54SLT1GOSCT-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "BAT54SLT1G_0_1"
+			(polyline
+				(pts
+					(xy 0 -1.27) (xy 0 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.905 1.27) (xy 1.905 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54) (xy 1.905 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 -2.54) (xy 2.54 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 2.54) (xy 1.905 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 1.27) (xy 0 3.81) (xy 1.905 2.54) (xy 0 1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.905 -3.81) (xy 1.905 -1.27) (xy 0 -2.54) (xy 1.905 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+		)
+		(symbol "BAT54SLT1G_1_1"
+			(pin passive line
+				(at -2.54 2.54 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -2.54 -2.54 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
+	(symbol "BAV99_Obsolete"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "D"
+			(at 1.27 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "BAV99_Obsolete"
+			(at 1.27 -5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "digikey-footprints:SOT-23-3"
+			(at 5.08 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAV99.pdf"
+			(at 5.08 7.62 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "DIODE ARRAY GP 70V 200MA SOT23-3"
+			(at 5.08 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "BAV99FSCT-ND"
+			(at 5.08 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BAV99"
+			(at 5.08 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Discrete Semiconductor Products"
+			(at 5.08 15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "Diodes - Rectifiers - Arrays"
+			(at 5.08 17.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "https://media.digikey.com/pdf/Data%20Sheets/ON%20Semiconductor%20PDFs/BAV99.pdf"
+			(at 5.08 20.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/on-semiconductor/BAV99/BAV99FSCT-ND/458933"
+			(at 5.08 22.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ON Semiconductor"
+			(at 5.08 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Obsolete NonStock"
+			(at 5.08 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "BAV99FSCT-ND"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "BAV99_Obsolete_0_1"
+			(polyline
+				(pts
+					(xy -1.27 -1.27) (xy -1.27 -3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 3.81) (xy 1.27 1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.27 3.81) (xy -1.27 1.27) (xy 1.27 2.54) (xy -1.27 3.81)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 1.27 -1.27) (xy 1.27 -3.81) (xy -1.27 -2.54) (xy 1.27 -1.27)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+		)
+		(symbol "BAV99_Obsolete_1_1"
+			(polyline
+				(pts
+					(xy 1.27 2.54) (xy 3.81 2.54) (xy 3.81 -2.54) (xy 1.27 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 7.62 0 180)
+				(length 3.81)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 )

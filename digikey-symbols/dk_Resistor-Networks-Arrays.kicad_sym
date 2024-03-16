@@ -1,333 +1,558 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "4609X-101-103LF" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "RN" (at -6.858 20.574 0)
-      (effects (font (size 1.524 1.524)) (justify left))
-    )
-    (property "Value" "4609X-101-103LF" (at 0 -20.828 0)
-      (effects (font (size 1.524 1.524)))
-    )
-    (property "Footprint" "digikey-footprints:SIP-9_P2.54mm" (at 5.08 5.08 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf" (at 5.08 7.62 90)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Digi-Key_PN" "4609X-101-103LF-ND" (at 5.08 10.16 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "MPN" "4609X-101-103LF" (at 5.08 12.7 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Category" "Resistors" (at 5.08 15.24 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Family" "Resistor Networks, Arrays" (at 5.08 17.78 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Datasheet_Link" "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf" (at 5.08 20.32 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "DK_Detail_Page" "/product-detail/en/bourns-inc/4609X-101-103LF/4609X-101-103LF-ND/2634616" (at 5.08 22.86 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Description" "RES ARRAY 8 RES 10K OHM 9SIP" (at 5.08 25.4 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Manufacturer" "Bourns Inc." (at 5.08 27.94 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "Status" "Active" (at 5.08 30.48 0)
-      (effects (font (size 1.524 1.524)) (justify left) hide)
-    )
-    (property "ki_keywords" "4609X-101-103LF-ND 4600X" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "RES ARRAY 8 RES 10K OHM 9SIP" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "4609X-101-103LF_0_1"
-      (rectangle (start -6.604 -19.685) (end 6.096 19.685)
-        (stroke (width 0) (type default))
-        (fill (type background))
-      )
-      (polyline
-        (pts
-          (xy -6.604 0)
-          (xy -4.699 0)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -4.699 -17.78)
-          (xy -4.699 17.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-    )
-    (symbol "4609X-101-103LF_1_1"
-      (polyline
-        (pts
-          (xy 6.096 -17.78)
-          (xy 4.191 -17.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 6.096 -12.7)
-          (xy 4.191 -12.7)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 6.096 -7.62)
-          (xy 4.191 -7.62)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 6.096 -2.54)
-          (xy 4.191 -2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 6.096 2.54)
-          (xy 4.191 2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 6.096 7.62)
-          (xy 4.191 7.62)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 6.096 12.7)
-          (xy 4.191 12.7)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 6.096 17.78)
-          (xy 4.191 17.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 4.191 -17.78)
-          (xy 3.556 -19.05)
-          (xy 2.921 -16.51)
-          (xy 2.286 -19.05)
-          (xy 1.651 -16.51)
-          (xy 1.016 -19.05)
-          (xy 0.381 -16.51)
-          (xy -0.254 -19.05)
-          (xy -0.889 -16.51)
-          (xy -1.524 -19.05)
-          (xy -2.159 -16.51)
-          (xy -2.794 -19.05)
-          (xy -3.429 -17.78)
-          (xy -4.699 -17.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 4.191 -12.7)
-          (xy 3.556 -13.97)
-          (xy 2.921 -11.43)
-          (xy 2.286 -13.97)
-          (xy 1.651 -11.43)
-          (xy 1.016 -13.97)
-          (xy 0.381 -11.43)
-          (xy -0.254 -13.97)
-          (xy -0.889 -11.43)
-          (xy -1.524 -13.97)
-          (xy -2.159 -11.43)
-          (xy -2.794 -13.97)
-          (xy -3.429 -12.7)
-          (xy -4.699 -12.7)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 4.191 -7.62)
-          (xy 3.556 -8.89)
-          (xy 2.921 -6.35)
-          (xy 2.286 -8.89)
-          (xy 1.651 -6.35)
-          (xy 1.016 -8.89)
-          (xy 0.381 -6.35)
-          (xy -0.254 -8.89)
-          (xy -0.889 -6.35)
-          (xy -1.524 -8.89)
-          (xy -2.159 -6.35)
-          (xy -2.794 -8.89)
-          (xy -3.429 -7.62)
-          (xy -4.699 -7.62)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 4.191 -2.54)
-          (xy 3.556 -3.81)
-          (xy 2.921 -1.27)
-          (xy 2.286 -3.81)
-          (xy 1.651 -1.27)
-          (xy 1.016 -3.81)
-          (xy 0.381 -1.27)
-          (xy -0.254 -3.81)
-          (xy -0.889 -1.27)
-          (xy -1.524 -3.81)
-          (xy -2.159 -1.27)
-          (xy -2.794 -3.81)
-          (xy -3.429 -2.54)
-          (xy -4.699 -2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 4.191 2.54)
-          (xy 3.556 1.27)
-          (xy 2.921 3.81)
-          (xy 2.286 1.27)
-          (xy 1.651 3.81)
-          (xy 1.016 1.27)
-          (xy 0.381 3.81)
-          (xy -0.254 1.27)
-          (xy -0.889 3.81)
-          (xy -1.524 1.27)
-          (xy -2.159 3.81)
-          (xy -2.794 1.27)
-          (xy -3.429 2.54)
-          (xy -4.699 2.54)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 4.191 7.62)
-          (xy 3.556 6.35)
-          (xy 2.921 8.89)
-          (xy 2.286 6.35)
-          (xy 1.651 8.89)
-          (xy 1.016 6.35)
-          (xy 0.381 8.89)
-          (xy -0.254 6.35)
-          (xy -0.889 8.89)
-          (xy -1.524 6.35)
-          (xy -2.159 8.89)
-          (xy -2.794 6.35)
-          (xy -3.429 7.62)
-          (xy -4.699 7.62)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 4.191 12.7)
-          (xy 3.556 11.43)
-          (xy 2.921 13.97)
-          (xy 2.286 11.43)
-          (xy 1.651 13.97)
-          (xy 1.016 11.43)
-          (xy 0.381 13.97)
-          (xy -0.254 11.43)
-          (xy -0.889 13.97)
-          (xy -1.524 11.43)
-          (xy -2.159 13.97)
-          (xy -2.794 11.43)
-          (xy -3.429 12.7)
-          (xy -4.699 12.7)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 4.191 17.78)
-          (xy 3.556 16.51)
-          (xy 2.921 19.05)
-          (xy 2.286 16.51)
-          (xy 1.651 19.05)
-          (xy 1.016 16.51)
-          (xy 0.381 19.05)
-          (xy -0.254 16.51)
-          (xy -0.889 19.05)
-          (xy -1.524 16.51)
-          (xy -2.159 19.05)
-          (xy -2.794 16.51)
-          (xy -3.429 17.78)
-          (xy -4.699 17.78)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (pin passive line (at -9.144 0 0) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 8.636 -17.78 180) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "2" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 8.636 -12.7 180) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "3" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 8.636 -7.62 180) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "4" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 8.636 -2.54 180) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "5" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 8.636 2.54 180) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "6" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 8.636 7.62 180) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "7" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 8.636 12.7 180) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "8" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at 8.636 17.78 180) (length 2.54)
-        (name "~" (effects (font (size 1.27 1.27))))
-        (number "9" (effects (font (size 1.27 1.27))))
-      )
-    )
-  )
+(kicad_symbol_lib
+	(version 20231120)
+	(generator "kicad_symbol_editor")
+	(generator_version "8.0")
+	(symbol "4609X-101-103LF"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "RN"
+			(at -6.858 20.574 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4609X-101-103LF"
+			(at 0 -20.828 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "digikey-footprints:SIP-9_P2.54mm"
+			(at 5.08 5.08 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf"
+			(at 5.08 7.62 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES ARRAY 8 RES 10K OHM 9SIP"
+			(at 5.08 25.4 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "4609X-101-103LF-ND"
+			(at 5.08 10.16 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "4609X-101-103LF"
+			(at 5.08 12.7 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Resistors"
+			(at 5.08 15.24 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "Resistor Networks, Arrays"
+			(at 5.08 17.78 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf"
+			(at 5.08 20.32 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/bourns-inc/4609X-101-103LF/4609X-101-103LF-ND/2634616"
+			(at 5.08 22.86 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Bourns Inc."
+			(at 5.08 27.94 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 5.08 30.48 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "4609X-101-103LF-ND 4600X"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "4609X-101-103LF_0_1"
+			(rectangle
+				(start -6.604 -19.685)
+				(end 6.096 19.685)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy -6.604 0) (xy -4.699 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -4.699 -17.78) (xy -4.699 17.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "4609X-101-103LF_1_1"
+			(polyline
+				(pts
+					(xy 6.096 -17.78) (xy 4.191 -17.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 -12.7) (xy 4.191 -12.7)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 -7.62) (xy 4.191 -7.62)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 -2.54) (xy 4.191 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 2.54) (xy 4.191 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 7.62) (xy 4.191 7.62)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 12.7) (xy 4.191 12.7)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 6.096 17.78) (xy 4.191 17.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.191 -17.78) (xy 3.556 -19.05) (xy 2.921 -16.51) (xy 2.286 -19.05) (xy 1.651 -16.51) (xy 1.016 -19.05)
+					(xy 0.381 -16.51) (xy -0.254 -19.05) (xy -0.889 -16.51) (xy -1.524 -19.05) (xy -2.159 -16.51) (xy -2.794 -19.05)
+					(xy -3.429 -17.78) (xy -4.699 -17.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.191 -12.7) (xy 3.556 -13.97) (xy 2.921 -11.43) (xy 2.286 -13.97) (xy 1.651 -11.43) (xy 1.016 -13.97)
+					(xy 0.381 -11.43) (xy -0.254 -13.97) (xy -0.889 -11.43) (xy -1.524 -13.97) (xy -2.159 -11.43) (xy -2.794 -13.97)
+					(xy -3.429 -12.7) (xy -4.699 -12.7)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.191 -7.62) (xy 3.556 -8.89) (xy 2.921 -6.35) (xy 2.286 -8.89) (xy 1.651 -6.35) (xy 1.016 -8.89)
+					(xy 0.381 -6.35) (xy -0.254 -8.89) (xy -0.889 -6.35) (xy -1.524 -8.89) (xy -2.159 -6.35) (xy -2.794 -8.89)
+					(xy -3.429 -7.62) (xy -4.699 -7.62)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.191 -2.54) (xy 3.556 -3.81) (xy 2.921 -1.27) (xy 2.286 -3.81) (xy 1.651 -1.27) (xy 1.016 -3.81)
+					(xy 0.381 -1.27) (xy -0.254 -3.81) (xy -0.889 -1.27) (xy -1.524 -3.81) (xy -2.159 -1.27) (xy -2.794 -3.81)
+					(xy -3.429 -2.54) (xy -4.699 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.191 2.54) (xy 3.556 1.27) (xy 2.921 3.81) (xy 2.286 1.27) (xy 1.651 3.81) (xy 1.016 1.27)
+					(xy 0.381 3.81) (xy -0.254 1.27) (xy -0.889 3.81) (xy -1.524 1.27) (xy -2.159 3.81) (xy -2.794 1.27)
+					(xy -3.429 2.54) (xy -4.699 2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.191 7.62) (xy 3.556 6.35) (xy 2.921 8.89) (xy 2.286 6.35) (xy 1.651 8.89) (xy 1.016 6.35)
+					(xy 0.381 8.89) (xy -0.254 6.35) (xy -0.889 8.89) (xy -1.524 6.35) (xy -2.159 8.89) (xy -2.794 6.35)
+					(xy -3.429 7.62) (xy -4.699 7.62)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.191 12.7) (xy 3.556 11.43) (xy 2.921 13.97) (xy 2.286 11.43) (xy 1.651 13.97) (xy 1.016 11.43)
+					(xy 0.381 13.97) (xy -0.254 11.43) (xy -0.889 13.97) (xy -1.524 11.43) (xy -2.159 13.97) (xy -2.794 11.43)
+					(xy -3.429 12.7) (xy -4.699 12.7)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 4.191 17.78) (xy 3.556 16.51) (xy 2.921 19.05) (xy 2.286 16.51) (xy 1.651 19.05) (xy 1.016 16.51)
+					(xy 0.381 19.05) (xy -0.254 16.51) (xy -0.889 19.05) (xy -1.524 16.51) (xy -2.159 19.05) (xy -2.794 16.51)
+					(xy -3.429 17.78) (xy -4.699 17.78)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -9.144 0 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 8.636 -17.78 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 8.636 -12.7 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 8.636 -7.62 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 8.636 -2.54 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 8.636 2.54 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 8.636 7.62 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 8.636 12.7 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 8.636 17.78 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+	)
 )
